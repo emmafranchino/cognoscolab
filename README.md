@@ -1,13 +1,13 @@
 # Cognoscolab projects
 
-## Scripts
+## Scripts folder
 In this folder you can find all the scripts used for the analysis (the same used across all projects). There are 4 files:
 1. bfmn_free_associations.ipynb --> it creates behavioural forma mentis networks (from association and valence tasks)
 2. correlogram.r --> it builds some correlogram (for the math_anxiety_LLMs project). I might change it/delete it
 3. mas_it_analysis.ipynb --> it groups the mas-it results by factor and divide the sample in high and low anxiety population groups
 4. tfmn_free_text.ipynb --> it builds textual forma mentis networks from the free text task
 
-## Structure of the projects
+## Structure of each projects
 ### data
 It containes the raw data of each sample group (e.g. raw data of 2023 humans). One can find multiple files, sotred in folders or a single file, depending on how th data was collected. 
 
@@ -24,7 +24,8 @@ Here all the outputs are stored:
 
 
 ## rassereno
-**Project of interest**
+**!!Project of interest!!** 
+
 Here we extract and analysed some data collected in 2024 (via excel files) and 2025 (via Qualtrics).
 
 
