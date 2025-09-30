@@ -478,47 +478,6 @@ student_exp2_013,matematico/a,2,numeri,2,intelligenza,5,,
 student_exp2_013,algoritmo,3,ordine,4,controllo,4,,
 student_exp2_013,programmare,5,piano,4,tabella,4,,
 student_exp2_013,equazione,2,matematica,2,difficoltà,2,,
-student_exp2_014,tecnologia,4,progresso,4,uomo,3,utilità,5
-student_exp2_014,matematica,3,operazioni,3,elementi,4,,3
-student_exp2_014,ingegneria,4,fisica,3,leggi,3,,
-student_exp2_014,biologia,4,essere vivente,4,vita,5,atomi,3
-student_exp2_014,fisica,3,leggi,3,oggetti,3,forze,3
-student_exp2_014,statistica,4,popolazione,4,fenomeno,4,media,4
-student_exp2_014,scadenza,1,tempo,3,limite,3,,
-student_exp2_014,classe,3,studenti,3,unità,3,,
-student_exp2_014,esame,2,ansia,1,esito,3,,
-student_exp2_014,successo,5,felicità,5,obiettivo,4,,
-student_exp2_014,intelligenza,5,capacità,5,efficienza,5,,
-student_exp2_014,studente/ssa,4,individuo,3,,,,
-student_exp2_014,genitore,5,guida,5,sostegno,5,comprensione,4
-student_exp2_014,compito,2,verificare,3,mettersi alla prova,4,,
-student_exp2_014,numeri,3,materie scientifiche,3,calcolo,3,,
-student_exp2_014,calcolo,3,operazione,3,numeri,3,quantificazione,4
-student_exp2_014,curiosità,4,sentimento,5,spinta,4,,
-student_exp2_014,cambio_di_piani,2,problem solving,4,vita,5,,
-student_exp2_014,tenere_traccia,4,seguire,4,,,,
-student_exp2_014,studiare,3,conoscenza,4,materia,3,,
-student_exp2_014,pianificare,4,organizzare,4,tempo,4,,
-student_exp2_014,rimandare,1,difficoltà,1,non affrontare,2,,
-student_exp2_014,fissare_un_obiettivo,4,determinazione,5,,,,
-student_exp2_014,memorizzare,4,mente,4,abilità,4,sviluppare,4
-student_exp2_014,programma,4,organizzazione,5,,,,
-student_exp2_014,mappa_concettuale,4,conoscenza,4,memorizzare,4,legami,4
-student_exp2_014,revisionare,4,controllare,4,,,,
-student_exp2_014,motivazione,5,spinta,5,determinazione,5,obiettivo,4
-student_exp2_014,sfida,4,obiettivo,5,provare,4,,
-student_exp2_014,importanza,4,grado,3,priorità,3,,
-student_exp2_014,sforzo,1,difficoltà,1,,,,
-student_exp2_014,confusione,2,disordine,2,mente,3,,
-student_exp2_014,problema,2,difficoltà,2,soluzione,4,,
-student_exp2_014,test_di_matematica,2,verifica,2,,,,
-student_exp2_014,ansia,2,blocco,1,annebbiamento,2,,
-student_exp2_014,lavagna,3,lezione,3,spiegazione,3,,
-student_exp2_014,soluzione,4,schema,3,benessere,5,,
-student_exp2_014,performance_in_matematica,3,utilità,4,,,,
-student_exp2_014,algoritmo,4,matematica,3,utilità,5,semplificazione,4
-student_exp2_014,programmare,4,velocizzare,4,,,,
-student_exp2_014,equazione,4,matematica,3,confronto,3,elementi,3
 student_exp2_015,tecnologia,4,computer,3,innovazione,4,futuro,4
 student_exp2_015,matematica,2,ansia,1,complicato,1,equazione,3
 student_exp2_015,ingegneria,2,facoltà,4,università,5,,
@@ -1290,44 +1249,6 @@ student_exp2_030,dimostrazione,3,matematica,3,fisica,3,coraggio,5
 student_exp2_030,matematico/a,3,professore,3,numeri,3,uomo,3
 student_exp2_030,algoritmo,3,informatico,3,matematica,3,,
 student_exp2_030,programmare,3,c++,3,python,3,java script,3
-student_exp2_031,tecnologia,4,computer,3,robot,4,internet,4
-student_exp2_031,matematica,4,numeri,3,geometria,4,blu,4
-student_exp2_031,ingegneria,3,tribunale,2,sanzioni,3,giustizia,5
-student_exp2_031,biologia,4,corpo,4,cellule,4,fotosintesi,5
-student_exp2_031,fisica,4,asteroide,4,spazio,5,gravità,4
-student_exp2_031,statistica,4,numeri,3,grafici,4,tendenze,4
-student_exp2_031,scadenza,4,latte,3,contratto,4,,
-student_exp2_031,classe,4,acqua,5,alunni,4,insegnanti,4
-student_exp2_031,esame,3,voto,4,studio,4,libri,4
-student_exp2_031,successo,4,soldi,3,auto realizzazione,5,,
-student_exp2_031,intelligenza,4,matematica,3,robot,3,animale,5
-student_exp2_031,studente/ssa,4,compagno,4,studio,3,percorso,5
-student_exp2_031,insegnante,4,verifiche,3,formazione,5,,
-student_exp2_031,genitore,5,coppia,4,mamma,5,papà,5
-student_exp2_031,compito,5,studio,4,impegno,5,libri,4
-student_exp2_031,numeri,3,matematica,4,calcolatrice,4,calcolo,2
-student_exp2_031,calcolo,4,calcolatrice,4,numeri,3,computer,4
-student_exp2_031,curiosità,5,scoperte,,,,,
-student_exp2_031,cambio_di_piani,3,improvvisavo,4,viaggio,5,,
-student_exp2_031,studiare,3,libri,3,scuola,4,,
-student_exp2_031,note,4,sonno,4,luna,4,pensieri,4
-student_exp2_031,pianificare,4,viaggio,5,meta,4,,
-student_exp2_031,rimandare,3,studio,3,sveglia,3,,4
-student_exp2_031,memorizzare,3,dati,3,nomi,4,,
-student_exp2_031,programma,3,tv,4,radio,4,,
-student_exp2_031,revisionare,3,macchina,4,meccanico,3,,
-student_exp2_031,concentrazione,4,cervello,4,studio,3,,
-student_exp2_031,sfida,4,sport,4,,,,
-student_exp2_031,distrazione,2,donna,4,,,,
-student_exp2_031,confusione,2,persone,4,testa,4,,
-student_exp2_031,fallimento,2,insuccesso,2,,,,
-student_exp2_031,ansia,2,stress,,,,,
-student_exp2_031,lavagna,3,gesso,3,,,,
-student_exp2_031,soluzione,4,matematica,3,,,,
-student_exp2_031,performance_in_matematica,1,scarsa,2,,,,
-student_exp2_031,dimostrazione,3,scienza,3,,,,
-student_exp2_031,matematico/a,4,scienziato,4,,,,
-student_exp2_031,programmare,2,computer,3,,,,
 student_exp2_032,tecnologia,4,novità,4,progresso,4,hacker,2
 student_exp2_032,matematica,3,difficoltà,3,incubo,2,fascino,5
 student_exp2_032,ingegneria,4,calcoli,3,strutture,5,laurea,4
@@ -1427,41 +1348,6 @@ student_exp2_033,matematico/a,3,matematica,3,asociale,1,,
 student_exp2_033,algoritmo,4,codice,4,programma,4,computer,4
 student_exp2_033,programmare,3,codice,4,,,,
 student_exp2_033,equazione,3,matematica,3,uguaglianza,4,,
-student_exp2_034,tecnologia,2,telefono,3,macchinario,4,computer,3
-student_exp2_034,matematica,2,equazione,2,operazione,2,blu,4
-student_exp2_034,ingegneria,3,progetto,4,meccanica,4,informatica,2
-student_exp2_034,biologia,4,essere umano,4,natura,4,studio,4
-student_exp2_034,fisica,1,ribrezzo,1,formule,2,insufficienze,1
-student_exp2_034,statistica,2,numeri,2,percentuali,2,studi,2
-student_exp2_034,scadenza,3,mese,3,compito,3,verifica,2
-student_exp2_034,classe,2,studenti,3,scuola,3,aula,3
-student_exp2_034,esame,2,giudizio,1,test,2,studio,3
-student_exp2_034,successo,5,vittoria,5,felice,4,soddisfazione,5
-student_exp2_034,intelligenza,5,io,5,successo,5,studio,3
-student_exp2_034,studente/ssa,3,io,5,studio,3,lavoro,3
-student_exp2_034,insegnante,3,stefania,5,sonia,5,daniele,5
-student_exp2_034,genitore,5,mamma,5,papà,5,amore,5
-student_exp2_034,compito,3,scuola,2,scadenza,2,dovere,3
-student_exp2_034,numeri,3,matematica,2,statistica,2,tabelline,4
-student_exp2_034,calcolo,3,studio,3,tempo,3,operazione,3
-student_exp2_034,curiosità,5,cultura,5,progresso,5,crescita,5
-student_exp2_034,cambio_di_piani,3,routine,5,indecisione,2,francesco,5
-student_exp2_034,tenere_traccia,3,controllare,4,monitorare,4,esperimento,3
-student_exp2_034,studiare,3,lavoro,3,necessario,4,fondamentale,4
-student_exp2_034,note,3,musica,4,scuola,3,punizione,2
-student_exp2_034,pianificare,4,io,5,organizzare,4,vita,5
-student_exp2_034,rimandare,3,procrastinare,3,studio,3,visita,3
-student_exp2_034,fissare_un_obiettivo,5,io,5,vita,5,tennis,5
-student_exp2_034,memorizzare,3,memoria,3,ricordo,3,studio,3
-student_exp2_034,programma,4,vita,5,tv,3,organizzare,4
-student_exp2_034,mappa_concettuale,4,esame,3,studio,3,organizzare,4
-student_exp2_034,revisionare,3,controllo,4,auto,3,test,3
-student_exp2_034,impegno,4,obbligo,3,,,,
-student_exp2_034,motivazione,4,tennis,5,vita,5,lavoro,3
-student_exp2_034,distrazione,3,donne,4,netflix,4,tennis,5
-student_exp2_034,sforzo,4,tennis,5,scuola,3,studio,3
-student_exp2_034,fallimento,1,tennis,,esami,3,,
-student_exp2_034,test_di_matematica,1,paura,1,,,,
 student_exp2_035,tecnologia,4,computer,4,applicazione,5,utilità,5
 student_exp2_035,matematica,4,numeri,4,calcolo,4,infinito,4
 student_exp2_035,ingegneria,3,macchine,2,tecnica,4,ragionamento,5
@@ -1562,45 +1448,6 @@ student_exp2_036,performance_in_matematica,2,bassa,2,demotivazione,2,errori,3
 student_exp2_036,dimostrazione,4,interesse,4,verità,4,approssimazione,3
 student_exp2_036,matematico/a,3,laureato/a,4,apatico/a,3,precisione,4
 student_exp2_036,algoritmo,,matematica,,calcolo,,formula,
-student_exp2_037,tecnologia,3,computer,4,innovazione,4,elettricità,4
-student_exp2_037,matematica,4,equazione,2,somma,5,radicale,3
-student_exp2_037,ingegneria,4,meccanica,3,aerospaziale,5,tecnologia,3
-student_exp2_037,biologia,4,scienza,5,cellula,3,potenziale,4
-student_exp2_037,fisica,3,forza,4,massa,4,peso,4
-student_exp2_037,statistica,4,dato,3,database,5,grafico,4
-student_exp2_037,scadenza,2,data,4,termine,2,fine,2
-student_exp2_037,classe,4,alunno,3,professore,4,voto,2
-student_exp2_037,esame,2,ansia,1,studio,4,voto,2
-student_exp2_037,successo,5,fallimento,3,scalata,4,passione,5
-student_exp2_037,intelligenza,4,qi,3,furbizia,4,colloquio,3
-student_exp2_037,studente/ssa,5,voto,3,studio,4,libri,5
-student_exp2_037,insegnante,3,conoscenza,5,esperienza,5,passione,5
-student_exp2_037,genitore,4,responsabilità,5,indipendenza,5,casa,4
-student_exp2_037,compito,3,soluzione,5,dato,3,pensiero,3
-student_exp2_037,numeri,3,uno,3,due,3,tre,3
-student_exp2_037,calcolo,3,matematica,3,logaritmo,3,addizione,3
-student_exp2_037,curiosità,5,oltrepassare,5,ragionare,5,sapere,4
-student_exp2_037,cambio_di_piani,2,imprevisto,1,ricalcolo,3,nuovo,5
-student_exp2_037,tenere_traccia,3,organizzare,5,riunire,5,lente,3
-student_exp2_037,studiare,3,slide,3,libro,5,impegno,4
-student_exp2_037,note,3,cellulare,4,spesa,5,appunti,4
-student_exp2_037,pianificare,5,piano,5,pensare,4,organizzare,5
-student_exp2_037,rimandare,1,voglia,4,letto,4,sonno,4
-student_exp2_037,fissare_un_obiettivo,4,pianificazione,5,organizzazione,5,pulito,4
-student_exp2_037,memorizzare,3,memoria,4,parole,3,ansia,1
-student_exp2_037,programma,4,piano,4,calendario,4,eventi,5
-student_exp2_037,mappa_concettuale,4,concetto,5,idea,5,organizzazione,5
-student_exp2_037,revisionare,5,appunti,4,slide,3,compito,2
-student_exp2_037,impegno,5,conseguimento,5,fatica,2,focus,5
-student_exp2_037,motivazione,5,sport,5,obiettivo,5,impegno,5
-student_exp2_037,concentrazione,5,scarso,1,sonno,4,,
-student_exp2_037,sfida,5,impegno,5,dimostrare,5,combattere,5
-student_exp2_037,importanza,5,passioni,5,università,5,,
-student_exp2_037,distrazione,1,stanchezza,1,focus,4,sonno,3
-student_exp2_037,sforzo,4,fatica,2,rigido,2,obiettivo,5
-student_exp2_037,confusione,2,rumore,1,alto,3,volume,3
-student_exp2_037,problema,1,scopo,5,risposta,4,soluzione,5
-student_exp2_037,errori,1,sbaglio,1,imparare,5,,
 student_exp2_038,tecnologia,4,computer,4,scuole medie,5,gabriel,5
 student_exp2_038,matematica,2,daniel,5,prof.floriani,4,limiti,2
 student_exp2_038,ingegneria,3,leonardo,2,soldi,5,noiosi,1
@@ -1694,43 +1541,6 @@ student_exp2_039,test_di_matematica,2,difficoltà,2,invalsi,2,voto,2
 student_exp2_039,ansia,1,respiro,1,scuola,4,persone,3
 student_exp2_039,lavagna,3,gesso,4,nero,3,quadretti,3
 student_exp2_039,soluzione,4,risposta,4,felicità,4,salvezza,4
-student_exp2_040,tecnologia,3,computer,5,schede grafiche,5,elettronica,2
-student_exp2_040,matematica,3,funzioni,1,integrali,1,statistica,1
-student_exp2_040,ingegneria,3,analisi,1,progettazione,1,logica,4
-student_exp2_040,biologia,3,chimica,1,cellule,3,nomenclatura,3
-student_exp2_040,fisica,1,forze,1,grandezze,1,formule,1
-student_exp2_040,statistica,3,probabilità,1,grafici,3,tabelle,4
-student_exp2_040,classe,5,compagni,5,competizione,1,giudizio,1
-student_exp2_040,esame,1,giudizio,1,ansia,1,paura,1
-student_exp2_040,successo,3,status,1,appagamento,5,endorfine,5
-student_exp2_040,intelligenza,5,creatività,3,competenze,5,riconoscimento,5
-student_exp2_040,studente/ssa,3,lezioni,5,esami,1,ansia,1
-student_exp2_040,insegnante,3,guida,5,autorità,2,competenza,5
-student_exp2_040,genitore,5,ansia,1,riferimento,5,giudizio,1
-student_exp2_040,compito,3,paura,1,frustrazione,1,sabotaggio,1
-student_exp2_040,numeri,3,tabelline,5,algebra,5,conti,3
-student_exp2_040,calcolo,2,frustrazione,1,ansia,1,difficoltà,1
-student_exp2_040,curiosità,5,indagine,3,eccitazione,5,conoscenza,5
-student_exp2_040,cambio_di_piani,1,paura,1,immobilità,1,sfiducia,1
-student_exp2_040,tenere_traccia,3,feedback,5,costanza,5,frustrazione,1
-student_exp2_040,studiare,5,fatica,1,frustrazione,1,incapacità,1
-student_exp2_040,note,3,appunti,1,reminder,4,,
-student_exp2_040,pianificare,5,frustrazione,1,ansia,1,paura,1
-student_exp2_040,rimandare,1,procrastinare,1,sollievo,3,frustrazione,1
-student_exp2_040,fissare_un_obiettivo,5,difficoltà,1,paura,1,insicurezza,1
-student_exp2_040,memorizzare,4,frustrazione,1,fatica,5,impegno,5
-student_exp2_040,programma,3,attinenza,3,imprevisti,1,ostacoli,1
-student_exp2_040,mappa_concettuale,3,studio,4,abilità,5,comprensione,5
-student_exp2_040,revisionare,5,fatica,1,,,,
-student_exp2_040,impegno,5,costanza,5,responsabilità,5,fatica,1
-student_exp2_040,motivazione,5,dopamina,3,,,,
-student_exp2_040,concentrazione,3,abilità,5,costanza,5,fatica,1
-student_exp2_040,sfida,4,ansia,1,fallimento,1,paura,1
-student_exp2_040,importanza,5,valore,5,,,,
-student_exp2_040,distrazione,1,cellulare,1,amicizie,5,sostanze,3
-student_exp2_040,sforzo,5,fatica,1,impegno,3,appagamento,5
-student_exp2_040,confusione,2,fastidio,1,stress,1,,
-student_exp2_040,problema,3,soluzione,4,,,,
 student_exp2_041,tecnologia,5,computer,5,ipad,5,rete,5
 student_exp2_041,matematica,3,algebra,3,integrali,3,analisi,3
 student_exp2_041,ingegneria,3,difficile,3,analisi,3,,
@@ -1882,113 +1692,6 @@ student_exp2_043,matematico/a,3,studio,3,genialità,5,successo,5
 student_exp2_043,algoritmo,3,computer,3,psicologia,5,matematica,2
 student_exp2_043,programmare,3,computer,3,laboratorio,3,memoria,3
 student_exp2_043,equazione,3,matematica,2,uguale,3,incognita,3
-student_exp2_044,tecnologia,5,compuer,4,elettricità,4,bruciore occhi,2
-student_exp2_044,matematica,4,equazione,4,scuola,4,blu,5
-student_exp2_044,ingegneria,3,mesiano,3,numeri,3,case,4
-student_exp2_044,biologia,4,verde,5,piante,5,acqua,5
-student_exp2_044,fisica,2,numeri,4,spazio,4,infinito,1
-student_exp2_044,statistica,3,grafici,3,colori,4,numeri,4
-student_exp2_044,scadenza,2,latte,5,data,3,amaro,2
-student_exp2_044,classe,4,scuola,4,persone,5,libri,5
-student_exp2_044,esame,3,voto,3,rosso,2,aula,3
-student_exp2_044,successo,4,soldi,4,scala,3,marracash,5
-student_exp2_044,intelligenza,4,qi,2,cervello,5,operazioni,3
-student_exp2_044,studente/ssa,5,io,5,divisa,3,università,5
-student_exp2_044,insegnante,4,camicia,3,lavagna,3,gessetto,3
-student_exp2_044,genitore,5,mamma,5,papà,5,figlio,4
-student_exp2_044,compito,3,quaderno,3,matita,3,scuola,3
-student_exp2_044,numeri,4,lettere,4,operazioni,4,colori,5
-student_exp2_044,calcolo,3,renale,1,numeri,3,calcolatrice,3
-student_exp2_044,curiosità,5,george la scimmia,3,bambini,5,scoperta,4
-student_exp2_044,cambio_di_piani,3,imprevisto,2,vacanza,5,rimandare,3
-student_exp2_044,tenere_traccia,3,dj,5,appunti,3,seguire,3
-student_exp2_044,studiare,4,università,5,laurea,4,libri,5
-student_exp2_044,note,3,confessioni,3,telefono,4,promemoria,3
-student_exp2_044,pianificare,4,vacanza,5,amici,5,sole,5
-student_exp2_044,rimandare,3,procrastinare,2,palestra,4,loop,2
-student_exp2_044,fissare_un_obiettivo,3,goal,4,successo,4,riuscire,3
-student_exp2_044,memorizzare,,stringa,,mbt,,cervello,
-student_exp2_044,programma,3,maria de filippi,4,rai,4,televisione,4
-student_exp2_044,mappa_concettuale,3,schema,3,cerchi,3,concetti,3
-student_exp2_044,revisionare,3,patente,5,controllare,3,riguardare,3
-student_exp2_044,impegno,3,mantenere,3,lavoro,4,adulto,4
-student_exp2_044,motivazione,4,goal,5,obiettivo,5,fatica,5
-student_exp2_044,concentrazione,3,rughe,2,obiettivo,4,cervello,4
-student_exp2_044,sfida,4,ostacoli,3,successo,5,fallimento,2
-student_exp2_044,importanza,4,marracash,5,pioggia,5,amore,5
-student_exp2_044,distrazione,3,giochi,4,fallimento,2,tv,4
-student_exp2_044,sforzo,4,fatica,4,stress,2,obiettivo,4
-student_exp2_044,confusione,3,amore,5,nebbia,2,casino,4
-student_exp2_044,problema,,matematica,,soluzione,,crescita,
-student_exp2_044,errori,2,crescita,4,percorso,4,matematica,4
-student_exp2_044,fallimento,,salita,,,,,
-student_exp2_045,tecnologia,2,computer,2,fili elettrici,3,grigio,2
-student_exp2_045,matematica,4,numeri e lettere,4,lavagna,4,calcoli,4
-student_exp2_045,ingegneria,2,circuiti,3,laurea,3,difficoltà,2
-student_exp2_045,biologia,4,biomolecole,4,carbonio,4,verde,5
-student_exp2_045,fisica,3,movimento,4,vettori,3,formule,3
-student_exp2_045,statistica,2,calcoli,3,difficoltà,3,noia,1
-student_exp2_045,scadenza,3,data,3,limite,3,fine,4
-student_exp2_045,classe,3,insieme,4,quotidianità,4,scuole superiori,2
-student_exp2_045,esame,3,domande,3,studio,2,controllo,2
-student_exp2_045,successo,3,vittoria,4,sacrificio e fatica,2,ideale illusorio,2
-student_exp2_045,intelligenza,3,mente,4,capacità,4,percezione altrui,2
-student_exp2_045,studente/ssa,3,studio,2,scuola,2,libri,3
-student_exp2_045,insegnante,3,cattedra,2,lavoro,2,persona,3
-student_exp2_045,genitore,2,ruolo,2,famiglia,2,errori che si ripercuotono sui figli,1
-student_exp2_045,compito,3,consegna,2,impegno,2,quaderno,4
-student_exp2_045,numeri,4,algebra,4,quantità,3,interessante,4
-student_exp2_045,calcolo,4,passaggi,3,scrivere,4,regole,3
-student_exp2_045,curiosità,4,interessante,4,voglia di scoprire,4,stimolazione,3
-student_exp2_045,cambio_di_piani,2,nuovo inizio,4,abbandono,3,coraggio,4
-student_exp2_045,tenere_traccia,3,annotare,3,ordine,4,ricordare,4
-student_exp2_045,studiare,2,sacrificio,2,tempo,2,rinunciare al resto,2
-student_exp2_045,note,3,musica,4,appunti,3,,
-student_exp2_045,pianificare,3,organizzare,4,tabella,3,chiarezza,4
-student_exp2_045,rimandare,2,rinunciare,2,non prendersi le responsabilità,2,tempo,2
-student_exp2_045,fissare_un_obiettivo,2,rischio di fallire,2,limite,3,,
-student_exp2_045,memorizzare,4,concentrazione,3,elaborare,2,impegno,2
-student_exp2_045,programma,3,tv,3,schema,2,,
-student_exp2_045,mappa_concettuale,2,schema,2,ordinare le idee,4,essenziale,4
-student_exp2_045,revisionare,3,controllare,3,,,,
-student_exp2_045,impegno,2,fatica,2,determinazione,4,,
-student_exp2_045,motivazione,4,obiettivo,4,forza,4,,
-student_exp2_045,concentrazione,2,attenzione,4,,,,
-student_exp2_046,tecnologia,4,informatica,4,scienza,5,innovazione,5
-student_exp2_046,matematica,5,ruffini,3,parabola,4,integrali,4
-student_exp2_046,ingegneria,4,civile,4,ambientale,5,vigili del fuoco,5
-student_exp2_046,biologia,5,eucarioti,4,linneo,4,radiolari,4
-student_exp2_046,fisica,4,planck,5,elettromagnetismo,5,inerzia,5
-student_exp2_046,statistica,4,analisi,4,matematica,5,funzioni,5
-student_exp2_046,scadenza,4,prodotto,4,progetto,4,tempo,2
-student_exp2_046,classe,3,scuola,4,semantica,3,specie,3
-student_exp2_046,esame,4,studio,5,ansia,4,risultato,3
-student_exp2_046,successo,5,accademico,4,bravura,4,fortuna,3
-student_exp2_046,intelligenza,5,fluida,5,cristallizzata,5,carroll,4
-student_exp2_046,studente/ssa,4,lavoro,4,studio,5,impegno,5
-student_exp2_046,insegnante,5,formazione,5,educazione,5,istituzione,5
-student_exp2_046,genitore,4,padre,,madre,,figli,
-student_exp2_046,compito,4,lavoro,5,completamento,5,impegno,5
-student_exp2_046,numeri,4,la serie dei numeri,5,razionali,4,immaginari,4
-student_exp2_046,calcolo,4,integrale,5,derivate,4,limiti,4
-student_exp2_046,curiosità,5,bambino,3,fantasia,5,personale,5
-student_exp2_046,cambio_di_piani,3,ricalcolo,3,rinnovo,4,sostituzione,3
-student_exp2_046,tenere_traccia,5,segnalibro,4,memoria,5,scritto,5
-student_exp2_046,studiare,5,impegno,5,piacere,5,forza di volontà,5
-student_exp2_046,note,,musica,,arpeggio,,spartito,
-student_exp2_046,pianificare,4,organizzare,4,sequenze,4,ordine mentale,5
-student_exp2_046,rimandare,2,procrastinare,1,evitare,1,,
-student_exp2_046,fissare_un_obiettivo,4,desiderio,5,soddisfazione,5,risultato,4
-student_exp2_046,memorizzare,5,mappe mentali,5,scrivere,5,appuntare,4
-student_exp2_046,programma,4,informatica,5,c++,5,programmazione oggetti,4
-student_exp2_046,mappa_concettuale,4,mentale,5,funzionale,4,immaginazione,5
-student_exp2_046,revisionare,4,manoscritto,4,rivedere,5,migliorare,5
-student_exp2_046,impegno,5,volontà,5,piacere,5,risultato,4
-student_exp2_046,motivazione,5,forza,5,piacere,5,dovere,4
-student_exp2_046,concentrazione,5,silenzio,4,luce,5,interesse,5
-student_exp2_046,sfida,4,vittoria,4,uguaglianza,5,gioco,4
-student_exp2_046,importanza,4,valore,5,piacere,5,necessità,4
-student_exp2_046,distrazione,4,rumore,2,gente,4,disinteresse,2
 student_exp2_047,tecnologia,3,computer,3,internet,3,mouse,3
 student_exp2_047,matematica,3,nozioni,4,statistica,4,base,3
 student_exp2_047,ingegneria,3,tecnico,3,lavoro,4,complesso,2
@@ -2185,46 +1888,6 @@ student_exp2_052,ansia,3,tensione,3,respiro,5,energia,5
 student_exp2_052,lavagna,3,nero,4,gesso,3,insegnate,4
 student_exp2_052,soluzione,4,capacità,5,creatività,5,sollievo,5
 student_exp2_052,performance_in_matematica,5,prestante,5,abilità,,,
-student_exp2_057,tecnologia,3,computer,2,informatica,1,,
-student_exp2_057,matematica,1,numeri,3,calcoli,1,esami matematici,1
-student_exp2_057,biologia,1,scienze,2,,,,
-student_exp2_057,fisica,1,numeri,3,leggi della fisica,1,formule,1
-student_exp2_057,statistica,3,valori numerici,3,grafici,3,,
-student_exp2_057,scadenza,1,scadenza di un compito,1,scadenza di un contratto,1,,
-student_exp2_057,classe,3,gruppo di persone,3,alunni,3,professori,3
-student_exp2_057,esame,2,verifica,2,,,,
-student_exp2_057,successo,3,ottimi risultati,3,eccellenza,3,,
-student_exp2_057,intelligenza,3,intelligenza emotiva,5,intelligenza artificiale,2,intelligenza matematica,1
-student_exp2_057,studente/ssa,3,persona,4,alunno/a,3,,
-student_exp2_057,insegnante,3,sei preparato/a?,3,,,,
-student_exp2_057,genitore,4,padre,4,madre,4,figura che tutela,4
-student_exp2_057,compito,2,esercizio da svolgere,2,,,,
-student_exp2_057,numeri,3,calcoli,2,matematica,1,,
-student_exp2_057,calcolo,2,numeri,3,matematica,1,materie scientifiche,1
-student_exp2_057,curiosità,4,interesse verso qualcosa,4,,,,
-student_exp2_057,cambio_di_piani,2,cambiamento,2,modificazione,2,modifica all'ultimo,2
-student_exp2_057,tenere_traccia,3,tenere a mente,4,ricordare,4,,
-student_exp2_057,note,3,appunti,2,parole chiave,4,,
-student_exp2_057,pianificare,3,strutturare,3,ordinare,3,programmare,4
-student_exp2_057,rimandare,3,posticipare,3,,,,
-student_exp2_057,fissare_un_obiettivo,4,ambizione,4,,,,
-student_exp2_057,memorizzare,3,ricordare,3,tenere a mente,3,,
-student_exp2_057,programma,3,programma scolastico/universitario,3,programma giornaliero,4,programma di studio,2
-student_exp2_057,mappa_concettuale,4,concetti chiave,4,schema,4,,
-student_exp2_057,revisionare,3,ricontrollare,3,,,,
-student_exp2_057,impegno,4,costanza,4,,,,
-student_exp2_057,motivazione,4,spinta a fare qualcosa,4,,,,
-student_exp2_057,concentrazione,3,focalizzazione,3,attenzione,3,,
-student_exp2_057,importanza,4,valore personale,4,valore culturale,2,,
-student_exp2_057,distrazione,2,disattenzione,2,,3,,3
-student_exp2_057,sforzo,4,impegno,4,fatica,2,,
-student_exp2_057,confusione,2,disordine mentale,2,poca chiarezza,2,,
-student_exp2_057,errori,1,sbagli,1,calcoli errati,1,,
-student_exp2_057,test_di_matematica,1,esame matematico,1,,,,
-student_exp2_057,ansia,1,preoccupazione,1,tachicardia,1,,
-student_exp2_057,lavagna,3,scrivere qualcosa davanti a tutti,1,,,,
-student_exp2_057,soluzione,4,soluzione matematica,4,risoluzione di un problema matematico,4,,
-student_exp2_057,performance_in_matematica,1,bravura/non bravura in matematica,2,,,,
 student_exp2_059,tecnologia,3,computer,3,programmazione,3,elon musk,5
 student_exp2_059,matematica,4,superiori,4,statistica,3,,3
 student_exp2_059,ingegneria,2,luigi,5,architettura,5,ambientale,5
@@ -2711,42 +2374,6 @@ student_exp2_071,matematico/a,2,amico,2,relazione,1,dubbio,3
 student_exp2_071,algoritmo,3,computer,2,cubo,2,procedura,2
 student_exp2_071,programmare,2,c++,2,vacanza,3,scuola,1
 student_exp2_071,equazione,3,familiarità,4,uguaglianza,4,linearità,4
-student_exp2_072,tecnologia,2,grigio,1,internet,4,computer,2
-student_exp2_072,matematica,,numeri,2,giallo,4,equazioni,3
-student_exp2_072,ingegneria,3,università,4,grattacielo,5,uomo,4
-student_exp2_072,biologia,4,verde,4,chimica,3,organi,4
-student_exp2_072,fisica,4,blu,4,gravità,4,universo,5
-student_exp2_072,statistica,2,percentuali,2,grafico,2,linee nere,1
-student_exp2_072,scadenza,3,calendario,4,ansia,1,paura,1
-student_exp2_072,classe,3,banchi,3,rosso,4,campanella,4
-student_exp2_072,esame,2,tempo,4,domande,2,crocette,3
-student_exp2_072,successo,5,oro,4,luci,5,importanza,5
-student_exp2_072,intelligenza,5,azzurro,4,mente,4,psicologia,5
-student_exp2_072,studente/ssa,4,computer,3,schemi,4,competizione,1
-student_exp2_072,insegnante,3,laurea,4,lavagna,3,approvazione,1
-student_exp2_072,genitore,5,casa,5,impegno,4,paura,1
-student_exp2_072,compito,2,quaderno,3,tempo,4,paura,1
-student_exp2_072,numeri,3,figure,4,matematica,2,nero,3
-student_exp2_072,calcolo,4,calcolatrice,4,incertezza,2,parentesi,3
-student_exp2_072,curiosità,5,intelligenza,5,furbizia,5,coraggio,5
-student_exp2_072,cambio_di_piani,2,fretta,2,ansia,1,rabbia,2
-student_exp2_072,tenere_traccia,2,dito,3,lettura,4,difficile,2
-student_exp2_072,studiare,4,impegno,4,ansia,1,paura,1
-student_exp2_072,note,4,iphone,4,tastiera,3,segreti,4
-student_exp2_072,pianificare,4,tabella,4,futuro,4,incastrare,2
-student_exp2_072,rimandare,1,me stessa,2,tempo,4,sbaglio,1
-student_exp2_072,fissare_un_obiettivo,5,sogno,5,perseveranza,5,autostima,4
-student_exp2_072,memorizzare,3,blu,4,parole,4,musica,4
-student_exp2_072,programma,4,lista,4,obbiettivi,5,organizzazione,5
-student_exp2_072,mappa_concettuale,4,colori,5,schema,4,frecce,4
-student_exp2_072,revisionare,2,noia,1,distrazione,1,paura,1
-student_exp2_072,impegno,5,obbiettivo,5,sacrificio,4,soddisfazione,5
-student_exp2_072,motivazione,5,perseveranza,5,successo,5,verde,5
-student_exp2_072,concentrazione,5,difficile,2,musica,4,intelligenza,5
-student_exp2_072,sfida,1,competizione,1,perdere,1,vergogna,1
-student_exp2_072,importanza,4,valore,4,,,,
-student_exp2_072,distrazione,1,me stessa,2,paura,1,problema,1
-student_exp2_072,fallimento,1,me stessa,3,ansia,1,,
 student_exp2_073,tecnologia,3,meccanica,3,modernità,3,materia scolastica,3
 student_exp2_073,matematica,2,difficile,2,equazioni,2,calcolatrice,3
 student_exp2_073,ingegneria,3,informatica,3,federico,5,università,3
