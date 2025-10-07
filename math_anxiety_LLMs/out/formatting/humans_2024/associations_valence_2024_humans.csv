@@ -8,6 +8,7 @@ student_exp1_006,ansia,1,angoscia,1,emozione,4,brutta,1
 student_exp1_007,ansia,2,cuore,4,sudore,1,prestazione,2
 student_exp1_008,ansia,2,pubblico,3,sconosciuti,3,esame,3
 student_exp1_009,ansia,1,stress,1,psicosomatica,1,nausea,1
+student_exp1_010,ansia,1,sudorazione,1,tremore,1,imbarazzo,1
 student_exp1_011,ansia,1,blocco,1,sabotaggio,1,incertezza,1
 student_exp1_012,ansia,1,normalità,2,nemico,1,offuscamento,1
 student_exp1_014,ansia,1,agitazione,1,resistenza,4,psicologica,4
@@ -32,6 +33,7 @@ student_exp1_032,ansia,1,paura,1,soffocare,1,tensione,1
 student_exp1_033,ansia,2,emozione,5,tremore,1,battito cardiaco,4
 student_exp1_034,ansia,1,panico,1,mamma,5,respirare,5
 student_exp1_035,ansia,2,emozione,4,paura,1,blocco,1
+student_exp1_036,ansia,2,sudorazione,2,esame,2,,0
 student_exp1_038,ansia,3,paura,2,coraggio,5,palpitazioni,2
 student_exp1_039,ansia,1,insonnia,1,palpitazioni,2,nervoso,2
 student_exp1_040,ansia,2,psicologia,5,sudorazione,2,agitazione,2
@@ -56,6 +58,7 @@ student_exp1_060,ansia,3,prestazione,2,angoscia,2,disagio,0
 student_exp1_061,ansia,2,esame,3,lavoro,4,tesi,3
 student_exp1_062,ansia,1,scientifico,1,esami,1,erasmus,4
 student_exp1_063,ansia,4,matematica,2,aspettative,4,esame,4
+student_exp1_064,ansia,1,esame,3,,0,,0
 student_exp1_065,ansia,2,sociale,3,esame,3,decisioni,4
 student_exp1_066,ansia,1,stomaco,2,persone,2,preoccupazione,1
 student_exp1_067,ansia,1,tachicardia,1,nauesa,1,apnea,1
@@ -75,6 +78,7 @@ student_exp1_006,attaccamento,1,materno,4,osessivo,1,,
 student_exp1_007,attaccamento,3,evitante,1,mamma,5,ambivalente,1
 student_exp1_008,attaccamento,4,maglia,3,fedeltà,5,capitano,4
 student_exp1_009,attaccamento,3,affettivo,2,contatto sociale,4,abbraccio,5
+student_exp1_010,attaccamento,3,genitore,4,,0,,0
 student_exp1_011,attaccamento,2,persona,3,animale,4,,0
 student_exp1_012,attaccamento,2,mamma,4,relazione,4,affetto,4
 student_exp1_014,attaccamento,3,legame,4,relazione,4,eccesso,2
@@ -99,6 +103,7 @@ student_exp1_032,attaccamento,3,stile,2,psicologia,5,studio,4
 student_exp1_033,attaccamento,4,piscologia,3,genitori,4,rapporto,5
 student_exp1_034,attaccamento,5,madre-figlia,5,dipendenza,5,posto sicuro,5
 student_exp1_035,attaccamento,1,evitante,2,ambivalente,2,mamma,4
+student_exp1_036,attaccamento,4,famiglia,5,amici,5,,0
 student_exp1_038,attaccamento,3,emozione,5,sicurezza,5,,0
 student_exp1_039,attaccamento,4,bowlby,4,mamma,2,relazione,4
 student_exp1_040,attaccamento,2,teoria,3,bambino,4,genitore,4
@@ -123,6 +128,7 @@ student_exp1_060,attaccamento,4,madre,4,bambino,5,diade,0
 student_exp1_061,attaccamento,3,cose,3,figli,5,animali,5
 student_exp1_062,attaccamento,4,famiglia,5,dinamica,5,amore,5
 student_exp1_063,attaccamento,2,materno,3,città,4,casa,4
+student_exp1_064,attaccamento,3,,0,,0,,0
 student_exp1_065,attaccamento,2,mamma,5,bambino,5,psicologo,3
 student_exp1_066,attaccamento,3,mamma,4,sicuro,5,legame,4
 student_exp1_067,attaccamento,1,invadenza,1,unidirezionalità,1,morboso,2
@@ -142,6 +148,7 @@ student_exp1_006,benessere,5,mentale,5,fisico,5,cura,5
 student_exp1_007,benessere,5,fisico,4,mentale,4,sorriso,5
 student_exp1_008,benessere,5,fisico,3,mentale,3,massaggi,3
 student_exp1_009,benessere,5,persona,5,sollievo,5,obiettivo,4
+student_exp1_010,benessere,5,salute,4,,0,,0
 student_exp1_011,benessere,4,mentale,3,fisico,4,ricchezza,1
 student_exp1_012,benessere,5,fisico,4,mentale,4,relazionale,4
 student_exp1_014,benessere,5,salute,5,emozioni,5,mente,5
@@ -166,6 +173,7 @@ student_exp1_032,benessere,5,tranquillità,5,pace,5,tiepido,5
 student_exp1_033,benessere,5,mentale,4,fisico,4,leggerezza,4
 student_exp1_034,benessere,5,personale,5,psicofisico,5,natura,5
 student_exp1_035,benessere,5,sensazione,4,piacere,4,soddisfazione,5
+student_exp1_036,benessere,5,psicologia,4,,0,,0
 student_exp1_038,benessere,5,salute,5,,0,,0
 student_exp1_039,benessere,4,massaggi,4,passeggiata,5,salute,5
 student_exp1_040,benessere,5,salute,5,felicità,5,calma,4
@@ -190,6 +198,7 @@ student_exp1_060,benessere,5,salute,4,rilassamento,3,soldi,0
 student_exp1_061,benessere,5,mente,3,fisico,4,vita,5
 student_exp1_062,benessere,5,importante,5,difficile,5,terapia,5
 student_exp1_063,benessere,5,felicità,5,fisico,5,mentale,5
+student_exp1_064,benessere,5,relax,5,,0,,0
 student_exp1_065,benessere,4,mentale,4,fisico,4,rosa,4
 student_exp1_066,benessere,5,salute,5,positivo,5,tranquillità,5
 student_exp1_067,benessere,5,spiaggia,5,brezza,5,sorriso,5
@@ -209,6 +218,7 @@ student_exp1_006,biologia,4,natura,5,vita,5,cellule,3
 student_exp1_007,biologia,4,cellule,4,animali,5,terra,5
 student_exp1_008,biologia,3,vita,5,animali,4,uomo,4
 student_exp1_009,biologia,4,vita,5,cellule,4,sistemi,4
+student_exp1_010,biologia,3,cellula,3,anatomia,4,neuroni,4
 student_exp1_011,biologia,4,natura,5,chimica,3,vita,3
 student_exp1_012,biologia,5,natura,5,cellule,5,foglie,5
 student_exp1_014,biologia,3,ricerca,5,vita,5,esperimenti,4
@@ -233,6 +243,7 @@ student_exp1_032,biologia,2,cellule,2,animali,5,interno,3
 student_exp1_033,biologia,3,scienza,3,terra,3,atmosfera,3
 student_exp1_034,biologia,1,laboratorio,1,cellule,1,animali,1
 student_exp1_035,biologia,3,studio,4,microscopio,2,cellula,3
+student_exp1_036,biologia,4,microscopio,3,batteri,3,esperimenti,4
 student_exp1_038,biologia,3,corpo,3,scoperte,4,,0
 student_exp1_039,biologia,4,animali,5,cellule,3,laboratorio,2
 student_exp1_040,biologia,4,cellula,3,sistema nervoso,4,corpo,4
@@ -257,6 +268,7 @@ student_exp1_060,biologia,4,scienza,4,umanità,5,vita,0
 student_exp1_061,biologia,3,animali,4,vita,5,terra,4
 student_exp1_062,biologia,5,difficile,2,medicina,2,soddisfazione,5
 student_exp1_063,biologia,3,cervello,3,uomo,3,dna,3
+student_exp1_064,biologia,3,scienza,4,,0,,0
 student_exp1_065,biologia,3,materia,4,scienze,3,esperimenti,4
 student_exp1_066,biologia,4,cellule,2,organismo,4,scienze,3
 student_exp1_067,biologia,3,studio,3,ricerca,3,conoscenza,3
@@ -276,6 +288,7 @@ student_exp1_006,cognizione,4,sociale,4,animale,3,,
 student_exp1_007,cognizione,3,animale,5,cervello,5,studio,2
 student_exp1_008,cognizione,3,sapere,4,causa,3,conoscenza,4
 student_exp1_009,cognizione,5,animale,4,tempo,4,mente,4
+student_exp1_010,cognizione,3,animale,5,,0,,0
 student_exp1_011,cognizione,5,simulazione,4,scienza,5,ricerca,4
 student_exp1_012,cognizione,4,mente,4,fisiologia,5,mistero,2
 student_exp1_014,cognizione,3,riconoscimento,3,rendersi conto,3,vedere,5
@@ -300,6 +313,7 @@ student_exp1_032,cognizione,4,animale,5,pensiero,4,comprensione,5
 student_exp1_033,cognizione,3,sociale,3,società,4,persone,3
 student_exp1_034,cognizione,5,animale,3,cervello,5,mente,5
 student_exp1_035,cognizione,4,cervello,4,funzioni,4,area,3
+student_exp1_036,cognizione,3,percezione,3,,0,,0
 student_exp1_038,cognizione,3,animale,3,sociale,3,,0
 student_exp1_039,cognizione,3,comportamento,3,cervello,3,animale,4
 student_exp1_040,cognizione,4,conoscenza,4,scienziato,3,sapere,4
@@ -324,6 +338,7 @@ student_exp1_060,cognizione,3,animali,3,società,2,apparenza,0
 student_exp1_061,cognizione,3,persone,4,mente,3,modelli,3
 student_exp1_062,cognizione,3,interessante,3,libro,3,studio,1
 student_exp1_063,cognizione,5,sociale,4,cervello,4,mente,4
+student_exp1_064,cognizione,3,tempo,3,,0,,0
 student_exp1_065,cognizione,3,sociale,3,psicologia,3,corso,3
 student_exp1_066,cognizione,3,cervello,3,pensiero,3,ragionamento,4
 student_exp1_067,cognizione,3,mente,3,cervello,3,psicologia,3
@@ -333,7 +348,6 @@ student_exp1_071,cognizione,3,mente,3,animale,2,comportamento,3
 student_exp1_072,cognizione,4,acquisione,4,comprensione,4,ritenzione,4
 student_exp1_073,cognizione,4,sociale,3,corso,3,comunicazione,4
 student_exp1_074,cognizione,4,sociale,3,,0,,0
-student_exp1_075,cognizione,,,,,,,
 student_exp1_001,comportamento,3,psicologia,5,atteggiamento,3,impressione,3
 student_exp1_002,comportamento,4,aggressivo,2,accomodante,4,studio,4
 student_exp1_003,comportamento,2,positivo,4,negativo,3,bambino,4
@@ -343,6 +357,7 @@ student_exp1_006,comportamento,3,corretto,5,scorretto,1,brutto,1
 student_exp1_007,comportamento,3,cattivo,1,puerile,1,sbagliato,1
 student_exp1_008,comportamento,4,educazione,5,maleducazione,1,rigore,3
 student_exp1_009,comportamento,4,passivo,3,positivo,5,produttivo,5
+student_exp1_010,comportamento,3,atteggiamento,3,sociale,2,,0
 student_exp1_011,comportamento,4,condizionato,3,naturale,3,,0
 student_exp1_012,comportamento,2,animale,5,umano,5,cognitivo,3
 student_exp1_014,comportamento,3,azione,4,regole,4,valori,5
@@ -367,6 +382,7 @@ student_exp1_032,comportamento,4,azione,3,motivazione,5,capire,5
 student_exp1_033,comportamento,4,agire,5,cattivo,1,,
 student_exp1_034,comportamento,5,attitude,5,passivo-aggressivo,5,calma,5
 student_exp1_035,comportamento,4,agire,5,inibizione,2,manifestazione,4
+student_exp1_036,comportamento,4,personalità,5,,0,,0
 student_exp1_038,comportamento,3,atteggiamento,3,educazione,5,,0
 student_exp1_039,comportamento,3,relazione,4,amicizie,4,visione,4
 student_exp1_040,comportamento,3,atteggiamento,3,psicologia,5,evoluzione,4
@@ -391,6 +407,7 @@ student_exp1_060,comportamento,5,educazione,5,rispetto,0,,0
 student_exp1_061,comportamento,3,vità,4,mente,3,carattere,4
 student_exp1_062,comportamento,3,determinato,3,genetica,3,ambiente,3
 student_exp1_063,comportamento,3,esagerato,2,scienze cognitive,3,umano,3
+student_exp1_064,comportamento,4,relazione con gli altri,4,,0,,0
 student_exp1_065,comportamento,3,educazione,4,adeguato,4,giusto,4
 student_exp1_066,comportamento,4,atteggiamento,3,mani,4,espressioni,3
 student_exp1_067,comportamento,3,interessante,3,movimeto,3,misterioso,3
@@ -410,6 +427,7 @@ student_exp1_006,creatività,5,colori,5,gioia,5,felicità,5
 student_exp1_007,creatività,5,foglio,3,disegno,4,cervello,5
 student_exp1_008,creatività,3,design,3,innovazione,4,inventiva,4
 student_exp1_009,creatività,5,libertà,5,arte,5,espressione,5
+student_exp1_010,creatività,3,arte,2,,0,mente,3
 student_exp1_011,creatività,5,design,4,arte,5,colori,5
 student_exp1_012,creatività,4,disegno,4,immagini,4,colori,4
 student_exp1_014,creatività,5,idee,5,innovazioni,5,divergente,4
@@ -434,6 +452,7 @@ student_exp1_032,creatività,5,colore,5,mano,3,schizzo,4
 student_exp1_033,creatività,5,design,5,arte,5,impulso,3
 student_exp1_034,creatività,3,disegno,3,libertà,5,fantasia,3
 student_exp1_035,creatività,4,immaginazione,4,creazione,4,idea,4
+student_exp1_036,creatività,5,fantasia,4,,0,,0
 student_exp1_038,creatività,5,ispirazione,5,immaginazione,5,curiosità,5
 student_exp1_039,creatività,5,pittura,5,fili di lana,5,pensieri,4
 student_exp1_040,creatività,4,fantasia,5,pittura,5,libertà,4
@@ -458,6 +477,7 @@ student_exp1_060,creatività,5,istinto,3,disegno,5,bellezza,0
 student_exp1_061,creatività,5,colori,5,festa,5,divertimento,5
 student_exp1_062,creatività,5,aspirazione,5,forza,5,risorsa,5
 student_exp1_063,creatività,5,design,5,arte,3,scrittura,4
+student_exp1_064,creatività,5,bambini,5,,0,,0
 student_exp1_065,creatività,5,arte,5,disegnare,4,colori,4
 student_exp1_066,creatività,4,fantasia,5,colori,5,oggetto,3
 student_exp1_067,creatività,5,immaginazione,3,analisi,4,talento,5
@@ -477,6 +497,7 @@ student_exp1_006,curiosità,5,attitudine,3,imparare,4,scoprire,5
 student_exp1_007,curiosità,5,scimmia,4,lente d'ingrandimento,4,mappa,3
 student_exp1_008,curiosità,4,interesse,4,scoperta,4,bambini,5
 student_exp1_009,curiosità,4,luoghi,4,ricerca,3,interesse,5
+student_exp1_010,curiosità,4,sapere,4,conoscenza,5,,0
 student_exp1_011,curiosità,5,serendipità,5,ricerca,4,scoperta,5
 student_exp1_012,curiosità,4,immaginazione,4,disegni,4,domande,4
 student_exp1_014,curiosità,3,vita,5,piacere,4,crescita,5
@@ -501,6 +522,7 @@ student_exp1_032,curiosità,5,investigare,5,capire,5,lente,2
 student_exp1_033,curiosità,5,leggere,4,informarsi,5,cercare,3
 student_exp1_034,curiosità,5,punto di domanda,3,interesse,3,richiesta,5
 student_exp1_035,curiosità,5,scoprire,5,motivazione,5,spinta,4
+student_exp1_036,curiosità,5,personalità,5,carattere,5,,0
 student_exp1_038,curiosità,5,immaginazione,5,interesse,5,,0
 student_exp1_039,curiosità,5,scoprire,5,vagare,5,piacere,5
 student_exp1_040,curiosità,5,bambino,5,scoperta,4,personalità,4
@@ -525,6 +547,7 @@ student_exp1_060,curiosità,5,amore,4,conoscenze,3,sapere,0
 student_exp1_061,curiosità,4,creatività,4,festa,5,vita,5
 student_exp1_062,curiosità,5,alta,5,psicologia,5,cervello,5
 student_exp1_063,curiosità,5,arte,3,studiare,4,viaggiare,5
+student_exp1_064,curiosità,4,interesse,4,,0,,0
 student_exp1_065,curiosità,5,lente,4,cervello,5,,0
 student_exp1_066,curiosità,4,mente,3,interesse,4,piacere,5
 student_exp1_067,curiosità,5,insaziabile,4,laboriosa,5,ulisse,4
@@ -544,6 +567,7 @@ student_exp1_006,divertimento,5,amici,5,spiaggia,5,uscite,5
 student_exp1_007,divertimento,5,amici,5,sport,5,fuori,5
 student_exp1_008,divertimento,5,basket,5,amici,5,festa,5
 student_exp1_009,divertimento,5,amici,5,passione,5,passatempo,5
+student_exp1_010,divertimento,5,amici,4,,0,,0
 student_exp1_011,divertimento,3,amici,3,gioventù,5,notte,2
 student_exp1_012,divertimento,3,lettura,5,film,3,amici,3
 student_exp1_014,divertimento,4,star bene,5,amici,4,famiglia,5
@@ -568,6 +592,7 @@ student_exp1_032,divertimento,4,gioco,4,bambini,2,parco,5
 student_exp1_033,divertimento,5,amici,5,svago,4,sport,5
 student_exp1_034,divertimento,5,festa,5,spensierato,5,amiche,5
 student_exp1_035,divertimento,4,festa,4,condivisione,5,sorriso,5
+student_exp1_036,divertimento,5,emozione,5,amici,5,,0
 student_exp1_038,divertimento,5,gioia,5,sorriso,5,spensieratezza,5
 student_exp1_039,divertimento,5,lunapark,4,sole,5,rosso,4
 student_exp1_040,divertimento,5,amici,5,montagna,5,moto,5
@@ -592,6 +617,7 @@ student_exp1_060,divertimento,3,festa,4,amicizia,0,,0
 student_exp1_061,divertimento,5,festa,5,aperitivo,4,musica,5
 student_exp1_062,divertimento,4,coinquilini,5,rovereto,5,fidanzato,5
 student_exp1_063,divertimento,5,amici,5,viaggiare,5,hobby,5
+student_exp1_064,divertimento,5,amici,5,uscite,5,compagnia,5
 student_exp1_065,divertimento,5,svago,5,amici,5,uscire,5
 student_exp1_066,divertimento,5,sorriso,5,leggerezza,5,risata,5
 student_exp1_067,divertimento,3,fugace,2,benefico,4,corretto,4
@@ -611,6 +637,7 @@ student_exp1_006,emozione,5,positiva,5,negativa,1,amore,5
 student_exp1_007,emozione,5,cuore,4,amore,5,difficile,2
 student_exp1_008,emozione,5,gioia,5,rammarico,2,amore,5
 student_exp1_009,emozione,4,sentimenti,4,commuoversi,5,arrabbiarsi,4
+student_exp1_010,emozione,4,forte,3,pianto,4,felicità,5
 student_exp1_011,emozione,2,cervello,5,spettro,4,falsità,2
 student_exp1_012,emozione,2,positive,4,negative,1,cuore,2
 student_exp1_014,emozione,5,gioia,5,dolore,3,confusione,2
@@ -635,6 +662,7 @@ student_exp1_032,emozione,5,esprimere,4,viso,3,gesti,3
 student_exp1_033,emozione,4,gioia,5,amore,5,felicità,5
 student_exp1_034,emozione,5,estroversa,5,forte,3,primaria,1
 student_exp1_035,emozione,5,ansia,2,paura,1,battito,3
+student_exp1_036,emozione,5,amore,5,,0,,0
 student_exp1_038,emozione,3,gioia,5,tristezza,3,ansia,4
 student_exp1_039,emozione,5,felicità,5,cuore,5,caos,2
 student_exp1_040,emozione,4,felicità,5,tristezza,2,gioia,5
@@ -659,6 +687,7 @@ student_exp1_060,emozione,5,empatia,5,felicità,0,,0
 student_exp1_061,emozione,4,felicità,5,tristezza,2,amore,5
 student_exp1_062,emozione,5,forte,5,imbarazzo,1,difficoltà,2
 student_exp1_063,emozione,4,felicità,5,ansia,2,preoccupazione,2
+student_exp1_064,emozione,4,felicità,5,amore,5,,0
 student_exp1_065,emozione,4,felicità,4,nascosta,3,rabbia,2
 student_exp1_066,emozione,4,gioia,5,tristezza,2,paura,1
 student_exp1_067,emozione,4,passione,4,irrazionalità,2,cuore,2
@@ -678,6 +707,7 @@ student_exp1_006,equazione,3,primo,3,secondo,3,grado,3
 student_exp1_007,equazione,3,disequazione,4,grado,3,incognita,4
 student_exp1_008,equazione,3,matematica,3,incognita,3,sistema,3
 student_exp1_009,equazione,3,algebra,3,matematica,3,somma,3
+student_exp1_010,equazione,3,matematica,2,grado,2,numeri,3
 student_exp1_011,equazione,4,fisica,5,lavagna,4,matematica,3
 student_exp1_012,equazione,4,numeri,4,simboli,3,risultato,3
 student_exp1_014,equazione,0,uguale,0,relazionioni,0,matematica,0
@@ -702,6 +732,7 @@ student_exp1_032,equazione,3,segni,3,numeri,2,uguale,3
 student_exp1_033,equazione,3,matematica,3,numeri,3,uguale,3
 student_exp1_034,equazione,1,calcolo,1,sbagliata,1,matematica,1
 student_exp1_035,equazione,3,algebra,2,operazione,3,uguaglianza,4
+student_exp1_036,equazione,2,numeri,3,formule,3,,0
 student_exp1_038,equazione,2,matematica,2,numeri,3,,0
 student_exp1_039,equazione,2,liceo,3,matematica,2,professoressa,4
 student_exp1_040,equazione,5,algebra,4,operazioni,4,problemi,1
@@ -726,6 +757,7 @@ student_exp1_060,equazione,3,matematica,3,operazioni,3,risultato,0
 student_exp1_061,equazione,3,matematica,3,fisica,3,probabilità,3
 student_exp1_062,equazione,3,matematica,3,x,3,voto,1
 student_exp1_063,equazione,3,matematica,2,lineare,2,incognita,2
+student_exp1_064,equazione,3,algebra,3,lineare,3,,0
 student_exp1_065,equazione,3,numero,4,uguale,4,matematica,3
 student_exp1_066,equazione,3,uguale,3,numeri,3,matematica,4
 student_exp1_067,equazione,3,formula,3,problem solving,5,sfida,5
@@ -745,6 +777,7 @@ student_exp1_006,esame,3,universitario,4,patente,5,sangue,2
 student_exp1_007,esame,2,difficile,2,voto,1,futuro,5
 student_exp1_008,esame,3,voto,3,corso,3,orale,3
 student_exp1_009,esame,2,stress,1,ansia,1,valutazione,3
+student_exp1_010,esame,3,studio,2,preparazione,3,,0
 student_exp1_011,esame,3,fine,2,ansia,1,eccitazione,4
 student_exp1_012,esame,2,voto,3,studio,2,difficoltà,3
 student_exp1_014,esame,4,studio,3,sfida,5,relazioni,3
@@ -769,6 +802,7 @@ student_exp1_032,esame,3,foglio,4,studio,4,ansia,1
 student_exp1_033,esame,2,voto,2,superato,5,bocciato,1
 student_exp1_034,esame,3,valutazione,3,ansia,1,preparazione,3
 student_exp1_035,esame,2,ansia,2,materia,3,difficolta',2
+student_exp1_036,esame,2,ansia,2,esito,2,,0
 student_exp1_038,esame,2,valutazione,2,ansia,3,impegno,5
 student_exp1_039,esame,2,università,3,sangue,2,ansia,2
 student_exp1_040,esame,2,valutazione,2,ansia,2,paura,1
@@ -793,6 +827,7 @@ student_exp1_060,esame,3,voto,5,conoscenza,0,,0
 student_exp1_061,esame,3,università,3,libri,4,penna,3
 student_exp1_062,esame,1,panico,1,voto,1,ansia,1
 student_exp1_063,esame,2,universitario,2,crediti,3,scritto,2
+student_exp1_064,esame,2,voti,2,ansia,1,,0
 student_exp1_065,esame,3,idoneo,4,univesrità,4,proccupazioni,2
 student_exp1_066,esame,2,domande,3,voto,4,ansia,1
 student_exp1_067,esame,3,impegno,5,costanza,5,disciplina,5
@@ -812,6 +847,7 @@ student_exp1_006,fisica,2,quantistica,2,gravità,3,forza,3
 student_exp1_007,fisica,4,formule,2,professore,4,mondo,5
 student_exp1_008,fisica,4,scienziati,4,gravità,3,newton,4
 student_exp1_009,fisica,3,materia,3,relatività,4,einstein,4
+student_exp1_010,fisica,3,moto,2,velocità,2,,0
 student_exp1_011,fisica,5,universo,5,quanti,4,complessità,3
 student_exp1_012,fisica,3,formule,3,natura,5,gravità,3
 student_exp1_014,fisica,3,mondo,3,leggi,3,natura,4
@@ -836,6 +872,7 @@ student_exp1_032,fisica,4,oggetti,3,leggi,4,calcoli,2
 student_exp1_033,fisica,3,quantistica,3,esperimenti,4,educazione,5
 student_exp1_034,fisica,1,esperimenti,3,domande,3,quantistica,1
 student_exp1_035,fisica,1,razzo,3,studio,4,gravita',3
+student_exp1_036,fisica,3,numeri,3,teorie,3,,0
 student_exp1_038,fisica,2,mondo,5,leggi,3,,0
 student_exp1_039,fisica,1,newton,1,molecolare,1,quantistica,1
 student_exp1_040,fisica,1,difficoltà,2,formule,4,verifica,2
@@ -860,6 +897,7 @@ student_exp1_060,fisica,3,teorie,4,regole,0,,0
 student_exp1_061,fisica,3,numeri,3,materia,3,forza,3
 student_exp1_062,fisica,2,paura,1,ansia,1,no,1
 student_exp1_063,fisica,3,quantistica,3,leggi,3,formule,3
+student_exp1_064,fisica,1,formule,3,numeri,3,,0
 student_exp1_065,fisica,2,problemi,2,velocità,3,,0
 student_exp1_066,fisica,2,corpo,2,velocità,4,spazio,3
 student_exp1_067,fisica,4,mondo,5,esperti,3,globalità,4
@@ -879,6 +917,7 @@ student_exp1_006,informatica,4,front end,4,back end,2,proghrammazione,3
 student_exp1_007,informatica,3,computer,4,aula,3,programmazione,2
 student_exp1_008,informatica,4,computer,4,analisi,3,aula,3
 student_exp1_009,informatica,3,computer,3,progettazione,4,calcoli,3
+student_exp1_010,informatica,3,computer,3,bit,3,software,3
 student_exp1_011,informatica,3,programmazione,4,lavoro,2,nero,3
 student_exp1_012,informatica,3,monitor,3,codice,1,matematica,4
 student_exp1_014,informatica,4,computer,4,software,4,hardware,3
@@ -903,6 +942,7 @@ student_exp1_032,informatica,2,computer,3,microfono,2,tasti,3
 student_exp1_033,informatica,3,linguaggi,3,formule,2,computer,3
 student_exp1_034,informatica,1,tecnologia,3,complessità,3,computer,3
 student_exp1_035,informatica,4,programmazione,2,python,3,computer,4
+student_exp1_036,informatica,3,computer,3,numeri,3,,0
 student_exp1_038,informatica,2,programmazione,2,numeri,2,,0
 student_exp1_039,informatica,2,computer,4,phyton,2,programmazione,1
 student_exp1_040,informatica,4,computer,4,tecnologia,3,ecdl,2
@@ -927,6 +967,7 @@ student_exp1_060,informatica,5,dati,5,numeri,0,,0
 student_exp1_061,informatica,2,formule,3,codice,3,tecnologia,4
 student_exp1_062,informatica,3,aula,1,ansia,1,sfida,5
 student_exp1_063,informatica,2,programmazione,2,computer,4,linguaggio,2
+student_exp1_064,informatica,4,computer,4,programmi,3,,0
 student_exp1_065,informatica,4,computer,4,programmazione,2,matematica,3
 student_exp1_066,informatica,2,computer,4,tastiera,3,calcoli,3
 student_exp1_067,informatica,4,fascino,5,problem solving,5,sfida,5
@@ -946,6 +987,7 @@ student_exp1_006,innovazione,5,digitale,5,tecnologica,5,territorio,4
 student_exp1_007,innovazione,5,scienza,4,futuro,5,bianco,5
 student_exp1_008,innovazione,4,tecnologia,4,energia,4,medicina,5
 student_exp1_009,innovazione,4,sviluppo,5,progresso,5,secoli,3
+student_exp1_010,innovazione,3,progresso,3,nuovo,3,,0
 student_exp1_011,innovazione,2,tecnologia,5,futuro,2,design,4
 student_exp1_012,innovazione,2,novità,2,inquinamento,1,malessere,1
 student_exp1_014,innovazione,5,idee,5,cambiamento,3,paradigmi,3
@@ -970,6 +1012,7 @@ student_exp1_032,innovazione,4,progresso,4,industria,3,tecnologia,3
 student_exp1_033,innovazione,4,tecnologia,3,superarsi,4,novità,4
 student_exp1_034,innovazione,5,tecnologica,1,ingegneria,1,lampadina,3
 student_exp1_035,innovazione,5,tecnologia,4,ingegneria,2,novita',5
+student_exp1_036,innovazione,3,creatività,4,invenzione,3,,0
 student_exp1_038,innovazione,3,nuovo,3,,0,,0
 student_exp1_039,innovazione,4,tecnologia,4,start up,2,ricerca,4
 student_exp1_040,innovazione,4,novità,4,scoperta,4,progresso,5
@@ -994,6 +1037,7 @@ student_exp1_060,innovazione,4,scienze,4,tecnologia,0,,0
 student_exp1_061,innovazione,3,tecnologia,4,mente,3,vita,5
 student_exp1_062,innovazione,5,tecnoloiga,5,ai,5,visori,5
 student_exp1_063,innovazione,5,design,5,intelligenza artificiale,3,tecnologie,4
+student_exp1_064,innovazione,4,tecnologia,4,,0,,0
 student_exp1_065,innovazione,5,soluzione,5,novità,5,,0
 student_exp1_066,innovazione,4,progresso,4,positivo,5,scoperta,4
 student_exp1_067,innovazione,3,ricerca,4,nuovo,3,aperto,5
@@ -1013,6 +1057,7 @@ student_exp1_006,insegnante,4,scuola,3,studio,4,materia,3
 student_exp1_007,insegnante,4,maschio,4,esame,2,lezione,4
 student_exp1_008,insegnante,3,professore,3,scuola,3,matematica,4
 student_exp1_009,insegnante,4,professione,5,passione,5,sostegno,3
+student_exp1_010,insegnante,3,scuola,3,interrogazione,2,,0
 student_exp1_011,insegnante,3,scuola,4,matematica,3,alunno,2
 student_exp1_012,insegnante,4,voto,3,severo,3,interesse,5
 student_exp1_014,insegnante,4,regista,3,supporto,4,osservatore,3
@@ -1060,6 +1105,7 @@ student_exp1_060,insegnante,5,educatore,5,istruire,5,aiutare,0
 student_exp1_061,insegnante,3,scuola,3,libri,4,verifiche,3
 student_exp1_062,insegnante,2,liceo,1,incomprensione,1,ingiustizia,1
 student_exp1_063,insegnante,3,materia,4,univerisità,4,esame,3
+student_exp1_064,insegnante,3,scuola,3,,0,,0
 student_exp1_065,insegnante,3,elementari,4,simpatia,4,calma,5
 student_exp1_066,insegnante,3,scuola,4,cattedra,4,materia,3
 student_exp1_067,insegnante,3,metodico,3,esperto,3,chiuso,1
@@ -1079,6 +1125,7 @@ student_exp1_006,laurea,5,triennale,4,magistrale,3,scienze,4
 student_exp1_007,laurea,4,difficile,2,traguardo,4,festa,5
 student_exp1_008,laurea,4,università,3,festa,5,alloro,3
 student_exp1_009,laurea,5,psicologia,5,110 l,4,successo,5
+student_exp1_010,laurea,4,università,4,tesi,3,presentazione,1
 student_exp1_011,laurea,2,obiettivo,4,vicina,2,magistrale,1
 student_exp1_012,laurea,4,voto,1,università,3,traguardo,5
 student_exp1_014,laurea,3,sfida,5,arrivo,4,partenza,4
@@ -1103,6 +1150,7 @@ student_exp1_032,laurea,5,esame,3,alloro,5,tesi,4
 student_exp1_033,laurea,5,obiettivo,5,università,3,voto finale,5
 student_exp1_034,laurea,3,università,3,triennale,1,alloro,1
 student_exp1_035,laurea,4,futuro,5,corona,3,soddisfazione,5
+student_exp1_036,laurea,4,studio,3,esami,3,tesi,3
 student_exp1_038,laurea,4,facoltà,3,università,3,,0
 student_exp1_039,laurea,4,gioia,4,unione,4,risultato,4
 student_exp1_040,laurea,5,esami,2,tesi,2,festa,5
@@ -1127,6 +1175,7 @@ student_exp1_060,laurea,5,studio,5,impegno,4,lavoro,0
 student_exp1_061,laurea,3,triennale,3,magistrale,3,esami,3
 student_exp1_062,laurea,2,ansia,1,voto,1,secondario,1
 student_exp1_063,laurea,5,università,5,voto,4,crediti,3
+student_exp1_064,laurea,4,università,4,corso,4,,0
 student_exp1_065,laurea,5,tesi,3,corona,4,festa,5
 student_exp1_066,laurea,4,tesi,4,completo,5,università,4
 student_exp1_067,laurea,5,studio,3,percorso,4,riconoscimento,5
@@ -1146,6 +1195,7 @@ student_exp1_006,lavoro,4,agile,5,smart working,5,stipendio,4
 student_exp1_007,lavoro,4,orario,3,tempo,2,soddisfazione,5
 student_exp1_008,lavoro,3,allenatore,5,fatica,2,soldi,2
 student_exp1_009,lavoro,4,stipendio,5,pensione,5,mantenimento,4
+student_exp1_010,lavoro,3,salario,4,capo,2,colleghi,2
 student_exp1_011,lavoro,2,stipendio,2,design,4,pesante,2
 student_exp1_012,lavoro,2,fatica,1,determinazione,2,passione,3
 student_exp1_014,lavoro,4,divertimento,4,piacere,4,necessità,2
@@ -1170,6 +1220,7 @@ student_exp1_032,lavoro,4,zaino,3,città,4,impegno,3
 student_exp1_033,lavoro,4,stipendio,4,colleghi,4,impegno,5
 student_exp1_034,lavoro,3,futuro,5,dedizione,5,impegno,5
 student_exp1_035,lavoro,4,sforzo,3,retribuzione,4,passione,5
+student_exp1_036,lavoro,4,stipendio,4,,0,,0
 student_exp1_038,lavoro,3,passione,5,dedizione,5,soldi,3
 student_exp1_039,lavoro,3,ufficio,2,cravatta,3,stanchezza,1
 student_exp1_040,lavoro,3,stress,2,dedizione,5,passione,5
@@ -1194,6 +1245,7 @@ student_exp1_060,lavoro,3,soldi,4,esperienza,5,professionalità,0
 student_exp1_061,lavoro,3,soldi,3,fatica,3,cameriere,4
 student_exp1_062,lavoro,5,terapeuta,5,soddisfazione,5,fama,5
 student_exp1_063,lavoro,4,soldi,5,passione,5,obiettivi,5
+student_exp1_064,lavoro,3,soldi,4,colleghi,4,,0
 student_exp1_065,lavoro,4,stipendio,4,imparare,4,abilità,4
 student_exp1_066,lavoro,2,fogli,3,stipendio,4,turni,2
 student_exp1_067,lavoro,3,sequenziale,1,ciclico,1,difficile,2
@@ -1213,6 +1265,7 @@ student_exp1_006,matematica,3,numeri,3,algebra,3,equazioni,3
 student_exp1_007,matematica,4,quaderno,4,formule,2,numeri,5
 student_exp1_008,matematica,4,scuola,3,professore,3,esercizi,3
 student_exp1_009,matematica,3,algebra,3,operazioni,4,euclide,4
+student_exp1_010,matematica,3,numeri,3,tabelline,1,,0
 student_exp1_011,matematica,3,fisica,4,complessità,3,professoressa,4
 student_exp1_012,matematica,4,numeri,3,simboli,3,risultati,3
 student_exp1_014,matematica,5,curiosità,3,mondo,3,ovunque,3
@@ -1237,6 +1290,7 @@ student_exp1_032,matematica,2,scienza,4,rosso,4,operazione,3
 student_exp1_033,matematica,3,numeri,3,divisione,3,percentuali,3
 student_exp1_034,matematica,1,costanza,3,numeri,1,calcolatrice,1
 student_exp1_035,matematica,3,corso,3,insiemi,2,equazioni,4
+student_exp1_036,matematica,3,numeri,3,formule,3,problemi,3
 student_exp1_038,matematica,2,ansia,3,numeri,2,,0
 student_exp1_039,matematica,2,blu,3,formule,2,calcoli,2
 student_exp1_040,matematica,4,calcolo,3,calcolatrice,3,problemi,1
@@ -1261,6 +1315,7 @@ student_exp1_060,matematica,5,numeri,4,regole,5,oggettività,0
 student_exp1_061,matematica,3,calcoli,3,equazioni,3,problemi,3
 student_exp1_062,matematica,2,necessaria,3,punto debole,5,paura,1
 student_exp1_063,matematica,1,scuola,1,addizioni,1,ansia,1
+student_exp1_064,matematica,3,numeri,3,calcoli,3,,0
 student_exp1_065,matematica,3,numeri,4,analisi,3,problemi,3
 student_exp1_066,matematica,4,operazioni,4,numeri,3,somma,5
 student_exp1_067,matematica,3,soddisfazione,4,disciplina,4,costanza,4
@@ -1280,6 +1335,7 @@ student_exp1_006,media,3,universitaria,4,aspettativa,3,scuola,1
 student_exp1_007,media,2,ponderata,3,voti,1,alta,5
 student_exp1_008,media,3,aritmetica,3,altezza,3,statistica,4
 student_exp1_009,media,2,universitaria,3,ponderata,3,errore,3
+student_exp1_010,media,3,voto,3,,0,,0
 student_exp1_011,media,4,voti,4,statistica,5,,0
 student_exp1_012,media,2,numeri,4,tre,4,risultato,3
 student_exp1_014,media,3,statistica,3,matematica,5,informazione,4
@@ -1304,6 +1360,7 @@ student_exp1_032,media,3,mezzo,3,numeri,3,quantità,3
 student_exp1_033,media,3,mediana,3,numeri,3,ponderata,3
 student_exp1_034,media,3,alta,1,aritmetica,1,calcolo,1
 student_exp1_035,media,2,voto,3,matematica,2,numero,3
+student_exp1_036,media,3,aritmetica,3,voto,2,,0
 student_exp1_038,media,3,matematica,2,voto,3,,0
 student_exp1_039,media,2,voti,2,calcoli,2,laurea,4
 student_exp1_040,media,4,matematica,4,calcoli,4,formule,4
@@ -1328,6 +1385,7 @@ student_exp1_060,media,3,aritmetica,3,dati,3,somma,0
 student_exp1_061,media,3,aritmetica,3,voti,3,problemi,3
 student_exp1_062,media,1,alta,2,asticella,2,sforzo,2
 student_exp1_063,media,3,matematica,2,voti,3,ponderata,3
+student_exp1_064,media,3,numeri,3,matematica,3,,0
 student_exp1_065,media,2,voti,2,superare,4,dati,4
 student_exp1_066,media,3,aritmetica,4,numeri,3,voti,4
 student_exp1_067,media,3,matematica,3,mediocità,1,aritmentica,3
@@ -1347,6 +1405,7 @@ student_exp1_006,mente,4,cervello,5,intelligenza,5,testa,3
 student_exp1_007,mente,5,cervello,4,emozioni,5,motivazioni,5
 student_exp1_008,mente,4,cervello,4,allenamento,4,memoria,4
 student_exp1_009,mente,4,pensieri,4,pensiero,4,ricordo,4
+student_exp1_010,mente,4,cervello,4,box,3,,0
 student_exp1_011,mente,5,persona,4,insidiosa,4,ricerca,4
 student_exp1_012,mente,2,subdola,1,incontrollabile,1,mistero,1
 student_exp1_014,mente,5,ragionamento,5,pensieri,5,emozioni,5
@@ -1371,6 +1430,7 @@ student_exp1_032,mente,4,corpo,2,dentro,3,inconscio,4
 student_exp1_033,mente,3,cervello,4,pensare,3,riflessione,4
 student_exp1_034,mente,5,anima,5,pensiero,5,cervello,5
 student_exp1_035,mente,4,sapere,4,intelletto,4,inconscio,4
+student_exp1_036,mente,5,cervello,4,pensiero,5,,0
 student_exp1_038,mente,4,pensieri,5,emozioni,5,,0
 student_exp1_039,mente,4,cervello,4,neuroni,3,connessioni sinaptiche,4
 student_exp1_040,mente,5,disturbo,2,psicologia,3,comportamento,3
@@ -1395,6 +1455,7 @@ student_exp1_060,mente,5,cervello,4,pensieri,0,,0
 student_exp1_061,mente,3,neuroni,3,pensieri,3,cervello,3
 student_exp1_062,mente,5,collegamenti,3,neuroni,3,tempo,5
 student_exp1_063,mente,4,cervello,3,neuroscienze,4,neuroni,3
+student_exp1_064,mente,4,cervello,4,psicologia,4,,0
 student_exp1_065,mente,3,incomprensibile,2,cervello,4,scienziati,3
 student_exp1_066,mente,3,cervello,4,pensiero,4,psicologia,5
 student_exp1_067,mente,3,treno,3,overthinking,1,mistero,3
@@ -1414,6 +1475,7 @@ student_exp1_006,modello,5,mentale,4,fisico,5,linguistico,2
 student_exp1_007,modello,3,società,3,formula,2,test,2
 student_exp1_008,modello,3,business,3,riferimento,3,idea,4
 student_exp1_009,modello,3,anatomico,4,icona,4,studio,3
+student_exp1_010,modello,2,algoritmo,3,,0,,0
 student_exp1_011,modello,4,psicologia,5,fotografia,5,esempio,4
 student_exp1_012,modello,1,manichino,1,moda,1,standard,1
 student_exp1_014,modello,3,esempio,3,costante,3,regolato,3
@@ -1438,6 +1500,7 @@ student_exp1_032,modello,3,paradigma,3,studio,4,teoria,3
 student_exp1_033,modello,3,esempio,4,campione,3,moda,4
 student_exp1_034,modello,3,milano,1,esempio,1,comparazione,3
 student_exp1_035,modello,4,scientifico,3,dati,3,grafico,4
+student_exp1_036,modello,3,scienza,4,,0,,0
 student_exp1_038,modello,3,matematica,2,,0,,0
 student_exp1_039,modello,3,psicologico,4,studio,4,analisi,4
 student_exp1_040,modello,3,esempio,4,comportamento,4,omologazione,2
@@ -1462,6 +1525,7 @@ student_exp1_060,modello,4,riferimento,4,aiuto,0,,0
 student_exp1_061,modello,2,copertina,3,imparare,4,perfetto,5
 student_exp1_062,modello,4,foto,3,passerella,3,matematica,3
 student_exp1_063,modello,3,mentale,3,design,4,moda,3
+student_exp1_064,modello,3,,0,,0,,0
 student_exp1_065,modello,4,file,4,copia,4,,0
 student_exp1_066,modello,3,dati,3,barre,3,linee,2
 student_exp1_067,modello,5,disciplina,5,ordine,5,metodo,4
@@ -1481,6 +1545,7 @@ student_exp1_006,neuroscienze,4,cervello,4,mente,4,sinapsi,3
 student_exp1_007,neuroscienze,4,fmri,4,esperimento,4,dati,2
 student_exp1_008,neuroscienze,3,studio,3,cervello,4,neuroni,3
 student_exp1_009,neuroscienze,4,neurologia,4,cervello,4,scienze,4
+student_exp1_010,neuroscienze,4,esperimento,4,ricerca,5,,0
 student_exp1_011,neuroscienze,5,neuroni,4,magistrale,2,bias,5
 student_exp1_012,neuroscienze,3,scienze,5,laboratorio,1,animali,5
 student_exp1_014,neuroscienze,5,cervello,4,mente,5,ricerca,5
@@ -1505,6 +1570,7 @@ student_exp1_032,neuroscienze,3,cervello,4,connessioni,5,scienza,4
 student_exp1_033,neuroscienze,3,cognitive,3,freud,3,cervello,4
 student_exp1_034,neuroscienze,5,persona,5,scoperta,3,futuro,5
 student_exp1_035,neuroscienze,2,corso,3,cervello,4,area,3
+student_exp1_036,neuroscienze,4,scienza,4,cervello,0,,0
 student_exp1_038,neuroscienze,4,scienze cognitive,4,psicologia,5,scienze,4
 student_exp1_039,neuroscienze,4,cervello,4,neuroni,3,blu,3
 student_exp1_040,neuroscienze,4,cervello,4,ricerca,4,mente,4
@@ -1529,6 +1595,7 @@ student_exp1_060,neuroscienze,4,cognitive,5,cervello,0,,0
 student_exp1_061,neuroscienze,3,cervello,3,neuroni,3,pensiero,3
 student_exp1_062,neuroscienze,5,aspirazione,4,lab,3,cervello,5
 student_exp1_063,neuroscienze,4,scienze cognitive,4,neuroni,3,ricerca,4
+student_exp1_064,neuroscienze,3,cervello,4,scienza,4,,0
 student_exp1_065,neuroscienze,3,cervello,4,scienza,3,,0
 student_exp1_066,neuroscienze,4,cervello,3,studio,3,lesioni,1
 student_exp1_067,neuroscienze,3,mente,3,esperimenti,3,apertura,4
@@ -1548,6 +1615,7 @@ student_exp1_006,passione,5,amore,5,sport,5,dedizione,4
 student_exp1_007,passione,5,sport,5,persone,5,frutto,3
 student_exp1_008,passione,5,basket,5,videogiochi,4,sport,5
 student_exp1_009,passione,5,psicologia,5,pallavolo,5,abbracci,5
+student_exp1_010,passione,5,lavoro,3,hobby,4,,0
 student_exp1_011,passione,5,sesso,4,dedizione,4,rosso,5
 student_exp1_012,passione,2,emozione,3,fuoco,2,incoscienza,1
 student_exp1_014,passione,3,forza,3,piacere,3,fuoco,3
@@ -1572,6 +1640,7 @@ student_exp1_032,passione,5,tempo,2,piacere,4,fogli,4
 student_exp1_033,passione,4,sport,5,musica,5,camminare,5
 student_exp1_034,passione,5,cuore,5,montagna,5,amici,5
 student_exp1_035,passione,5,sport,4,amore,5,lavoro,4
+student_exp1_036,passione,5,musica,5,,0,,0
 student_exp1_038,passione,5,amore,5,gioia,5,soddisfazione,5
 student_exp1_039,passione,5,pittura,5,aria aperta,5,colori,5
 student_exp1_040,passione,5,benessere,5,piacere,5,perseveranza,6
@@ -1596,6 +1665,7 @@ student_exp1_060,passione,5,amore,5,curiosità,0,,0
 student_exp1_061,passione,5,amore,5,vita,5,partner,5
 student_exp1_062,passione,5,fuoco,5,fidanzato,5,psicologia,5
 student_exp1_063,passione,5,sport,5,design,5,arte,3
+student_exp1_064,passione,4,sport,4,,0,,0
 student_exp1_065,passione,5,hobby,5,sport,4,animali,4
 student_exp1_066,passione,4,amore,5,dedizione,4,piacere,5
 student_exp1_067,passione,5,disciplina,5,impengno,5,gratificazione,5
@@ -1615,6 +1685,7 @@ student_exp1_006,personalità,5,persona,3,carisma,5,carattere,4
 student_exp1_007,personalità,5,persona,5,forte,5,simpatico,5
 student_exp1_008,personalità,5,multipla,3,crisi,1,forte,5
 student_exp1_009,personalità,4,diversità,4,narcisista,2,istrionica,2
+student_exp1_010,personalità,3,,0,,0,,0
 student_exp1_011,personalità,3,disturbo,1,sfaccettata,3,unica,5
 student_exp1_012,personalità,5,soggettivo,5,personale,5,unico,5
 student_exp1_014,personalità,0,diversità,0,individualitò,0,collettività,0
@@ -1639,6 +1710,7 @@ student_exp1_032,personalità,5,tipo,3,carattere,5,agire,4
 student_exp1_033,personalità,5,identità,5,carattere,5,persona,3
 student_exp1_034,personalità,5,forte,3,coraggio,5,identificazione,5
 student_exp1_035,personalità,3,carattere,3,solare,5,individuo,3
+student_exp1_036,personalità,4,carattere,4,,0,,0
 student_exp1_038,personalità,4,solare,3,introverso,4,ansioso,4
 student_exp1_039,personalità,5,forza,4,test,4,estroversione,5
 student_exp1_040,personalità,4,disturbo,2,bipolarismo,2,timidezza,3
@@ -1663,6 +1735,7 @@ student_exp1_060,personalità,4,carattere,3,indole,0,,0
 student_exp1_061,personalità,4,carattere,4,salute,4,vita,5
 student_exp1_062,personalità,3,cattiveria,5,costruzione,5,organizzazione,3
 student_exp1_063,personalità,4,esuberante,2,estroverso,4,bella,4
+student_exp1_064,personalità,4,doppia,3,,0,,0
 student_exp1_065,personalità,4,multipla,2,cambiare,3,,0
 student_exp1_066,personalità,4,temperamento,3,carattere,4,persona,4
 student_exp1_067,personalità,5,unicità,5,fascino,5,curiosità,5
@@ -1682,6 +1755,7 @@ student_exp1_006,professore,5,esperto,5,insegnate,4,istruzione,4
 student_exp1_007,professore,4,aulico,2,cattedra,3,università,2
 student_exp1_008,professore,3,matematica,3,liceo,3,università,3
 student_exp1_009,professore,3,professione,3,lavoro,3,stipendio,4
+student_exp1_010,professore,3,insegnamento,3,lezione,4,,0
 student_exp1_011,professore,3,dottorato,5,conoscenza,5,università,3
 student_exp1_012,professore,4,persona,4,laureato,5,insegnante,5
 student_exp1_014,professore,4,motivatore,3,conoscenza,4,innesto,3
@@ -1706,6 +1780,7 @@ student_exp1_032,professore,4,scuola,4,lezione,4,lavagna,3
 student_exp1_033,professore,3,universitario,3,rispetto,5,fiducia,5
 student_exp1_034,professore,3,lavagna,1,professionale,1,insegnamento,3
 student_exp1_035,professore,3,materia,4,disponibilita',5,competenza,5
+student_exp1_036,professore,3,insegnante,4,materia,3,passione,5
 student_exp1_038,professore,3,insegnante,3,autorità,3,,0
 student_exp1_039,professore,3,cattedra,3,maglione,3,silenzio,4
 student_exp1_040,professore,3,aula,3,test,2,lezioni,3
@@ -1729,6 +1804,7 @@ student_exp1_060,professore,5,modello,5,istruttore,5,educatore,0
 student_exp1_061,professore,3,università,3,esame,3,libro,4
 student_exp1_062,professore,5,rapporto,5,comprensione,5,stuzzicante,5
 student_exp1_063,professore,4,università,4,scuola,2,verifica,2
+student_exp1_064,professore,3,scuola,3,materia,3,,0
 student_exp1_065,professore,3,università,3,libri,2,esame,2
 student_exp1_066,professore,3,lavagna,4,materia,3,giacca,4
 student_exp1_067,professore,4,esperto,4,preparato,5,lento,2
@@ -1748,6 +1824,7 @@ student_exp1_006,prova,3,uno,3,due,3,tre,3
 student_exp1_007,prova,2,microfono,3,esame,2,parallela,2
 student_exp1_008,prova,3,valutazione,3,studio,3,tentativo,4
 student_exp1_009,prova,4,orale,2,intermedia,2,valutazione,2
+student_exp1_010,prova,2,test,2,,0,,0
 student_exp1_011,prova,2,esame,2,ostacolo,4,test,2
 student_exp1_012,prova,3,valutazione,3,giudizio,3,difficoltà,3
 student_exp1_014,prova,3,superamento,3,sfida,4,valutazione,4
@@ -1772,6 +1849,7 @@ student_exp1_032,prova,3,esame,3,verifica,2,esercizio,2
 student_exp1_033,prova,2,esame,2,superata,4,sfida,4
 student_exp1_034,prova,1,penna,1,concentrazione,5,statistica,1
 student_exp1_035,prova,3,esame,2,algebra,2,domande,3
+student_exp1_036,prova,2,esame,2,,0,,0
 student_exp1_038,prova,3,esame,2,test,3,valutazione,2
 student_exp1_039,prova,3,fisica,2,scolastico,2,podio,2
 student_exp1_040,prova,2,valutazione,2,controllo,2,esame,2
@@ -1796,6 +1874,7 @@ student_exp1_060,prova,5,test,4,valutazione,0,,0
 student_exp1_061,prova,3,esame,3,paura,3,ansia,3
 student_exp1_062,prova,1,cogliere,5,ansia,1,test,1
 student_exp1_063,prova,3,esame,4,scritta,3,orale,3
+student_exp1_064,prova,3,esame,2,,0,,0
 student_exp1_065,prova,3,voto,3,preparazione,2,studiare,2
 student_exp1_066,prova,3,test,2,spettacolo,4,sicurezza,4
 student_exp1_067,prova,3,ansia,1,disciplina,4,valutazione,2
@@ -1815,6 +1894,7 @@ student_exp1_006,psicologia,4,pensiero,4,generale,3,percezione,3
 student_exp1_007,psicologia,4,mente,5,interesse,5,aiuto,5
 student_exp1_008,psicologia,4,studio,4,mente,4,terapia,4
 student_exp1_009,psicologia,5,passione,5,interesse,5,mente,4
+student_exp1_010,psicologia,5,teorie,2,disturbo,3,salute,4
 student_exp1_011,psicologia,5,studio,4,percezione,5,,0
 student_exp1_012,psicologia,4,mente,4,capire,5,sconosciuto,1
 student_exp1_014,psicologia,3,mente,5,emozioni,5,studio,3
@@ -1839,6 +1919,7 @@ student_exp1_032,psicologia,5,mente,4,studio,4,terapia,5
 student_exp1_033,psicologia,3,psicologi,4,cervello,3,conoscere,4
 student_exp1_034,psicologia,5,scienza,1,mente,5,persona,5
 student_exp1_035,psicologia,5,studio,4,dinamica,4,comportamento,5
+student_exp1_036,psicologia,4,cervello,4,aiuto,4,lavoro,4
 student_exp1_038,psicologia,5,mente,4,aiuto,5,curiosità,5
 student_exp1_039,psicologia,4,viola,4,ricerca,4,freud,4
 student_exp1_040,psicologia,5,università,4,passione,5,cervello,4
@@ -1863,6 +1944,7 @@ student_exp1_060,psicologia,4,cervello,4,studio,3,mente,0
 student_exp1_061,psicologia,3,mente,3,pensiero,3,decisione,3
 student_exp1_062,psicologia,5,focus,5,passione,5,biologia,4
 student_exp1_063,psicologia,5,cognitiva,5,linguaggio,5,università,4
+student_exp1_064,psicologia,4,università,4,mente,4,cervello,4
 student_exp1_065,psicologia,4,cervello,4,esperimenti,4,,0
 student_exp1_066,psicologia,5,mente,3,cervello,3,studio,4
 student_exp1_067,psicologia,3,mente,3,singnificati,4,personale,3
@@ -1882,6 +1964,7 @@ student_exp1_006,psicopatologia,1,patologia,1,cura,5,terapia,5
 student_exp1_007,psicopatologia,4,malattie,1,medicine,4,terapia,5
 student_exp1_008,psicopatologia,1,malattia,1,mente,4,problema,2
 student_exp1_009,psicopatologia,2,patologia,3,psicologia,4,ansia,2
+student_exp1_010,psicopatologia,4,malessere,1,disturbo,2,,0
 student_exp1_011,psicopatologia,2,disturbi,1,ricerca,4,aiuto,1
 student_exp1_012,psicopatologia,2,patologia,1,meccanismi,3,mente,4
 student_exp1_014,psicopatologia,1,malessere,2,difficoltà,4,fragilità,2
@@ -1906,6 +1989,7 @@ student_exp1_032,psicopatologia,5,studio,4,scienza,4,disturbo,1
 student_exp1_033,psicopatologia,2,terapia,2,cervello,3,psicologo,4
 student_exp1_034,psicopatologia,5,scienza,1,malessere,1,disturbo,1
 student_exp1_035,psicopatologia,4,studio,4,malattia,1,mente,4
+student_exp1_036,psicopatologia,3,psicologia,4,patologia,4,,0
 student_exp1_038,psicopatologia,3,psicologia,5,patologia,3,pregiudizio,1
 student_exp1_039,psicopatologia,3,dsm v,4,esame,3,disturbi,4
 student_exp1_040,psicopatologia,2,farmaci,3,disturbo,2,dipendenza,1
@@ -1930,6 +2014,7 @@ student_exp1_060,psicopatologia,1,malattia,5,cura,5,studio,0
 student_exp1_061,psicopatologia,2,mentale,3,idea,4,male,3
 student_exp1_062,psicopatologia,5,interessante,5,piacevole,5,terapia,5
 student_exp1_063,psicopatologia,4,psicologia,4,studi,4,università,4
+student_exp1_064,psicopatologia,2,patologie,2,,0,,0
 student_exp1_065,psicopatologia,3,psicologia,3,,0,,0
 student_exp1_066,psicopatologia,2,malattia,2,depressione,2,psicologo,4
 student_exp1_067,psicopatologia,3,dolore,2,riabilitazione,5,ossessione,2
@@ -1949,6 +2034,7 @@ student_exp1_006,psicoterapia,4,terapia,4,cura,4,psicologo,4
 student_exp1_007,psicoterapia,5,benessere,5,parlare,5,ascoltare,5
 student_exp1_008,psicoterapia,4,cura,5,mente,4,lavoro,3
 student_exp1_009,psicoterapia,5,farmaci,4,colloquio,5,seduta,4
+student_exp1_010,psicoterapia,4,aiuto,4,ascolto,4,,0
 student_exp1_011,psicoterapia,3,percorso,2,farmaci,1,problemi,3
 student_exp1_012,psicoterapia,5,cura,5,benessere,5,risoluzione,5
 student_exp1_014,psicoterapia,4,sostegno,5,benessere,5,emotività,3
@@ -1973,6 +2059,7 @@ student_exp1_032,psicoterapia,5,terapia,5,colloquio,3,diagnosi,2
 student_exp1_033,psicoterapia,2,psichiatra,4,psicologia,3,aiuto,5
 student_exp1_034,psicoterapia,5,sfogo,5,ascolto,5,aiuto,5
 student_exp1_035,psicoterapia,5,colloquio,3,percorso,5,crescita,5
+student_exp1_036,psicoterapia,3,terapia,4,aiuto,4,psicologia,4
 student_exp1_038,psicoterapia,5,aiuto,5,psicologia,5,salute,5
 student_exp1_039,psicoterapia,4,famiglia,2,comunicazione,5,apertura,5
 student_exp1_040,psicoterapia,4,psicologia,5,ansia,2,aiuto,5
@@ -1997,6 +2084,7 @@ student_exp1_060,psicoterapia,0,,0,,0,,0
 student_exp1_061,psicoterapia,3,problemi,3,mente,3,pensiero,3
 student_exp1_062,psicoterapia,5,aspirazione,5,accogliere,5,aiutare,5
 student_exp1_063,psicoterapia,5,psicologo,5,benessere,5,tristezza,2
+student_exp1_064,psicoterapia,2,cura,2,terapia,2,,0
 student_exp1_065,psicoterapia,3,problemi,3,seduta,3,percorso,4
 student_exp1_066,psicoterapia,5,cura,5,mente,3,paziente,3
 student_exp1_067,psicoterapia,3,dialogo,5,ordine,5,impegno,5
@@ -2016,6 +2104,7 @@ student_exp1_006,sapere,5,conoscere,5,studio,4,conoscenza,5
 student_exp1_007,sapere,5,grecia,5,barba,3,libro,5
 student_exp1_008,sapere,4,conoscenza,4,saggezza,4,potere,2
 student_exp1_009,sapere,5,conoscenza,5,intelligenza,4,fondato,4
+student_exp1_010,sapere,4,libro,5,,0,,0
 student_exp1_011,sapere,5,studio,4,esperienza,2,professore,4
 student_exp1_012,sapere,5,intelligenza,5,variabilità,2,materie,3
 student_exp1_014,sapere,5,cultura,5,conoscenza,5,bellezza,3
@@ -2040,6 +2129,7 @@ student_exp1_032,sapere,4,cooscenza,5,filosofia,5,libri,5
 student_exp1_033,sapere,4,conoscere,4,leggere,4,esprimersi,5
 student_exp1_034,sapere,5,indipendenza,5,bagaglio culturale,5,filosofia,1
 student_exp1_035,sapere,4,intelletto,4,libro,3,cultura,5
+student_exp1_036,sapere,4,mente,5,intelligenza,4,,0
 student_exp1_038,sapere,5,conoscenza,5,istruzione,4,,0
 student_exp1_039,sapere,5,socrate,5,libro,5,studio,4
 student_exp1_040,sapere,4,conoscenza,4,esame,2,test,2
@@ -2064,6 +2154,7 @@ student_exp1_060,sapere,5,infinito,3,socrate,0,,0
 student_exp1_061,sapere,3,conoscere,4,studiare,3,università,3
 student_exp1_062,sapere,5,necessario,5,bagaglio,5,volontà,5
 student_exp1_063,sapere,5,studiare,4,leggere,4,libri,4
+student_exp1_064,sapere,5,intelligenza,5,,0,,0
 student_exp1_065,sapere,4,intelligenza,5,crescita,4,conoscenza,5
 student_exp1_066,sapere,4,cervello,3,memoria,3,conoscenza,4
 student_exp1_067,sapere,5,occhio critico,5,apertura,5,umiltà,5
@@ -2083,6 +2174,7 @@ student_exp1_006,scienza,4,natura,5,biologia,4,chimica,4
 student_exp1_007,scienza,5,laboratorio,2,futuro,5,fisica,4
 student_exp1_008,scienza,4,natura,3,biologia,3,fisica,3
 student_exp1_009,scienza,3,galileo,4,esperimenti,4,natura,4
+student_exp1_010,scienza,4,scoperta,4,esperimento,4,teoria,3
 student_exp1_011,scienza,5,fisica,5,biologia,4,natura,5
 student_exp1_012,scienza,4,numeri,3,natura,5,animali,5
 student_exp1_014,scienza,5,ricerca,5,scoperta,5,conoscenza,5
@@ -2107,6 +2199,7 @@ student_exp1_032,scienza,4,laboratorio,2,rischio,2,bianco,3
 student_exp1_033,scienza,3,atomo,3,fisica,3,vegetali,4
 student_exp1_034,scienza,3,esperimenti,1,laboratorio,1,verde,1
 student_exp1_035,scienza,3,studio,4,vita,5,natura,5
+student_exp1_036,scienza,4,microscopio,3,ricerca,5,,0
 student_exp1_038,scienza,3,biologia,4,chimica,3,,0
 student_exp1_039,scienza,3,verde,4,laboratorio,2,informatica,2
 student_exp1_040,scienza,3,fisica,1,laboratorio,3,controllo,2
@@ -2131,6 +2224,7 @@ student_exp1_060,scienza,3,studio,5,innovazione,0,,0
 student_exp1_061,scienza,3,terra,4,universo,3,vita,5
 student_exp1_062,scienza,4,futuro,1,difficoltà,1,possibilità,5
 student_exp1_063,scienza,3,biologia,3,chimica,3,neuroscienze,4
+student_exp1_064,scienza,3,progresso,4,studio,3,,0
 student_exp1_065,scienza,2,scienziato,3,,0,,0
 student_exp1_066,scienza,4,chimica,2,studio,4,sapere,4
 student_exp1_067,scienza,4,disciplina,5,ordine,5,globalità,5
@@ -2150,6 +2244,7 @@ student_exp1_006,scienziato,5,camice,3,occhiali,3,scienze,4
 student_exp1_007,scienziato,5,boccetta,3,camice,3,occhiali,5
 student_exp1_008,scienziato,4,einstein,5,genio,5,lavoro,4
 student_exp1_009,scienziato,4,frankestain,3,studio,4,avanguardia,5
+student_exp1_010,scienziato,3,laboratorio,3,camice,3,,0
 student_exp1_011,scienziato,5,ricerca,4,esperimento,5,camice,3
 student_exp1_012,scienziato,5,camice,4,occhiali,4,intelligenza,5
 student_exp1_014,scienziato,4,curioso,3,tenace,3,resiliente,4
@@ -2174,6 +2269,7 @@ student_exp1_032,scienziato,3,camice,3,laboratorio,2,ipotesi,4
 student_exp1_033,scienziato,3,scienza,3,laboratorio,3,chimica,3
 student_exp1_034,scienziato,3,esperimenti,3,capelli bianchi,1,provette,1
 student_exp1_035,scienziato,3,lavoro,4,ricerca,5,biologia,3
+student_exp1_036,scienziato,4,scienza,4,lavoro,4,passione,5
 student_exp1_038,scienziato,3,scienze,4,professione,3,,0
 student_exp1_039,scienziato,4,laboratorio,2,mascherina,2,ricerca,4
 student_exp1_040,scienziato,3,scienza,3,scoperte,4,laboratorio,3
@@ -2198,6 +2294,7 @@ student_exp1_060,scienziato,0,,0,,0,,0
 student_exp1_061,scienziato,3,fisica,3,libri,4,innovazione,5
 student_exp1_062,scienziato,5,aspirazione,1,insicurezza,1,potenzialità,5
 student_exp1_063,scienziato,3,esperimento,4,ricerca,4,laboratorio,4
+student_exp1_064,scienziato,3,scienza,3,esperimenti,4,,0
 student_exp1_065,scienziato,2,provette,2,verde,3,camice,3
 student_exp1_066,scienziato,4,provetta,3,camice,4,laboratorio,4
 student_exp1_067,scienziato,3,colto,5,critico,5,analitico,4
@@ -2217,6 +2314,7 @@ student_exp1_006,sfida,4,partita,5,gara,2,personale,3
 student_exp1_007,sfida,2,io,3,combattimento,2,futuro,5
 student_exp1_008,sfida,4,battaglia,2,scontro,3,rivincita,3
 student_exp1_009,sfida,3,lotta,2,superiorità,2,duello,2
+student_exp1_010,sfida,2,prova,2,successo,3,competizione,2
 student_exp1_011,sfida,2,capacità,4,paura,1,soddisfazione,3
 student_exp1_012,sfida,4,difficoltà,3,limite,3,sè stessi,3
 student_exp1_014,sfida,5,mettersi in gioco,5,eccitazione,3,problem solving,5
@@ -2241,6 +2339,7 @@ student_exp1_032,sfida,2,test,2,battaglia,3,competizione,2
 student_exp1_033,sfida,4,gioco,5,superare,5,avversario,3
 student_exp1_034,sfida,1,sport,3,concentrazione,5,competizione,3
 student_exp1_035,sfida,2,gara,3,sport,4,duello,1
+student_exp1_036,sfida,4,risultato,3,possibilità,4,,0
 student_exp1_038,sfida,3,ostacolo,2,determinazione,5,,0
 student_exp1_039,sfida,4,aggressione,4,impegno,4,rivalità,4
 student_exp1_040,sfida,2,ansia,2,competizione,2,pressione,2
@@ -2265,6 +2364,7 @@ student_exp1_060,sfida,5,costruttiva,2,conflitto,4,confronto,0
 student_exp1_061,sfida,3,ansia,3,adrenalina,3,vita,5
 student_exp1_062,sfida,5,stuzzicante,5,allettante,4,cogliere,5
 student_exp1_063,sfida,2,sport,4,partita,4,competizione,3
+student_exp1_064,sfida,2,giochi,5,competizione,2,,0
 student_exp1_065,sfida,3,gara,3,vincere,4,coppa,4
 student_exp1_066,sfida,2,squadra,4,obiettivo,4,premio,5
 student_exp1_067,sfida,5,fascino,5,autodisciplina,5,soddisfazione,5
@@ -2284,6 +2384,7 @@ student_exp1_006,statistica,3,canal,3,esame,2,curva,3
 student_exp1_007,statistica,3,dati,2,formule,2,verifica,2
 student_exp1_008,statistica,4,media,3,moda,3,mediana,3
 student_exp1_009,statistica,3,operazioni,3,test,3,dati,3
+student_exp1_010,statistica,3,sd,3,calcolo,3,,0
 student_exp1_011,statistica,5,università,3,probabilità,5,bias,5
 student_exp1_012,statistica,1,numeri,3,formule,3,grafici,3
 student_exp1_014,statistica,4,dati,5,percentuali,3,informazioni,4
@@ -2308,6 +2409,7 @@ student_exp1_032,statistica,2,matematica,2,tabelle,3,colonne,3
 student_exp1_033,statistica,3,numeri,3,grafici,3,calcoli,3
 student_exp1_034,statistica,1,numeri,1,tabelle,1,calcoli,1
 student_exp1_035,statistica,4,corso,3,tendenza,4,dati,3
+student_exp1_036,statistica,2,numeri,3,formule,3,,0
 student_exp1_038,statistica,3,matematica,2,numeri,3,operazioni,3
 student_exp1_039,statistica,2,istat,3,calcolo,3,popolazione,3
 student_exp1_040,statistica,3,analisi,3,test,1,significatività,4
@@ -2332,6 +2434,7 @@ student_exp1_060,statistica,4,matematica,3,analisi,4,dati,0
 student_exp1_061,statistica,1,calcoli,3,numeri,3,test,3
 student_exp1_062,statistica,2,facile,5,comprensibile,5,computer,3
 student_exp1_063,statistica,2,ansia,2,probabilità,3,variabili,3
+student_exp1_064,statistica,3,matematica,3,grafici,3,,0
 student_exp1_065,statistica,4,grafici,4,calcoli,3,,0
 student_exp1_066,statistica,2,stima,3,numeri,3,ricerca,2
 student_exp1_067,statistica,3,metodo,4,studio,4,conoscenza,5
@@ -2351,6 +2454,7 @@ student_exp1_006,sviluppo,5,imprenditorialità,3,professionale,4,personale,4
 student_exp1_007,sviluppo,4,economico,2,industriale,1,atipico,1
 student_exp1_008,sviluppo,4,architettura,5,crescita,4,tecnologia,4
 student_exp1_009,sviluppo,5,crescere,5,migliorare,5,progetto,4
+student_exp1_010,sviluppo,3,crescita,3,bambini,3,,0
 student_exp1_011,sviluppo,4,bambino,4,psicologia,5,evoluzione,4
 student_exp1_012,sviluppo,5,crescita,3,bambino,3,persona,3
 student_exp1_014,sviluppo,5,progresso,3,crescita,5,mondo,3
@@ -2375,6 +2479,7 @@ student_exp1_032,sviluppo,2,bambino,2,lezione,4,crescita,4
 student_exp1_033,sviluppo,4,crescere,5,promozione,4,tecnologia,4
 student_exp1_034,sviluppo,5,personale,5,adolescente,1,crescita,5
 student_exp1_035,sviluppo,4,cognitivo,4,bambino,3,vita,5
+student_exp1_036,sviluppo,5,personale,4,mente,4,umano,3
 student_exp1_038,sviluppo,4,cambiamento,3,miglioramento,5,,0
 student_exp1_039,sviluppo,4,crescita,4,studio,4,pubertà,4
 student_exp1_040,sviluppo,4,evoluzione,4,adolescente,4,progresso,4
@@ -2399,6 +2504,7 @@ student_exp1_060,sviluppo,5,crescita,3,bambino,4,fenomeno,0
 student_exp1_061,sviluppo,3,economia,3,vita,5,gioventù,5
 student_exp1_062,sviluppo,5,passione,5,motivazione,5,crescita,5
 student_exp1_063,sviluppo,5,cognitivo,5,crescita,5,industriale,5
+student_exp1_064,sviluppo,4,adolescenza,4,,0,,0
 student_exp1_065,sviluppo,4,crescita,4,problema,2,,0
 student_exp1_066,sviluppo,4,bambino,5,crescita,3,psicologia,5
 student_exp1_067,sviluppo,3,crescita,5,innovazione,3,cambiamento,3
@@ -2418,6 +2524,7 @@ student_exp1_006,terapeuta,3,professionista,5,ascoltare,3,,
 student_exp1_007,terapeuta,5,sedia,5,parlare,5,quaderno,3
 student_exp1_008,terapeuta,4,psicologia,4,cura,5,mentalità,4
 student_exp1_009,terapeuta,5,psicoterapeuta,5,patologie,3,professione,5
+student_exp1_010,terapeuta,3,ascolto,3,consiglio,4,comprensione,4
 student_exp1_011,terapeuta,5,psicologia,5,problema,3,cura,2
 student_exp1_012,terapeuta,3,curante,4,persona,3,aiuto,5
 student_exp1_014,terapeuta,4,supporto,5,mente,5,corpo,5
@@ -2442,6 +2549,7 @@ student_exp1_032,terapeuta,5,terapia,5,esercizi,2,migliorare,5
 student_exp1_033,terapeuta,4,psicologo,4,psichiatra,4,dottore,4
 student_exp1_034,terapeuta,5,psicologia,5,aiuto,5,fatica,5
 student_exp1_035,terapeuta,5,lavoro,4,aiuto,5,miglioramento,5
+student_exp1_036,terapeuta,4,aiuto,4,lavoro,4,terapia,4
 student_exp1_038,terapeuta,5,psicologia,5,aiuto,5,empatia,5
 student_exp1_039,terapeuta,4,studio,4,famiglia,4,questionario,2
 student_exp1_040,terapeuta,4,sostegno,5,difficoltà,2,disturbo,2
@@ -2466,6 +2574,7 @@ student_exp1_060,terapeuta,5,sostegno,5,aiuto,0,,0
 student_exp1_061,terapeuta,2,problemi,3,mente,3,emozioni,5
 student_exp1_062,terapeuta,5,comprensione,5,miglioramento,5,fiore,5
 student_exp1_063,terapeuta,4,psicologo,4,studio,4,ospedale,2
+student_exp1_064,terapeuta,2,terapia,2,aiuto,3,,0
 student_exp1_065,terapeuta,4,psicologo,4,problemi,2,esperto,4
 student_exp1_066,terapeuta,4,salute,5,professionalità,4,benessere,5
 student_exp1_067,terapeuta,3,studioso,3,affidabile,3,lontano,2
@@ -2485,6 +2594,7 @@ student_exp1_006,test,2,prova,2,verifica,1,prestazione,3
 student_exp1_007,test,2,scuola,4,sport,5,matematica,4
 student_exp1_008,test,3,voto,3,domande,3,crocette,3
 student_exp1_009,test,3,valutazione,2,ansia,2,finale,2
+student_exp1_010,test,2,esame,2,,0,,0
 student_exp1_011,test,2,esperimento,4,prova,2,fisico,4
 student_exp1_012,test,3,prova,3,verifica,3,voto,3
 student_exp1_014,test,4,prova,4,sfida,4,valutazione,4
@@ -2509,6 +2619,7 @@ student_exp1_032,test,2,verifica,2,computer,4,crocette,5
 student_exp1_033,test,2,esame,2,voto,2,superare,5
 student_exp1_034,test,1,difficile,3,griglie,1,attitudinale,1
 student_exp1_035,test,3,questionario,3,crocette,3,opzione,3
+student_exp1_036,test,2,esame,2,esito,3,,0
 student_exp1_038,test,2,esame,2,prova,2,,0
 student_exp1_039,test,2,personalità,4,qi,4,fisico,4
 student_exp1_040,test,2,verifica,2,valutazione,2,stress,1
@@ -2533,6 +2644,7 @@ student_exp1_060,test,5,verifica,4,analisi,2,voto,0
 student_exp1_061,test,3,statistica,1,soddisfazione,4,app,3
 student_exp1_062,test,1,panico,1,voto,1,terrore,1
 student_exp1_063,test,3,esame,2,attitudinale,3,di ingresso,2
+student_exp1_064,test,3,ammissione,2,voto,2,,0
 student_exp1_065,test,2,ansia,2,data,4,voto,4
 student_exp1_066,test,2,crocette,3,risposte,3,ansia,1
 student_exp1_067,test,2,ansia,1,preparazione,4,stress,1
@@ -2552,6 +2664,7 @@ student_exp1_006,università,5,rovereto,4,ux,5,amici,5
 student_exp1_007,università,4,stanchezza,1,studio,2,amici,5
 student_exp1_008,università,3,corsi,3,compagni,4,esami,3
 student_exp1_009,università,4,corsi,3,atenei,4,studi,4
+student_exp1_010,università,4,esame,2,lezioni,5,,0
 student_exp1_011,università,3,corsi,2,esami,3,laurea,2
 student_exp1_012,università,3,opportunità,5,difficoltà,2,soddisfazione,5
 student_exp1_014,università,4,conoscenza,5,opportunità,5,piacere,5
@@ -2576,6 +2689,7 @@ student_exp1_032,università,5,aule,4,docenti,4,caffè,2
 student_exp1_033,università,3,voto,3,amici,5,scelta,3
 student_exp1_034,università,3,studio,3,caffe,3,appunti,3
 student_exp1_035,università,4,laurea,3,futuro,5,studio,4
+student_exp1_036,università,4,studio,3,compagnia,5,lavoro,4
 student_exp1_038,università,3,facoltà,3,insegnanti,3,,0
 student_exp1_039,università,4,fuorisede,4,laurea,4,studio,3
 student_exp1_040,università,4,lezioni,3,esame,2,amici,5
@@ -2600,6 +2714,7 @@ student_exp1_060,università,4,studio,5,impegno,3,valutazione,0
 student_exp1_061,università,3,amici,5,computer,4,video,3
 student_exp1_062,università,5,ansia,5,passione,5,salita,2
 student_exp1_063,università,5,studio,4,laurea,5,lezione,4
+student_exp1_064,università,4,corso,4,voti,3,esami,2
 student_exp1_065,università,4,studio,4,titolo,4,conoscenza,5
 student_exp1_066,università,4,studio,4,trento,4,materie,3
 student_exp1_067,università,5,appagante,5,sfida,5,crescita,5
@@ -2619,6 +2734,7 @@ student_exp1_006,valutazione,3,positiva,5,negativa,1,,
 student_exp1_007,valutazione,2,negativa,1,verifica,2,prestazione,1
 student_exp1_008,valutazione,2,esame,3,università,3,oggettività,5
 student_exp1_009,valutazione,2,esame,2,test,2,,
+student_exp1_010,valutazione,2,voto,2,test,2,giudizio,1
 student_exp1_011,valutazione,2,finalità,3,feedback,2,ansia,1
 student_exp1_012,valutazione,2,voto,3,insegnante,3,scuola,1
 student_exp1_014,valutazione,5,sapere,4,saper fare,5,progressi,5
@@ -2643,6 +2759,7 @@ student_exp1_032,valutazione,2,voto,2,risultato,2,rosso,4
 student_exp1_033,valutazione,3,voto,2,test,2,numero,3
 student_exp1_034,valutazione,1,test,1,punti,1,carta,1
 student_exp1_035,valutazione,3,voto,3,esito,3,fallimento,1
+student_exp1_036,valutazione,2,voto,3,esito,3,media,3
 student_exp1_038,valutazione,2,voto,2,esame,2,prova,2
 student_exp1_039,valutazione,2,voto,2,ansia,1,media,2
 student_exp1_040,valutazione,2,numero,4,giudizio,2,insegnante,3
@@ -2667,6 +2784,7 @@ student_exp1_060,valutazione,4,voto,5,feedback,0,,0
 student_exp1_061,valutazione,3,euristica,3,probabilità,2,app,3
 student_exp1_062,valutazione,1,temuta,1,controllo,1,mania,1
 student_exp1_063,valutazione,3,esame,3,esperienza,4,positiva,4
+student_exp1_064,valutazione,2,esito,2,voto,2,,0
 student_exp1_065,valutazione,3,positiva,4,negativa,2,esame,2
 student_exp1_066,valutazione,3,risultato,3,voto,4,giudizio,2
 student_exp1_067,valutazione,3,critica,3,imparziale,1,prova,1

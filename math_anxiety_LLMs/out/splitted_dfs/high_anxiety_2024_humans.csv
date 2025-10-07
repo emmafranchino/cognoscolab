@@ -3,6 +3,7 @@ student_exp1_003,ansia,1.0,stress,1.0,esami,1.0,male,1.0
 student_exp1_004,ansia,3.0,esame,3.0,stress,3.0,cortisolo,3.0
 student_exp1_007,ansia,2.0,cuore,4.0,sudore,1.0,prestazione,2.0
 student_exp1_009,ansia,1.0,stress,1.0,psicosomatica,1.0,nausea,1.0
+student_exp1_010,ansia,1.0,sudorazione,1.0,tremore,1.0,imbarazzo,1.0
 student_exp1_011,ansia,1.0,blocco,1.0,sabotaggio,1.0,incertezza,1.0
 student_exp1_017,ansia,2.0,emozione,5.0,disturbo,1.0,sintomi,1.0
 student_exp1_019,ansia,1.0,io,3.0,esame,2.0,nausea,1.0
@@ -35,6 +36,7 @@ student_exp1_003,attaccamento,4.0,materno,4.0,luogo,5.0,persona,3.0
 student_exp1_004,attaccamento,3.0,bambini,4.0,bowlby,4.0,teoria,4.0
 student_exp1_007,attaccamento,3.0,evitante,1.0,mamma,5.0,ambivalente,1.0
 student_exp1_009,attaccamento,3.0,affettivo,2.0,contatto sociale,4.0,abbraccio,5.0
+student_exp1_010,attaccamento,3.0,genitore,4.0,,0.0,,0.0
 student_exp1_011,attaccamento,2.0,persona,3.0,animale,4.0,,0.0
 student_exp1_017,attaccamento,5.0,affetto,5.0,legame,5.0,unione,5.0
 student_exp1_019,attaccamento,3.0,ansioso,1.0,fisico,2.0,relazione,4.0
@@ -67,6 +69,7 @@ student_exp1_003,benessere,5.0,comune,5.0,positivo,5.0,vita,3.0
 student_exp1_004,benessere,4.0,personale,4.0,meditazione,5.0,terapia,4.0
 student_exp1_007,benessere,5.0,fisico,4.0,mentale,4.0,sorriso,5.0
 student_exp1_009,benessere,5.0,persona,5.0,sollievo,5.0,obiettivo,4.0
+student_exp1_010,benessere,5.0,salute,4.0,,0.0,,0.0
 student_exp1_011,benessere,4.0,mentale,3.0,fisico,4.0,ricchezza,1.0
 student_exp1_017,benessere,5.0,salute,5.0,positività,5.0,tranquillità,5.0
 student_exp1_019,benessere,5.0,felicità,5.0,amore,5.0,gioia,5.0
@@ -99,6 +102,7 @@ student_exp1_003,biologia,2.0,umana,4.0,marina,4.0,scienza,2.0
 student_exp1_004,biologia,4.0,animali,4.0,delfini,5.0,marina,4.0
 student_exp1_007,biologia,4.0,cellule,4.0,animali,5.0,terra,5.0
 student_exp1_009,biologia,4.0,vita,5.0,cellule,4.0,sistemi,4.0
+student_exp1_010,biologia,3.0,cellula,3.0,anatomia,4.0,neuroni,4.0
 student_exp1_011,biologia,4.0,natura,5.0,chimica,3.0,vita,3.0
 student_exp1_017,biologia,3.0,scienza,3.0,studio,3.0,ricerca,3.0
 student_exp1_019,biologia,3.0,interessante,4.0,natura,4.0,neuroni,3.0
@@ -131,6 +135,7 @@ student_exp1_003,cognizione,2.0,causa,3.0,evento,3.0,negativo,1.0
 student_exp1_004,cognizione,3.0,mente,4.0,cervello,3.0,ippocampo,2.0
 student_exp1_007,cognizione,3.0,animale,5.0,cervello,5.0,studio,2.0
 student_exp1_009,cognizione,5.0,animale,4.0,tempo,4.0,mente,4.0
+student_exp1_010,cognizione,3.0,animale,5.0,,0.0,,0.0
 student_exp1_011,cognizione,5.0,simulazione,4.0,scienza,5.0,ricerca,4.0
 student_exp1_017,cognizione,5.0,cervello,5.0,mente,5.0,capacità,5.0
 student_exp1_019,cognizione,3.0,tempo,3.0,psicologia,4.0,animale,4.0
@@ -163,6 +168,7 @@ student_exp1_003,comportamento,2.0,positivo,4.0,negativo,3.0,bambino,4.0
 student_exp1_004,comportamento,3.0,evitante,2.0,disturbo,2.0,patologico,2.0
 student_exp1_007,comportamento,3.0,cattivo,1.0,puerile,1.0,sbagliato,1.0
 student_exp1_009,comportamento,4.0,passivo,3.0,positivo,5.0,produttivo,5.0
+student_exp1_010,comportamento,3.0,atteggiamento,3.0,sociale,2.0,,0.0
 student_exp1_011,comportamento,4.0,condizionato,3.0,naturale,3.0,,0.0
 student_exp1_017,comportamento,3.0,atteggiamento,3.0,persona,5.0,carattere,3.0
 student_exp1_019,comportamento,3.0,cattivo,2.0,persona,3.0,responsabilità,2.0
@@ -195,6 +201,7 @@ student_exp1_003,creatività,5.0,artistica,5.0,mentale,5.0,disegnare,5.0
 student_exp1_004,creatività,4.0,vento,3.0,verde,3.0,sorriso,4.0
 student_exp1_007,creatività,5.0,foglio,3.0,disegno,4.0,cervello,5.0
 student_exp1_009,creatività,5.0,libertà,5.0,arte,5.0,espressione,5.0
+student_exp1_010,creatività,3.0,arte,2.0,,0.0,mente,3.0
 student_exp1_011,creatività,5.0,design,4.0,arte,5.0,colori,5.0
 student_exp1_017,creatività,5.0,arte,5.0,fantasia,5.0,personalità,3.0
 student_exp1_019,creatività,4.0,arte,4.0,studio,2.0,disegno,4.0
@@ -227,6 +234,7 @@ student_exp1_003,curiosità,5.0,interessi,5.0,film,5.0,lettura,2.0
 student_exp1_004,curiosità,5.0,bambini,5.0,passione,5.0,vivacità,5.0
 student_exp1_007,curiosità,5.0,scimmia,4.0,lente d'ingrandimento,4.0,mappa,3.0
 student_exp1_009,curiosità,4.0,luoghi,4.0,ricerca,3.0,interesse,5.0
+student_exp1_010,curiosità,4.0,sapere,4.0,conoscenza,5.0,,0.0
 student_exp1_011,curiosità,5.0,serendipità,5.0,ricerca,4.0,scoperta,5.0
 student_exp1_017,curiosità,3.0,mistero,3.0,domanda,3.0,interrogativo,3.0
 student_exp1_019,curiosità,5.0,psicologia,4.0,interesse,4.0,studio,2.0
@@ -259,6 +267,7 @@ student_exp1_003,divertimento,5.0,gioco,5.0,positivo,5.0,amici,5.0
 student_exp1_004,divertimento,5.0,parco giochi,4.0,giostre,4.0,trampolino,4.0
 student_exp1_007,divertimento,5.0,amici,5.0,sport,5.0,fuori,5.0
 student_exp1_009,divertimento,5.0,amici,5.0,passione,5.0,passatempo,5.0
+student_exp1_010,divertimento,5.0,amici,4.0,,0.0,,0.0
 student_exp1_011,divertimento,3.0,amici,3.0,gioventù,5.0,notte,2.0
 student_exp1_017,divertimento,5.0,rilassamento,5.0,spensieratezza,5.0,tranquillità,5.0
 student_exp1_019,divertimento,5.0,amici,5.0,giochi,4.0,ridere,5.0
@@ -291,6 +300,7 @@ student_exp1_003,emozione,5.0,gioia,5.0,rabbia,1.0,percezione,3.0
 student_exp1_004,emozione,4.0,vita,4.0,cibo,4.0,persone,3.0
 student_exp1_007,emozione,5.0,cuore,4.0,amore,5.0,difficile,2.0
 student_exp1_009,emozione,4.0,sentimenti,4.0,commuoversi,5.0,arrabbiarsi,4.0
+student_exp1_010,emozione,4.0,forte,3.0,pianto,4.0,felicità,5.0
 student_exp1_011,emozione,2.0,cervello,5.0,spettro,4.0,falsità,2.0
 student_exp1_017,emozione,3.0,,0.0,,0.0,,0.0
 student_exp1_019,emozione,3.0,stress,1.0,felicità,5.0,rabbia,2.0
@@ -323,6 +333,7 @@ student_exp1_003,equazione,3.0,matematica,3.0,numeri,2.0,uguale,4.0
 student_exp1_004,equazione,2.0,numeri,2.0,matematica,1.0,soluzione,4.0
 student_exp1_007,equazione,3.0,disequazione,4.0,grado,3.0,incognita,4.0
 student_exp1_009,equazione,3.0,algebra,3.0,matematica,3.0,somma,3.0
+student_exp1_010,equazione,3.0,matematica,2.0,grado,2.0,numeri,3.0
 student_exp1_011,equazione,4.0,fisica,5.0,lavagna,4.0,matematica,3.0
 student_exp1_017,equazione,3.0,formula,3.0,calcolo,3.0,risultato,3.0
 student_exp1_019,equazione,2.0,matematica,2.0,superiori,2.0,difficili,2.0
@@ -355,6 +366,7 @@ student_exp1_003,esame,2.0,voto,1.0,difficoltà,1.0,università,3.0
 student_exp1_004,esame,2.0,schermo,2.0,ansia,1.0,liberazione,4.0
 student_exp1_007,esame,2.0,difficile,2.0,voto,1.0,futuro,5.0
 student_exp1_009,esame,2.0,stress,1.0,ansia,1.0,valutazione,3.0
+student_exp1_010,esame,3.0,studio,2.0,preparazione,3.0,,0.0
 student_exp1_011,esame,3.0,fine,2.0,ansia,1.0,eccitazione,4.0
 student_exp1_017,esame,2.0,prova,3.0,verifica,3.0,valutazione,2.0
 student_exp1_019,esame,2.0,ansia,1.0,sessione,2.0,studio,2.0
@@ -387,6 +399,7 @@ student_exp1_003,fisica,1.0,materia,3.0,ginnastica,5.0,forza,2.0
 student_exp1_004,fisica,3.0,atomi,3.0,meccanica,3.0,qauntistica,4.0
 student_exp1_007,fisica,4.0,formule,2.0,professore,4.0,mondo,5.0
 student_exp1_009,fisica,3.0,materia,3.0,relatività,4.0,einstein,4.0
+student_exp1_010,fisica,3.0,moto,2.0,velocità,2.0,,0.0
 student_exp1_011,fisica,5.0,universo,5.0,quanti,4.0,complessità,3.0
 student_exp1_017,fisica,3.0,studio,3.0,calcoli,3.0,formule,3.0
 student_exp1_019,fisica,2.0,matematica,2.0,scuola,2.0,formule,2.0
@@ -419,6 +432,7 @@ student_exp1_003,informatica,4.0,programmazione,5.0,codice,4.0,difficile,3.0
 student_exp1_004,informatica,3.0,computer,3.0,bit,3.0,tastiera,4.0
 student_exp1_007,informatica,3.0,computer,4.0,aula,3.0,programmazione,2.0
 student_exp1_009,informatica,3.0,computer,3.0,progettazione,4.0,calcoli,3.0
+student_exp1_010,informatica,3.0,computer,3.0,bit,3.0,software,3.0
 student_exp1_011,informatica,3.0,programmazione,4.0,lavoro,2.0,nero,3.0
 student_exp1_017,informatica,3.0,computer,3.0,programmazione,3.0,ricerca,5.0
 student_exp1_019,informatica,3.0,noiosa,2.0,html,2.0,superiori,2.0
@@ -451,6 +465,7 @@ student_exp1_003,innovazione,4.0,novità,3.0,futuro,5.0,intelligenza artificiale
 student_exp1_004,innovazione,5.0,tecnologia,4.0,ai,4.0,chat gpt,3.0
 student_exp1_007,innovazione,5.0,scienza,4.0,futuro,5.0,bianco,5.0
 student_exp1_009,innovazione,4.0,sviluppo,5.0,progresso,5.0,secoli,3.0
+student_exp1_010,innovazione,3.0,progresso,3.0,nuovo,3.0,,0.0
 student_exp1_011,innovazione,2.0,tecnologia,5.0,futuro,2.0,design,4.0
 student_exp1_017,innovazione,4.0,tecnologia,4.0,progresso,4.0,futuro,5.0
 student_exp1_019,innovazione,3.0,tecnologia,4.0,giovane,3.0,futuro,3.0
@@ -483,6 +498,7 @@ student_exp1_003,insegnante,3.0,professore,3.0,materia,3.0,verifica,1.0
 student_exp1_004,insegnante,3.0,scuola,3.0,matite,3.0,lavagna,3.0
 student_exp1_007,insegnante,4.0,maschio,4.0,esame,2.0,lezione,4.0
 student_exp1_009,insegnante,4.0,professione,5.0,passione,5.0,sostegno,3.0
+student_exp1_010,insegnante,3.0,scuola,3.0,interrogazione,2.0,,0.0
 student_exp1_011,insegnante,3.0,scuola,4.0,matematica,3.0,alunno,2.0
 student_exp1_017,insegnante,5.0,docentr,5.0,,0.0,,0.0
 student_exp1_019,insegnante,2.0,rabbia,2.0,preferenze,2.0,scuola,2.0
@@ -515,6 +531,7 @@ student_exp1_003,laurea,3.0,magistrale,2.0,triennale,4.0,corso,4.0
 student_exp1_004,laurea,3.0,fine,3.0,percoso,4.0,tesi,3.0
 student_exp1_007,laurea,4.0,difficile,2.0,traguardo,4.0,festa,5.0
 student_exp1_009,laurea,5.0,psicologia,5.0,110 l,4.0,successo,5.0
+student_exp1_010,laurea,4.0,università,4.0,tesi,3.0,presentazione,1.0
 student_exp1_011,laurea,2.0,obiettivo,4.0,vicina,2.0,magistrale,1.0
 student_exp1_017,laurea,5.0,risultato,3.0,,0.0,,0.0
 student_exp1_019,laurea,4.0,futuro,3.0,speranza,4.0,soddisfazione,5.0
@@ -547,6 +564,7 @@ student_exp1_003,lavoro,3.0,manuale,3.0,fabbrica,2.0,sogni,5.0
 student_exp1_004,lavoro,3.0,tempo,4.0,soldi,2.0,passione,5.0
 student_exp1_007,lavoro,4.0,orario,3.0,tempo,2.0,soddisfazione,5.0
 student_exp1_009,lavoro,4.0,stipendio,5.0,pensione,5.0,mantenimento,4.0
+student_exp1_010,lavoro,3.0,salario,4.0,capo,2.0,colleghi,2.0
 student_exp1_011,lavoro,2.0,stipendio,2.0,design,4.0,pesante,2.0
 student_exp1_017,lavoro,3.0,fatica,2.0,impegno,5.0,costanza,5.0
 student_exp1_019,lavoro,4.0,svago,4.0,soldi,4.0,relazioni,4.0
@@ -579,6 +597,7 @@ student_exp1_003,matematica,2.0,numeri,3.0,equazioni,4.0,risultati,2.0
 student_exp1_004,matematica,2.0,algebra,2.0,funzioni,1.0,limiti,1.0
 student_exp1_007,matematica,4.0,quaderno,4.0,formule,2.0,numeri,5.0
 student_exp1_009,matematica,3.0,algebra,3.0,operazioni,4.0,euclide,4.0
+student_exp1_010,matematica,3.0,numeri,3.0,tabelline,1.0,,0.0
 student_exp1_011,matematica,3.0,fisica,4.0,complessità,3.0,professoressa,4.0
 student_exp1_017,matematica,3.0,calcoli,2.0,ragionamento,3.0,risultati,3.0
 student_exp1_019,matematica,2.0,bella,4.0,numeri,3.0,lettere,3.0
@@ -611,6 +630,7 @@ student_exp1_003,media,3.0,scolastica,1.0,aritmetica,1.0,ponderata,1.0
 student_exp1_004,media,3.0,numeri,2.0,divisione,2.0,persone,4.0
 student_exp1_007,media,2.0,ponderata,3.0,voti,1.0,alta,5.0
 student_exp1_009,media,2.0,universitaria,3.0,ponderata,3.0,errore,3.0
+student_exp1_010,media,3.0,voto,3.0,,0.0,,0.0
 student_exp1_011,media,4.0,voti,4.0,statistica,5.0,,0.0
 student_exp1_017,media,3.0,calcolo,3.0,matematica,2.0,operazione,2.0
 student_exp1_019,media,2.0,scolastica,2.0,social,2.0,ansia,1.0
@@ -643,6 +663,7 @@ student_exp1_003,mente,4.0,cervello,4.0,pensieri,5.0,acquisizioni,4.0
 student_exp1_004,mente,3.0,cervello,3.0,cartesio,3.0,ragione,4.0
 student_exp1_007,mente,5.0,cervello,4.0,emozioni,5.0,motivazioni,5.0
 student_exp1_009,mente,4.0,pensieri,4.0,pensiero,4.0,ricordo,4.0
+student_exp1_010,mente,4.0,cervello,4.0,box,3.0,,0.0
 student_exp1_011,mente,5.0,persona,4.0,insidiosa,4.0,ricerca,4.0
 student_exp1_017,mente,5.0,cervello,5.0,persona,5.0,analisi,3.0
 student_exp1_019,mente,4.0,corpo,2.0,cuore,4.0,testa,3.0
@@ -675,6 +696,7 @@ student_exp1_003,modello,3.0,cartaceo,3.0,digitale,3.0,moda,2.0
 student_exp1_004,modello,2.0,struttura,3.0,teoria,3.0,funzionamento,3.0
 student_exp1_007,modello,3.0,società,3.0,formula,2.0,test,2.0
 student_exp1_009,modello,3.0,anatomico,4.0,icona,4.0,studio,3.0
+student_exp1_010,modello,2.0,algoritmo,3.0,,0.0,,0.0
 student_exp1_011,modello,4.0,psicologia,5.0,fotografia,5.0,esempio,4.0
 student_exp1_017,modello,5.0,superiorità,3.0,ammirazione,5.0,aiuto,5.0
 student_exp1_019,modello,2.0,invidia,2.0,bellezza,2.0,moda,2.0
@@ -707,6 +729,7 @@ student_exp1_003,neuroscienze,2.0,materia,3.0,psicologia,3.0,comportamento,4.0
 student_exp1_004,neuroscienze,3.0,campo magnetico,2.0,fmri,2.0,elettricità,3.0
 student_exp1_007,neuroscienze,4.0,fmri,4.0,esperimento,4.0,dati,2.0
 student_exp1_009,neuroscienze,4.0,neurologia,4.0,cervello,4.0,scienze,4.0
+student_exp1_010,neuroscienze,4.0,esperimento,4.0,ricerca,5.0,,0.0
 student_exp1_011,neuroscienze,5.0,neuroni,4.0,magistrale,2.0,bias,5.0
 student_exp1_017,neuroscienze,5.0,studio,3.0,ricerca,5.0,analisi,5.0
 student_exp1_019,neuroscienze,4.0,studio,2.0,università,4.0,eeg,3.0
@@ -739,6 +762,7 @@ student_exp1_003,passione,5.0,sport,5.0,hobby,5.0,colorare,5.0
 student_exp1_004,passione,4.0,amore,5.0,lavoro,3.0,cucito,3.0
 student_exp1_007,passione,5.0,sport,5.0,persone,5.0,frutto,3.0
 student_exp1_009,passione,5.0,psicologia,5.0,pallavolo,5.0,abbracci,5.0
+student_exp1_010,passione,5.0,lavoro,3.0,hobby,4.0,,0.0
 student_exp1_011,passione,5.0,sesso,4.0,dedizione,4.0,rosso,5.0
 student_exp1_017,passione,5.0,hobby,5.0,interesse,5.0,dedizione,5.0
 student_exp1_019,passione,4.0,psicologia,4.0,sport,4.0,conoscenza,4.0
@@ -771,6 +795,7 @@ student_exp1_003,personalità,5.0,essere,5.0,umano,4.0,solare,5.0
 student_exp1_004,personalità,4.0,big five,4.0,disturbo,3.0,solare,5.0
 student_exp1_007,personalità,5.0,persona,5.0,forte,5.0,simpatico,5.0
 student_exp1_009,personalità,4.0,diversità,4.0,narcisista,2.0,istrionica,2.0
+student_exp1_010,personalità,3.0,,0.0,,0.0,,0.0
 student_exp1_011,personalità,3.0,disturbo,1.0,sfaccettata,3.0,unica,5.0
 student_exp1_017,personalità,3.0,carattere,3.0,comportamento,3.0,disturbo,1.0
 student_exp1_019,personalità,3.0,antipatica,2.0,cattiva,1.0,esame,2.0
@@ -803,6 +828,7 @@ student_exp1_003,professore,3.0,scuola,3.0,materia,2.0,persona,4.0
 student_exp1_004,professore,3.0,cattedra,3.0,anziano,2.0,bianco,2.0
 student_exp1_007,professore,4.0,aulico,2.0,cattedra,3.0,università,2.0
 student_exp1_009,professore,3.0,professione,3.0,lavoro,3.0,stipendio,4.0
+student_exp1_010,professore,3.0,insegnamento,3.0,lezione,4.0,,0.0
 student_exp1_011,professore,3.0,dottorato,5.0,conoscenza,5.0,università,3.0
 student_exp1_017,professore,4.0,insegnamento,4.0,spiegazione,4.0,valutazione,2.0
 student_exp1_019,professore,2.0,università,4.0,scuola,2.0,preferenze,2.0
@@ -835,6 +861,7 @@ student_exp1_003,prova,3.0,scritta,2.0,orale,2.0,ostacoli,1.0
 student_exp1_004,prova,2.0,tempo,3.0,esame,3.0,test,2.0
 student_exp1_007,prova,2.0,microfono,3.0,esame,2.0,parallela,2.0
 student_exp1_009,prova,4.0,orale,2.0,intermedia,2.0,valutazione,2.0
+student_exp1_010,prova,2.0,test,2.0,,0.0,,0.0
 student_exp1_011,prova,2.0,esame,2.0,ostacolo,4.0,test,2.0
 student_exp1_017,prova,3.0,test,3.0,esame,2.0,esperimento,3.0
 student_exp1_019,prova,2.0,ansia,1.0,stress,1.0,preparazione,2.0
@@ -867,6 +894,7 @@ student_exp1_003,psicologia,3.0,materia,4.0,umanistica,5.0,mente,2.0
 student_exp1_004,psicologia,4.0,mente,4.0,cura,5.0,persone,4.0
 student_exp1_007,psicologia,4.0,mente,5.0,interesse,5.0,aiuto,5.0
 student_exp1_009,psicologia,5.0,passione,5.0,interesse,5.0,mente,4.0
+student_exp1_010,psicologia,5.0,teorie,2.0,disturbo,3.0,salute,4.0
 student_exp1_011,psicologia,5.0,studio,4.0,percezione,5.0,,0.0
 student_exp1_017,psicologia,5.0,studio,3.0,ricerca,3.0,università,4.0
 student_exp1_019,psicologia,4.0,importante,4.0,interessante,4.0,passione,4.0
@@ -899,6 +927,7 @@ student_exp1_003,psicopatologia,2.0,malattie,1.0,dolore,1.0,materia,3.0
 student_exp1_004,psicopatologia,3.0,malattia,2.0,cervello,3.0,cura,5.0
 student_exp1_007,psicopatologia,4.0,malattie,1.0,medicine,4.0,terapia,5.0
 student_exp1_009,psicopatologia,2.0,patologia,3.0,psicologia,4.0,ansia,2.0
+student_exp1_010,psicopatologia,4.0,malessere,1.0,disturbo,2.0,,0.0
 student_exp1_011,psicopatologia,2.0,disturbi,1.0,ricerca,4.0,aiuto,1.0
 student_exp1_017,psicopatologia,0.0,,0.0,,0.0,,0.0
 student_exp1_019,psicopatologia,2.0,disagio,1.0,malessere,1.0,empatia,4.0
@@ -931,6 +960,7 @@ student_exp1_003,psicoterapia,3.0,parlare,4.0,ascoltare,3.0,liberazione,5.0
 student_exp1_004,psicoterapia,5.0,cura,5.0,terapia,5.0,freud,4.0
 student_exp1_007,psicoterapia,5.0,benessere,5.0,parlare,5.0,ascoltare,5.0
 student_exp1_009,psicoterapia,5.0,farmaci,4.0,colloquio,5.0,seduta,4.0
+student_exp1_010,psicoterapia,4.0,aiuto,4.0,ascolto,4.0,,0.0
 student_exp1_011,psicoterapia,3.0,percorso,2.0,farmaci,1.0,problemi,3.0
 student_exp1_017,psicoterapia,5.0,aiuto,5.0,sostegno,5.0,collaborazione,5.0
 student_exp1_019,psicoterapia,4.0,università,4.0,percorso,4.0,benessere,4.0
@@ -963,6 +993,7 @@ student_exp1_003,sapere,3.0,acquisire,5.0,cose,3.0,cervello,3.0
 student_exp1_004,sapere,4.0,socrate,4.0,grecia,4.0,libro,3.0
 student_exp1_007,sapere,5.0,grecia,5.0,barba,3.0,libro,5.0
 student_exp1_009,sapere,5.0,conoscenza,5.0,intelligenza,4.0,fondato,4.0
+student_exp1_010,sapere,4.0,libro,5.0,,0.0,,0.0
 student_exp1_011,sapere,5.0,studio,4.0,esperienza,2.0,professore,4.0
 student_exp1_017,sapere,5.0,conoscenza,5.0,cultura,5.0,esperienza,4.0
 student_exp1_019,sapere,4.0,esame,2.0,intelligenza,4.0,cultura,4.0
@@ -995,6 +1026,7 @@ student_exp1_003,scienza,3.0,materia,3.0,atomi,4.0,universo,5.0
 student_exp1_004,scienza,4.0,natura,4.0,terra,4.0,verde,4.0
 student_exp1_007,scienza,5.0,laboratorio,2.0,futuro,5.0,fisica,4.0
 student_exp1_009,scienza,3.0,galileo,4.0,esperimenti,4.0,natura,4.0
+student_exp1_010,scienza,4.0,scoperta,4.0,esperimento,4.0,teoria,3.0
 student_exp1_011,scienza,5.0,fisica,5.0,biologia,4.0,natura,5.0
 student_exp1_017,scienza,5.0,studio,3.0,ricerca,3.0,evoluzione,4.0
 student_exp1_019,scienza,3.0,interessante,4.0,ambigua,2.0,sperimentale,3.0
@@ -1027,6 +1059,7 @@ student_exp1_003,scienziato,3.0,esperimenti,4.0,fenomeni,3.0,creazioni,5.0
 student_exp1_004,scienziato,3.0,natura,4.0,prove,3.0,metodo,4.0
 student_exp1_007,scienziato,5.0,boccetta,3.0,camice,3.0,occhiali,5.0
 student_exp1_009,scienziato,4.0,frankestain,3.0,studio,4.0,avanguardia,5.0
+student_exp1_010,scienziato,3.0,laboratorio,3.0,camice,3.0,,0.0
 student_exp1_011,scienziato,5.0,ricerca,4.0,esperimento,5.0,camice,3.0
 student_exp1_017,scienziato,5.0,studioso,5.0,scienza,5.0,esperimenti,3.0
 student_exp1_019,scienziato,3.0,ricerca,4.0,questionario,3.0,esperimento,4.0
@@ -1059,6 +1092,7 @@ student_exp1_003,sfida,2.0,duello,3.0,combattimento,3.0,gioco,5.0
 student_exp1_004,sfida,4.0,vincita,4.0,rivalsa,5.0,testardaggine,2.0
 student_exp1_007,sfida,2.0,io,3.0,combattimento,2.0,futuro,5.0
 student_exp1_009,sfida,3.0,lotta,2.0,superiorità,2.0,duello,2.0
+student_exp1_010,sfida,2.0,prova,2.0,successo,3.0,competizione,2.0
 student_exp1_011,sfida,2.0,capacità,4.0,paura,1.0,soddisfazione,3.0
 student_exp1_017,sfida,4.0,prova,3.0,test,3.0,,0.0
 student_exp1_019,sfida,2.0,competitività,2.0,ansia,1.0,migliore,2.0
@@ -1091,6 +1125,7 @@ student_exp1_003,statistica,3.0,valori,2.0,risultati,3.0,matematica,3.0
 student_exp1_004,statistica,2.0,numeri,2.0,grafici,2.0,impegno,4.0
 student_exp1_007,statistica,3.0,dati,2.0,formule,2.0,verifica,2.0
 student_exp1_009,statistica,3.0,operazioni,3.0,test,3.0,dati,3.0
+student_exp1_010,statistica,3.0,sd,3.0,calcolo,3.0,,0.0
 student_exp1_011,statistica,5.0,università,3.0,probabilità,5.0,bias,5.0
 student_exp1_017,statistica,0.0,,0.0,,0.0,,0.0
 student_exp1_019,statistica,3.0,matematica,2.0,psicologia,4.0,economia,3.0
@@ -1123,6 +1158,7 @@ student_exp1_003,sviluppo,2.0,crescita,4.0,lungo,2.0,continuo,2.0
 student_exp1_004,sviluppo,3.0,adolesciente,4.0,cervello,4.0,cognizione,4.0
 student_exp1_007,sviluppo,4.0,economico,2.0,industriale,1.0,atipico,1.0
 student_exp1_009,sviluppo,5.0,crescere,5.0,migliorare,5.0,progetto,4.0
+student_exp1_010,sviluppo,3.0,crescita,3.0,bambini,3.0,,0.0
 student_exp1_011,sviluppo,4.0,bambino,4.0,psicologia,5.0,evoluzione,4.0
 student_exp1_017,sviluppo,4.0,crescita,4.0,risoluzione,3.0,potenziamento,4.0
 student_exp1_019,sviluppo,3.0,crescita,4.0,bambino,4.0,novità,4.0
@@ -1155,6 +1191,7 @@ student_exp1_003,terapeuta,3.0,ascolto,4.0,parole,2.0,riflessioni,5.0
 student_exp1_004,terapeuta,4.0,psicologia,4.0,freud,4.0,dsm 5,4.0
 student_exp1_007,terapeuta,5.0,sedia,5.0,parlare,5.0,quaderno,3.0
 student_exp1_009,terapeuta,5.0,psicoterapeuta,5.0,patologie,3.0,professione,5.0
+student_exp1_010,terapeuta,3.0,ascolto,3.0,consiglio,4.0,comprensione,4.0
 student_exp1_011,terapeuta,5.0,psicologia,5.0,problema,3.0,cura,2.0
 student_exp1_017,terapeuta,5.0,psicologia,5.0,esperto,5.0,supporto,5.0
 student_exp1_019,terapeuta,4.0,fondamentale,4.0,gratuito,4.0,salvavita,4.0
@@ -1187,6 +1224,7 @@ student_exp1_003,test,2.0,scuola,2.0,verifica,2.0,voto,1.0
 student_exp1_004,test,2.0,numero,2.0,foglio,2.0,penna,3.0
 student_exp1_007,test,2.0,scuola,4.0,sport,5.0,matematica,4.0
 student_exp1_009,test,3.0,valutazione,2.0,ansia,2.0,finale,2.0
+student_exp1_010,test,2.0,esame,2.0,,0.0,,0.0
 student_exp1_011,test,2.0,esperimento,4.0,prova,2.0,fisico,4.0
 student_exp1_017,test,3.0,verifica,3.0,valutazione,2.0,capacità,5.0
 student_exp1_019,test,2.0,esame,2.0,ansia,1.0,paura,2.0
@@ -1219,6 +1257,7 @@ student_exp1_003,università,3.0,scuola,2.0,laurea,2.0,corso,3.0
 student_exp1_004,università,3.0,montagne,4.0,matricola,2.0,treno,2.0
 student_exp1_007,università,4.0,stanchezza,1.0,studio,2.0,amici,5.0
 student_exp1_009,università,4.0,corsi,3.0,atenei,4.0,studi,4.0
+student_exp1_010,università,4.0,esame,2.0,lezioni,5.0,,0.0
 student_exp1_011,università,3.0,corsi,2.0,esami,3.0,laurea,2.0
 student_exp1_017,università,4.0,scuola,4.0,studio,3.0,prove,3.0
 student_exp1_019,università,4.0,speranza,4.0,cambiamento,4.0,ansia,1.0
@@ -1251,6 +1290,7 @@ student_exp1_003,valutazione,1.0,negativa,1.0,positiva,4.0,intepretata,3.0
 student_exp1_004,valutazione,2.0,impegno,4.0,fine,4.0,numero,2.0
 student_exp1_007,valutazione,2.0,negativa,1.0,verifica,2.0,prestazione,1.0
 student_exp1_009,valutazione,2.0,esame,2.0,test,2.0,,
+student_exp1_010,valutazione,2.0,voto,2.0,test,2.0,giudizio,1.0
 student_exp1_011,valutazione,2.0,finalità,3.0,feedback,2.0,ansia,1.0
 student_exp1_017,valutazione,2.0,voto,2.0,insegnante,5.0,esame,2.0
 student_exp1_019,valutazione,2.0,ansia,1.0,migliore,2.0,responsabilità,2.0
