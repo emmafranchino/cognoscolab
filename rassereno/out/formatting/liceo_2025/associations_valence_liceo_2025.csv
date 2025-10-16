@@ -1,0 +1,2605 @@
+participant_id,cue_word,valence_cue_word,association_1,valence_association_1,association_2,valence_association_2,association_3,valence_association_3
+liceo_sci_001,Scienza,3.0,,,,,,
+liceo_sci_002,Scienza,5.0,biologia,5.0,seppia,5.0,chimica,1.0
+liceo_sci_003,Scienza,3.0,interessante,4.0,complessa,2.0,ingegnosa,4.0
+liceo_sci_004,Scienza,3.0,esperimenti,4.0,osservazione,3.0,natura,5.0
+liceo_sci_005,Scienza,4.0,interessante,4.0,esperimenti,4.0,chimica,4.0
+liceo_sci_006,Scienza,4.0,arte,4.0,meccanismi,3.0,innovazione,4.0
+liceo_sci_007,Scienza,4.0,esperimento,4.0,medico,5.0,lavoro,5.0
+liceo_sci_008,Scienza,3.0,interessante,4.0,,,,
+liceo_sci_009,Scienza,5.0,ricerca,5.0,esperimenti,5.0,ipotesi,4.0
+liceo_sci_010,Scienza,3.0,biologia,4.0,chimica,3.0,astronomia,4.0
+liceo_sci_011,Scienza,3.0,chimica,1.0,natura,4.0,,3.0
+liceo_sci_012,Scienza,5.0,scoperte,5.0,esperiementi,5.0,studio,3.0
+liceo_sci_013,Scienza,3.0,materia,2.0,esperimenti,3.0,natura,3.0
+liceo_lin_001,Scienza,4.0,natura,5.0,scoperta,4.0,misterioso,2.0
+liceo_lin_002,Scienza,3.0,matematica,1.0,studio,2.0,analisi,3.0
+liceo_lin_003,Scienza,3.0,genio ,3.0,verde,3.0,piante,3.0
+liceo_lin_004,Scienza,3.0,Verde,5.0,Microscopio,2.0,Piante ,4.0
+liceo_lin_005,Scienza,4.0,chimica,3.0,biologia,5.0,terremoti,4.0
+liceo_lin_006,Scienza,5.0,laboratorio,4.0,esperimenti,4.0,camice,4.0
+liceo_lin_007,Scienza,3.0,terra,3.0,chimica,3.0,camice,3.0
+liceo_lin_008,Scienza,3.0,verde,4.0,natura,3.0,,
+liceo_lin_009,Scienza,2.0,chimica,1.0,biologia,1.0,terra,3.0
+liceo_lin_010,Scienza,5.0,verde,5.0,natura,4.0,biologia,4.0
+liceo_lin_011,Scienza,3.0,natura,5.0,matematica,3.0,geologia,3.0
+liceo_lin_012,Scienza,4.0,chimica,3.0,biologia,4.0,anatomia,4.0
+liceo_lin_013,Scienza,4.0,natura,5.0,conoscenza,4.0,studio,3.0
+liceo_lin_014,Scienza,3.0,verde,5.0,provette,3.0,natura,5.0
+liceo_lin_015,Scienza,3.0,atomi,4.0,chimica,4.0,materia,4.0
+liceo_lin_016,Scienza,3.0,materia ,3.0,medicina ,3.0,terra,3.0
+liceo_lin_017,Scienza,5.0,mondo,4.0,alfabeto,5.0,scoperta,5.0
+liceo_lin_018,Scienza,3.0,medicina,5.0,biologia,4.0,chimica,2.0
+liceo_lin_019,Scienza,,medicina,,sviluppo,,sperimentazione,
+liceo_sci_014,Scienza,4.0,amore,2.0,zoologia,5.0,azzurro intenso,3.0
+liceo_sci_015,Scienza,,studio,,esperimenti,,,
+liceo_sci_016,Scienza,4.0,verde,3.0,boccette,3.0,libri,3.0
+liceo_sci_017,Scienza,5.0,applicata ,5.0,atomo ,5.0,universo ,5.0
+liceo_sci_018,Scienza,3.0,ricerche ,5.0,innovazione,5.0,,
+liceo_sci_019,Scienza,3.0,scoperte,4.0,novità,4.0,dati,4.0
+liceo_sci_020,Scienza,4.0,interessante,4.0,esperimenti,4.0,stelle,5.0
+liceo_sci_021,Scienza,3.0,particelle,3.0,atomi,3.0,chimica,3.0
+liceo_sci_022,Scienza,4.0,chimica,4.0,forense,3.0,cognitive,3.0
+liceo_sci_023,Scienza,4.0,curiosotà,4.0,fondamentale,5.0,medicina,5.0
+liceo_sci_024,Scienza,5.0,Innovazione,5.0,Studio,3.0,Ricerca,4.0
+liceo_sci_025,Scienza,3.0,innovazione,3.0,natura,5.0,tecnologia,4.0
+liceo_sci_026,Scienza,3.0,chimica,3.0,studio,2.0,animali,4.0
+liceo_sci_027,Scienza,4.0,INTERESSE,5.0,CURIOSITA',5.0,UTILITA',4.0
+liceo_sci_028,Scienza,4.0,chimica,3.0,metodo,4.0,studio,2.0
+liceo_sci_029,Scienza,3.0,,,,,,
+liceo_sci_030,Scienza,3.0,astronomia,4.0,della terra,4.0,chimica,4.0
+liceo_sci_031,Scienza,4.0,tecnologia,4.0,,,,
+liceo_sci_032,Scienza,4.0,progresso,3.0,,,,
+liceo_sci_033,Scienza,5.0,interessante,5.0,tutto,5.0,bella,5.0
+liceo_sci_034,Scienza,4.0,esperimenti,4.0,laboratorio ,4.0,,
+liceo_sci_035,Scienza,4.0,verde,5.0,,,,
+liceo_sci_036,Scienza,3.0,applicata,3.0,noia,3.0,psicologia,3.0
+liceo_sci_037,Scienza,3.0,scuola,3.0,studio,3.0,ricerca,3.0
+liceo_sci_038,Scienza,3.0,natura ,4.0,chimica ,2.0,straordinaria,4.0
+liceo_sci_039,Scienza,3.0,coscienza,5.0,tecnica,4.0,tecnologia,4.0
+liceo_sci_040,Scienza,5.0,fondamentale,5.0,innovazione,5.0,scoperte,5.0
+liceo_sci_041,Scienza,3.0,esperimenti,4.0,mondo,4.0,sapere,4.0
+liceo_sci_042,Scienza,4.0,divertente,4.0,natura,4.0,utile,4.0
+liceo_sci_043,Scienza,4.0,molteplicità,5.0,interesse,5.0,,
+liceo_sci_001,Statistica,3.0,matematica,3.0,,,,
+liceo_sci_002,Statistica,3.0,probabilità,4.0,evento contrario,4.0,estrazione,4.0
+liceo_sci_003,Statistica,3.0,difficile,2.0,materia,3.0,complessa da comprendere,2.0
+liceo_sci_004,Statistica,3.0,numeri,3.0,tabelle,3.0,calcolatrice,3.0
+liceo_sci_005,Statistica,2.0,matematica,2.0,calcoli,2.0,,
+liceo_sci_006,Statistica,3.0,noia,2.0,nero,2.0,grafici,3.0
+liceo_sci_007,Statistica,3.0,matematica,3.0,percentuali,2.0,,
+liceo_sci_008,Statistica,3.0,matematica,3.0,,,,
+liceo_sci_009,Statistica,5.0,esame,3.0,università,3.0,quotidiano,4.0
+liceo_sci_010,Statistica,4.0,numeri,5.0,percentuali,4.0,soldi,5.0
+liceo_sci_011,Statistica,1.0,probabilità,2.0,dati,4.0,,3.0
+liceo_sci_012,Statistica,3.0,numeri,3.0,media,3.0,risultati,4.0
+liceo_sci_013,Statistica,2.0,numeri,3.0,matematica,2.0,,
+liceo_lin_001,Statistica,4.0,scolastica,3.0,numeri,3.0,mondo,3.0
+liceo_lin_002,Statistica,2.0,matematica,1.0,numeri,2.0,percentuale,2.0
+liceo_lin_003,Statistica,2.0,matematica ,2.0,numeri,3.0,scuola,3.0
+liceo_lin_004,Statistica,1.0,Colonne,3.0,Arancione,5.0,Matematica,3.0
+liceo_lin_005,Statistica,2.0,matematica,2.0,difficile,2.0,,
+liceo_lin_006,Statistica,3.0,matematica,3.0,media,4.0,esame,2.0
+liceo_lin_007,Statistica,3.0,economia,4.0,probabilità,3.0,numeri,3.0
+liceo_lin_008,Statistica,2.0,probabilità,2.0,dati,2.0,percentuali,3.0
+liceo_lin_009,Statistica,2.0,numeri,2.0,dati,2.0,tabelle,3.0
+liceo_lin_010,Statistica,2.0,numeri,3.0,matematica,3.0,occhiali,2.0
+liceo_lin_011,Statistica,3.0,numeri,3.0,dati,3.0,probabilità,3.0
+liceo_lin_012,Statistica,3.0,dati,3.0,numeri,3.0,,
+liceo_lin_013,Statistica,2.0,numeri,3.0, dati,4.0,problemi,3.0
+liceo_lin_014,Statistica,3.0,probabilità,3.0,calcolo,3.0,persone,5.0
+liceo_lin_015,Statistica,2.0,ragionamento,3.0,difficile,1.0,materia,4.0
+liceo_lin_016,Statistica,2.0,matematica,2.0,materia ,2.0,calcoli,2.0
+liceo_lin_017,Statistica,3.0,difficile,4.0,intricato,1.0,utile,4.0
+liceo_lin_018,Statistica,3.0,sondaggio,4.0,risultato,4.0,,
+liceo_lin_019,Statistica,,numerica,,,,,
+liceo_sci_014,Statistica,4.0,matematica,2.0,percentuale,3.0,giallo,2.0
+liceo_sci_015,Statistica,,percentuali,,,,,
+liceo_sci_016,Statistica,3.0,numeri,3.0,grafici,3.0,colori,3.0
+liceo_sci_017,Statistica,5.0,analisi ,5.0,critica ,3.0,media ,3.0
+liceo_sci_018,Statistica,3.0,difficile,3.0, matematica,4.0,,
+liceo_sci_019,Statistica,3.0,dati,3.0,media,3.0,risultati,3.0
+liceo_sci_020,Statistica,4.0,Numeri,4.0,Grafici,4.0,Curve,4.0
+liceo_sci_021,Statistica,3.0,grafici,3.0,calcoli,3.0,,
+liceo_sci_022,Statistica,3.0,giornale,5.0,matematica,4.0,università,4.0
+liceo_sci_023,Statistica,4.0,numeri,4.0,ricerca,4.0,logica,4.0
+liceo_sci_024,Statistica,5.0,Ragionamento,5.0,Calcoli,4.0,Dati,5.0
+liceo_sci_025,Statistica,3.0,matematica,3.0,grafici,3.0,finanza,3.0
+liceo_sci_026,Statistica,3.0,matematica,2.0,economia,4.0,valutazione,4.0
+liceo_sci_027,Statistica,4.0,MATEMATICA,4.0,PROBABILITA',4.0,UTILITA',4.0
+liceo_sci_028,Statistica,3.0,percentuale,3.0,calcolo,3.0,probabilità,3.0
+liceo_sci_029,Statistica,3.0,,,,,,
+liceo_sci_030,Statistica,3.0,,,,,,
+liceo_sci_031,Statistica,4.0,matematica,3.0,scienza,4.0,economia,5.0
+liceo_sci_032,Statistica,2.0,dati,3.0,indagini,4.0,,
+liceo_sci_033,Statistica,4.0,brutta,2.0,utile,5.0,difficile,3.0
+liceo_sci_034,Statistica,4.0,matematica,4.0,azienda,4.0,grafici,5.0
+liceo_sci_035,Statistica,3.0,matematica,4.0,numeri,3.0,media,3.0
+liceo_sci_036,Statistica,3.0,probabilità,3.0,matematica,3.0,numeri,3.0
+liceo_sci_037,Statistica,3.0,programma,3.0,scuola,3.0,verifica,3.0
+liceo_sci_038,Statistica,4.0,probabilita,4.0,futuro,4.0,universita,4.0
+liceo_sci_039,Statistica,3.0,matematica,3.0,report,4.0,studio,4.0
+liceo_sci_040,Statistica,4.0,numeri,3.0,grafici,3.0,studio,3.0
+liceo_sci_041,Statistica,2.0,analisi,2.0,matematica,2.0,dati,3.0
+liceo_sci_042,Statistica,4.0,calcoli,3.0,percentuali,3.0,utile,4.0
+liceo_sci_043,Statistica,4.0,popolazione,4.0,numeri,4.0,grafici,4.0
+liceo_sci_001,Ipotesi,3.0,idee,3.0,,,,
+liceo_sci_002,Ipotesi,4.0,domanda,4.0,dimostrazione,4.0,triangolo,3.0
+liceo_sci_003,Ipotesi,3.0,domanda,3.0,matematica,2.0,pensiero,3.0
+liceo_sci_004,Ipotesi,3.0,conclusioni,4.0,ragionamenti,4.0,tentativi,2.0
+liceo_sci_005,Ipotesi,2.0,chimica,4.0,esperimenti,4.0,fisica,2.0
+liceo_sci_006,Ipotesi,3.0,dubbio,2.0,tentativo ,5.0,prova,5.0
+liceo_sci_007,Ipotesi,4.0,matematica,3.0,esperimento,4.0,scienza,4.0
+liceo_sci_008,Ipotesi,3.0,proposte,3.0,,,,
+liceo_sci_009,Ipotesi,4.0,scienza,4.0,metodo scientifico,5.0,esperimento,5.0
+liceo_sci_010,Ipotesi,3.0,domanda,3.0,esperimento,3.0,,3.0
+liceo_sci_011,Ipotesi,4.0,,3.0,,3.0,,3.0
+liceo_sci_012,Ipotesi,4.0,prova,4.0,tesi,3.0,verifica,3.0
+liceo_sci_013,Ipotesi,3.0,inizio,4.0,esperimento,3.0,,
+liceo_lin_001,Ipotesi,3.0,matematica,3.0,proposta,3.0,pensiero,5.0
+liceo_lin_002,Ipotesi,4.0,probabilità,4.0,insicurezza,2.0,,
+liceo_lin_003,Ipotesi,3.0,domanda,4.0,quiz,4.0,nulla,4.0
+liceo_lin_004,Ipotesi,3.0,domanda,5.0,Probabilità ,1.0,Esame,1.0
+liceo_lin_005,Ipotesi,3.0,incertezza,2.0,errore,2.0,,
+liceo_lin_006,Ipotesi,3.0,domanda,3.0,soluzione,5.0,ricerca,5.0
+liceo_lin_007,Ipotesi,3.0,dubbio,3.0,idea,3.0,riflessione,3.0
+liceo_lin_008,Ipotesi,3.0,creatività,2.0,idea,4.0,nuovo,4.0
+liceo_lin_009,Ipotesi,3.0,idea,4.0,incertezza,2.0,,
+liceo_lin_010,Ipotesi,4.0,domanda,4.0,curiosità,3.0,supposizione,3.0
+liceo_lin_011,Ipotesi,4.0,probabilità,3.0,vera,3.0,falsa,3.0
+liceo_lin_012,Ipotesi,3.0,esperimento,4.0,studio,3.0,errore,2.0
+liceo_lin_013,Ipotesi,4.0,tesi,3.0,risolvere ,4.0,dubbio,2.0
+liceo_lin_014,Ipotesi,3.0,incertezza,2.0,bozza,2.0,detective,4.0
+liceo_lin_015,Ipotesi,3.0,tesi,3.0,antitesi,3.0,supposizione,3.0
+liceo_lin_016,Ipotesi,3.0,domanda ,3.0,risposta,3.0,opinione,4.0
+liceo_lin_017,Ipotesi,4.0,idea,5.0,azzardo,4.0,conclusioni,4.0
+liceo_lin_018,Ipotesi,3.0,incertezza,3.0,possibilità,4.0,,
+liceo_lin_019,Ipotesi,,supposizione,,probabilità ,,,
+liceo_sci_014,Ipotesi,4.0,filosofia,5.0,logica,4.0,azzurro,3.0
+liceo_sci_015,Ipotesi,,,,,,,
+liceo_sci_016,Ipotesi,3.0,quaderno,3.0,triangolo,3.0,scienze,4.0
+liceo_sci_017,Ipotesi,4.0,studio,4.0,riflessioni,5.0,pensieri ,5.0
+liceo_sci_018,Ipotesi,3.0,matematica,4.0,scoperta,5.0,,
+liceo_sci_019,Ipotesi,3.0,domande,3.0,incertezza,2.0,ragionamento,3.0
+liceo_sci_020,Ipotesi,4.0,tesi,4.0,antitesi,4.0,soluzione,4.0
+liceo_sci_021,Ipotesi,3.0,domande,4.0,tesi,3.0,esperimento,5.0
+liceo_sci_022,Ipotesi,3.0,tesi,3.0,antitesi,3.0,verifica,3.0
+liceo_sci_023,Ipotesi,4.0,matematica,4.0,fisica,4.0,ricerca,4.0
+liceo_sci_024,Ipotesi,5.0,Ragionamento,5.0,Opinioni,5.0,Pensare,5.0
+liceo_sci_025,Ipotesi,3.0,tesi,3.0,dimostrazione,3.0,dati,3.0
+liceo_sci_026,Ipotesi,3.0,scienze,4.0,,,,
+liceo_sci_027,Ipotesi,4.0,DATI,4.0,PROBLEMA,5.0,IDEA,5.0
+liceo_sci_028,Ipotesi,3.0,tesi,3.0,dimostrazione,4.0,disegno,4.0
+liceo_sci_029,Ipotesi,3.0,,,,,,
+liceo_sci_030,Ipotesi,3.0,,,,,,
+liceo_sci_031,Ipotesi,3.0,intelligenza,4.0,nuovo,5.0,,
+liceo_sci_032,Ipotesi,3.0,teorema,3.0,scoperta,4.0,dimostrazione,3.0
+liceo_sci_033,Ipotesi,5.0,utili,5.0,importanti,5.0,naturali,4.0
+liceo_sci_034,Ipotesi,3.0,geometria,3.0,tesi,3.0,,
+liceo_sci_035,Ipotesi,3.0,tesi,3.0,problema,2.0,soluzione,4.0
+liceo_sci_036,Ipotesi,3.0,scientifica,3.0,culturale,3.0,bagnata,3.0
+liceo_sci_037,Ipotesi,3.0,Hp,3.0,problema,3.0,tesi,3.0
+liceo_sci_038,Ipotesi,3.0,innovazione,4.0,nuovo,4.0,sbagliato,2.0
+liceo_sci_039,Ipotesi,4.0,tesi,4.0,indizio,3.0,teorema,3.0
+liceo_sci_040,Ipotesi,4.0,teoria,4.0,esperimento,4.0,verificabilità,4.0
+liceo_sci_041,Ipotesi,3.0,domanda,3.0,esperimento,4.0,curiosità,5.0
+liceo_sci_042,Ipotesi,3.0,domanda,3.0,risposta,4.0,non saper rispondere,2.0
+liceo_sci_043,Ipotesi,4.0,idea,5.0,intraprendenza,5.0,,
+liceo_sci_001,Ansia,1.0,matematica,3.0,fisica ,2.0,voti,1.0
+liceo_sci_002,Ansia,2.0,respirare,4.0,è normale fallire,4.0,,
+liceo_sci_003,Ansia,1.0,agitazione,2.0,stato d'animo,4.0,incontollabile,2.0
+liceo_sci_004,Ansia,2.0,preoccupazione,2.0,problemi,2.0,irrisolvibile,2.0
+liceo_sci_005,Ansia,2.0,verifiche,2.0,eventi,3.0,scuola,3.0
+liceo_sci_006,Ansia,2.0,nero,1.0,vuoto,1.0,tremare,1.0
+liceo_sci_007,Ansia,1.0,stress,2.0,respiro,4.0,confusione,2.0
+liceo_sci_008,Ansia,2.0,esercizi,3.0,chimica,2.0,,
+liceo_sci_009,Ansia,1.0,agitazione,1.0,stress,1.0,verifica,2.0
+liceo_sci_010,Ansia,2.0,prestazione,4.0,,3.0,,3.0
+liceo_sci_011,Ansia,1.0,esame,1.0,studiare,1.0,,
+liceo_sci_012,Ansia,1.0,paura,1.0,stress,1.0,verifiche,2.0
+liceo_sci_013,Ansia,1.0,costante,2.0,buona,3.0,cattiva,2.0
+liceo_lin_001,Ansia,2.0,futuro,3.0,scuola,4.0,persone,4.0
+liceo_lin_002,Ansia,1.0,paura,1.0,blocco,1.0,salute,2.0
+liceo_lin_003,Ansia,2.0,viola,2.0,rosso,2.0,scuola,3.0
+liceo_lin_004,Ansia,1.0,Futuro,4.0,Freddo,1.0,Sudore,1.0
+liceo_lin_005,Ansia,1.0,scuola,2.0,maturità,2.0,solitudine,1.0
+liceo_lin_006,Ansia,1.0,scuola,4.0,prova,3.0,studio,3.0
+liceo_lin_007,Ansia,2.0,paura,2.0,battito,2.0,ansimare,2.0
+liceo_lin_008,Ansia,2.0,oppressione,1.0,stanchezza,2.0,aspettative,2.0
+liceo_lin_009,Ansia,1.0,stress,1.0,fatica,2.0,paura,1.0
+liceo_lin_010,Ansia,4.0,significativa,4.0,consapevolezza,3.0,,
+liceo_lin_011,Ansia,1.0,sociale,1.0,scolastica,1.0,personale,1.0
+liceo_lin_012,Ansia,1.0,stress,1.0,,,,
+liceo_lin_013,Ansia,1.0,paura,1.0,agitazione,2.0,panico,1.0
+liceo_lin_014,Ansia,1.0,scuola,4.0,futuro,4.0,perdersi,4.0
+liceo_lin_015,Ansia,1.0,scuola,2.0,fallimento,1.0,eventi,3.0
+liceo_lin_016,Ansia,2.0,paura ,2.0,fallimento,1.0,lacrime,2.0
+liceo_lin_017,Ansia,2.0,futuro,2.0,doveri,2.0,aspettative,1.0
+liceo_lin_018,Ansia,1.0,frequente,1.0,scuola,2.0,voti,2.0
+liceo_lin_019,Ansia,,preoccupazione,,giudizio,,disfunzione,
+liceo_sci_014,Ansia,1.0,comune,3.0,aiuto,1.0,blu,2.0
+liceo_sci_015,Ansia,,esami,,,,,
+liceo_sci_016,Ansia,1.0,io,2.0,rosa,3.0,canzone ,5.0
+liceo_sci_017,Ansia,2.0,stress,1.0,preoccupazione,1.0,nero ,5.0
+liceo_sci_018,Ansia,1.0,scuola,1.0,voti,1.0,università,1.0
+liceo_sci_019,Ansia,2.0,paura,2.0,panico,2.0,situazione,1.0
+liceo_sci_020,Ansia,1.0,Panico,1.0,silenzio,3.0,agitazione,2.0
+liceo_sci_021,Ansia,3.0,paura,3.0,scuola,3.0,,
+liceo_sci_022,Ansia,2.0,sociale,3.0,futuro,4.0,fallimento,1.0
+liceo_sci_023,Ansia,1.0,scuola,3.0,voti,2.0,giusta,3.0
+liceo_sci_024,Ansia,2.0,Del lavoro,3.0,Consegne,2.0,Stress,1.0
+liceo_sci_025,Ansia,2.0,prestazioni,3.0,scuola,3.0,prove,3.0
+liceo_sci_026,Ansia,1.0,verifica,2.0,interrogazione,1.0,pressione,1.0
+liceo_sci_027,Ansia,2.0,INTERROGAZIONE,2.0,PERDITA,1.0,,
+liceo_sci_028,Ansia,2.0,lavoro,3.0,prestanzione,4.0,scuola,3.0
+liceo_sci_029,Ansia,3.0,,,,,,
+liceo_sci_030,Ansia,2.0,prestazione,2.0,esame,2.0,incidente,2.0
+liceo_sci_031,Ansia,4.0,panico,4.0,da solo,5.0,testa,5.0
+liceo_sci_032,Ansia,2.0,persone,3.0,giudizio,1.0,dimostrare,2.0
+liceo_sci_033,Ansia,1.0,terribile,1.0,male,1.0,sofferenza,1.0
+liceo_sci_034,Ansia,1.0,impegni,2.0,aspettative,1.0,,
+liceo_sci_035,Ansia,1.0,,,,,,
+liceo_sci_036,Ansia,3.0,forte,3.0,pesante,3.0,melodia,3.0
+liceo_sci_037,Ansia,2.0,scolastica,3.0,uscita,3.0,appuntamento,2.0
+liceo_sci_038,Ansia,2.0,futuro,4.0,prestazione,3.0,obiettivi,4.0
+liceo_sci_039,Ansia,1.0,paura,2.0,tensione,2.0,emozione,3.0
+liceo_sci_040,Ansia,2.0,respiro,5.0,meditazione,5.0,battito cardiaco,3.0
+liceo_sci_041,Ansia,1.0,paura,1.0,stress,1.0,insicurezza,1.0
+liceo_sci_042,Ansia,1.0,scuola,2.0,interrogazioni,2.0,,
+liceo_sci_043,Ansia,1.0,scuola,2.0,capelli,1.0,unghie,1.0
+liceo_sci_001,Benessere,4.0,libertà,4.0,natura,4.0,,
+liceo_sci_002,Benessere,5.0,sport,5.0,dopamina,5.0,serotonina,5.0
+liceo_sci_003,Benessere,5.0,tranquillità,5.0,felicità,5.0,pace,5.0
+liceo_sci_004,Benessere,5.0,relax,5.0,pace,5.0,tranquillità,5.0
+liceo_sci_005,Benessere,4.0,salute,4.0,dormire,4.0,mangiare,4.0
+liceo_sci_006,Benessere,5.0,calma,5.0,pace,5.0,connessione,5.0
+liceo_sci_007,Benessere,4.0,mentale,3.0,fisico,4.0,salute,4.0
+liceo_sci_008,Benessere,4.0,psicologico,4.0,fisico,4.0,mentale,3.0
+liceo_sci_009,Benessere,4.0,stare bene,4.0,fisico,4.0,psicologico,4.0
+liceo_sci_010,Benessere,5.0,vita,4.0,,3.0,,3.0
+liceo_sci_011,Benessere,5.0,dormire,5.0,mangiare,5.0,riposare,5.0
+liceo_sci_012,Benessere,5.0,cura,5.0,calma,5.0,relax,5.0
+liceo_sci_013,Benessere,5.0,bene,5.0,calmi,5.0,rilassati,5.0
+liceo_lin_001,Benessere,5.0,personale,4.0,SPA,5.0,silenzio,4.0
+liceo_lin_002,Benessere,4.0,salute,5.0,tranquillità,5.0,,
+liceo_lin_003,Benessere,5.0,fisico,3.0,mentale,2.0,sociale,3.0
+liceo_lin_004,Benessere,5.0,Spa,5.0,Cibo,4.0,Acqua,5.0
+liceo_lin_005,Benessere,5.0,ossigeno,5.0,salute,5.0,cura,5.0
+liceo_lin_006,Benessere,5.0,sole,5.0,vacanza,5.0,relax,5.0
+liceo_lin_007,Benessere,4.0,malessere,2.0,relax,5.0,stress,1.0
+liceo_lin_008,Benessere,5.0,relax,4.0,spa,5.0,spensieratezza,5.0
+liceo_lin_009,Benessere,5.0,allegria,5.0,serenità,5.0,,
+liceo_lin_010,Benessere,3.0,fisico,3.0,sole,4.0,sport,4.0
+liceo_lin_011,Benessere,4.0,sociale,4.0,amoroso,4.0,personale,4.0
+liceo_lin_012,Benessere,4.0,calma,4.0,felicità,4.0,pace,4.0
+liceo_lin_013,Benessere,5.0,salute,5.0,felicità,5.0,calma,5.0
+liceo_lin_014,Benessere,5.0,terme,5.0,fisico,3.0,mentale,2.0
+liceo_lin_015,Benessere,5.0,mentale,5.0,fisico,5.0,pace,5.0
+liceo_lin_016,Benessere,3.0,fisico,3.0,culturale ,4.0,altrui,5.0
+liceo_lin_017,Benessere,5.0,salute,4.0,pace,5.0,famiglia,5.0
+liceo_lin_018,Benessere,4.0,salute,5.0,mente,5.0,corpo,5.0
+liceo_lin_019,Benessere,,fisico,,pace,,,
+liceo_sci_014,Benessere,4.0,raro,2.0,esiste?,1.0,rosa,2.0
+liceo_sci_015,Benessere,,relax,,,,,
+liceo_sci_016,Benessere,5.0,salute,5.0,spa,5.0,terme,5.0
+liceo_sci_017,Benessere,5.0,sauna ,5.0,corpo ,5.0,mente ,5.0
+liceo_sci_018,Benessere,5.0,serenità ,5.0,calma,5.0,,
+liceo_sci_019,Benessere,5.0,felicità,5.0,rilassamento,5.0,tranquillità,5.0
+liceo_sci_020,Benessere,4.0,calmo,4.0,bello,4.0,relax,4.0
+liceo_sci_021,Benessere,5.0,relax,5.0,pace con sè stessi,5.0,stare bene,5.0
+liceo_sci_022,Benessere,5.0,mentale,3.0,fisico,3.0,società,3.0
+liceo_sci_023,Benessere,5.0,soldi,5.0,ricchezza,5.0,salute,5.0
+liceo_sci_024,Benessere,5.0,Famigliare,5.0,Economico,5.0,Psicologico,5.0
+liceo_sci_025,Benessere,4.0,mentale,3.0,natura,4.0,serenità,4.0
+liceo_sci_026,Benessere,4.0,amici,5.0,tranquillità,4.0,famiglia,5.0
+liceo_sci_027,Benessere,4.0,AMICI,5.0,ESPERIENZE,5.0,RELAX,4.0
+liceo_sci_028,Benessere,5.0,sport,4.0,relax,5.0,salute,5.0
+liceo_sci_029,Benessere,3.0,,,,,,
+liceo_sci_030,Benessere,4.0,fisico,5.0,mentale,5.0,,
+liceo_sci_031,Benessere,4.0,serenità,5.0,equilibrio,5.0,divertimento,5.0
+liceo_sci_032,Benessere,5.0,calma,5.0,tranquillità,5.0,libertà,5.0
+liceo_sci_033,Benessere,5.0,famiglia,5.0,amici,5.0,salute,5.0
+liceo_sci_034,Benessere,5.0,tranquillità,5.0,,,,
+liceo_sci_035,Benessere,5.0,SPA,5.0,acqua,5.0,piscina,4.0
+liceo_sci_036,Benessere,3.0,psicofisico,3.0,sopportare,3.0,mantenuto,3.0
+liceo_sci_037,Benessere,2.0,vita,1.0,dieta,2.0,palestra,3.0
+liceo_sci_038,Benessere,5.0,mentale,5.0,fisico,5.0,sport,5.0
+liceo_sci_039,Benessere,4.0,salute,4.0,mente,5.0,alimentazione,4.0
+liceo_sci_040,Benessere,5.0,salute,5.0,mentale,5.0,fisico,5.0
+liceo_sci_041,Benessere,5.0,relax,5.0,sport,5.0,vacanza,5.0
+liceo_sci_042,Benessere,4.0,sociale,4.0,economico,4.0,,
+liceo_sci_043,Benessere,5.0,sport,5.0,relax,5.0,amicizie e amore,5.0
+liceo_sci_001,Equazione,3.0,divertenti ,5.0,,,,
+liceo_sci_002,Equazione,3.0,razionale,3.0,Schrodinger,4.0,Gauss,2.0
+liceo_sci_003,Equazione,3.0,matematica,2.0,calcoli,3.0,soluzione,3.0
+liceo_sci_004,Equazione,3.0,matematica,3.0,calcoli,3.0,incognita x,2.0
+liceo_sci_005,Equazione,2.0,matematica,2.0,calcoli,2.0,numeri,2.0
+liceo_sci_006,Equazione,3.0,noia ,2.0,semplice,4.0,ansia,2.0
+liceo_sci_007,Equazione,3.0,lunga,3.0,matematica ,3.0,numeri,3.0
+liceo_sci_008,Equazione,3.0,matematica,4.0,chimica,2.0,,
+liceo_sci_009,Equazione,4.0,funzione,4.0,retta,4.0,piano cartesiano,5.0
+liceo_sci_010,Equazione,4.0,x,4.0,matematica,4.0,algebra,4.0
+liceo_sci_011,Equazione,3.0,risoluzione,3.0,matematica,3.0,,3.0
+liceo_sci_012,Equazione,2.0,uguale,3.0,numeri,3.0,risultato,3.0
+liceo_sci_013,Equazione,3.0,matematica,2.0,svolgere,3.0,,
+liceo_lin_001,Equazione,3.0,algebra,3.0,scuola,4.0,numeri,3.0
+liceo_lin_002,Equazione,1.0,matematica,1.0,ansia,1.0,incapacità,1.0
+liceo_lin_003,Equazione,3.0,algebrica ,3.0,matematica,3.0,maté mattia ,1.0
+liceo_lin_004,Equazione,4.0,X,4.0,Risoluzione,1.0,Voto,1.0
+liceo_lin_005,Equazione,5.0,matematica,2.0,semplice,4.0,,
+liceo_lin_006,Equazione,3.0,uguale,3.0,soluzione,4.0,risultato,4.0
+liceo_lin_007,Equazione,3.0,numeri,3.0,simboli,3.0,calcoli,3.0
+liceo_lin_008,Equazione,2.0,matematica,2.0,difficile,2.0,complicata,2.0
+liceo_lin_009,Equazione,3.0,numeri,3.0,segno,3.0,,
+liceo_lin_010,Equazione,1.0,matematica,1.0,,,,
+liceo_lin_011,Equazione,3.0,aritmetica,3.0,numeri,3.0,incognita,1.0
+liceo_lin_012,Equazione,3.0,numeri,3.0,uguale,3.0,risultato,3.0
+liceo_lin_013,Equazione,3.0,matematica ,4.0,problemi,2.0,incognite,2.0
+liceo_lin_014,Equazione,2.0,geogebra,2.0,indifferenza,4.0,vivo senza,5.0
+liceo_lin_015,Equazione,2.0,numeri,2.0,frazione,2.0,calcoli,2.0
+liceo_lin_016,Equazione,,matematica,,calcoli,,materia ,
+liceo_lin_017,Equazione,3.0,esame,3.0,risposte,4.0,puzzle,5.0
+liceo_lin_018,Equazione,3.0,matematica,4.0,numerica,3.0,,
+liceo_lin_019,Equazione,3.0,numerica,3.0,matematica,3.0,algebrica,3.0
+liceo_sci_014,Equazione,1.0,matematica,1.0,stabile,1.0,ocra,1.0
+liceo_sci_015,Equazione,,risoluzione,,x,,,
+liceo_sci_016,Equazione,3.0,numeri,3.0,grafico,3.0,quadretti,3.0
+liceo_sci_017,Equazione,,differenziale,,logaritmica ,,esponenziale ,
+liceo_sci_018,Equazione,3.0,matematica,3.0,,,,
+liceo_sci_019,Equazione,4.0,numeri,4.0,matematica,4.0,soluzione,4.0
+liceo_sci_020,Equazione,4.0,Bella,4.0,matematica,4.0,incognita,4.0
+liceo_sci_021,Equazione,3.0,matematica,3.0,fisica,3.0,esercizi,3.0
+liceo_sci_022,Equazione,3.0,primo grado,3.0,esponenziale,3.0,logaritmica,3.0
+liceo_sci_023,Equazione,4.0,matematica,4.0,varianti,4.0,sistemi,4.0
+liceo_sci_024,Equazione,4.0,parametrica,4.0,frazionale,4.0,da semplificare,5.0
+liceo_sci_025,Equazione,3.0,grado,3.0,risultati,3.0,calcoli,3.0
+liceo_sci_026,Equazione,,matematica,,x,,grafico,
+liceo_sci_027,Equazione,4.0,UTILE,4.0,DIFFICILE,4.0,BELLINA,5.0
+liceo_sci_028,Equazione,3.0,risultato,4.0,matematica,3.0,risolvere,4.0
+liceo_sci_029,Equazione,3.0,matematica,4.0,logica,3.0,numeri ,4.0
+liceo_sci_030,Equazione,3.0,,,,,,
+liceo_sci_031,Equazione,3.0,primo grado,4.0,analisi,5.0,matematica,3.0
+liceo_sci_032,Equazione,2.0,matematica,4.0,carta,4.0,passato,4.0
+liceo_sci_033,Equazione,3.0,normale,3.0,,,,
+liceo_sci_034,Equazione,4.0,matematica,3.0,calcoli,3.0,risultato,4.0
+liceo_sci_035,Equazione,3.0,soluzione,4.0,radici,3.0,associata,3.0
+liceo_sci_036,Equazione,3.0,matematica,3.0,fisica,3.0,lontana,3.0
+liceo_sci_037,Equazione,3.0,disequazione,3.0,eqz,2.0,matematica,3.0
+liceo_sci_038,Equazione,3.0,matematica,4.0,procedimento,4.0,calma,4.0
+liceo_sci_039,Equazione,3.0,matematica,4.0,lettere,5.0,soluzioni,5.0
+liceo_sci_040,Equazione,3.0,numeri,3.0,uguale,3.0,risultato,4.0
+liceo_sci_041,Equazione,3.0,matematica,2.0,numeri,3.0,lettere,3.0
+liceo_sci_042,Equazione,3.0,utile,4.0,matematica,3.0,prima superiore,3.0
+liceo_sci_043,Equazione,3.0,numeri,3.0,risultato,2.0,matematica,4.0
+liceo_sci_001,Fisica,3.0,difficile,2.0,ansiosa ,1.0,,
+liceo_sci_002,Fisica,4.0,campo elettrico,3.0,gatto,5.0,mele,5.0
+liceo_sci_003,Fisica,2.0,difficile da capire,1.0,non fa per me,1.0,interessante,4.0
+liceo_sci_004,Fisica,3.0,calcoli,3.0,formule,3.0,caos,2.0
+liceo_sci_005,Fisica,2.0,formule,2.0,moti,2.0,leggi,2.0
+liceo_sci_006,Fisica,3.0,corpi,3.0,movimente,4.0,legi,4.0
+liceo_sci_007,Fisica,3.0,formule,3.0,verifica ,2.0,esercizi,3.0
+liceo_sci_008,Fisica,3.0,ansietta,4.0,non capace,5.0,,
+liceo_sci_009,Fisica,3.0,vettori,5.0,gravità,5.0,coloumb,3.0
+liceo_sci_010,Fisica,3.0,moti,3.0,energia,3.0,forze,3.0
+liceo_sci_011,Fisica,3.0,leggi,2.0,formule,2.0,realtà,3.0
+liceo_sci_012,Fisica,5.0,moti,5.0,leggi,5.0,formule,4.0
+liceo_sci_013,Fisica,2.0,difficile,2.0,interessante,4.0,ansia,2.0
+liceo_lin_001,Fisica,3.0,sport,4.0,scuola,4.0,formule,3.0
+liceo_lin_002,Fisica,2.0,ansia,1.0,numeri,2.0,difficile,1.0
+liceo_lin_003,Fisica,1.0,chimica,2.0,materia,3.0,newton,3.0
+liceo_lin_004,Fisica,1.0,Crisi,1.0,Verifica,1.0,Laboratorio,3.0
+liceo_lin_005,Fisica,2.0,velocità,4.0,inglese,4.0,problemi,4.0
+liceo_lin_006,Fisica,2.0,problemi,2.0,ansia,2.0,difficoltà,2.0
+liceo_lin_007,Fisica,3.0,formula,3.0,natura,3.0,problemi,3.0
+liceo_lin_008,Fisica,1.0,surreale,3.0,difficile,2.0,,
+liceo_lin_009,Fisica,2.0,problemi,2.0,suono,2.0,onde,2.0
+liceo_lin_010,Fisica,1.0,complicata,1.0,sapienza,2.0,verde,4.0
+liceo_lin_011,Fisica,3.0,numeri,3.0,leggi,3.0,problemi,2.0
+liceo_lin_012,Fisica,2.0,leggi,3.0,numeri,3.0,movimento,3.0
+liceo_lin_013,Fisica,3.0,numeri,2.0,formule,2.0,insegnate,4.0
+liceo_lin_014,Fisica,1.0,quantistica,3.0,atomi,3.0,corde,3.0
+liceo_lin_015,Fisica,2.0,difficile,2.0,formule,2.0,numeri,2.0
+liceo_lin_016,Fisica,,calcoli,,quantistica,,leggi,
+liceo_lin_017,Fisica,3.0,problemi,3.0,calcolo,3.0,scienza,5.0
+liceo_lin_018,Fisica,3.0,fenomeni,4.0,gravità,4.0,,
+liceo_lin_019,Fisica,3.0,quantistica,3.0,energia,3.0,mole,3.0
+liceo_sci_014,Fisica,1.0,amore,2.0,volare,5.0,arancione,1.0
+liceo_sci_015,Fisica,,,,,,,
+liceo_sci_016,Fisica,3.0,numeri,3.0,professore,2.0,maiuscola,3.0
+liceo_sci_017,Fisica,,chiocchetti,,relativita ,,plank,
+liceo_sci_018,Fisica,3.0,test,1.0,esperimenti,5.0,,
+liceo_sci_019,Fisica,3.0,calcoli,4.0,complessa,2.0,ragionamento,4.0
+liceo_sci_020,Fisica,5.0,spazio,5.0,Einstein,4.0,relatività,5.0
+liceo_sci_021,Fisica,3.0,problemi,3.0,relatività,3.0,libro,3.0
+liceo_sci_022,Fisica,3.0,quantistica,3.0,relatività ,2.0,tempo,3.0
+liceo_sci_023,Fisica,2.0,esperimenti,4.0,dati,4.0,leggi,4.0
+liceo_sci_024,Fisica,5.0,Futuro,5.0,Università,5.0,Dinamica,5.0
+liceo_sci_025,Fisica,3.0,quantistica,3.0,esperimenti,3.0,innovazione,3.0
+liceo_sci_026,Fisica,,debito,,difficoltà,,educazione,
+liceo_sci_027,Fisica,4.0,INTERESSE,4.0,CURIOSITA',4.0,DIFFICOLTA',5.0
+liceo_sci_028,Fisica,3.0,studio,2.0,esercizi,3.0,risoluzione,4.0
+liceo_sci_029,Fisica,2.0,scuola,3.0,formule,2.0,difficile,3.0
+liceo_sci_030,Fisica,3.0,,,,,,
+liceo_sci_031,Fisica,3.0,mondo,4.0,esperimento,4.0,,
+liceo_sci_032,Fisica,2.0,problemi,2.0,brutta,2.0,scienza,3.0
+liceo_sci_033,Fisica,4.0,dimostrazioni,3.0,,,,
+liceo_sci_034,Fisica,3.0,calcoli,3.0,dati,3.0,esperimenti ,4.0
+liceo_sci_035,Fisica,5.0,studio,4.0,università,5.0,sorriso,5.0
+liceo_sci_036,Fisica,3.0,teorica,3.0,applicata,3.0,spaziale,3.0
+liceo_sci_037,Fisica,3.0,esperimento,4.0,tolc,2.0,matematica,3.0
+liceo_sci_038,Fisica,3.0,interessante,4.0,complicata,3.0,precisa,3.0
+liceo_sci_039,Fisica,3.0,quanti,3.0,moderna,4.0,pratica,3.0
+liceo_sci_040,Fisica,4.0,realtà,4.0,concetti,4.0,matematica,3.0
+liceo_sci_041,Fisica,2.0,universo,4.0,esperimenti,4.0,progressi,4.0
+liceo_sci_042,Fisica,3.0,fantasia,4.0,non utile,2.0,,
+liceo_sci_043,Fisica,3.0,incomprensione,3.0,difficoltà,2.0,interesse,5.0
+liceo_sci_001,Innovazione,4.0,futuro,4.0,,,,
+liceo_sci_002,Innovazione,3.0,tentativi falliti,4.0,scoperte,4.0,condivisione,4.0
+liceo_sci_003,Innovazione,4.0,creatività,4.0,inventiva,4.0,scienza,3.0
+liceo_sci_004,Innovazione,3.0,imprevedibile,2.0,cambiamenti,3.0,novità,3.0
+liceo_sci_005,Innovazione,3.0,scientifica,3.0,scoperta,4.0,,
+liceo_sci_006,Innovazione,4.0,luce,4.0,miglioramento,4.0,felicità,4.0
+liceo_sci_007,Innovazione,4.0,aiuto,5.0,futuro,4.0,tecnologia,3.0
+liceo_sci_008,Innovazione,4.0,tecnologie,4.0,strumenti,3.0,nuovi mezzi,4.0
+liceo_sci_009,Innovazione,5.0,tecnologia,5.0,scientifica,5.0,,
+liceo_sci_010,Innovazione,4.0,invenzione,4.0,novità,4.0,scoperta,4.0
+liceo_sci_011,Innovazione,4.0,progresso,4.0,invenzione,4.0,creatività,4.0
+liceo_sci_012,Innovazione,5.0,tecnologie,5.0,aiuto,5.0, scoperte,5.0
+liceo_sci_013,Innovazione,4.0,nuovo,4.0,oggetto,3.0,,
+liceo_lin_001,Innovazione,4.0,intelligenza artificiale,2.0,pericolo,2.0,opportunità,5.0
+liceo_lin_002,Innovazione,4.0,tecnologia,4.0,positivo,4.0,,
+liceo_lin_003,Innovazione,1.0,technology ,4.0,tecnologia,2.0,matematica ,2.0
+liceo_lin_004,Innovazione,5.0,Tecnologia,5.0,Futuro,5.0,Speranza ,5.0
+liceo_lin_005,Innovazione,5.0,scoperta,5.0,tecnologia,5.0,futuro,5.0
+liceo_lin_006,Innovazione,4.0,scientifica,4.0,scoperta,4.0,idea,4.0
+liceo_lin_007,Innovazione,3.0,tecnologia,4.0,novità,3.0,brevetto,3.0
+liceo_lin_008,Innovazione,4.0,futuro,4.0,tecnologia,3.0,progresso,4.0
+liceo_lin_009,Innovazione,4.0,novità,4.0,,,,
+liceo_lin_010,Innovazione,2.0,tech,4.0,futuro,5.0,informatica,4.0
+liceo_lin_011,Innovazione,4.0,tecnologica,4.0,scientifica,4.0,matematica,4.0
+liceo_lin_012,Innovazione,4.0,progresso,4.0,miglioramento,4.0,avanzamento,3.0
+liceo_lin_013,Innovazione,5.0,progresso,5.0,futuro,4.0,miglioramento,5.0
+liceo_lin_014,Innovazione,3.0,deterioramento,2.0,imprevedibile,1.0,due facce,3.0
+liceo_lin_015,Innovazione,4.0,tecnologia,5.0,novità,5.0,progresso,5.0
+liceo_lin_016,Innovazione,,tecnologica,,artificiale ,,passi avanti,
+liceo_lin_017,Innovazione,3.0,moderno,3.0,cambiamento,2.0,,
+liceo_lin_018,Innovazione,5.0,tecnologia,4.0,scienza,4.0,,
+liceo_lin_019,Innovazione,4.0,progresso,4.0,sviluppo,4.0,,
+liceo_sci_014,Innovazione,3.0,digitale,3.0,scoperta,4.0,azzurro,3.0
+liceo_sci_015,Innovazione,,progresso,,,,,
+liceo_sci_016,Innovazione,5.0,robot,5.0,tecnologia,5.0,futuro,5.0
+liceo_sci_017,Innovazione,,futuro,,ignoto,,geniale ,
+liceo_sci_018,Innovazione,5.0,progresso ,5.0,scoperte,5.0,,
+liceo_sci_019,Innovazione,4.0,creatività,4.0,volontà,4.0,novità,4.0
+liceo_sci_020,Innovazione,5.0,scienza,4.0,nuovo,4.0,Spazio,5.0
+liceo_sci_021,Innovazione,4.0,intelligenza artificiale,3.0,tecnologie,4.0,informatica,3.0
+liceo_sci_022,Innovazione,4.0,tecnologia,4.0,macchine,3.0,informatica,3.0
+liceo_sci_023,Innovazione,5.0,tecnologica,5.0,scientifica,5.0,fisica,3.0
+liceo_sci_024,Innovazione,5.0,Telefono,5.0,Automobile,5.0,Medicina,5.0
+liceo_sci_025,Innovazione,3.0,scienze,3.0,tecnologia,3.0,avanzamento,4.0
+liceo_sci_026,Innovazione,3.0,novità,4.0,scoperta,4.0,peggiorare,2.0
+liceo_sci_027,Innovazione,4.0,SCIENTIFICA,4.0,PROGRESSO,4.0,CURIOSITA',5.0
+liceo_sci_028,Innovazione,4.0,scienza,4.0,informatica,3.0,futuro,4.0
+liceo_sci_029,Innovazione,4.0,tecnologica,4.0,pc,5.0,futuro,4.0
+liceo_sci_030,Innovazione,5.0,,,,,,
+liceo_sci_031,Innovazione,3.0,scienza,3.0,tecnologia,4.0,,
+liceo_sci_032,Innovazione,4.0,progresso,3.0,scienza,3.0,,
+liceo_sci_033,Innovazione,5.0,fondamentale,5.0,,,,
+liceo_sci_034,Innovazione,5.0,robot,3.0,AI,4.0,,
+liceo_sci_035,Innovazione,5.0,progresso,5.0,,,,
+liceo_sci_036,Innovazione,3.0,tecnologica,3.0,scoperta,3.0,meccanismo,3.0
+liceo_sci_037,Innovazione,3.0,scoperta,3.0,nobel,4.0,scienze,4.0
+liceo_sci_038,Innovazione,4.0,progresso,4.0,pionieri,4.0,divertente,4.0
+liceo_sci_039,Innovazione,4.0,progresso,4.0,scienza,3.0,informatica,5.0
+liceo_sci_040,Innovazione,5.0,scoperta,5.0,utilità,5.0,progresso,5.0
+liceo_sci_041,Innovazione,4.0,tecnologia,3.0,progressi,4.0,futuro,3.0
+liceo_sci_042,Innovazione,4.0,nuovo,4.0,risposte,4.0,critiche,3.0
+liceo_sci_043,Innovazione,5.0,curiosità,5.0,intraprendenza,5.0,sopresa,5.0
+liceo_sci_001,Panico,1.0,verifiche a sorpresa,1.0,no aiuto ,1.0,,
+liceo_sci_002,Panico,2.0,respirare,4.0,iperventilazione,1.0,alcalosi,1.0
+liceo_sci_003,Panico,1.0,pura intensa,1.0,ansia intensa,1.0,perdita del controllo,1.0
+liceo_sci_004,Panico,1.0,ansia,1.0,stomaco serrato,1.0,tremore,1.0
+liceo_sci_005,Panico,1.0,ansia,1.0,respiro,3.0,,
+liceo_sci_006,Panico,1.0,giramento di testa,1.0,cuore che batte ,3.0,vuoto,1.0
+liceo_sci_007,Panico,2.0,attacco,1.0,ansia,2.0,stress,2.0
+liceo_sci_008,Panico,3.0,ansia ,4.0,mal di pancia,5.0,paura,4.0
+liceo_sci_009,Panico,1.0,ansia,1.0,agitazione,1.0,generale,3.0
+liceo_sci_010,Panico,2.0,paura,2.0,ansia,2.0,,3.0
+liceo_sci_011,Panico,1.0,ansia ,1.0,respiro,4.0,,3.0
+liceo_sci_012,Panico,1.0,paura,1.0,ansia,1.0,caos,1.0
+liceo_sci_013,Panico,1.0,ansia,1.0,bloccarsi,1.0,paura,1.0
+liceo_lin_001,Panico,2.0,pubblico,3.0,ignoto,3.0,respiro,5.0
+liceo_lin_002,Panico,1.0,ansia,1.0,paura,1.0,blocco,1.0
+liceo_lin_003,Panico,3.0,,,,,,2.0
+liceo_lin_004,Panico,1.0,Paura,1.0,Respirazione,5.0,Soffia le candeline,5.0
+liceo_lin_005,Panico,1.0,paura,2.0,attacco,2.0,,
+liceo_lin_006,Panico,1.0,chiuso,1.0,ansia,2.0,tachicardia,1.0
+liceo_lin_007,Panico,2.0,controllo,4.0,conseguenze,2.0,gestione,4.0
+liceo_lin_008,Panico,1.0,paura,2.0,ansia,2.0,stress,2.0
+liceo_lin_009,Panico,1.0,sudore,1.0,perdita controllo,1.0,,
+liceo_lin_010,Panico,2.0,ansia,3.0,improvviso,2.0,importanza,5.0
+liceo_lin_011,Panico,1.0,totale,1.0,stress,1.0,ansia,1.0
+liceo_lin_012,Panico,1.0,ansia,1.0,stress,1.0,paura,1.0
+liceo_lin_013,Panico,1.0,affrontare,4.0,comprendersi ,4.0,calmarsi,4.0
+liceo_lin_014,Panico,1.0,attacchi,1.0,no respiro,1.0,tunnel,1.0
+liceo_lin_015,Panico,1.0,ansia,1.0,fallimento,1.0,scuola,1.0
+liceo_lin_016,Panico,,scuola,,lacrime,,timore,
+liceo_lin_017,Panico,1.0,cuore,3.0,battito,2.0,caldo,2.0
+liceo_lin_018,Panico,1.0,immotivato,1.0,repressione ,1.0,,
+liceo_lin_019,Panico,2.0,blocco,2.0,paura,2.0,ansia,2.0
+liceo_sci_014,Panico,1.0,comune,1.0,aiuto ,1.0,viola scuro,1.0
+liceo_sci_015,Panico,,,,,,,
+liceo_sci_016,Panico,1.0,ansia,1.0,aria,3.0,bianco,3.0
+liceo_sci_017,Panico,,follia,,ansia ,,insicurezza ,
+liceo_sci_018,Panico,1.0,futuro,4.0,voti,1.0,,
+liceo_sci_019,Panico,2.0,paura,2.0,ansia,3.0,incontrollabile,2.0
+liceo_sci_020,Panico,2.0,Ansia,1.0,,,,
+liceo_sci_021,Panico,3.0,agitazione,3.0,non concentrarsi,3.0,,3.0
+liceo_sci_022,Panico,1.0,ansia,1.0,pianto,1.0,respirazione,3.0
+liceo_sci_023,Panico,1.0,azione,3.0,stress,1.0,paura,1.0
+liceo_sci_024,Panico,2.0,Stress,2.0,Ansia,2.0,Difficoltà,3.0
+liceo_sci_025,Panico,2.0,paura,2.0,gaina,3.0,cibo,3.0
+liceo_sci_026,Panico,2.0,matematica,2.0,studio,2.0,sorpresa,4.0
+liceo_sci_027,Panico,2.0,INTERROGAZIONE A SORPRESA,1.0,,,,
+liceo_sci_028,Panico,1.0,incertezza,2.0,errori,2.0,ansia,1.0
+liceo_sci_029,Panico,2.0,attacco,2.0,solo,3.0,persone,4.0
+liceo_sci_030,Panico,2.0,,,,,,
+liceo_sci_031,Panico,4.0,aiuto,3.0,ansia,4.0,sigaretta,1.0
+liceo_sci_032,Panico,2.0,attacco,1.0,ansia,1.0,respiro,2.0
+liceo_sci_033,Panico,1.0,brutto,1.0,,,,
+liceo_sci_034,Panico,1.0,impegni,2.0,,,,
+liceo_sci_035,Panico,1.0,nero,2.0,,,,
+liceo_sci_036,Panico,3.0,paura,3.0,freccia,3.0,gente,3.0
+liceo_sci_037,Panico,2.0,attacco,2.0,sudore,3.0,urla,1.0
+liceo_sci_038,Panico,2.0,perdere,1.0,vuoto,2.0,oblio,2.0
+liceo_sci_039,Panico,2.0,ansia,1.0,attacchi,1.0,paura,3.0
+liceo_sci_040,Panico,1.0,paura,2.0,perdita del controlloi,1.0,illogico,1.0
+liceo_sci_041,Panico,1.0,confusione,2.0,no controllo,1.0,problema,2.0
+liceo_sci_042,Panico,2.0,paura,3.0,punto di domanda,2.0,respiro affannoso,2.0
+liceo_sci_043,Panico,1.0,attacchi,1.0,crisi,1.0,buco nero,1.0
+liceo_sci_001,Meditazione,4.0,aiuto,5.0,importante,4.0,,
+liceo_sci_002,Meditazione,4.0,calma,4.0,serenità,4.0,,
+liceo_sci_003,Meditazione,4.0,calma,4.0,relax,5.0,tempo per se stessi,5.0
+liceo_sci_004,Meditazione,3.0,noia,2.0,passeggiata,5.0,inutile,3.0
+liceo_sci_005,Meditazione,3.0,pensare,4.0,,,,
+liceo_sci_006,Meditazione,4.0,pace interiore,5.0,serenità,5.0,connessione,5.0
+liceo_sci_007,Meditazione,3.0,yoga,2.0,respiro,3.0,calma,3.0
+liceo_sci_008,Meditazione,3.0,pace,3.0,silenzio,3.0,,
+liceo_sci_009,Meditazione,4.0,concentrazione,4.0,solitudine,4.0,pensare,4.0
+liceo_sci_010,Meditazione,3.0,calma,4.0,filosofia,3.0,tranquillità,4.0
+liceo_sci_011,Meditazione,4.0,riposo,4.0,mente,3.0,,3.0
+liceo_sci_012,Meditazione,3.0,pensiero,4.0,calma,4.0,scoperta,5.0
+liceo_sci_013,Meditazione,4.0,rilassarsi,4.0,yoga,4.0,tappetino,3.0
+liceo_lin_001,Meditazione,3.0,pace,5.0,calma,5.0,silenzio,3.0
+liceo_lin_002,Meditazione,4.0,calma,4.0,respiro,4.0,,
+liceo_lin_003,Meditazione,3.0,arte,3.0,yoga,4.0,india,5.0
+liceo_lin_004,Meditazione,5.0,Incenso,5.0,Buddha,5.0,Posizione dell’Ohm,5.0
+liceo_lin_005,Meditazione,4.0,relax,4.0,arte,4.0,mente,4.0
+liceo_lin_006,Meditazione,3.0,rilassamento,4.0,pensiero,4.0,mente,4.0
+liceo_lin_007,Meditazione,3.0,relax,4.0,oriente,4.0,sonno,3.0
+liceo_lin_008,Meditazione,3.0,rilassamento,4.0,concentrazione,3.0,silenzio,4.0
+liceo_lin_009,Meditazione,5.0,relax,5.0,mente,5.0,corpo,5.0
+liceo_lin_010,Meditazione,3.0,tempo,2.0,pensieri,4.0,flusso,4.0
+liceo_lin_011,Meditazione,5.0,giudata,5.0,yoga,5.0,mindfullness,5.0
+liceo_lin_012,Meditazione,3.0,calma,4.0,rilassamento,4.0,consapevolezza,3.0
+liceo_lin_013,Meditazione,4.0,persone,3.0,interpretare,5.0,rapporti,4.0
+liceo_lin_014,Meditazione,5.0,relax,5.0,io interiore,5.0,respiro,5.0
+liceo_lin_015,Meditazione,5.0,relax,5.0,pace,5.0,sensi,5.0
+liceo_lin_016,Meditazione,,tranquillità,,rilassarsi,,pensare,
+liceo_lin_017,Meditazione,3.0,calma,3.0,vuoto,3.0,abitudine,3.0
+liceo_lin_018,Meditazione,4.0,libera la mente,4.0,connessione con lo spazio,4.0,sciogliere tensioni,5.0
+liceo_lin_019,Meditazione,4.0,percezione,4.0,introspezione,4.0,autocontrollo,4.0
+liceo_sci_014,Meditazione,4.0,amo,5.0,calma,4.0,verde cobalto,4.0
+liceo_sci_015,Meditazione,,,,,,,
+liceo_sci_016,Meditazione,4.0,india,3.0,calma,4.0,mente,4.0
+liceo_sci_017,Meditazione,,riposo ,,anima,,buddismo ,
+liceo_sci_018,Meditazione,1.0,inutile,1.0,,,,
+liceo_sci_019,Meditazione,4.0,calma,4.0,rilassamento,4.0,riflessione,4.0
+liceo_sci_020,Meditazione,4.0,relax,5.0,silenzio,4.0,natura,3.0
+liceo_sci_021,Meditazione,3.0,relax,5.0,serenità,5.0,calma,5.0
+liceo_sci_022,Meditazione,3.0,silenzio,3.0,pilates,3.0,benessere,4.0
+liceo_sci_023,Meditazione,3.0,yoga,2.0,insignificante,2.0,rilassante,3.0
+liceo_sci_024,Meditazione,3.0,Rilassamte,3.0,o noiosa,3.0,ragionamento,4.0
+liceo_sci_025,Meditazione,3.0,yoga,3.0,pilates,3.0,bosco,4.0
+liceo_sci_026,Meditazione,4.0,calma,4.0,maestro,3.0,pace,4.0
+liceo_sci_027,Meditazione,1.0,INUTILE,2.0,,,,
+liceo_sci_028,Meditazione,4.0,calma,4.0,energia,5.0,riposo,4.0
+liceo_sci_029,Meditazione,3.0,relax,4.0,musica,4.0,olii,3.0
+liceo_sci_030,Meditazione,4.0,,,,,,
+liceo_sci_031,Meditazione,2.0,utile,5.0,,,,
+liceo_sci_032,Meditazione,4.0,respiro,4.0,silenzio,4.0,pace,5.0
+liceo_sci_033,Meditazione,3.0,stress,1.0,,,,
+liceo_sci_034,Meditazione,4.0,candele ,5.0,yoga,4.0,,
+liceo_sci_035,Meditazione,5.0,tranquillità,5.0,acqua,4.0,stress,1.0
+liceo_sci_036,Meditazione,3.0,respiro,3.0,generale,3.0,francese,3.0
+liceo_sci_037,Meditazione,3.0,ying,3.0,yang,2.0,pace,1.0
+liceo_sci_038,Meditazione,3.0,interessato,4.0,mantra,3.0,difficile,2.0
+liceo_sci_039,Meditazione,3.0,ansia,1.0,silenzio,5.0,mente,4.0
+liceo_sci_040,Meditazione,5.0,respirazione,5.0,visualizzazione,5.0,salute,5.0
+liceo_sci_041,Meditazione,4.0,relax,5.0,introspezione,4.0,calma,4.0
+liceo_sci_042,Meditazione,3.0,noioso,2.0,ansia,2.0,scappare,2.0
+liceo_sci_043,Meditazione,5.0,relax,5.0,benessere,5.0,pace,5.0
+liceo_sci_001,Matematica,3.0,difficile,1.0,bella ma,3.0,,
+liceo_sci_002,Matematica,3.0,trigonometria,3.0,algebra,3.0,x,
+liceo_sci_003,Matematica,2.0,calcoli,2.0,professione,4.0,ansia,1.0
+liceo_sci_004,Matematica,3.0,algebra,3.0,calcoli,3.0,precisione,3.0
+liceo_sci_005,Matematica,2.0,numeri,2.0,calcoli,2.0,problemi,2.0
+liceo_sci_006,Matematica,3.0,natura,4.0,tutto,4.0,complessa,2.0
+liceo_sci_007,Matematica,3.0,calcoli,3.0,verifiche,2.0,esercizi,3.0
+liceo_sci_008,Matematica,3.0,esercizi,3.0,precisa,3.0,problemi,3.0
+liceo_sci_009,Matematica,5.0,equazioni,5.0,funzioni,5.0,somma,4.0
+liceo_sci_010,Matematica,4.0,numeri,4.0,costanti,4.0,formule,4.0
+liceo_sci_011,Matematica,3.0,equazioni,3.0,,3.0,,3.0
+liceo_sci_012,Matematica,4.0,numeri,3.0,linguaggio,3.0,equazioni,3.0
+liceo_sci_013,Matematica,2.0,numeri,3.0,geometria,1.0,impegnativa,2.0
+liceo_lin_001,Matematica,3.0,numeri,3.0,grafico ,3.0,funzioni,3.0
+liceo_lin_002,Matematica,1.0,problemi,1.0,numeri,1.0,lettere,2.0
+liceo_lin_003,Matematica,2.0,algebra,2.0,funzioni,2.0,x,2.0
+liceo_lin_004,Matematica,1.0,Rigidità ,1.0,Formule,1.0,Problemi,1.0
+liceo_lin_005,Matematica,2.0,ansia,2.0,limiti,2.0,proporzioni,5.0
+liceo_lin_006,Matematica,2.0,conti,2.0,calcolatrice,4.0,difficoltà,2.0
+liceo_lin_007,Matematica,3.0,numeri,3.0,equazioni,3.0,problemi,3.0
+liceo_lin_008,Matematica,3.0,ingannevole,2.0,reale,4.0,importante,4.0
+liceo_lin_009,Matematica,2.0,numeri,3.0,calcoli,2.0,risultati,4.0
+liceo_lin_010,Matematica,4.0,difficile,5.0,sfide,3.0,,
+liceo_lin_011,Matematica,3.0,algebra,3.0,aritmetica,3.0,numeri,3.0
+liceo_lin_012,Matematica,4.0,numeri,3.0,tabelline,3.0,calcoli,3.0
+liceo_lin_013,Matematica,3.0,problemi,2.0,dati,3.0,risolvere,4.0
+liceo_lin_014,Matematica,1.0,rosso,3.0,calcolo,3.0,funzioni,3.0
+liceo_lin_015,Matematica,2.0,complicata,3.0,numeri,2.0,ragionamento,4.0
+liceo_lin_016,Matematica,2.0,stress,2.0,materia scolastica ,2.0,,
+liceo_lin_017,Matematica,3.0,incastrare,5.0,sfida,3.0,gioco,4.0
+liceo_lin_018,Matematica,4.0,comprendere,4.0,esercitare,4.0,apre la mente,4.0
+liceo_lin_019,Matematica,3.0,numeri,3.0,limiti,3.0,parabole,3.0
+liceo_sci_014,Matematica,3.0,bella,3.0,odio,2.0,blu,2.0
+liceo_sci_015,Matematica,,calcoli,,funzioni,,,
+liceo_sci_016,Matematica,3.0,materia,2.0,importante,3.0,difficile,2.0
+liceo_sci_017,Matematica,5.0,equazione,5.0,log ,5.0,derivata,5.0
+liceo_sci_018,Matematica,3.0,test,1.0,soddisfacente ,4.0,,
+liceo_sci_019,Matematica,4.0,calcoli,4.0,intelligenza,4.0,ansia,3.0
+liceo_sci_020,Matematica,4.0,interessante,5.0,numeri,4.0,spiegazione,3.0
+liceo_sci_021,Matematica,2.0,calcoli,4.0,equazioni,2.0,calcolatrice,4.0
+liceo_sci_022,Matematica,4.0,scuola,3.0,numeri,4.0,grafici,4.0
+liceo_sci_023,Matematica,4.0,bella,4.0,difficile,2.0,curiosità,5.0
+liceo_sci_024,Matematica,4.0,Analisi,4.0,Importante,4.0,Difficile,3.0
+liceo_sci_025,Matematica,3.0,voti,2.0,calcolo,3.0,problemi,3.0
+liceo_sci_026,Matematica,2.0,ansia,2.0,debito,2.0,odio,3.0
+liceo_sci_027,Matematica,4.0,INTERESSE,4.0,DIFFICOLTA',4.0,FONDAMENTALE,4.0
+liceo_sci_028,Matematica,3.0,esercizi,3.0,scuola,3.0,calcolo,3.0
+liceo_sci_029,Matematica,3.0,scuola,3.0,numeri,4.0,letttere,3.0
+liceo_sci_030,Matematica,3.0,,,,,,
+liceo_sci_031,Matematica,3.0,scuola,4.0,affascinante,4.0,difficile,
+liceo_sci_032,Matematica,4.0,logica,3.0,problema,3.0,interpretazione,4.0
+liceo_sci_033,Matematica,4.0,utile,5.0,,,,
+liceo_sci_034,Matematica,2.0,numeri ,2.0,calcoli,3.0,,
+liceo_sci_035,Matematica,3.0,esame,4.0,esercizio,3.0,studio,4.0
+liceo_sci_036,Matematica,3.0,schifo,3.0,operazioni,3.0,liceo,3.0
+liceo_sci_037,Matematica,3.0,lezione,3.0,fisica,3.0,bello,4.0
+liceo_sci_038,Matematica,4.0,mettersi alla prova,4.0,precisa ,4.0,ordinata,4.0
+liceo_sci_039,Matematica,3.0,fisica,3.0,numeri,4.0,lettere,5.0
+liceo_sci_040,Matematica,4.0,numeri,4.0,operazioni,4.0,ideale,3.0
+liceo_sci_041,Matematica,2.0,calcoli,2.0,ragionamento,4.0,soluzioni,4.0
+liceo_sci_042,Matematica,3.0,paura,2.0,interrogazioni,2.0,domande,3.0
+liceo_sci_043,Matematica,4.0,razionalità,5.0,coerenza,5.0,linearità,5.0
+liceo_sci_001,Analisi,3.0,sangue,3.0,,,,
+liceo_sci_002,Analisi,2.0,matetmatica,3.0,forze,3.0,risoluzione,3.0
+liceo_sci_003,Analisi,3.0,matematica,2.0,introspettiva,4.0,stati d'animo,4.0
+liceo_sci_004,Analisi,3.0,osservazione,3.0,attenzione,3.0,precisione,3.0
+liceo_sci_005,Analisi,2.0,matematica,2.0,calcoli,2.0,numeri,2.0
+liceo_sci_006,Analisi,4.0,scoperte ,4.0,miglioramento,4.0,sapere,4.0
+liceo_sci_007,Analisi,3.0,dati,4.0,matematica,3.0,scienze,4.0
+liceo_sci_008,Analisi,3.0,dati,3.0,problemi,3.0,situazioni,3.0
+liceo_sci_009,Analisi,4.0,statistica,4.0,esame,3.0,università,3.0
+liceo_sci_010,Analisi,3.0,grafica,3.0,analitica,4.0,,3.0
+liceo_sci_011,Analisi,2.0,matematica,3.0,statistica,2.0,studio,1.0
+liceo_sci_012,Analisi,4.0,studio,3.0,grafici,3.0,numeri,3.0
+liceo_sci_013,Analisi,1.0,approfondire,3.0,sapere,4.0,imparare,4.0
+liceo_lin_001,Analisi,4.0,ricerca,4.0,statistica,4.0,testo,4.0
+liceo_lin_002,Analisi,3.0,matematica,1.0,problema,1.0,percentuale,2.0
+liceo_lin_003,Analisi,3.0,sociale,3.0,psicologica,2.0,scientifica,3.0
+liceo_lin_004,Analisi,1.0,Uno e due,1.0,Esame,1.0,Fatica,1.0
+liceo_lin_005,Analisi,3.0,sangue,4.0,ago,3.0,,
+liceo_lin_006,Analisi,4.0,media,4.0,sondaggio,5.0,,
+liceo_lin_007,Analisi,3.0,numeri,3.0,studio,3.0,dati,3.0
+liceo_lin_008,Analisi,2.0,medica,2.0,dati,2.0,andamento,3.0
+liceo_lin_009,Analisi,3.0,ricerca,4.0,risultato,4.0,,
+liceo_lin_010,Analisi,2.0,attenzione,4.0,dati ,3.0,numeri,3.0
+liceo_lin_011,Analisi,3.0,matematica,3.0,quantistica,3.0,scientifica,3.0
+liceo_lin_012,Analisi,3.0,studio,3.0,numeri,3.0,dati,3.0
+liceo_lin_013,Analisi,4.0,capire,4.0,interpretare,4.0,cimentarsi,4.0
+liceo_lin_014,Analisi,3.0,sangue,1.0,lente d'ingrandimento,4.0,studio,3.0
+liceo_lin_015,Analisi,2.0,sangue,3.0,grafico,3.0,mercato,3.0
+liceo_lin_016,Analisi,3.0,matematica,2.0,materia ,3.0,cercare ,3.0
+liceo_lin_017,Analisi,2.0,dati,2.0,lettura,3.0,comprensione,4.0
+liceo_lin_018,Analisi,3.0,grammaticale,2.0,critica,4.0,consapevole,5.0
+liceo_lin_019,Analisi,3.0,approfondimento,4.0,,,,
+liceo_sci_014,Analisi,3.0,dati,3.0,logica,4.0,blu,2.0
+liceo_sci_015,Analisi,,del sangue,,,,,
+liceo_sci_016,Analisi,3.0,statistica,3.0,sangue,4.0,ago,4.0
+liceo_sci_017,Analisi,3.0,dati ,3.0,esperimenti ,5.0,situazionale ,3.0
+liceo_sci_018,Analisi,3.0,numeri,4.0,matematica,3.0,grafici,3.0
+liceo_sci_019,Analisi,3.0,dati,3.0,calcoli,3.0,ragionamento,4.0
+liceo_sci_020,Analisi,4.0,dati,3.0,ricerca,4.0,tecnica,4.0
+liceo_sci_021,Analisi,3.0,matematica,2.0,calcoli,3.0,dimostrazioni,2.0
+liceo_sci_022,Analisi,4.0,matematica,4.0,funzione ,4.0,freud,4.0
+liceo_sci_023,Analisi,4.0,fisica,2.0,matematica,4.0,scientifica,3.0
+liceo_sci_024,Analisi,4.0,Matematica,4.0,Studio,3.0,Ragionamento,5.0
+liceo_sci_025,Analisi,3.0,matematica,3.0,mediche,3.0,dati,3.0
+liceo_sci_026,Analisi,3.0,del sangue,3.0,,,,
+liceo_sci_027,Analisi,4.0,SCIENTIFICA,3.0,ESPERIMENTO,5.0,UTILE,4.0
+liceo_sci_028,Analisi,3.0,matematica,3.0,studio,2.0,problemi,3.0
+liceo_sci_029,Analisi,3.0,mate,2.0,fisica,3.0,università,4.0
+liceo_sci_030,Analisi,1.0,,,,,,
+liceo_sci_031,Analisi,4.0,lavoro,4.0,difficile,3.0,matematica,3.0
+liceo_sci_032,Analisi,4.0,funzioni,4.0,studi,4.0,processo,4.0
+liceo_sci_033,Analisi,3.0,utile,3.0,,,,
+liceo_sci_034,Analisi,4.0,matematica,1.0,dati,4.0,,
+liceo_sci_035,Analisi,3.0,matematica,3.0,libro,3.0,università,4.0
+liceo_sci_036,Analisi,3.0,scientifica,3.0,matematica,3.0,funzione,3.0
+liceo_sci_037,Analisi,3.0,ricerca,4.0,studio,2.0,soggetto,1.0
+liceo_sci_038,Analisi,4.0,dati,3.0,statistica,4.0,matematica,3.0
+liceo_sci_039,Analisi,3.0,matematica,2.0,funzioni,2.0,medicina,4.0
+liceo_sci_040,Analisi,4.0,dati,4.0,finanza,3.0,senso,5.0
+liceo_sci_041,Analisi,3.0,matematica,2.0,dati,3.0,statistiche,3.0
+liceo_sci_042,Analisi,3.0,matematica,3.0,scientifica,3.0,università,3.0
+liceo_sci_043,Analisi,4.0,schemi,2.0,rigidità,2.0,accuratezza,5.0
+liceo_sci_001,Scoperta,4.0,innovazioni,4.0,importante,4.0,cambiamento,4.0
+liceo_sci_002,Scoperta,4.0,condivisione,4.0,radiazioni,3.0,innovazione,4.0
+liceo_sci_003,Scoperta,4.0,conoscenza,4.0,studio,3.0,ricerche,3.0
+liceo_sci_004,Scoperta,3.0,sorpresa,4.0,shock,3.0,scientifica,3.0
+liceo_sci_005,Scoperta,4.0,biologia,4.0,,,,
+liceo_sci_006,Scoperta,4.0,positiva,4.0,progresso,5.0,aiuto,5.0
+liceo_sci_007,Scoperta,4.0,scientifica ,4.0,nuova,5.0,aiuto,4.0
+liceo_sci_008,Scoperta,3.0,scientifica,3.0,ipotesi,3.0,,
+liceo_sci_009,Scoperta,4.0,dell'america,3.0,,,,
+liceo_sci_010,Scoperta,4.0,innovazione,4.0,novità,4.0,,3.0
+liceo_sci_011,Scoperta,4.0,scienza,4.0,innovazione,4.0,utilità,4.0
+liceo_sci_012,Scoperta,5.0,scienza,5.0,storia,3.0,innovazione,4.0
+liceo_sci_013,Scoperta,3.0,nuovo,3.0,interessante,4.0,curioso,4.0
+liceo_lin_001,Scoperta,4.0,novità,3.0,mondo,3.0,informazione,3.0
+liceo_lin_002,Scoperta,4.0,tesoro,4.0,novità,3.0,,3.0
+liceo_lin_003,Scoperta,5.0,innovativa,5.0,scienze,4.0,tecnologia ,3.0
+liceo_lin_004,Scoperta,5.0,Cristoforo colombo,5.0,America,3.0,Nave,5.0
+liceo_lin_005,Scoperta,5.0,America,5.0,lavoro,4.0,anni,4.0
+liceo_lin_006,Scoperta,5.0,scientifica,5.0,medica,5.0,archeologica,4.0
+liceo_lin_007,Scoperta,3.0,innovazione,3.0,impatto,3.0,notizia,3.0
+liceo_lin_008,Scoperta,4.0,nuovo,4.0,,,,
+liceo_lin_009,Scoperta,4.0,novità,4.0,aspettative,4.0,,
+liceo_lin_010,Scoperta,3.0,coperta,4.0,vecchio ,3.0,freddo,2.0
+liceo_lin_011,Scoperta,3.0,scientifica,3.0,astronomica,4.0,archeologica,3.0
+liceo_lin_012,Scoperta,3.0,conoscenza,4.0,studio,3.0,imparare,4.0
+liceo_lin_013,Scoperta,5.0,impegno,3.0,felicità,5.0,nuovo,4.0
+liceo_lin_014,Scoperta,4.0,America,5.0,sorpresa,5.0,freddo,3.0
+liceo_lin_015,Scoperta,5.0,innovazione,5.0,tecnologia,5.0,tutti i giorni,3.0
+liceo_lin_016,Scoperta,4.0,,,,,,
+liceo_lin_017,Scoperta,4.0,motivazione,4.0,intrigata,5.0,gioia,5.0
+liceo_lin_018,Scoperta,4.0,scientifica,4.0,branche,3.0,,
+liceo_lin_019,Scoperta,4.0,scientifica,3.0,,,,
+liceo_sci_014,Scoperta,4.0,america,1.0,scienza,3.0,giallo,2.0
+liceo_sci_015,Scoperta,,scoperta,,ricerca ,,,
+liceo_sci_016,Scoperta,5.0,fossili,5.0,deserto,3.0,cappello,3.0
+liceo_sci_017,Scoperta,5.0,nuova,5.0,affascinante ,5.0,culturale ,5.0
+liceo_sci_018,Scoperta,5.0,scienziata,3.0,informazioni,5.0,,
+liceo_sci_019,Scoperta,4.0,novità,4.0,sorpresa,4.0,felicità,4.0
+liceo_sci_020,Scoperta,5.0,novità,4.0,universo,5.0,incredibile,5.0
+liceo_sci_021,Scoperta,4.0,scientifica,4.0,fossili,4.0,importante,4.0
+liceo_sci_022,Scoperta,4.0,ricerca,4.0,novità,5.0,,
+liceo_sci_023,Scoperta,5.0,innovazione,5.0,tecnologica,5.0,bella,5.0
+liceo_sci_024,Scoperta,5.0,Novità,4.0,Felicità,5.0,Importante,5.0
+liceo_sci_025,Scoperta,3.0,scienze,3.0,natura,4.0,innovazione,4.0
+liceo_sci_026,Scoperta,4.0,scientifica,4.0,sorpresa,4.0,stupore,4.0
+liceo_sci_027,Scoperta,4.0,SCIENTIFICA,4.0,CAMBIAMENTO,5.0,RIVOLUZIONARIA,5.0
+liceo_sci_028,Scoperta,4.0,interesse,4.0,ultile,4.0,progresso,4.0
+liceo_sci_029,Scoperta,4.0,scientifica,3.0,mondo,4.0,rivoluzione,5.0
+liceo_sci_030,Scoperta,4.0,,,,,,
+liceo_sci_031,Scoperta,3.0,scienza,5.0,futuro,4.0,innovazione,3.0
+liceo_sci_032,Scoperta,5.0,avventura,5.0,esperienza,5.0,,
+liceo_sci_033,Scoperta,4.0,fisica,4.0,,,,
+liceo_sci_034,Scoperta,5.0,esperimento ,4.0,,,,
+liceo_sci_035,Scoperta,4.0,scientifica,3.0,corpo ,3.0,,
+liceo_sci_036,Scoperta,3.0,scientifica,3.0,esperimento,3.0,teoria,3.0
+liceo_sci_037,Scoperta,3.0,invenzione,3.0,evoluzione,3.0,futuro,3.0
+liceo_sci_038,Scoperta,4.0,nuovo,4.0,futuro,4.0,bello,4.0
+liceo_sci_039,Scoperta,4.0,invenzione,4.0,genio,4.0,intuizione,3.0
+liceo_sci_040,Scoperta,5.0,sorpresa,5.0,utilità,5.0,eccitazione,5.0
+liceo_sci_041,Scoperta,4.0,progresso,4.0,obiettivo,5.0,novità,4.0
+liceo_sci_042,Scoperta,4.0,avventura,4.0,nuovo,4.0,divertente,4.0
+liceo_sci_043,Scoperta,5.0,curiosità,5.0,stupore,5.0,,
+liceo_sci_001,Scienziata,3.0,lavoro,3.0,,,,
+liceo_sci_002,Scienziata,5.0,Marie Curie,5.0,sottovalutate,5.0,incredibili,5.0
+liceo_sci_003,Scienziata,3.0,professionista,4.0,professione,4.0,natura,5.0
+liceo_sci_004,Scienziata,3.0,esperimenti,3.0,camice,3.0,laboratorio,3.0
+liceo_sci_005,Scienziata,4.0,chimica,4.0,laboratorio,4.0,camice,4.0
+liceo_sci_006,Scienziata,4.0,progresso,4.0,innovazione,4.0,interessante,4.0
+liceo_sci_007,Scienziata,4.0,lavoro,4.0,chimica,3.0,esperimenti,4.0
+liceo_sci_008,Scienziata,3.0,scienza,4.0,esperimenti,4.0,,
+liceo_sci_009,Scienziata,5.0,medicina,5.0,laboratorio,5.0,camice,5.0
+liceo_sci_010,Scienziata,3.0,donna,3.0,scoperte,4.0,scienze,3.0
+liceo_sci_011,Scienziata,4.0,scienziato ,4.0,studio,1.0,,3.0
+liceo_sci_012,Scienziata,4.0,laboratorio,5.0,chimica,5.0,esperimenti,5.0
+liceo_sci_013,Scienziata,4.0,donna,5.0,laboratorio,3.0,lavoro,2.0
+liceo_lin_001,Scienziata,4.0,esperimenti,4.0,vulcani,3.0,bianco,4.0
+liceo_lin_002,Scienziata,3.0,studio,2.0,lavoro,4.0,camice,4.0
+liceo_lin_003,Scienziata,3.0,pazZa,2.0,matematica ,2.0,laboratorio,2.0
+liceo_lin_004,Scienziata,5.0,Laboratorio,2.0,Camice,1.0,Occhiali,4.0
+liceo_lin_005,Scienziata,5.0,lavoro,4.0,studio,4.0,scienze,4.0
+liceo_lin_006,Scienziata,4.0,camice,3.0,esperimenti,4.0,,
+liceo_lin_007,Scienziata,3.0,camice,3.0,occhiali,3.0,laboratorio,3.0
+liceo_lin_008,Scienziata,3.0,chimica,4.0,camice,3.0,studio,3.0
+liceo_lin_009,Scienziata,4.0,laboratorio,3.0,studio,4.0,esperimenti,4.0
+liceo_lin_010,Scienziata,3.0,studiosa,2.0,empatia,1.0,,
+liceo_lin_011,Scienziata,3.0,matematica,3.0,fisica,3.0,scienze,4.0
+liceo_lin_012,Scienziata,4.0,professione,4.0,biologia,3.0,chimica,3.0
+liceo_lin_013,Scienziata,5.0,laboratorio,5.0,studio,3.0,università,4.0
+liceo_lin_014,Scienziata,5.0,provette,3.0,verde,4.0,intelligente,4.0
+liceo_lin_015,Scienziata,5.0,donna,5.0,esperimenti,5.0,progresso,5.0
+liceo_lin_016,Scienziata,3.0,scienze ,3.0,esperimenti,3.0,camice,3.0
+liceo_lin_017,Scienziata,5.0,futuro,2.0,serenità,5.0,realizzazione,5.0
+liceo_lin_018,Scienziata,4.0,studio,4.0,ricerca,4.0,applica,4.0
+liceo_lin_019,Scienziata,3.0,sottovalutata,2.0,pregiudizi,2.0,,
+liceo_sci_014,Scienziata,4.0,marie curie,4.0,meraviglia,4.0,blu,3.0
+liceo_sci_015,Scienziata,,donna,,esperimenti,,,
+liceo_sci_016,Scienziata,4.0,camice ,3.0,provette,3.0,verde,4.0
+liceo_sci_017,Scienziata,5.0,pazza,5.0,matta ,5.0,azzolini,5.0
+liceo_sci_018,Scienziata,5.0,ricerche,5.0,novità,5.0,esperimenti,5.0
+liceo_sci_019,Scienziata,3.0,intelligente,3.0,colta ,3.0,spigliata,3.0
+liceo_sci_020,Scienziata,4.0,scienza,4.0,esperimenti,4.0,laboratorio,4.0
+liceo_sci_021,Scienziata,4.0,camice bianco,3.0,occhialini,4.0,provette,4.0
+liceo_sci_022,Scienziata,5.0,dna,4.0,scoperta,5.0,ricerca,5.0
+liceo_sci_023,Scienziata,3.0,esperimenti,5.0,innovazioni,5.0,curiosità,5.0
+liceo_sci_024,Scienziata,3.0,Conoscenza,5.0,Intelligenza,5.0,Scoperta,5.0
+liceo_sci_025,Scienziata,4.0,camice,3.0,laboratorio,3.0,esperimenti,3.0
+liceo_sci_026,Scienziata,3.0,camice,3.0,studiosa,3.0,,
+liceo_sci_027,Scienziata,4.0,INTELLIGENTE,5.0,STUDIO,4.0,ESPERIMENTI,5.0
+liceo_sci_028,Scienziata,4.0,esperimenti,4.0,conoscenza,4.0,innovazione,4.0
+liceo_sci_029,Scienziata,3.0,lavoro,3.0,laboratorio,3.0,,
+liceo_sci_030,Scienziata,4.0,,,,,,
+liceo_sci_031,Scienziata,4.0,chimica,3.0,camice,4.0,esperimento,4.0
+liceo_sci_032,Scienziata,4.0,laboratorio,4.0,ricerca,4.0,,
+liceo_sci_033,Scienziata,5.0,scienziato,5.0,,,,
+liceo_sci_034,Scienziata,4.0,,,,,,
+liceo_sci_035,Scienziata,3.0,camice,3.0,studio,3.0,,
+liceo_sci_036,Scienziata,3.0,scienza,3.0,beaker,3.0,pipetta,3.0
+liceo_sci_037,Scienziata,3.0,donna,2.0,scienze,2.0,ricerca,3.0
+liceo_sci_038,Scienziata,3.0,noioso,2.0,innnovazione,4.0,medicina,4.0
+liceo_sci_039,Scienziata,5.0,donna,5.0,lavoro,3.0,uomini,1.0
+liceo_sci_040,Scienziata,5.0,intuito,5.0,logica,5.0,curiosità,5.0
+liceo_sci_041,Scienziata,3.0,biologia,4.0,esperimenti,4.0,studi,3.0
+liceo_sci_042,Scienziata,3.0,bello,4.0,interessante,4.0,biologia,4.0
+liceo_sci_043,Scienziata,3.0,camice,3.0,scienze,4.0,chimica,5.0
+liceo_sci_001,Docente,3.0,varietà ,4.0,aperti,4.0,chiusi,1.0
+liceo_sci_002,Docente,3.0,comprensivo,5.0,tranquillo,5.0,sclerato,3.0
+liceo_sci_003,Docente,3.0,autorità,2.0,adulto,3.0,lavoro,4.0
+liceo_sci_004,Docente,3.0,adulto,3.0,voti,3.0,rapporto,3.0
+liceo_sci_005,Docente,3.0,lezioni,3.0,interrogazioni,2.0,spiegazioni,3.0
+liceo_sci_006,Docente,4.0,ansia,2.0,calma ,4.0,odio,1.0
+liceo_sci_007,Docente,3.0,materie,3.0,voti,2.0,valutazione,2.0
+liceo_sci_008,Docente,3.0,differenti,3.0,modo,3.0,,
+liceo_sci_009,Docente,4.0,matematica,4.0,scienze,4.0,italiano,3.0
+liceo_sci_010,Docente,3.0,storia,3.0,matematica,4.0,italiano,3.0
+liceo_sci_011,Docente,2.0,autorità,3.0,,3.0,,3.0
+liceo_sci_012,Docente,3.0,verifica,2.0,spiegazione,3.0,formule,3.0
+liceo_sci_013,Docente,3.0,insegnanti,3.0,materie,3.0,scuola,3.0
+liceo_lin_001,Docente,3.0,scuola,4.0,occhiali,4.0,lavagna,3.0
+liceo_lin_002,Docente,3.0,scuola,1.0,riferimento,4.0,lavoro,4.0
+liceo_lin_003,Docente,3.0,matematica,2.0,scienze,2.0,scuola,3.0
+liceo_lin_004,Docente,4.0,Matematica,3.0,Qualificato ,5.0,Insegnare,5.0
+liceo_lin_005,Docente,4.0,scuola,2.0,università,5.0,,
+liceo_lin_006,Docente,4.0,scuola,4.0,studenti,4.0,severa,2.0
+liceo_lin_007,Docente,3.0,professore,3.0,figura,3.0,adulto,3.0
+liceo_lin_008,Docente,4.0,severo,3.0,fondamentale,4.0,trasmissione,4.0
+liceo_lin_009,Docente,4.0,insegnamento,4.0,creatività,4.0,,
+liceo_lin_010,Docente,4.0,sapere,5.0,interrogazione ,5.0,,
+liceo_lin_011,Docente,3.0,tedesco,3.0,spagnolo,4.0,inglese,4.0
+liceo_lin_012,Docente,3.0,insegnare,4.0,spiegare,4.0,verifiche,3.0
+liceo_lin_013,Docente,4.0,comprensione,4.0,aiuto,5.0,spiegare,4.0
+liceo_lin_014,Docente,4.0,grande,3.0,distacco,2.0,sorriso,4.0
+liceo_lin_015,Docente,3.0,scuola,2.0,responsabilità,5.0,figura,3.0
+liceo_lin_016,Docente,3.0,professore,3.0,insegnare,3.0,contatto,3.0
+liceo_lin_017,Docente,5.0,pace,5.0,amicizia,4.0,,
+liceo_lin_018,Docente,3.0,comprensivo,5.0,inflessibile,2.0,indifferente,1.0
+liceo_lin_019,Docente,3.0,insegnamento,4.0,giudizio,2.0,divulgazione,3.0
+liceo_sci_014,Docente,2.0,odio,2.0,inaffidabile,1.0,ocra,2.0
+liceo_sci_015,Docente,,adulto,,autorità,,,
+liceo_sci_016,Docente,3.0,,,,,,
+liceo_sci_017,Docente,5.0,chiocchetti ,5.0,ghedina,5.0,palatela,5.0
+liceo_sci_018,Docente,1.0,ansia,1.0,voti,1.0,,
+liceo_sci_019,Docente,2.0,studio,3.0,ansia,2.0,rabbia,2.0
+liceo_sci_020,Docente,3.0,materie,3.0,scuola,4.0,severo,3.0
+liceo_sci_021,Docente,3.0,liceo,3.0,università,3.0,prof,3.0
+liceo_sci_022,Docente,4.0,matematica,4.0,scuola,3.0,classe,4.0
+liceo_sci_023,Docente,4.0,matematico,4.0,professore,4.0,insegnamento,4.0
+liceo_sci_024,Docente,5.0,Rispetto,5.0,Conoscenza,5.0,Sapere,5.0
+liceo_sci_025,Docente,3.0,adulto,3.0,rispetto,3.0,regole,3.0
+liceo_sci_026,Docente,3.0,rispetto,5.0,varietà,4.0,,
+liceo_sci_027,Docente,4.0,LAVORO,3.0,RAPPORTO,3.0,RISPETTO,4.0
+liceo_sci_028,Docente,4.0,professore,3.0,valutazione,3.0,competenza,3.0
+liceo_sci_029,Docente,3.0,capo,1.0,insegnante,3.0,,
+liceo_sci_030,Docente,3.0,,,,,,
+liceo_sci_031,Docente,3.0,insegnante,3.0,aiuto,5.0,professore,3.0
+liceo_sci_032,Docente,3.0,guida,4.0,giudice,2.0,persona,3.0
+liceo_sci_033,Docente,1.0,non umani,3.0,,,,
+liceo_sci_034,Docente,3.0,compiti,2.0,verifiche ,2.0,interrogazioni,2.0
+liceo_sci_035,Docente,2.0,occhiali,3.0,conoscenza,4.0,pretesa,2.0
+liceo_sci_036,Docente,3.0,universitario,3.0,antipatico,3.0,mangiare,3.0
+liceo_sci_037,Docente,4.0,italiano,3.0,supplenza,3.0,rapporto,2.0
+liceo_sci_038,Docente,3.0,bravo,4.0,incapace,2.0,svogliati,1.0
+liceo_sci_039,Docente,3.0,insegnante,3.0,scuola,3.0,università,3.0
+liceo_sci_040,Docente,4.0,guida,5.0,riferimento,5.0,cultura,5.0
+liceo_sci_041,Docente,3.0,insegnante,3.0,affidabile,4.0,lavoratore,3.0
+liceo_sci_042,Docente,2.0,esterno/lontano,2.0,verifiche,2.0,,
+liceo_sci_043,Docente,4.0,scuola,1.0,lavagna,3.0,verifiche,1.0
+liceo_sci_001,Programmazione,3.0,informatica,3.0,,,,
+liceo_sci_002,Programmazione,3.0,noiosa,2.0,irritante,1.0,bug,2.0
+liceo_sci_003,Programmazione,3.0,informatica,2.0,tempo,4.0,ordine,4.0
+liceo_sci_004,Programmazione,2.0,inesistente,4.0,noia,3.0,inutile,3.0
+liceo_sci_005,Programmazione,2.0,informatica,2.0,eventi,3.0,,
+liceo_sci_006,Programmazione,4.0,buona,4.0,aiuta a diminuire ansia,5.0,organizzazione,4.0
+liceo_sci_007,Programmazione,3.0,informatica,2.0,studio,3.0,uscite,4.0
+liceo_sci_008,Programmazione,3.0,informatica,3.0,,,,
+liceo_sci_009,Programmazione,5.0,informatica,5.0,devc++,5.0,arte,3.0
+liceo_sci_010,Programmazione,3.0,informatica,3.0,c++,3.0,computer,3.0
+liceo_sci_011,Programmazione,2.0,informatica,2.0,computer,3.0,,3.0
+liceo_sci_012,Programmazione,4.0,informatica,4.0,codice,3.0,parole,3.0
+liceo_sci_013,Programmazione,2.0,difficile ,2.0,computer,2.0,,
+liceo_lin_001,Programmazione,3.0,stress,1.0,puntualità,4.0,efficacità,5.0
+liceo_lin_002,Programmazione,5.0,utile,5.0,efficiente,5.0,,
+liceo_lin_003,Programmazione,4.0,tecnologia,4.0,studio ,4.0,intraprendenza,4.0
+liceo_lin_004,Programmazione,1.0,Informatica,1.0,Ingegneria,1.0,Povo,1.0
+liceo_lin_005,Programmazione,4.0,orario,4.0,lista,4.0,,
+liceo_lin_006,Programmazione,2.0,complicato,2.0,computer,4.0,,
+liceo_lin_007,Programmazione,4.0,futuro,3.0,diario,4.0,organizzazione,4.0
+liceo_lin_008,Programmazione,3.0,calendario,3.0,ordine,4.0,,
+liceo_lin_009,Programmazione,4.0,ordine,4.0,organizzazione,4.0,successo,5.0
+liceo_lin_010,Programmazione,3.0,informatica,4.0,nerd,3.0,formule,2.0
+liceo_lin_011,Programmazione,3.0,settimana,3.0,scuola,2.0,lavoro,3.0
+liceo_lin_012,Programmazione,3.0,computer,4.0,,,,
+liceo_lin_013,Programmazione,3.0,calendario,3.0,tempo,3.0,precisione,4.0
+liceo_lin_014,Programmazione,3.0,scaletta,4.0,routine,4.0,,
+liceo_lin_015,Programmazione,4.0,scuola,3.0,organizzazione,4.0,tranquillità,5.0
+liceo_lin_016,Programmazione,3.0,giornaliera,3.0,scolastica,2.0,programma,3.0
+liceo_lin_017,Programmazione,2.0,calcolo,3.0,stress,1.0,,
+liceo_lin_018,Programmazione,2.0,difficile,4.0,rigida,3.0,,
+liceo_lin_019,Programmazione,,tecnologica,,,,,
+liceo_sci_014,Programmazione,4.0,informatica,3.0,divertente,4.0,verde,4.0
+liceo_sci_015,Programmazione,,,,,,,
+liceo_sci_016,Programmazione,4.0,informatica,3.0,c++,3.0,cavo,3.0
+liceo_sci_017,Programmazione,,tabella ,,schema ,,organizzazione,
+liceo_sci_018,Programmazione,3.0,informatica,3.0,futuro,4.0,innovazione,4.0
+liceo_sci_019,Programmazione,4.0,organizzazione,4.0,determinazione,4.0,rigido,3.0
+liceo_sci_020,Programmazione,4.0,codice,4.0,linee,4.0,funzioni,4.0
+liceo_sci_021,Programmazione,3.0,computer,3.0,informatica,3.0,lavoro,3.0
+liceo_sci_022,Programmazione,3.0,computer,3.0,c++,3.0,informatica,3.0
+liceo_sci_023,Programmazione,5.0,fontamentale,5.0,utile,5.0,necessaria,3.0
+liceo_sci_024,Programmazione,5.0,Informatica,4.0,Programmi,5.0,Computer,5.0
+liceo_sci_025,Programmazione,3.0,informtica,3.0,programmi,3.0,codici,3.0
+liceo_sci_026,Programmazione,3.0,difficoltà,2.0,informatica,3.0,piani,3.0
+liceo_sci_027,Programmazione,3.0,BASILARE,3.0,INFORMATICA,4.0,MATEMATICA,4.0
+liceo_sci_028,Programmazione,3.0,informatica,3.0,linguaggio,4.0,problemi,2.0
+liceo_sci_029,Programmazione,4.0,pc,4.0,informatica,4.0,chat gpt,5.0
+liceo_sci_030,Programmazione,3.0,arduino,3.0,c+,3.0,c,3.0
+liceo_sci_031,Programmazione,3.0,organizzazine,3.0,fondamentale,4.0,,3.0
+liceo_sci_032,Programmazione,2.0,orrore,1.0,noia,2.0,incomprensione,2.0
+liceo_sci_033,Programmazione,3.0,futuro,3.0,,,,
+liceo_sci_034,Programmazione,4.0,informatica,4.0,impegni ,1.0,,
+liceo_sci_035,Programmazione,4.0,ordine,5.0,equilibrio,5.0,tranquillità,5.0
+liceo_sci_036,Programmazione,3.0,c,3.0,esecutore,3.0,problema,3.0
+liceo_sci_037,Programmazione,3.0,computer,3.0,lavoro,4.0,informatico,3.0
+liceo_sci_038,Programmazione,4.0,sfida,4.0,divertente,4.0,mentalita,4.0
+liceo_sci_039,Programmazione,5.0,linguaggi,5.0,macchine,5.0,informatica,5.0
+liceo_sci_040,Programmazione,4.0,orari,4.0,incastri,4.0,efficacia,5.0
+liceo_sci_041,Programmazione,3.0,computer,3.0,tecnologia,3.0,programmi,3.0
+liceo_sci_042,Programmazione,3.0,utile,4.0,,,,
+liceo_sci_043,Programmazione,1.0,ansia,1.0,sicurezza,4.0,liste,1.0
+liceo_sci_001,Laboratorio,4.0,divertente,5.0,istruttivo,5.0,,
+liceo_sci_002,Laboratorio,3.0,chimica,1.0,biologia,5.0,fisica,5.0
+liceo_sci_003,Laboratorio,3.0,pratica,3.0,esperimento,3.0,chimica,3.0
+liceo_sci_004,Laboratorio,4.0,scienze,3.0,esperimenti,4.0,relazione,2.0
+liceo_sci_005,Laboratorio,4.0,chimica,4.0,esperimenti,4.0,dimostrazioni,3.0
+liceo_sci_006,Laboratorio,4.0,divertimento,5.0,complicato ,2.0,non sempre soddisfacente ,1.0
+liceo_sci_007,Laboratorio,4.0,scientifico,4.0,esperimenti,4.0,diverso,5.0
+liceo_sci_008,Laboratorio,4.0,interessante,4.0,istruitivo,3.0,modo pratico,3.0
+liceo_sci_009,Laboratorio,4.0,scienziato,4.0,esperimento,4.0,camice,5.0
+liceo_sci_010,Laboratorio,3.0,fisica,3.0,chimica,3.0,camice,3.0
+liceo_sci_011,Laboratorio,4.0,esperimento,4.0,scienza,4.0,fisica,2.0
+liceo_sci_012,Laboratorio,5.0,scienziato,5.0,esperimento,5.0,chimica,5.0
+liceo_sci_013,Laboratorio,3.0,esperimenti,3.0,camice,3.0,occhiali,3.0
+liceo_lin_001,Laboratorio,3.0,scienze,4.0,scuola,4.0,esperimento,4.0
+liceo_lin_002,Laboratorio,3.0,tecnologia ,4.0,fisica,2.0,chimica,2.0
+liceo_lin_003,Laboratorio,2.0,scientifico,4.0,sociale,4.0,,
+liceo_lin_004,Laboratorio,3.0,Camice,3.0,Occhiali,4.0,Pinzette,4.0
+liceo_lin_005,Laboratorio,4.0,scienze,4.0,fisica,2.0,camice,4.0
+liceo_lin_006,Laboratorio,4.0,chimico,2.0,interessante,4.0,difficile,2.0
+liceo_lin_007,Laboratorio,3.0,strumenti,3.0,scienza,3.0,microscopio,3.0
+liceo_lin_008,Laboratorio,3.0,luogo,3.0,esperimenti,3.0,conoscere,4.0
+liceo_lin_009,Laboratorio,3.0,ricerca,3.0,scienziato,3.0,campioni,3.0
+liceo_lin_010,Laboratorio,3.0,verde,3.0,chimica,2.0,scienza,3.0
+liceo_lin_011,Laboratorio,4.0,chimico,3.0,fisico,3.0,informatico,3.0
+liceo_lin_012,Laboratorio,4.0,camice,3.0,provette,3.0,esperimenti,3.0
+liceo_lin_013,Laboratorio,5.0,scienze,4.0,scuola,2.0,apprendimento,4.0
+liceo_lin_014,Laboratorio,3.0,scienze,4.0,telescopi,4.0,,
+liceo_lin_015,Laboratorio,3.0,telescopio,3.0,scienze,4.0,fisica,1.0
+liceo_lin_016,Laboratorio,3.0,camice ,3.0,esperimenti,3.0,prove,2.0
+liceo_lin_017,Laboratorio,5.0,interesse,4.0,passione,5.0,allegria,5.0
+liceo_lin_018,Laboratorio,3.0,fisica,4.0,chimica,2.0,biologia,4.0
+liceo_lin_019,Laboratorio,,scientifico,,sperimentale,,,
+liceo_sci_014,Laboratorio,4.0,lezione,2.0,esperiemento,3.0,ocra,3.0
+liceo_sci_015,Laboratorio,,,,,,,
+liceo_sci_016,Laboratorio,3.0,guanti,3.0,verde,4.0,provette,3.0
+liceo_sci_017,Laboratorio,,scienza ,,fisica,,cescatti,
+liceo_sci_018,Laboratorio,3.0,scienze,3.0,fisica,3.0,esperimenti,4.0
+liceo_sci_019,Laboratorio,4.0,dati,4.0,esperimenti,4.0,novità,4.0
+liceo_sci_020,Laboratorio,5.0,scienziato,4.0,scienza,4.0,novità,5.0
+liceo_sci_021,Laboratorio,3.0,provette,3.0,esperimenti,4.0,scienziate,3.0
+liceo_sci_022,Laboratorio,2.0,chimica,3.0,tavoli,3.0,scienze,3.0
+liceo_sci_023,Laboratorio,5.0,ricerche,5.0,dati,5.0,scuola,2.0
+liceo_sci_024,Laboratorio,3.0,Esperimenti,3.0,Mettersi in gioco,4.0,Fallimenti,3.0
+liceo_sci_025,Laboratorio,3.0,esperimenti,3.0,camice,3.0,dpi,3.0
+liceo_sci_026,Laboratorio,4.0,provette,3.0,batteri,3.0,camice,3.0
+liceo_sci_027,Laboratorio,3.0,ESPERIMENTO,4.0,SCIENZA,3.0,FISICA,4.0
+liceo_sci_028,Laboratorio,4.0,esperimenti,4.0,scienze,4.0,scoperte,4.0
+liceo_sci_029,Laboratorio,3.0,scienze,3.0,scuola,3.0,camice,3.0
+liceo_sci_030,Laboratorio,3.0,computer,5.0,tecnico,3.0,,
+liceo_sci_031,Laboratorio,3.0,scienza ,3.0,innovazione,4.0,,3.0
+liceo_sci_032,Laboratorio,3.0,scienze,4.0,esperimenti,4.0,,
+liceo_sci_033,Laboratorio,4.0,interessante,5.0,,,,
+liceo_sci_034,Laboratorio,3.0,esperimenti,4.0,scienze ,3.0,reazioni,3.0
+liceo_sci_035,Laboratorio,3.0,camice,3.0,regole,3.0,,
+liceo_sci_036,Laboratorio,3.0,camice,3.0,miscele,3.0,regole,3.0
+liceo_sci_037,Laboratorio,4.0,scienze,3.0,fisica,3.0,studio,4.0
+liceo_sci_038,Laboratorio,3.0,scienze ,2.0,informatica,3.0,diverso,4.0
+liceo_sci_039,Laboratorio,3.0,dati,3.0,esperimenti,4.0,insuccessi,4.0
+liceo_sci_040,Laboratorio,4.0,chimica,4.0,esperimento,5.0,becker,3.0
+liceo_sci_041,Laboratorio,4.0,esperimenti,4.0,scienza,4.0,scoperte,5.0
+liceo_sci_042,Laboratorio,3.0,esperimenti,3.0,paura,2.0,scoperta,4.0
+liceo_sci_043,Laboratorio,4.0,esperimenti,4.0,compagni,5.0,conoscenze,5.0
+liceo_sci_001,Conoscenza,4.0,,,,,,
+liceo_sci_002,Conoscenza,3.0,sensibile,5.0,kant,3.0,platone,3.0
+liceo_sci_003,Conoscenza,4.0,competenza,4.0,insegnamento,4.0,lezione,4.0
+liceo_sci_004,Conoscenza,4.0,sapere,4.0,soddisfazione,4.0,difficile,2.0
+liceo_sci_005,Conoscenza,4.0,ampia,4.0,,,,
+liceo_sci_006,Conoscenza,4.0,positiva,4.0,opportunità,5.0,apre la mente ,5.0
+liceo_sci_007,Conoscenza,4.0,intellettuale,4.0,scientifica,4.0,culturale,3.0
+liceo_sci_008,Conoscenza,4.0,generale,3.0,positiva,3.0,,
+liceo_sci_009,Conoscenza,4.0,certa,3.0,filosofia,4.0,filosofi,5.0
+liceo_sci_010,Conoscenza,4.0,filosofia,3.0,platone,3.0,,3.0
+liceo_sci_011,Conoscenza,4.0,sapere,4.0,cultura,4.0,studio,1.0
+liceo_sci_012,Conoscenza,5.0,sapere,5.0,sapienza,5.0,attenzione,5.0
+liceo_sci_013,Conoscenza,4.0,sapere,4.0,importante,4.0,curiosità,4.0
+liceo_lin_001,Conoscenza,5.0,culturale,5.0,scolastica,3.0,persone,3.0
+liceo_lin_002,Conoscenza,4.0,superficiale,3.0,ricerca,4.0,studio,2.0
+liceo_lin_003,Conoscenza,3.0,scuola,4.0,universita,4.0,approfondimenti,4.0
+liceo_lin_004,Conoscenza,4.0,Libri,4.0,Memoria,4.0,Scuola,4.0
+liceo_lin_005,Conoscenza,5.0,politica,3.0,artistica,4.0,generale,4.0
+liceo_lin_006,Conoscenza,5.0,mentale,4.0,vitale,5.0,esperienza,4.0
+liceo_lin_007,Conoscenza,4.0,sapere,4.0,libri,4.0,studio,4.0
+liceo_lin_008,Conoscenza,4.0,maturare,4.0,cultura,4.0,utile,4.0
+liceo_lin_009,Conoscenza,4.0,informazioni,4.0,intelligenza,4.0,,
+liceo_lin_010,Conoscenza,3.0,libri,4.0,interdisciplinare,3.0,cervello,3.0
+liceo_lin_011,Conoscenza,4.0,lingue,5.0,italiano,4.0,cultura,5.0
+liceo_lin_012,Conoscenza,4.0,scuola,3.0,vita,3.0,,
+liceo_lin_013,Conoscenza,5.0,studio,4.0,mente,5.0,scuola,2.0
+liceo_lin_014,Conoscenza,4.0,vasta,4.0,so di non sapere,4.0,di sé,4.0
+liceo_lin_015,Conoscenza,5.0,scuola,2.0,quotidianità,4.0,lettura,4.0
+liceo_lin_016,Conoscenza,4.0,discorsi,4.0,informazioni,3.0,,
+liceo_lin_017,Conoscenza,4.0,cultura,5.0,intelligenza,5.0,abilità,5.0
+liceo_lin_018,Conoscenza,5.0,ampia,4.0,critica,4.0,dogmatica,1.0
+liceo_lin_019,Conoscenza,,cultura,,,,,
+liceo_sci_014,Conoscenza,5.0,sapere,5.0,intelligenza,5.0,trasparente,2.0
+liceo_sci_015,Conoscenza,,,,,,,
+liceo_sci_016,Conoscenza,5.0,,1.0,,,,
+liceo_sci_017,Conoscenza,,totale,,teorica ,,pratica,
+liceo_sci_018,Conoscenza,5.0,cultura,5.0,maturità,5.0,,
+liceo_sci_019,Conoscenza,5.0,curiosità,5.0,volontà,5.0,cultura,5.0
+liceo_sci_020,Conoscenza,5.0,utile,5.0,libertà,4.0,,
+liceo_sci_021,Conoscenza,3.0,studiare,2.0,leggere,4.0,cultura,5.0
+liceo_sci_022,Conoscenza,3.0,filosofia,4.0,matematica,4.0,generale,3.0
+liceo_sci_023,Conoscenza,5.0,matematica,4.0,individuale,3.0,unica,3.0
+liceo_sci_024,Conoscenza,5.0,Culturale,5.0,Scientifica,5.0,Importante,5.0
+liceo_sci_025,Conoscenza,3.0,generale,3.0,cultura,3.0,scuola,3.0
+liceo_sci_026,Conoscenza,4.0,arma,2.0,cultura,5.0,,
+liceo_sci_027,Conoscenza,4.0,AMPIA,3.0,SODDISFACENTE,3.0,INTERESSE,4.0
+liceo_sci_028,Conoscenza,4.0,utile,4.0,miglioramento,4.0,approfondimento,4.0
+liceo_sci_029,Conoscenza,4.0,testa,3.0,scuola,4.0,idee,5.0
+liceo_sci_030,Conoscenza,5.0,studio,4.0,libri,3.0,,
+liceo_sci_031,Conoscenza,4.0,scienza,4.0,,4.0,,4.0
+liceo_sci_032,Conoscenza,4.0,storia,4.0,libri ,4.0,biblioteca,5.0
+liceo_sci_033,Conoscenza,5.0,fondamentale,4.0,studio,4.0,libri,3.0
+liceo_sci_034,Conoscenza,5.0,persone ,4.0,,,,
+liceo_sci_035,Conoscenza,5.0,potere,5.0,,,,
+liceo_sci_036,Conoscenza,3.0,zeno,3.0,individuale,3.0,materia,3.0
+liceo_sci_037,Conoscenza,3.0,filosofia,3.0,educazione,3.0,libri,4.0
+liceo_sci_038,Conoscenza,3.0,pensierosa,3.0,flusso,3.0,umana,3.0
+liceo_sci_039,Conoscenza,4.0,ragione,4.0,esperimenti,3.0,filosofia,4.0
+liceo_sci_040,Conoscenza,5.0,libri,5.0,cultura,5.0,saggezza,5.0
+liceo_sci_041,Conoscenza,5.0,sapere,5.0,curiosità,5.0,cultura,5.0
+liceo_sci_042,Conoscenza,4.0,scientifica,4.0,sapere,4.0,risposte,4.0
+liceo_sci_043,Conoscenza,5.0,cultura,5.0,interesse,5.0,scuola,2.0
+liceo_sci_001,Fallimento,1.0,delusione,1.0,,,,
+liceo_sci_002,Fallimento,4.0,normale,3.0,punto di partenza,4.0,riprovare,5.0
+liceo_sci_003,Fallimento,1.0,delusione,1.0,umiliazione,1.0,tristezza,2.0
+liceo_sci_004,Fallimento,2.0,tanti,2.0,succede,2.0,prevedibile,3.0
+liceo_sci_005,Fallimento,2.0,paura,2.0,,,,
+liceo_sci_006,Fallimento,2.0,paura,1.0,sconforto,1.0,depressione,1.0
+liceo_sci_007,Fallimento,2.0,voto ,2.0,delusione,1.0,personale,2.0
+liceo_sci_008,Fallimento,2.0,paura,2.0,,,,
+liceo_sci_009,Fallimento,1.0,negativo,1.0,triste,1.0,,
+liceo_sci_010,Fallimento,1.0,,3.0,,3.0,,3.0
+liceo_sci_011,Fallimento,1.0,sconforto,1.0,arrendersi,2.0,abbattersi,1.0
+liceo_sci_012,Fallimento,1.0,ripartire,4.0,caduta,3.0,speranza,5.0
+liceo_sci_013,Fallimento,1.0,paura,1.0,accadere,2.0,,
+liceo_lin_001,Fallimento,1.0,esami,2.0,paura,3.0,delusione,2.0
+liceo_lin_002,Fallimento,1.0,ansia,1.0,paura,1.0,malessere,1.0
+liceo_lin_003,Fallimento,1.0,scolastico,5.0,vita,5.0,lavoro,5.0
+liceo_lin_004,Fallimento,1.0,Povero,1.0,Paura,1.0,Ponte,4.0
+liceo_lin_005,Fallimento,1.0,delusione,2.0,ansia,2.0,scuola,2.0
+liceo_lin_006,Fallimento,1.0,personale,1.0,risultato,4.0,,
+liceo_lin_007,Fallimento,2.0,soluzione,4.0,tentativo,4.0,riprovare,4.0
+liceo_lin_008,Fallimento,1.0,caduta,1.0,imparare,4.0,errori,2.0
+liceo_lin_009,Fallimento,1.0,tristezza,1.0,scoraggiamento,1.0,delusione,1.0
+liceo_lin_010,Fallimento,3.0,processo,3.0,apprendimento,4.0,esperienza,3.0
+liceo_lin_011,Fallimento,1.0,scolastico,2.0,personale,3.0,lavorativo,3.0
+liceo_lin_012,Fallimento,2.0,sconfitta,2.0,,,,
+liceo_lin_013,Fallimento,1.0,tristezza,1.0,rivincita,5.0,impegno,4.0
+liceo_lin_014,Fallimento,1.0,capita,4.0,siamo umani,4.0,da fastidio sentirsi vulnerabili,1.0
+liceo_lin_015,Fallimento,1.0,scuola,2.0,vita,5.0,paure,1.0
+liceo_lin_016,Fallimento,1.0,tristezza,1.0,delusione ,1.0,pensieri,2.0
+liceo_lin_017,Fallimento,1.0,futuro,2.0,prevenire,2.0,paura,2.0
+liceo_lin_018,Fallimento,3.0,possibilità,3.0,caduta,2.0,ripartenza,5.0
+liceo_lin_019,Fallimento,,delusione,,dubbio,,rabbia,
+liceo_sci_014,Fallimento,1.0,Io,1.0,disappunto,1.0,viola scuro,1.0
+liceo_sci_015,Fallimento,,,,,,,
+liceo_sci_016,Fallimento,1.0,delusione,1.0,tristezza,1.0,rabbia,1.0
+liceo_sci_017,Fallimento,,personale,,calcistico,,lavorativo,
+liceo_sci_018,Fallimento,1.0,incapacità,1.0,,,,
+liceo_sci_019,Fallimento,1.0,terrore,1.0,demoralizzazione,1.0,scoraggiamento,1.0
+liceo_sci_020,Fallimento,2.0,delusione,2.0,vergogna,2.0,triste,2.0
+liceo_sci_021,Fallimento,2.0,brutto voto,1.0,incapacità,1.0,,
+liceo_sci_022,Fallimento,1.0,esame,3.0,ansia,1.0,,
+liceo_sci_023,Fallimento,1.0,non nel mio vocabolario,5.0,tristezza,1.0,ansia,1.0
+liceo_sci_024,Fallimento,3.0,Riprovare,5.0,Frustrazione,4.0,Miglioramento,5.0
+liceo_sci_025,Fallimento,2.0,studi,3.0,cadere,3.0,delusione,2.0
+liceo_sci_026,Fallimento,2.0,accettazione,2.0,sconforto,2.0,paura di deludere,1.0
+liceo_sci_027,Fallimento,2.0,BANCA,4.0,PERSONALE,5.0,COLPA,2.0
+liceo_sci_028,Fallimento,2.0,paura,2.0,problemi,2.0,ansia,2.0
+liceo_sci_029,Fallimento,1.0,lavoro ,3.0,persona,3.0,sport,5.0
+liceo_sci_030,Fallimento,2.0,successo,4.0,perdita,1.0,,
+liceo_sci_031,Fallimento,3.0,ripartire,4.0,,4.0,,4.0
+liceo_sci_032,Fallimento,2.0,morte,2.0,delusione,2.0,disperazione,2.0
+liceo_sci_033,Fallimento,3.0,normale,3.0,brutto,3.0,futuro,5.0
+liceo_sci_034,Fallimento,1.0,tristezza,2.0,,,,
+liceo_sci_035,Fallimento,1.0,piangere,1.0,rabbia,1.0,stress,1.0
+liceo_sci_036,Fallimento,3.0,condizionale,3.0,certo,3.0,scolastico,3.0
+liceo_sci_037,Fallimento,2.0,errore,1.0,famiglia,2.0,lavoro,2.0
+liceo_sci_038,Fallimento,1.0,pigrizia,1.0,rimorso,1.0,schifo,1.0
+liceo_sci_039,Fallimento,4.0,successo,4.0,tentativo,4.0,prova,4.0
+liceo_sci_040,Fallimento,2.0,tristezza,2.0,denti stretti,5.0,lezione,4.0
+liceo_sci_041,Fallimento,2.0,ripresa,5.0,coraggio,5.0,non motivato,2.0
+liceo_sci_042,Fallimento,2.0,riprovare,4.0,esercitarsi,4.0,delusione,2.0
+liceo_sci_043,Fallimento,1.0,delusione,1.0,pianto,1.0,vuoto,1.0
+liceo_sci_001,Voto,2.0,ansia,1.0,delusioni,1.0,,
+liceo_sci_002,Voto,3.0,importante fino a un certo punto,4.0,è un numero,5.0,non definisce chi sei,5.0
+liceo_sci_003,Voto,2.0,paura,2.0,aspettativa,2.0,delusione,1.0
+liceo_sci_004,Voto,3.0,risultato,3.0,dimostrazione,3.0,imprevedibile,3.0
+liceo_sci_005,Voto,2.0,numero,2.0,verifiche ,2.0,paura,2.0
+liceo_sci_006,Voto,3.0,ansia ,2.0,comparazione,1.0,valore,1.0
+liceo_sci_007,Voto,2.0,scuola,3.0,graduatoria,2.0,alti,4.0
+liceo_sci_008,Voto,2.0,un po' paura,2.0,dipende da materia,2.0,,
+liceo_sci_009,Voto,1.0,5,2.0,6,3.0,7,4.0
+liceo_sci_010,Voto,3.0,6,3.0,7,4.0,8,5.0
+liceo_sci_011,Voto,1.0,scuola,1.0,ansia,1.0,stress,1.0
+liceo_sci_012,Voto,3.0,10,3.0,9,3.0,8,3.0
+liceo_sci_013,Voto,2.0,numero,2.0,scuola ,2.0,media,2.0
+liceo_lin_001,Voto,3.0,politica,3.0,scuola,4.0,numero,3.0
+liceo_lin_002,Voto,1.0,ansia,1.0,negativo,1.0,,
+liceo_lin_003,Voto,3.0,scolastico,3.0,fisico,1.0,,
+liceo_lin_004,Voto,5.0,Rosso,5.0,Manifestare,5.0,Studio,5.0
+liceo_lin_005,Voto,5.0,politica,3.0,diritto,5.0,donne,5.0
+liceo_lin_006,Voto,3.0,risultato,3.0,esame,2.0,conoscenze,4.0
+liceo_lin_007,Voto,3.0,numero,3.0,valutazione,3.0,futuro,3.0
+liceo_lin_008,Voto,4.0,importante,4.0,soddisfazione,4.0,impegno,4.0
+liceo_lin_009,Voto,3.0,numero,3.0,risultato,4.0,,
+liceo_lin_010,Voto,4.0,numero,3.0,valutazione,3.0,,
+liceo_lin_011,Voto,2.0,alto,3.0,basso,3.0,meritevole,5.0
+liceo_lin_012,Voto,3.0,risultato,3.0,delusione,1.0,traguardo,3.0
+liceo_lin_013,Voto,3.0,impegno,4.0,giudizio,3.0,appagato ,5.0
+liceo_lin_014,Voto,2.0,espressione di un momento,4.0,,,,
+liceo_lin_015,Voto,2.0,obiettivo,4.0,fallimento,1.0,orgoglio,5.0
+liceo_lin_016,Voto,2.0,scolastico,2.0,personale,3.0,esecuzione,3.0
+liceo_lin_017,Voto,4.0,soddisfazione,4.0,verde,4.0,scuola,4.0
+liceo_lin_018,Voto,1.0,ansia,1.0,numero,2.0,persona,1.0
+liceo_lin_019,Voto,,limite,,associazione,,,
+liceo_sci_014,Voto,1.0,basso,2.0,insufficienza,1.0,rosso,1.0
+liceo_sci_015,Voto,,,,,,,
+liceo_sci_016,Voto,3.0,paura,1.0,ansia,1.0,terrore,1.0
+liceo_sci_017,Voto,,valutazione,,ansia ,,stress,
+liceo_sci_018,Voto,2.0,numero,3.0,ansia,1.0,docente,1.0
+liceo_sci_019,Voto,2.0,simbolo,2.0,paura,2.0,ansia,3.0
+liceo_sci_020,Voto,3.0,libero,4.0,incondizionato,4.0,maggiorenne,3.0
+liceo_sci_021,Voto,2.0,numero,2.0,esame,2.0,verifica,2.0
+liceo_sci_022,Voto,3.0,verifica,3.0,scuola,3.0,,
+liceo_sci_023,Voto,2.0,ansia,1.0,scuola,2.0,numeri,1.0
+liceo_sci_024,Voto,3.0,Scuola,3.0,Ansia,4.0,Pressione,5.0
+liceo_sci_025,Voto,2.0,scuola,3.0,basso,3.0,verifiche,2.0
+liceo_sci_026,Voto,3.0,non sempre giusto,3.0,rosso,2.0,soddisfazione,4.0
+liceo_sci_027,Voto,3.0,SCUOLA,3.0,OBIETTIVO,4.0,POCO UTILE,2.0
+liceo_sci_028,Voto,2.0,scuola,2.0,risultati,3.0,studio,2.0
+liceo_sci_029,Voto,2.0,scuola,3.0,persone,4.0,genitori,5.0
+liceo_sci_030,Voto,3.0,sufficiente,3.0,insufficiente,3.0,positivo,3.0
+liceo_sci_031,Voto,2.0,scuola,4.0,bocciatura,2.0,,4.0
+liceo_sci_032,Voto,4.0,ansia,2.0,,,,
+liceo_sci_033,Voto,1.0,inutile,3.0,spreggevole,3.0,stupido,4.0
+liceo_sci_034,Voto,1.0,numero ,3.0,,,,
+liceo_sci_035,Voto,4.0,attesa,4.0,impegno,5.0,agitazione,2.0
+liceo_sci_036,Voto,3.0,diesci,3.0,scuola,3.0,logico,3.0
+liceo_sci_037,Voto,3.0,10,4.0,aspettative,1.0,debito,2.0
+liceo_sci_038,Voto,2.0,stupido,1.0,immaginario,2.0,senza senso,1.0
+liceo_sci_039,Voto,2.0,materia,3.0,scuola,2.0,soggettività,1.0
+liceo_sci_040,Voto,3.0,numero,3.0,merito,4.0,soddisfazione,5.0
+liceo_sci_041,Voto,3.0,scuola,3.0,etichetta,1.0,obiettivo,5.0
+liceo_sci_042,Voto,2.0,numero,2.0,inutile,2.0,indifferente,2.0
+liceo_sci_043,Voto,1.0,gratificazione,5.0,stress,1.0,fallimento,1.0
+liceo_sci_001,Numeri,3.0,matematica,3.0,calcolo,3.0,naturali,3.0
+liceo_sci_002,Numeri,4.0,razionali,3.0,irrazionali,3.0,immaginari,3.0
+liceo_sci_003,Numeri,3.0,tanti,3.0,composizioni infinite,3.0,calcoli,3.0
+liceo_sci_004,Numeri,3.0,calcoli,3.0,somma,3.0,limiti,2.0
+liceo_sci_005,Numeri,2.0, matematica,2.0,calcoli,2.0,algebra,2.0
+liceo_sci_006,Numeri,3.0,infiniti,4.0,strani,3.0,complessi,2.0
+liceo_sci_007,Numeri,3.0,matematica,3.0,espressioni,3.0,infinito,4.0
+liceo_sci_008,Numeri,3.0,matematica,3.0,,,,
+liceo_sci_009,Numeri,5.0,5,3.0,44,5.0,7,4.0
+liceo_sci_010,Numeri,4.0,1,3.0,2,3.0,3,3.0
+liceo_sci_011,Numeri,3.0,matematica,3.0,dati,3.0,,3.0
+liceo_sci_012,Numeri,3.0,cifre,3.0,calcolo,4.0,equazione,3.0
+liceo_sci_013,Numeri,3.0,arabi,3.0,matematica,2.0,,
+liceo_lin_001,Numeri,3.0,matematica,3.0,tre,5.0,telefono,3.0
+liceo_lin_002,Numeri,2.0,matematica,2.0,ansia,1.0,,
+liceo_lin_003,Numeri,2.0,matematica ,2.0,algebra ,3.0,soldi,1.0
+liceo_lin_004,Numeri,2.0,1,5.0,Arabi,3.0,Complicati ,1.0
+liceo_lin_005,Numeri,4.0,reali,3.0,matematica,2.0,calcolo,3.0
+liceo_lin_006,Numeri,2.0,matematica,2.0,conti,2.0,economia,3.0
+liceo_lin_007,Numeri,3.0,serie,3.0,calcolo,3.0,infinito,3.0
+liceo_lin_008,Numeri,3.0,tanti,3.0,razionali,3.0,,
+liceo_lin_009,Numeri,2.0,infiniti,4.0,percentuali,3.0,dispari,3.0
+liceo_lin_010,Numeri,1.0,matematica,1.0,uno,1.0,due,1.0
+liceo_lin_011,Numeri,3.0,interi,3.0,reali,3.0,primi,3.0
+liceo_lin_012,Numeri,3.0,dati,3.0,calcoli,3.0,algebra,3.0
+liceo_lin_013,Numeri,4.0,calcoli,3.0,ordine,4.0,risolvere,4.0
+liceo_lin_014,Numeri,3.0,molteplici,2.0,indominabili,2.0,infinito,2.0
+liceo_lin_015,Numeri,2.0,ragionamento,3.0,calcoli,2.0,matematica,1.0
+liceo_lin_016,Numeri,2.0,matematica,2.0,dati,2.0,anni,3.0
+liceo_lin_017,Numeri,3.0,pesante,1.0,interessante,4.0,,
+liceo_lin_018,Numeri,3.0,matematica,4.0,telefono,4.0,ovunque,5.0
+liceo_lin_019,Numeri,,algebrici ,,,,,
+liceo_sci_014,Numeri,3.0,matematica,3.0,telefonici,3.0,azzurro chiaro,3.0
+liceo_sci_015,Numeri,,20,,calcoli,,tabelline,
+liceo_sci_016,Numeri,3.0,matematica,3.0,algebra,3.0,fisica,3.0
+liceo_sci_017,Numeri,,9,,10,,11,
+liceo_sci_018,Numeri,3.0,matematica,3.0,test,1.0,calcoli,3.0
+liceo_sci_019,Numeri,4.0,calcoli,4.0,gioco,4.0,divertimento,4.0
+liceo_sci_020,Numeri,4.0,infiniti,4.0,interessanti,4.0,tre,3.0
+liceo_sci_021,Numeri,3.0,matematica,3.0,tabelline,3.0,,
+liceo_sci_022,Numeri,4.0,reali,2.0,interi,3.0,irrazionali,3.0
+liceo_sci_023,Numeri,3.0,matematici,3.0,razionali,3.0,interi,5.0
+liceo_sci_024,Numeri,3.0,Naturali,3.0,Reali,3.0,Irrazionali,3.0
+liceo_sci_025,Numeri,3.0,matematica,3.0,contare,3.0,persone,3.0
+liceo_sci_026,Numeri,3.0,matematica,2.0,astro,4.0,,
+liceo_sci_027,Numeri,3.0,MATEMATICA,4.0,ALGEBRA,4.0,VOTI,2.0
+liceo_sci_028,Numeri,3.0,matematica,3.0,dati,3.0,operazioni,3.0
+liceo_sci_029,Numeri,3.0,molti,2.0,matematica,3.0,scuola,3.0
+liceo_sci_030,Numeri,3.0,infiniti,3.0,matematica,3.0,statistica,3.0
+liceo_sci_031,Numeri,4.0,matmeatica,3.0,logicA,4.0,scuola,3.0
+liceo_sci_032,Numeri,3.0,calcoli,3.0,,,,
+liceo_sci_033,Numeri,3.0,nulla,3.0,nulla,3.0,nulla,3.0
+liceo_sci_034,Numeri,3.0,matematica,3.0,dati,3.0,problema ,2.0
+liceo_sci_035,Numeri,3.0,,,,,,
+liceo_sci_036,Numeri,3.0,primi,3.0,interi,3.0,generici,3.0
+liceo_sci_037,Numeri,3.0,naturali,3.0,reali,3.0,insieme,2.0
+liceo_sci_038,Numeri,3.0,classici,3.0,utilizzabili,3.0,matematica,3.0
+liceo_sci_039,Numeri,3.0,matematica,3.0,dati,3.0,interpretazione,2.0
+liceo_sci_040,Numeri,4.0,matematica,4.0,orari,5.0,quantizzazione,4.0
+liceo_sci_041,Numeri,3.0,matematica,2.0,fisica,2.0,statistica,1.0
+liceo_sci_042,Numeri,3.0,matematica,3.0,problemi,3.0,calcoli,3.0
+liceo_sci_043,Numeri,3.0,sbaglio,1.0,calcolatrice,3.0,matematica,4.0
+liceo_sci_001,Logica,3.0,innata,3.0,non scontata,3.0,,
+liceo_sci_002,Logica,3.0,razionale,4.0,ragione,4.0,intelletto,3.0
+liceo_sci_003,Logica,3.0,mentalità,3.0,ragionamento,3.0,non per tutti,2.0
+liceo_sci_004,Logica,4.0,matematica,3.0,cervello,4.0,ragionamento,4.0
+liceo_sci_005,Logica,2.0,matematica,2.0,problemi,2.0,pensare,4.0
+liceo_sci_006,Logica,3.0,strana ,2.0,complessa,2.0,sentimento,3.0
+liceo_sci_007,Logica,4.0,matematica,3.0,problemi,2.0,numeri,3.0
+liceo_sci_008,Logica,3.0,problemi,3.0,vita,4.0,,
+liceo_sci_009,Logica,5.0,concetto,4.0,abilità,3.0,necessario,4.0
+liceo_sci_010,Logica,4.0,matematica,4.0,inapprendibile,4.0,,3.0
+liceo_sci_011,Logica,3.0,regionamento,4.0,risoluzione,4.0,,3.0
+liceo_sci_012,Logica,4.0,ragionamento,5.0,quesiti,4.0,matematica,5.0
+liceo_sci_013,Logica,1.0,mente,3.0,difficile,1.0,imparare,3.0
+liceo_lin_001,Logica,5.0,matematica,3.0,mente,5.0,architettura,5.0
+liceo_lin_002,Logica,3.0,matematica,1.0,numeri,2.0,mente,4.0
+liceo_lin_003,Logica,3.0,matematica ,2.0,mente,3.0,cervello ,2.0
+liceo_lin_004,Logica,2.0,Problema,2.0,Peso,2.0,Complicata,2.0
+liceo_lin_005,Logica,4.0,intelligenza,4.0,ragionamento,4.0,tolc,3.0
+liceo_lin_006,Logica,4.0,matematica,2.0,ragionamento,4.0,problemi,2.0
+liceo_lin_007,Logica,3.0,filosofia,3.0,ragionamento,3.0,processare,3.0
+liceo_lin_008,Logica,2.0,mentale,3.0,utile,4.0,,
+liceo_lin_009,Logica,2.0,ragionamento,3.0,mente,3.0,analisi,2.0
+liceo_lin_010,Logica,4.0,matematica,2.0,voto,2.0,bella,3.0
+liceo_lin_011,Logica,4.0,problemi,3.0,realtà,3.0,strategie,4.0
+liceo_lin_012,Logica,3.0,ragionamento,4.0,filosofia,3.0,,
+liceo_lin_013,Logica,4.0,test,2.0,problemi,2.0,comprendere,4.0
+liceo_lin_014,Logica,4.0,soggettiva,3.0,connessioni,4.0,collante,4.0
+liceo_lin_015,Logica,1.0,complicato,3.0,ragionamento,4.0,numeri,2.0
+liceo_lin_016,Logica,2.0,pensare,4.0,soluzioni,3.0,matematica,2.0
+liceo_lin_017,Logica,3.0,lavoro,2.0,cervello,5.0,intuito,5.0
+liceo_lin_018,Logica,3.0,filosofia,2.0,ragionamento,3.0,,
+liceo_lin_019,Logica,,intuito,,,,,
+liceo_sci_014,Logica,4.0,ragione,4.0,esistenza,4.0,giallo,2.0
+liceo_sci_015,Logica,,tolc,,problema,,,
+liceo_sci_016,Logica,2.0,letteratura,3.0,grammatica,2.0,matematica,3.0
+liceo_sci_017,Logica,,ragionamento ,,intuizione,,scintilla,
+liceo_sci_018,Logica,3.0,calcolo ,3.0,ragionamento,3.0,intuito ,5.0
+liceo_sci_019,Logica,3.0,ragionamento,3.0,tensione,2.0,intelligenza,4.0
+liceo_sci_020,Logica,4.0,immagini,4.0,rompicapo,3.0,enigma,3.0
+liceo_sci_021,Logica,4.0,matematica,3.0,probabilità,4.0,problemi,3.0
+liceo_sci_022,Logica,3.0,matematica,4.0,verbale,3.0,tolc,3.0
+liceo_sci_023,Logica,2.0,matematica,4.0,tolc,1.0,numeri,4.0
+liceo_sci_024,Logica,4.0,Ragionamento,5.0,Problem-solving,5.0,Pensare oltre gli schemi,4.0
+liceo_sci_025,Logica,3.0,test,3.0,matematica,3.0,problemi,3.0
+liceo_sci_026,Logica,4.0,tolc,3.0,pregio,5.0,sviluppo,4.0
+liceo_sci_027,Logica,4.0,INTELLIGENZA,4.0,BUONA,3.0,VALUTABILE,3.0
+liceo_sci_028,Logica,4.0,problemi,2.0,abilità,4.0,esami,2.0
+liceo_sci_029,Logica,3.0,calcolo,4.0,matematica,3.0,testa,3.0
+liceo_sci_030,Logica,4.0,cervello,4.0,ragionamento,5.0,numeri,3.0
+liceo_sci_031,Logica,3.0,pensare,3.0,cervello,3.0,testa,
+liceo_sci_032,Logica,3.0,numeri,3.0,libri,5.0,ansia,1.0
+liceo_sci_033,Logica,5.0,interessante,3.0,preoccupante,3.0,sensata,3.0
+liceo_sci_034,Logica,4.0,ragionamento,4.0,collegamenti,4.0,,
+liceo_sci_035,Logica,3.0,collegamento,4.0,,,,
+liceo_sci_036,Logica,3.0,mente,3.0,psicologia,3.0,basilare,3.0
+liceo_sci_037,Logica,2.0,tolc,3.0,filosofia,3.0,cervello,2.0
+liceo_sci_038,Logica,4.0,sfida,4.0,interessante,4.0,informatica,4.0
+liceo_sci_039,Logica,4.0,matematica,3.0,razionalità,4.0,emozioni,2.0
+liceo_sci_040,Logica,5.0,ingegno,5.0,problem solving,5.0,novità,4.0
+liceo_sci_041,Logica,4.0,cervello,5.0,ragionamenti,4.0,matematica,2.0
+liceo_sci_042,Logica,3.0,problemi,3.0,risoluzioni,3.0,,
+liceo_sci_043,Logica,4.0,schemi,2.0,coerenza,5.0,mente,4.0
+liceo_sci_001,Ricerca,4.0,novità,4.0,divertimento,4.0,,
+liceo_sci_002,Ricerca,4.0,innovativa,4.0,biomedicina,4.0,finanziata,3.0
+liceo_sci_003,Ricerca,3.0,scientifica,3.0,studio,3.0,scuola,2.0
+liceo_sci_004,Ricerca,3.0,google,3.0,chat gpt,4.0,esposizione,2.0
+liceo_sci_005,Ricerca,4.0,scientifica,4.0,,,,
+liceo_sci_006,Ricerca,5.0,divertimente,5.0,noia ,2.0,scoperte,4.0
+liceo_sci_007,Ricerca,4.0,scientifica,4.0,personale,4.0,individuale,4.0
+liceo_sci_008,Ricerca,3.0,scientifica,3.0,,,,
+liceo_sci_009,Ricerca,4.0,scienza,5.0,tecnologia,5.0,medicina,3.0
+liceo_sci_010,Ricerca,4.0,scientifica,4.0,divulgazione,3.0,,3.0
+liceo_sci_011,Ricerca,4.0,scienza,4.0,,3.0,,3.0
+liceo_sci_012,Ricerca,5.0,scoperte,5.0,innovazioni,5.0,aiuto,4.0
+liceo_sci_013,Ricerca,3.0,scienza,4.0,scoperte,4.0,nuovo,3.0
+liceo_lin_001,Ricerca,4.0,tedesco,4.0,scientifica,4.0,scuola,4.0
+liceo_lin_002,Ricerca,4.0,elaborata,3.0,tematiche,4.0,conoscenze,4.0
+liceo_lin_003,Ricerca,2.0,dna,3.0,scietifica,3.0,indagini,2.0
+liceo_lin_004,Ricerca,4.0,Laboratorio,3.0,Tesoro,4.0,Scuola,3.0
+liceo_lin_005,Ricerca,4.0,scienze,4.0,fisica,2.0,educazione civica,4.0
+liceo_lin_006,Ricerca,4.0,scientifica,4.0,domanda,4.0,soluzione,4.0
+liceo_lin_007,Ricerca,3.0,scienza,3.0,fine,3.0,esperimento,3.0
+liceo_lin_008,Ricerca,3.0,scoperta,3.0,internet,3.0,lavoro,3.0
+liceo_lin_009,Ricerca,3.0,scientifica,3.0,laboratorio,3.0,analisi,3.0
+liceo_lin_010,Ricerca,3.0,storica,2.0,libri,2.0,presentazione,2.0
+liceo_lin_011,Ricerca,4.0,scientifica,3.0,personale,4.0,felicità,5.0
+liceo_lin_012,Ricerca,4.0,conoscenza,4.0,sapere,4.0,,
+liceo_lin_013,Ricerca,4.0,impegno ,4.0,scientifica,3.0,analisi,4.0
+liceo_lin_014,Ricerca,4.0,scolastica,2.0,di sé,5.0,scappare,2.0
+liceo_lin_015,Ricerca,5.0,scuola,3.0,approfondimento,4.0,materia,4.0
+liceo_lin_016,Ricerca,3.0,scientifica,4.0,medica,4.0,morale,3.0
+liceo_lin_017,Ricerca,4.0,informazioni,3.0,dati,3.0,fonti,2.0
+liceo_lin_018,Ricerca,4.0,studio,4.0,fenomeno/i,4.0,presentazione,4.0
+liceo_lin_019,Ricerca,,scientifica ,,curiosità ,,,
+liceo_sci_014,Ricerca,4.0,storia,4.0,compito,1.0,rosso chiaro,2.0
+liceo_sci_015,Ricerca,,lente di ingrandimento,,,,,
+liceo_sci_016,Ricerca,5.0,scienze,5.0,fisica,3.0,farmaci,5.0
+liceo_sci_017,Ricerca,,studio,,natura,,ignoto ,
+liceo_sci_018,Ricerca,5.0,scienze,3.0,voti ,1.0,tranquillità,5.0
+liceo_sci_019,Ricerca,4.0,concentrazione,3.0,analisi,4.0,dati,3.0
+liceo_sci_020,Ricerca,4.0,dati,4.0,ipotesi,4.0,innovazione,5.0
+liceo_sci_021,Ricerca,3.0,scienze,3.0,laboratorio,4.0,chimica,3.0
+liceo_sci_022,Ricerca,4.0,scientifica,3.0,medica,3.0,avanguardia,4.0
+liceo_sci_023,Ricerca,5.0,scientifica,4.0,dati,4.0,esperimenti,5.0
+liceo_sci_024,Ricerca,3.0,Studio,5.0,Dati,3.0,Statistica,3.0
+liceo_sci_025,Ricerca,3.0,innovazione,3.0,scienze,3.0,tecnologia,3.0
+liceo_sci_026,Ricerca,3.0,scientifica,3.0,compito,4.0,,
+liceo_sci_027,Ricerca,4.0,SCIENTIFICA,4.0,DATI,4.0,RISULTATI,4.0
+liceo_sci_028,Ricerca,4.0,progresso,5.0,scienza,4.0,sperimentazione,4.0
+liceo_sci_029,Ricerca,3.0,esperimenti,4.0,soluzioni,4.0,domande,2.0
+liceo_sci_030,Ricerca,4.0,scientifica,5.0,libro,3.0,computer,4.0
+liceo_sci_031,Ricerca,3.0,cercare,4.0,lavoro,4.0,info,3.0
+liceo_sci_032,Ricerca,4.0,scienze,4.0,camice,3.0,progresso,3.0
+liceo_sci_033,Ricerca,5.0,chat gpt,5.0,wikipedia,5.0,libri,5.0
+liceo_sci_034,Ricerca,5.0,laboratorio ,4.0,dati ,4.0,esperimenti,4.0
+liceo_sci_035,Ricerca,4.0,interesse,4.0,vita,5.0,salute,5.0
+liceo_sci_036,Ricerca,3.0,scientifica,3.0,computer,3.0,laboratorio,3.0
+liceo_sci_037,Ricerca,2.0,psicologia,2.0,studio,3.0,tesoro,1.0
+liceo_sci_038,Ricerca,4.0,scientiifica,4.0,fisica,4.0,difficile,2.0
+liceo_sci_039,Ricerca,4.0,università,4.0,docenti,3.0,studi,4.0
+liceo_sci_040,Ricerca,5.0,enciclopedia,5.0,google,4.0,insegnanti,5.0
+liceo_sci_041,Ricerca,3.0,internet,3.0,informazioni,3.0,imparare,4.0
+liceo_sci_042,Ricerca,4.0,scoperta,4.0,studio,4.0,,
+liceo_sci_043,Ricerca,5.0,informazioni,5.0,impegno,4.0,interesse,5.0
+liceo_sci_001,Imbarazzo,1.0,interrogazioni,1.0,voto verifica ,1.0,bocciatura,1.0
+liceo_sci_002,Imbarazzo,2.0,figure di merda,2.0,viso rosso,3.0,,
+liceo_sci_003,Imbarazzo,2.0,timidezza,3.0,sbaglio,2.0,pubblico,3.0
+liceo_sci_004,Imbarazzo,2.0,rosso,2.0,vergogna,2.0,paura,2.0
+liceo_sci_005,Imbarazzo,2.0,persone,3.0,aspetto,3.0,,
+liceo_sci_006,Imbarazzo,1.0,arrossire,1.0,disagio,1.0,brutto,1.0
+liceo_sci_007,Imbarazzo,2.0,giudizio,2.0,gruppo,3.0,persone,2.0
+liceo_sci_008,Imbarazzo,1.0,errore,2.0,figuraccia,2.0,,
+liceo_sci_009,Imbarazzo,5.0,emozione,5.0,silenzio,3.0,,
+liceo_sci_010,Imbarazzo,2.0,scelta,3.0,ansia,2.0,,3.0
+liceo_sci_011,Imbarazzo,2.0,persone,3.0,ansia,2.0,,3.0
+liceo_sci_012,Imbarazzo,1.0,paura,1.0,disagio,1.0,introversione,2.0
+liceo_sci_013,Imbarazzo,2.0,brutto,2.0,eliminare,3.0,,
+liceo_lin_001,Imbarazzo,3.0,pubblico,3.0,disagio,1.0,rosso,3.0
+liceo_lin_002,Imbarazzo,2.0,ansia,1.0,timidezza,3.0,,
+liceo_lin_003,Imbarazzo,3.0,società ,3.0,vita,3.0,scuola,3.0
+liceo_lin_004,Imbarazzo,1.0,Vergogna ,1.0,Rosso,5.0,Sudore,1.0
+liceo_lin_005,Imbarazzo,1.0,novità,4.0,solitudine,2.0,pubblico,3.0
+liceo_lin_006,Imbarazzo,2.0,sociale,2.0,panico,1.0,disagio,1.0
+liceo_lin_007,Imbarazzo,2.0,caldo,2.0,confusione,2.0,indecisione,2.0
+liceo_lin_008,Imbarazzo,2.0,sensazione,3.0,sconosciuti,3.0,,
+liceo_lin_009,Imbarazzo,2.0,emozione,4.0,negativo,2.0,,
+liceo_lin_010,Imbarazzo,5.0,brutto,5.0,esperienza,5.0,leggerezza,5.0
+liceo_lin_011,Imbarazzo,2.0,aspettative,2.0,delusione,1.0,fallimento,1.0
+liceo_lin_012,Imbarazzo,2.0,vergogna,2.0,,,,
+liceo_lin_013,Imbarazzo,1.0,pubblico ,2.0,blocco,1.0,paura,1.0
+liceo_lin_014,Imbarazzo,2.0,sormontabile,4.0,catena,3.0,dettato dalla società,2.0
+liceo_lin_015,Imbarazzo,1.0,figuraccia,2.0,vergogna,2.0,persone,3.0
+liceo_lin_016,Imbarazzo,3.0,scomparire,2.0,rosso,3.0,pianti,2.0
+liceo_lin_017,Imbarazzo,1.0,altri,3.0,pensiero,3.0,rimorso,1.0
+liceo_lin_018,Imbarazzo,2.0,esprimersi,3.0,confort-zone,4.0,estraneo,1.0
+liceo_lin_019,Imbarazzo,,disagio,,situazione,,,
+liceo_sci_014,Imbarazzo,2.0,emozione,1.0,arrossire,2.0,rosa,2.0
+liceo_sci_015,Imbarazzo,,rosso,,,,,
+liceo_sci_016,Imbarazzo,1.0,rosso,3.0,sole,4.0,gonfio,3.0
+liceo_sci_017,Imbarazzo,,ragazze ,,estranei ,,poco,
+liceo_sci_018,Imbarazzo,1.0,essere al centro dell'attenzione,1.0,panico,1.0,,
+liceo_sci_019,Imbarazzo,2.0,disagio,1.0,tensione,2.0,umiliazione,1.0
+liceo_sci_020,Imbarazzo,2.0,disagio,2.0,vergogna,2.0,,
+liceo_sci_021,Imbarazzo,2.0,rossore,3.0,brutta figura,2.0,,
+liceo_sci_022,Imbarazzo,2.0,gente,4.0,folla,4.0,errore,2.0
+liceo_sci_023,Imbarazzo,1.0,situazione,3.0,brutto,1.0,agitazione,1.0
+liceo_sci_024,Imbarazzo,3.0,Persone,3.0,Timidezza,2.0,,
+liceo_sci_025,Imbarazzo,1.0,vergogna,2.0,rosso,3.0,paura,2.0
+liceo_sci_026,Imbarazzo,2.0,brutta figura,1.0,domande personali,2.0,,
+liceo_sci_027,Imbarazzo,1.0,CIRCONSTANZIALE,3.0,INTERROGAZIONE,2.0,FAMIGLIA,5.0
+liceo_sci_028,Imbarazzo,1.0,vergogna,1.0,ansia,1.0,giudizio,2.0
+liceo_sci_029,Imbarazzo,1.0,persone,3.0,sconosciuti,2.0,soli,1.0
+liceo_sci_030,Imbarazzo,2.0,figuraccia,2.0,,,,
+liceo_sci_031,Imbarazzo,3.0,pubblico,3.0,figuraccia,2.0,fallimento,3.0
+liceo_sci_032,Imbarazzo,2.0,persone,3.0,ansia,2.0,,
+liceo_sci_033,Imbarazzo,2.0,test,2.0,domande,3.0,situazioni,2.0
+liceo_sci_034,Imbarazzo,2.0,pubblico,3.0,,,,
+liceo_sci_035,Imbarazzo,1.0,rosso,1.0,chiuso,1.0,,
+liceo_sci_036,Imbarazzo,3.0,amici,3.0,sociale,3.0,nuvola,3.0
+liceo_sci_037,Imbarazzo,3.0,rosso,3.0,vergogna,2.0,timidezza,2.0
+liceo_sci_038,Imbarazzo,2.0,scelta,3.0,pubblico,2.0,scelte,3.0
+liceo_sci_039,Imbarazzo,1.0,ansia,1.0,stress,2.0,pressione,2.0
+liceo_sci_040,Imbarazzo,2.0,arrossire,3.0,disagio,2.0,senso di rivalsa,5.0
+liceo_sci_041,Imbarazzo,1.0,estraneazione,1.0,disagio,1.0,insicurezza,1.0
+liceo_sci_042,Imbarazzo,2.0,rosso,2.0,punto di domanda,2.0,non sapere,2.0
+liceo_sci_043,Imbarazzo,1.0,solitudine,1.0,stomaco,1.0,invisibilità,1.0
+liceo_sci_001,Compagni,3.0,classe,3.0,lavoro,3.0,,
+liceo_sci_002,Compagni,5.0,simpatici,5.0,sopportabili,5.0,meglio di altri individui,5.0
+liceo_sci_003,Compagni,3.0,simpatici,3.0,non veri amici,2.0,pochi,3.0
+liceo_sci_004,Compagni,4.0,amici,4.0,chat,4.0,ridere,4.0
+liceo_sci_005,Compagni,3.0,classe,3.0,neutrali,3.0,,
+liceo_sci_006,Compagni,5.0,amici,4.0,sostegno,5.0,aiutarsi,5.0
+liceo_sci_007,Compagni,4.0,classe,4.0,divertimento,3.0,giudizio,3.0
+liceo_sci_008,Compagni,4.0,,,,,,
+liceo_sci_009,Compagni,5.0,classe,4.0,divertimento,4.0,socialità,4.0
+liceo_sci_010,Compagni,4.0,scuola,3.0,calcio,5.0,,3.0
+liceo_sci_011,Compagni,4.0,classe,2.0,scuola,1.0,lavoro,2.0
+liceo_sci_012,Compagni,4.0,divertimento,5.0,condivisione,4.0,sostegno,5.0
+liceo_sci_013,Compagni,4.0,classe,4.0,simpatici,4.0,bene,4.0
+liceo_lin_001,Compagni,4.0,scuola,4.0,banco,4.0,quotidianità,4.0
+liceo_lin_002,Compagni,3.0,persone,3.0,amici,3.0,imbarazzo,2.0
+liceo_lin_003,Compagni,3.0,divertimento,3.0,famiglia,3.0,spensieratezza ,3.0
+liceo_lin_004,Compagni,5.0,Amici,5.0,Leali,5.0,Litigate,2.0
+liceo_lin_005,Compagni,4.0,classe,4.0,amici,5.0,simpatie,5.0
+liceo_lin_006,Compagni,4.0,amicizia,4.0,supporto,4.0,appoggio,4.0
+liceo_lin_007,Compagni,5.0,amici,5.0,percorso,5.0,rapporti,5.0
+liceo_lin_008,Compagni,2.0,amici,4.0,classe,3.0,lavori,3.0
+liceo_lin_009,Compagni,5.0,amici,5.0,sostenitori,5.0,aiuto,5.0
+liceo_lin_010,Compagni,4.0,amici,5.0,avventure,4.0,,
+liceo_lin_011,Compagni,4.0,persone,4.0,amici,5.0,fiducia,5.0
+liceo_lin_012,Compagni,3.0,classe,3.0,dialogo,4.0,scambio,3.0
+liceo_lin_013,Compagni,5.0,scuola,2.0,vita,5.0,aiuto,5.0
+liceo_lin_014,Compagni,4.0,simpatici,4.0,sfidanti,3.0,ambiziosi,4.0
+liceo_lin_015,Compagni,5.0,classe,5.0,amici,5.0,aiuto,4.0
+liceo_lin_016,Compagni,4.0,famiglia,4.0,risate,4.0,litigi,4.0
+liceo_lin_017,Compagni,4.0,mancanza,2.0,crescita,3.0,maturazione,4.0
+liceo_lin_018,Compagni,4.0,gruppo,4.0,supporto,4.0,competizione,1.0
+liceo_lin_019,Compagni,,vita,,scuola,,socializzazione,
+liceo_sci_014,Compagni,1.0,odio,1.0,odio,1.0,grigio,1.0
+liceo_sci_015,Compagni,,gurppo,,amici,,classe,
+liceo_sci_016,Compagni,5.0,sole,4.0,estate,5.0,scuola,1.0
+liceo_sci_017,Compagni,,zucca ,,spagno,,bacca ,
+liceo_sci_018,Compagni,5.0,serenità,4.0,divertimento,4.0,conforto,5.0
+liceo_sci_019,Compagni,4.0,fiducia,4.0,divertimento,4.0,felicità,4.0
+liceo_sci_020,Compagni,4.0,divertenti,4.0,scuola,4.0,studio,
+liceo_sci_021,Compagni,5.0,di classe,5.0,amici,5.0,,
+liceo_sci_022,Compagni,5.0,classe,5.0,simpatia,4.0,,
+liceo_sci_023,Compagni,5.0,classe,5.0,simpatici,5.0,amici,5.0
+liceo_sci_024,Compagni,,Inesistenti,,,,,
+liceo_sci_025,Compagni,5.0,scuola,3.0,lavoro,4.0,amicizie,5.0
+liceo_sci_026,Compagni,5.0,amici,5.0,aiuto,4.0,migliori,5.0
+liceo_sci_027,Compagni,4.0,AMICI,5.0,PERCORSO,5.0,FAMIGLIA,5.0
+liceo_sci_028,Compagni,4.0,amici,5.0,studio,2.0,scuola,3.0
+liceo_sci_029,Compagni,5.0,scuola,3.0,classe,4.0,amici,5.0
+liceo_sci_030,Compagni,4.0,classe,3.0,unione,5.0,,
+liceo_sci_031,Compagni,4.0,simpatici,4.0,compagniaa,4.0,gioco ,4.0
+liceo_sci_032,Compagni,4.0,amici,4.0,incomprensione,1.0,muro,1.0
+liceo_sci_033,Compagni,5.0,amore,5.0,tranquillità,5.0,divertimento,5.0
+liceo_sci_034,Compagni,5.0,classe,3.0,amici,5.0,,
+liceo_sci_035,Compagni,5.0,amici,5.0,comunismo,4.0,aiuto,5.0
+liceo_sci_036,Compagni,3.0,classe,3.0,scuola,3.0,merenda,3.0
+liceo_sci_037,Compagni,3.0,classe,3.0,gita,2.0,gruppi,2.0
+liceo_sci_038,Compagni,3.0,simpatici,4.0,incompatibili,2.0,diversi,3.0
+liceo_sci_039,Compagni,5.0,scuola,3.0,banco,4.0,amici,4.0
+liceo_sci_040,Compagni,5.0,compagnia,5.0,supporto,5.0,unità,5.0
+liceo_sci_041,Compagni,4.0,amici,5.0,legame,5.0,armonia,5.0
+liceo_sci_042,Compagni,3.0,persone,3.0,ore scolastiche ,3.0,,
+liceo_sci_043,Compagni,5.0,felicità,5.0,esperienze,5.0,condivisione,5.0
+liceo_sci_001,Problema,3.0,affrontare,4.0,vie,4.0,,
+liceo_sci_002,Problema,3.0,soluzione,4.0,piano b,4.0,saltare,4.0
+liceo_sci_003,Problema,2.0,soluzione,3.0,dati,3.0,procedimento,3.0
+liceo_sci_004,Problema,3.0,soluzione,4.0,procedimento,3.0,calcoli,3.0
+liceo_sci_005,Problema,2.0,matematica,2.0,fisica,2.0,calcoli,2.0
+liceo_sci_006,Problema,2.0,rabbia,1.0,tristezza ,1.0,sconforto,1.0
+liceo_sci_007,Problema,3.0,soluzione,4.0,matematica,3.0,modalità,4.0
+liceo_sci_008,Problema,3.0,soluzione,4.0,risolvere,3.0,,
+liceo_sci_009,Problema,4.0,matimetico,4.0,logico,5.0,fisica,4.0
+liceo_sci_010,Problema,3.0,matematica,4.0,fisica,3.0,analisi,4.0
+liceo_sci_011,Problema,2.0,matematica,3.0,risoluzione,4.0,,3.0
+liceo_sci_012,Problema,3.0,soluzione,5.0,quiz,3.0,ragionamento,4.0
+liceo_sci_013,Problema,2.0,difficile,2.0,risolvere,1.0,soluzione,2.0
+liceo_lin_001,Problema,3.0,matematica,3.0,torta,3.0,soluzione,5.0
+liceo_lin_002,Problema,1.0,matematica,1.0,anisa,1.0,stress,1.0
+liceo_lin_003,Problema,2.0,matematica ,2.0,vita,3.0,sociale,3.0
+liceo_lin_004,Problema,1.0,Incognita ,1.0,Mal di testa,1.0,X,4.0
+liceo_lin_005,Problema,3.0,geometria,3.0,dati,3.0,risoluzione,4.0
+liceo_lin_006,Problema,1.0,soluzione,5.0,aiuto,5.0,analisi,4.0
+liceo_lin_007,Problema,3.0,matematica,3.0,soluzione,4.0,risolvere,4.0
+liceo_lin_008,Problema,1.0,soluzione,4.0,personale,3.0,famiglia,3.0
+liceo_lin_009,Problema,2.0,soluzione,4.0,idee,4.0,,
+liceo_lin_010,Problema,3.0,risoluzione,3.0,affronto,3.0,autostima,2.0
+liceo_lin_011,Problema,2.0,scolastico,2.0,disciplinare,2.0,personale,2.0
+liceo_lin_012,Problema,2.0,dati,3.0,numeri,3.0,risouzione,4.0
+liceo_lin_013,Problema,3.0,matematica,4.0,risolvere ,4.0,dati,4.0
+liceo_lin_014,Problema,3.0,risolvibile,5.0,parlare,5.0,fidarsi,5.0
+liceo_lin_015,Problema,2.0,matematica,2.0,risoluzione,5.0,metodi,3.0
+liceo_lin_016,Problema,3.0,matematico,3.0,importante,3.0,,
+liceo_lin_017,Problema,3.0,risolvere,4.0,soluzione,4.0,logica,3.0
+liceo_lin_018,Problema,3.0,,,,,,
+liceo_lin_019,Problema,3.0,algebrico,3.0,,,,
+liceo_sci_014,Problema,4.0,Io,1.0,matematica,3.0,viola,1.0
+liceo_sci_015,Problema,3.0,,,,,,
+liceo_sci_016,Problema,1.0,solver,3.0,ansia,1.0,gestione,2.0
+liceo_sci_017,Problema,3.0,risolvere ,5.0,matematico,5.0,chiocchetti ,5.0
+liceo_sci_018,Problema,1.0,soluzione,5.0,,,,
+liceo_sci_019,Problema,3.0,soluzione,4.0,pensare,4.0,tensione,2.0
+liceo_sci_020,Problema,4.0,risolvere,5.0,soluzione,5.0,interessante,4.0
+liceo_sci_021,Problema,2.0,di matematica,3.0,di fisica,3.0,difficile,2.0
+liceo_sci_022,Problema,3.0,matematico,3.0,risoluzione,3.0,analisi,3.0
+liceo_sci_023,Problema,3.0,risolverlo,5.0,aggirarlo,5.0,superarlo,5.0
+liceo_sci_024,Problema,4.0,Analizzare,4.0,Ipotesi,4.0,Risolvere,5.0
+liceo_sci_025,Problema,3.0,matematica,3.0,risoluzione,3.0,risultati,3.0
+liceo_sci_026,Problema,3.0,matematica,2.0,fisica,2.0,difficoltà,2.0
+liceo_sci_027,Problema,4.0,SOLUZIONE,5.0,APPLICAZIONE,5.0,RAGIONAMENTO,5.0
+liceo_sci_028,Problema,2.0,dati,3.0,risoluzione,4.0,metodo,4.0
+liceo_sci_029,Problema,2.0,risoluzuone,4.0,difficoltà,2.0,amici,5.0
+liceo_sci_030,Problema,2.0,matematica,3.0,fisica,2.0,mentale,1.0
+liceo_sci_031,Problema,3.0,soluzione,5.0,pensare,4.0,focus,4.0
+liceo_sci_032,Problema,3.0,risoluzione,4.0,ragionamento,4.0,,
+liceo_sci_033,Problema,3.0,risoluzione,5.0,,,,
+liceo_sci_034,Problema,1.0,soluzione,5.0,,,,
+liceo_sci_035,Problema,2.0,soluzione,4.0,matematica,3.0,simbolo,3.0
+liceo_sci_036,Problema,3.0,risolvibile,3.0,strano,3.0,aziendale,3.0
+liceo_sci_037,Problema,3.0,risoluzione,2.0,dati,3.0,calcolo,3.0
+liceo_sci_038,Problema,3.0,alternative,4.0,difficile,3.0,impegnativo,4.0
+liceo_sci_039,Problema,3.0,soluzione,4.0,sfida,4.0,ragionamento,4.0
+liceo_sci_040,Problema,3.0,sfida,5.0,soluzioni,5.0,tentativi,4.0
+liceo_sci_041,Problema,2.0,riflessione,4.0,preoccupazione,2.0,consapevolezza,5.0
+liceo_sci_042,Problema,3.0,matematica,3.0,domande,3.0,,
+liceo_sci_043,Problema,2.0,problem solving,5.0,intraprendenza,5.0,frustrazione,1.0
+liceo_sci_001,Informatica,3.0,programmazione,3.0,giochi,5.0,,
+liceo_sci_002,Informatica,3.0,palloso,2.0,phyton,4.0,giocare,5.0
+liceo_sci_003,Informatica,2.0,non intuitiva,2.0,per pochi,2.0,non mi piace,1.0
+liceo_sci_004,Informatica,3.0,computer,3.0,giochi,4.0,lezioni,3.0
+liceo_sci_005,Informatica,2.0,codici,2.0,computer,3.0,linguaggi,3.0
+liceo_sci_006,Informatica,3.0,complicata,2.0,ansia,2.0,studio,2.0
+liceo_sci_007,Informatica,3.0,algoritmo,2.0,valutazione,3.0,computer,3.0
+liceo_sci_008,Informatica,3.0,tranquilla,4.0,computer,3.0,,
+liceo_sci_009,Informatica,5.0,programmazione,5.0,c++,5.0,file,4.0
+liceo_sci_010,Informatica,3.0,c++,3.0,programmazione,3.0,pc,3.0
+liceo_sci_011,Informatica,2.0,computer,3.0,programmazione,2.0,,3.0
+liceo_sci_012,Informatica,5.0,computer,5.0,tecnologia,5.0,binario,3.0
+liceo_sci_013,Informatica,2.0,computer,2.0,difficile,2.0,scuola,2.0
+liceo_lin_001,Informatica,3.0,disegno,3.0,computer,4.0,tecnico,3.0
+liceo_lin_002,Informatica,4.0,computer,4.0,tasti,3.0,numeri,1.0
+liceo_lin_003,Informatica,3.0,computer,3.0,classe ,4.0,internet,4.0
+liceo_lin_004,Informatica,1.0,Codice binario,1.0,Computer,1.0,Numeri,1.0
+liceo_lin_005,Informatica,4.0,computer,4.0,mouse,4.0,schermo,4.0
+liceo_lin_006,Informatica,2.0,computer,2.0,programmi,1.0,velocità,2.0
+liceo_lin_007,Informatica,3.0,computer,3.0,codici,3.0,numeri,3.0
+liceo_lin_008,Informatica,3.0,computer,3.0,,,,
+liceo_lin_009,Informatica,4.0,computer,4.0,intelligenza,4.0,,
+liceo_lin_010,Informatica,3.0,pc,4.0,occhiali,4.0,futuro,4.0
+liceo_lin_011,Informatica,3.0,computer,3.0,server,3.0,tastiera,3.0
+liceo_lin_012,Informatica,3.0,computer,4.0,programmi,3.0,,
+liceo_lin_013,Informatica,4.0,dati,4.0,computer,4.0,laboratorio,5.0
+liceo_lin_014,Informatica,2.0,computer,2.0,repulsione,1.0,buio,1.0
+liceo_lin_015,Informatica,3.0,materia,3.0,computer,5.0,tecnologia,5.0
+liceo_lin_016,Informatica,3.0,materia ,2.0,computer ,3.0,formule ,3.0
+liceo_lin_017,Informatica,2.0,computer,3.0,tecnologia,2.0,calcolo,2.0
+liceo_lin_018,Informatica,4.0,,,,,,
+liceo_lin_019,Informatica,3.0,computer,3.0,,,,
+liceo_sci_014,Informatica,3.0,digitare,4.0,divertente,5.0,azzurra,3.0
+liceo_sci_015,Informatica,3.0,,,,,,
+liceo_sci_016,Informatica,4.0,futuro,5.0,verde,4.0,pc,3.0
+liceo_sci_017,Informatica,5.0,futuro ,5.0,priolo ,5.0,computer ,5.0
+liceo_sci_018,Informatica,3.0,laboratori ,3.0,programmazione,3.0,futuro,5.0
+liceo_sci_019,Informatica,3.0,complicato,2.0,numeri,3.0,confusione,2.0
+liceo_sci_020,Informatica,4.0,programma,4.0,algoritmo,4.0,codici,4.0
+liceo_sci_021,Informatica,3.0,computer,4.0,aula,3.0,prof,3.0
+liceo_sci_022,Informatica,3.0,scuola,3.0,computer,3.0,giochi,3.0
+liceo_sci_023,Informatica,4.0,innovazione,5.0,futuro,5.0,utile,5.0
+liceo_sci_024,Informatica,5.0,Computer,5.0,Programmare,4.0,Hardware,5.0
+liceo_sci_025,Informatica,3.0,computer,3.0,numeri,3.0,codici,3.0
+liceo_sci_026,Informatica,3.0,computer,4.0,aula,4.0,presentazione,4.0
+liceo_sci_027,Informatica,4.0,UTILE,4.0,INTERESSE,4.0,DIFFICILE,4.0
+liceo_sci_028,Informatica,4.0,tecnologia,4.0,logica,4.0,problemi,2.0
+liceo_sci_029,Informatica,4.0,pc,5.0,fututuro,5.0,chat gpt,4.0
+liceo_sci_030,Informatica,3.0,computer,5.0,mouse,5.0,c,3.0
+liceo_sci_031,Informatica,4.0,nuovo,4.0,IA,5.0,futuro,4.0
+liceo_sci_032,Informatica,2.0,ansia,2.0,futuro,3.0,,
+liceo_sci_033,Informatica,4.0,futuro,5.0,,,,
+liceo_sci_034,Informatica,4.0,dati,3.0,tecnologia ,5.0,progresso,5.0
+liceo_sci_035,Informatica,2.0,noia,1.0,computer,3.0,,
+liceo_sci_036,Informatica,3.0,laboratorio,3.0,codice,3.0,mouse,3.0
+liceo_sci_037,Informatica,2.0,Priolo,3.0,scuola,2.0,lezione,3.0
+liceo_sci_038,Informatica,4.0,nuovo,4.0,logica,4.0,interessante,4.0
+liceo_sci_039,Informatica,5.0,tecnologia,5.0,futuro,3.0,progresso,4.0
+liceo_sci_040,Informatica,3.0,computer,3.0,logica,4.0,programmi,4.0
+liceo_sci_041,Informatica,2.0,computer,3.0,tecnologia,3.0,innovazione,4.0
+liceo_sci_042,Informatica,3.0,noia,2.0,programmazione,3.0,studio,4.0
+liceo_sci_043,Informatica,3.0,computer,3.0,programma,3.0,,
+liceo_sci_001,Sfida,2.0,difficile ,1.0,,,,
+liceo_sci_002,Sfida,5.0,ragionare,4.0,possibilità,4.0,soluzione,4.0
+liceo_sci_003,Sfida,3.0,mettersi in gioco,4.0,difficile,2.0,superare i propri limiti,5.0
+liceo_sci_004,Sfida,3.0,impegno,3.0,competitività,4.0,vincere,4.0
+liceo_sci_005,Sfida,2.0,vincere,4.0,perdere,2.0,,
+liceo_sci_006,Sfida,3.0,gara,3.0,adrenalina ,4.0,competizione,3.0
+liceo_sci_007,Sfida,4.0,accettata,4.0,dura,3.0,personale,4.0
+liceo_sci_008,Sfida,3.0,giornaliera,3.0,se stessi,3.0,,
+liceo_sci_009,Sfida,4.0,,,,,,
+liceo_sci_010,Sfida,4.0,obiettivo,4.0,difficoltà,2.0,,3.0
+liceo_sci_011,Sfida,3.0,competizione,3.0,avversario,3.0,,3.0
+liceo_sci_012,Sfida,5.0,testare,5.0,resoconto,5.0,bravura,5.0
+liceo_sci_013,Sfida,3.0,affrontare,3.0,squadre,4.0,,
+liceo_lin_001,Sfida,4.0,personale,4.0,vita,4.0,persone,3.0
+liceo_lin_002,Sfida,3.0,ansia,1.0,incapacità,1.0,paura,1.0
+liceo_lin_003,Sfida,4.0,intraprendenza ,5.0,divertimento ,5.0,lotta,2.0
+liceo_lin_004,Sfida,4.0,Gara,4.0,Punteggio,4.0,Vittoria,5.0
+liceo_lin_005,Sfida,3.0,interiore,3.0,carte,5.0,gioco,5.0
+liceo_lin_006,Sfida,3.0,avversario,2.0,ostacolo,2.0,obbiettivo,5.0
+liceo_lin_007,Sfida,4.0,forza,4.0,determinazione,5.0,sè stessi,4.0
+liceo_lin_008,Sfida,2.0,competizione,2.0,persone,3.0,ansia,1.0
+liceo_lin_009,Sfida,4.0,adrenalina,4.0,competitività,4.0,,
+liceo_lin_010,Sfida,3.0,stimolo,2.0,gara,5.0,obiettivo,2.0
+liceo_lin_011,Sfida,4.0,ostacoli,2.0,obiettivo,5.0,migliorare,5.0
+liceo_lin_012,Sfida,3.0,miglioramento,4.0,,,,
+liceo_lin_013,Sfida,4.0,impegno,4.0,reagire,4.0,risolvere,4.0
+liceo_lin_014,Sfida,5.0,competitività,5.0,eccellere,5.0,podio,5.0
+liceo_lin_015,Sfida,3.0,sport,4.0,personale,3.0,scuola,2.0
+liceo_lin_016,Sfida,3.0,gioco,3.0,,,,
+liceo_lin_017,Sfida,3.0,accettare,4.0,reputazione,2.0,avvincente,4.0
+liceo_lin_018,Sfida,3.0,,,,,,
+liceo_lin_019,Sfida,4.0,personale,4.0,gara,3.0,superare i propri limiti ,4.0
+liceo_sci_014,Sfida,5.0,competizione,5.0,interessante,5.0,giallo ocra,2.0
+liceo_sci_015,Sfida,3.0,,,,,,
+liceo_sci_016,Sfida,4.0,ansia,1.0,vittoria,5.0,rosso,3.0
+liceo_sci_017,Sfida,5.0,vincere ,5.0,pessimismo,4.0,calcio,5.0
+liceo_sci_018,Sfida,2.0,vincitrice,5.0,lotta ,3.0,,
+liceo_sci_019,Sfida,3.0,ansia,2.0,preoccupazione,3.0,tensione,2.0
+liceo_sci_020,Sfida,4.0,interessante,4.0,competitivo,4.0,efficace,4.0
+liceo_sci_021,Sfida,3.0,gara,2.0,corsa,3.0,premio,4.0
+liceo_sci_022,Sfida,3.0,vittoria,4.0,,,,
+liceo_sci_023,Sfida,5.0,bella,5.0,motivante,5.0,curioso,5.0
+liceo_sci_024,Sfida,5.0,Intrigante,5.0,Mettersi in gioco,5.0,Ragionare,5.0
+liceo_sci_025,Sfida,3.0,prove,3.0,sport,4.0,vita,4.0
+liceo_sci_026,Sfida,3.0,vincere,5.0,competitività,3.0,migliorare,4.0
+liceo_sci_027,Sfida,5.0,ECCITAZIONE,5.0,SOLUZIONE,4.0,PARTECIPAZIONE,4.0
+liceo_sci_028,Sfida,3.0,difficoltà,2.0,confronto,4.0,paura,2.0
+liceo_sci_029,Sfida,5.0,personale,3.0,obbiettivi,4.0,,
+liceo_sci_030,Sfida,4.0,ardua,4.0,difficile,3.0,,
+liceo_sci_031,Sfida,4.0,gara,5.0,concentrazione,5.0,vincere,5.0
+liceo_sci_032,Sfida,3.0,prova,2.0,determinazione,4.0,,
+liceo_sci_033,Sfida,4.0,competizione,3.0,,,,
+liceo_sci_034,Sfida,5.0,vincitore,4.0,giochi,4.0,,
+liceo_sci_035,Sfida,4.0,cancello,2.0,muro,2.0,salto,3.0
+liceo_sci_036,Sfida,3.0,emblematica,3.0,concettuale,3.0,pratica,3.0
+liceo_sci_037,Sfida,2.0,challenge,3.0,personale,2.0,competizione,1.0
+liceo_sci_038,Sfida,4.0,competizione,4.0,divertente,4.0,mettersi alla prova,4.0
+liceo_sci_039,Sfida,4.0,ostacolo,2.0,superamento,5.0,,
+liceo_sci_040,Sfida,5.0,opportunità,5.0,stimolazione,5.0,lezione,4.0
+liceo_sci_041,Sfida,4.0,adrenalina,4.0,coraggio,5.0,motivazione,5.0
+liceo_sci_042,Sfida,4.0,bello,4.0,vincere,4.0,impegnarsi,4.0
+liceo_sci_043,Sfida,1.0,gara,1.0,competizione,1.0,risultato,1.0
+liceo_sci_001,Paura,2.0,voti,2.0,giudizio,2.0,possibilità,5.0
+liceo_sci_002,Paura,2.0,controllo,4.0,perchè,4.0,irrazionale,2.0
+liceo_sci_003,Paura,2.0,timore,2.0,emozione,4.0,forte,3.0
+liceo_sci_004,Paura,2.0,tremare,2.0,blu,2.0,sconforto,2.0
+liceo_sci_005,Paura,2.0,fallire,2.0,ansia,2.0,,
+liceo_sci_006,Paura,2.0,sudore,2.0,freddo,2.0,ansia,2.0
+liceo_sci_007,Paura,2.0,delusione,2.0,vuoto,3.0,incompetente,2.0
+liceo_sci_008,Paura,2.0,di sbagliare,1.0,,,,
+liceo_sci_009,Paura,2.0,fear,1.0,insicurezza,2.0,buio,3.0
+liceo_sci_010,Paura,2.0,ansia,2.0,,3.0,,3.0
+liceo_sci_011,Paura,2.0,valutazione,2.0,esame,2.0,,3.0
+liceo_sci_012,Paura,2.0,ansia,1.0,turbamento,1.0,verifiche,2.0
+liceo_sci_013,Paura,2.0,sentimento,2.0,buio,2.0,nero,2.0
+liceo_lin_001,Paura,3.0,farfalle,1.0,solituidine,1.0,fallimento,1.0
+liceo_lin_002,Paura,1.0,ansia,1.0,blocco,1.0,smarrimento,1.0
+liceo_lin_003,Paura,2.0,futuro,4.0,buio,1.0,ansia,1.0
+liceo_lin_004,Paura,1.0,Ansia,1.0,Sudore,1.0,Viola,1.0
+liceo_lin_005,Paura,2.0,matematica,2.0,voti,2.0,futuro,3.0
+liceo_lin_006,Paura,2.0,buio,2.0,tremori,1.0,freddo,2.0
+liceo_lin_007,Paura,2.0,tremore,2.0,caldo,2.0,incapacità,1.0
+liceo_lin_008,Paura,1.0,ansia,1.0,solitudine,1.0,stress,1.0
+liceo_lin_009,Paura,1.0,ansia,1.0,sudore,1.0,,
+liceo_lin_010,Paura,3.0,leggerezza,2.0,,,,
+liceo_lin_011,Paura,2.0,futuro,4.0,deludere,1.0,infelicità,1.0
+liceo_lin_012,Paura,1.0,ansia,1.0,,,,
+liceo_lin_013,Paura,1.0,gestire,4.0,affrontare ,4.0,blocco,1.0
+liceo_lin_014,Paura,2.0,futuro,3.0,incertezza,3.0,insormontabile,2.0
+liceo_lin_015,Paura,1.0,futuro,4.0,maturità,1.0,università,2.0
+liceo_lin_016,Paura,3.0,ansia ,3.0,stress,3.0,lacrime,3.0
+liceo_lin_017,Paura,1.0,infanzia,4.0,paralizzato,1.0,buio,3.0
+liceo_lin_018,Paura,1.0,,,,,,
+liceo_lin_019,Paura,3.0,indecisione,2.0,,,,
+liceo_sci_014,Paura,1.0,emozione,2.0,comune,4.0,viola scuro,2.0
+liceo_sci_015,Paura,3.0,,,,,,
+liceo_sci_016,Paura,1.0,delirio,1.0,nero,2.0,buio,1.0
+liceo_sci_017,Paura,1.0,monotonia,1.0,solitudine ,1.0,insoddisfazione,1.0
+liceo_sci_018,Paura,1.0,esame ,1.0,futuro,4.0,,
+liceo_sci_019,Paura,2.0,pianto,2.0,terrore,2.0,tristezza,2.0
+liceo_sci_020,Paura,2.0,ansia,1.0,presente,4.0,,
+liceo_sci_021,Paura,2.0,agitazione,2.0,,,,
+liceo_sci_022,Paura,2.0,perdere,2.0,fallimento,1.0,ansia,1.0
+liceo_sci_023,Paura,2.0,stress,1.0,ansia,1.0,agitazione,1.0
+liceo_sci_024,Paura,3.0,Ansia,2.0,Stress,2.0,,
+liceo_sci_025,Paura,2.0,ansia,2.0,buio,3.0,terrore,2.0
+liceo_sci_026,Paura,2.0,solitudine,2.0,futuro,3.0,emozione,4.0
+liceo_sci_027,Paura,2.0,INTERROGAZIONE,1.0,RAGAZZE,5.0,,
+liceo_sci_028,Paura,2.0,fallimento,1.0,esame,2.0,dolore,2.0
+liceo_sci_029,Paura,2.0,test,2.0,vitra,3.0,,
+liceo_sci_030,Paura,2.0,cieca,3.0,horror,1.0,,
+liceo_sci_031,Paura,2.0,molto,2.0,me,3.0,futuro,5.0
+liceo_sci_032,Paura,2.0,,,,,,
+liceo_sci_033,Paura,3.0,ansia,1.0,,,,
+liceo_sci_034,Paura,1.0,ansia,1.0,impegni,1.0,aspettativa,1.0
+liceo_sci_035,Paura,1.0,buio,2.0,morte,1.0,incidente,1.0
+liceo_sci_036,Paura,3.0,panico,3.0,leggenda,3.0,futuro,3.0
+liceo_sci_037,Paura,1.0,timore,1.0,buio,1.0,spesso,1.0
+liceo_sci_038,Paura,2.0,fallire,2.0,deludere me stesso,1.0,universita,2.0
+liceo_sci_039,Paura,3.0,terrore,2.0,pressione,2.0,panico,1.0
+liceo_sci_040,Paura,3.0,istinto,4.0,spinta,5.0,necessaria,3.0
+liceo_sci_041,Paura,2.0,buio,2.0,aghi,1.0,ragni,2.0
+liceo_sci_042,Paura,2.0,ansia,1.0,forza,4.0,coraggio,4.0
+liceo_sci_043,Paura,1.0,stress,1.0,isolamento,1.0,crisi,1.0
+liceo_sci_001,Genitori,4.0,supporto,5.0,disponibili,5.0,,
+liceo_sci_002,Genitori,3.0,peso,2.0,aspettative,2.0,amore,5.0
+liceo_sci_003,Genitori,3.0,guide,3.0,autorità,2.0,rapporto,4.0
+liceo_sci_004,Genitori,5.0,mamma,5.0,passaggi,4.0,cibo,4.0
+liceo_sci_005,Genitori,4.0,buoni,4.0,,,,
+liceo_sci_006,Genitori,4.0,persone ,4.0,calma ,4.0,attività,4.0
+liceo_sci_007,Genitori,4.0,aspettative,3.0,amore,5.0,aiuto,5.0
+liceo_sci_008,Genitori,4.0,disponibili,4.0,attenti,4.0,aspettative,2.0
+liceo_sci_009,Genitori,4.0,mamma,4.0,papa,4.0,,
+liceo_sci_010,Genitori,4.0,padre,4.0,madre,4.0,,3.0
+liceo_sci_011,Genitori,4.0,famiglia,4.0,forndamento,3.0,casa,4.0
+liceo_sci_012,Genitori,4.0,confidenza,5.0,domande,4.0,guida,5.0
+liceo_sci_013,Genitori,5.0,bravi,4.0,importante,5.0,grazie,4.0
+liceo_lin_001,Genitori,4.0,mamma,4.0,papà,3.0,famiglia,5.0
+liceo_lin_002,Genitori,4.0,educazione,5.0,rispetto,5.0,aspettative,3.0
+liceo_lin_003,Genitori,4.0,famiglia,5.0,sostegno,5.0,giallo,4.0
+liceo_lin_004,Genitori,1.0,Separati,1.0,Amore,5.0,Comprensione,5.0
+liceo_lin_005,Genitori,4.0,mamma,4.0,papà,4.0,divorzio,1.0
+liceo_lin_006,Genitori,3.0,ansia,2.0,riferimento,4.0,aspettative,1.0
+liceo_lin_007,Genitori,3.0,padre,3.0,madre,3.0,problemi,1.0
+liceo_lin_008,Genitori,3.0,importanti,4.0,guide,4.0,supporto,4.0
+liceo_lin_009,Genitori,5.0,famiglia,5.0,conforto,5.0,aiuto,4.0
+liceo_lin_010,Genitori,3.0,coppia,4.0,amore,3.0,,
+liceo_lin_011,Genitori,5.0,mamma,5.0,papà,5.0,famiglia,5.0
+liceo_lin_012,Genitori,5.0,casa,4.0,affetto,4.0,supporto,4.0
+liceo_lin_013,Genitori,5.0,aiuto ,5.0,famiglia,5.0,casa,5.0
+liceo_lin_014,Genitori,5.0,amorevoli,5.0,comprensivi,5.0,sempre presenti,5.0
+liceo_lin_015,Genitori,5.0,supporto,5.0,pensieri differenti,3.0,famiglia,5.0
+liceo_lin_016,Genitori,5.0,famiglia,5.0,tutto,5.0,punto di riferimento,5.0
+liceo_lin_017,Genitori,3.0,divisione,3.0,relazione,2.0,maturazione,4.0
+liceo_lin_018,Genitori,5.0,,,,,,
+liceo_lin_019,Genitori,4.0,nucleo,3.0,protezione,4.0,casa,4.0
+liceo_sci_014,Genitori,2.0,ansia,1.0,soggezione,1.0,viola scuro,2.0
+liceo_sci_015,Genitori,3.0,,,,,,
+liceo_sci_016,Genitori,5.0,amore,5.0,felicità,5.0,casa,5.0
+liceo_sci_017,Genitori,5.0,mamma,5.0,papa,5.0,nonni,5.0
+liceo_sci_018,Genitori,5.0,vita,5.0,,,,
+liceo_sci_019,Genitori,5.0,amore,5.0,fiducia,5.0,fortuna,5.0
+liceo_sci_020,Genitori,5.0,bello,4.0,aiuto,5.0,affetto,4.0
+liceo_sci_021,Genitori,5.0,famiglia,5.0,casa,5.0,,
+liceo_sci_022,Genitori,5.0,amore,4.0,coppia,3.0,,
+liceo_sci_023,Genitori,5.0,amici,5.0,gentili,5.0,giusti,5.0
+liceo_sci_024,Genitori,5.0,Amore,5.0,Famiglia,5.0,Sostegno,5.0
+liceo_sci_025,Genitori,4.0,famiglia,4.0,amore ,4.0,casa,4.0
+liceo_sci_026,Genitori,5.0,aiuto,5.0,parlare,5.0,sostenere,5.0
+liceo_sci_027,Genitori,5.0,AMORE,5.0,ALLEGRIA,5.0,RISPETTO,5.0
+liceo_sci_028,Genitori,4.0,famiglia,4.0,conforto,4.0,confronto,4.0
+liceo_sci_029,Genitori,5.0,famiglia,5.0,amore,5.0,,
+liceo_sci_030,Genitori,4.0,premurosi,5.0,gentili,5.0,duri,4.0
+liceo_sci_031,Genitori,5.0,mamma,5.0,papa,5.0,amore,5.0
+liceo_sci_032,Genitori,3.0,amore,4.0,,,,
+liceo_sci_033,Genitori,5.0,amore,5.0,,,,
+liceo_sci_034,Genitori,2.0,,,,,,
+liceo_sci_035,Genitori,4.0,protezione,4.0,conforto ,5.0,aiuto,5.0
+liceo_sci_036,Genitori,3.0,due,3.0,madre,3.0,padre,3.0
+liceo_sci_037,Genitori,1.0,mamma,1.0,papà,2.0,aspettative,1.0
+liceo_sci_038,Genitori,3.0,futuro,3.0,stress,2.0,amore,4.0
+liceo_sci_039,Genitori,4.0,madre,3.0,padre,3.0,figli,2.0
+liceo_sci_040,Genitori,4.0,supporto,5.0,esempio,5.0,ispirazione,5.0
+liceo_sci_041,Genitori,4.0,affetto,5.0,famiglia,5.0,casa,5.0
+liceo_sci_042,Genitori,4.0,mamma,5.0,papà,5.0,famiglia,5.0
+liceo_sci_043,Genitori,3.0,preoccupazione,1.0,amore,5.0,influenza,3.0
+liceo_sci_001,Dati,3.0,analizzare,3.0,raccolta,3.0,,
+liceo_sci_002,Dati,3.0,utili ,3.0,input,3.0,output,3.0
+liceo_sci_003,Dati,3.0,problema,3.0,numeri,3.0,informazioni,3.0
+liceo_sci_004,Dati,3.0,incognite,3.0,classificazione,2.0,procedimento,3.0
+liceo_sci_005,Dati,2.0,matematica,2.0,fisica,2.0,informatica,2.0
+liceo_sci_006,Dati,3.0,database,2.0,moltissimi,3.0,computer,3.0
+liceo_sci_007,Dati,3.0,concreti,4.0,matematici,3.0,fisici,3.0
+liceo_sci_008,Dati,3.0,problema,3.0,esercizio,3.0,,
+liceo_sci_009,Dati,4.0,programmazione,5.0,visualizzazione,3.0,gestione,3.0
+liceo_sci_010,Dati,4.0,analisi,4.0,matematica,4.0,,3.0
+liceo_sci_011,Dati,3.0,statistiche,3.0,,3.0,studio,1.0
+liceo_sci_012,Dati,3.0,numeri,2.0,calcoli,4.0,studio,1.0
+liceo_sci_013,Dati,3.0,problema,2.0,matematica,2.0,,3.0
+liceo_lin_001,Dati,3.0,matematica,3.0,statistica,3.0,mondo,3.0
+liceo_lin_002,Dati,2.0,numeri,2.0,ansia,1.0,confusione,1.0
+liceo_lin_003,Dati,3.0,psicologici,2.0,matematici,3.0,problemi,1.0
+liceo_lin_004,Dati,3.0,Anagrafici,3.0,Numeri,2.0,Codici,1.0
+liceo_lin_005,Dati,3.0,statistica,2.0,analisi,3.0,problema,3.0
+liceo_lin_006,Dati,3.0,anagrafici,3.0,analizzare,4.0,media,3.0
+liceo_lin_007,Dati,3.0,numeri,3.0,aziende,3.0,inserimento,3.0
+liceo_lin_008,Dati,3.0,piccoli,3.0,molti,3.0,complessi,2.0
+liceo_lin_009,Dati,3.0,numeri,2.0,tabelle,2.0,,
+liceo_lin_010,Dati,5.0,analitici,5.0,statistici,2.0,impressionanti,4.0
+liceo_lin_011,Dati,3.0,numeri,3.0,statistiche,3.0,unità,3.0
+liceo_lin_012,Dati,3.0,numeri,3.0,,,,
+liceo_lin_013,Dati,4.0,numeri,2.0,problema,2.0,matematica,4.0
+liceo_lin_014,Dati,3.0,identificativi,4.0,,,,
+liceo_lin_015,Dati,3.0,generali,3.0,analisi,3.0,studio,3.0
+liceo_lin_016,Dati,,matematici,,informazioni,,scritti,
+liceo_lin_017,Dati,2.0,noia,2.0,calcolo,3.0,informazioni,4.0
+liceo_lin_018,Dati,3.0,molti campi,4.0,indagine,,problema,
+liceo_lin_019,Dati,,statistici ,,,,,
+liceo_sci_014,Dati,2.0,informatica,2.0,matematica,2.0,verdi,2.0
+liceo_sci_015,Dati,,,,,,,
+liceo_sci_016,Dati,3.0,sperimentali,3.0,problema ,3.0,eventi,3.0
+liceo_sci_017,Dati,3.0,analitici ,4.0,sperimentali ,4.0,sbagliati ,2.0
+liceo_sci_018,Dati,3.0,,,,,,
+liceo_sci_019,Dati,3.0,calcoli,4.0,confronto,4.0,analisi,4.0
+liceo_sci_020,Dati,3.0,tanti,4.0,oggettivi,3.0,soluzione,4.0
+liceo_sci_021,Dati,3.0,sperimentali,3.0,teorici,3.0,di un problema,3.0
+liceo_sci_022,Dati,3.0,informatica,3.0,ricerca,3.0,,
+liceo_sci_023,Dati,4.0,sperimentali,4.0,teorici,4.0,misurazioni,5.0
+liceo_sci_024,Dati,3.0,Scientifici,3.0,Sperimentali,3.0,Raccoglierli,3.0
+liceo_sci_025,Dati,3.0,problema,3.0,numeri,3.0,lunghezze,3.0
+liceo_sci_026,Dati,3.0,molti,3.0,problema,2.0,ricerca,3.0
+liceo_sci_027,Dati,4.0,ANAGRAFICI,3.0,IPOTESI,4.0,SPERIMENTALI,4.0
+liceo_sci_028,Dati,3.0,grafico,4.0,problema,2.0,calcoli,2.0
+liceo_sci_029,Dati,4.0,matematica,3.0,statistica,3.0,analisi,3.0
+liceo_sci_030,Dati,3.0,utili,4.0,,,,
+liceo_sci_031,Dati,,analisi,,matematica,,informazioni,
+liceo_sci_032,Dati,3.0,ricerca,4.0,modello,3.0,,
+liceo_sci_033,Dati,5.0,statistiche,3.0,importanti,3.0,fondsmentaòli,3.0
+liceo_sci_034,Dati,3.0,,,,,,
+liceo_sci_035,Dati,3.0,studio,4.0,raccolta,3.0,esame,4.0
+liceo_sci_036,Dati,3.0,numerici,3.0,empirici,3.0,variabili,3.0
+liceo_sci_037,Dati,3.0,problema,3.0,libro,4.0,documento,3.0
+liceo_sci_038,Dati,3.0,classico,3.0,programmare,4.0,sperimentali,4.0
+liceo_sci_039,Dati,3.0,statistica,3.0,campione,3.0,attendibilità,4.0
+liceo_sci_040,Dati,3.0,numeri,3.0,avvenimenti,4.0,analisi,4.0
+liceo_sci_041,Dati,3.0,matematica,2.0,esperimenti,4.0,analisi,3.0
+liceo_sci_042,Dati,3.0,test,3.0,problema,2.0,sondaggio,3.0
+liceo_sci_043,Dati,3.0,tabella,3.0,ricerca,4.0,problema,3.0
+liceo_sci_001,Esperimento,4.0,prova,3.0,pratico,4.0,,
+liceo_sci_002,Esperimento,4.0,può fallire,4.0,Galileo Galieli,3.0,natura,3.0
+liceo_sci_003,Esperimento,3.0,scientifico,3.0,prova,3.0,procedimento,3.0
+liceo_sci_004,Esperimento,4.0,test,3.0,risultato,3.0,prova,3.0
+liceo_sci_005,Esperimento,4.0,laboratorio,5.0,scienze,4.0,fisica,2.0
+liceo_sci_006,Esperimento,3.0,esplosione ,2.0,provette ,3.0,scenziato,4.0
+liceo_sci_007,Esperimento,4.0,scientifico,4.0,concluso,4.0,divertente,5.0
+liceo_sci_008,Esperimento,4.0,scientifico,4.0,imparare ,4.0,fissare concetti,3.0
+liceo_sci_009,Esperimento,5.0,scienza,5.0,relazione,4.0,camice,4.0
+liceo_sci_010,Esperimento,3.0,chimica,3.0,fisica,3.0,,3.0
+liceo_sci_011,Esperimento,4.0,laboratorio,4.0,dati,3.0,materiali,3.0
+liceo_sci_012,Esperimento,5.0,verificare,5.0,prova,2.0,fallimento,1.0
+liceo_sci_013,Esperimento,4.0,becher,3.0,soluzioni,3.0,laboratorio,4.0
+liceo_lin_001,Esperimento,4.0,società,3.0,scienziati,3.0,laboratorio,3.0
+liceo_lin_002,Esperimento,3.0,novità,3.0,risultato,2.0,pazienza,2.0
+liceo_lin_003,Esperimento,5.0,scientifico,2.0,sociale,3.0,matematico,2.0
+liceo_lin_004,Esperimento,5.0,Sociale,5.0,Laboratorio,2.0,Esplosione ,3.0
+liceo_lin_005,Esperimento,4.0,guanti,4.0,laboratorio,4.0,provetta,3.0
+liceo_lin_006,Esperimento,4.0,prova,2.0,scientifico,4.0,ricerca,4.0
+liceo_lin_007,Esperimento,3.0,esito,3.0,prove,3.0,danni,3.0
+liceo_lin_008,Esperimento,2.0,imprevedibile,3.0,scoperta,4.0,chimica,3.0
+liceo_lin_009,Esperimento,3.0,prove,3.0,novità,4.0,scoperta,4.0
+liceo_lin_010,Esperimento,3.0,chimico,2.0,sociale,1.0,fallito,1.0
+liceo_lin_011,Esperimento,3.0,scientifico,3.0,sociale,4.0,umano,2.0
+liceo_lin_012,Esperimento,4.0,esito,3.0,ipotesi,4.0,teoria,4.0
+liceo_lin_013,Esperimento,5.0,laboratorio,5.0,scienze,4.0,studio,4.0
+liceo_lin_014,Esperimento,4.0,prova,3.0,nucleare,1.0,,
+liceo_lin_015,Esperimento,3.0,laboratorio,4.0,scienze,4.0,fisica,1.0
+liceo_lin_016,Esperimento,,fisico,,matematico,,scientifico,
+liceo_lin_017,Esperimento,5.0,curioso,5.0,eccitante,5.0,interessante,4.0
+liceo_lin_018,Esperimento,,pratica,,risoluzione,,tentativi,
+liceo_lin_019,Esperimento,,,,,,,
+liceo_sci_014,Esperimento,4.0,chimica,3.0,esplode,5.0,giallo,3.0
+liceo_sci_015,Esperimento,,,,,,,
+liceo_sci_016,Esperimento,4.0,scvienze,4.0,camice,3.0,guanti,3.0
+liceo_sci_017,Esperimento,5.0,esplosione ,2.0,analisi ,3.0,ipotesi,4.0
+liceo_sci_018,Esperimento,4.0,scienze,3.0,fisica,3.0,scoperte,5.0
+liceo_sci_019,Esperimento,4.0,dati,4.0,osservazione,4.0,verifica,4.0
+liceo_sci_020,Esperimento,4.0,DNA,4.0,affascinante,5.0,utile,4.0
+liceo_sci_021,Esperimento,3.0,di chimica,4.0,reazione,4.0,esplosione,4.0
+liceo_sci_022,Esperimento,4.0,ipotesi,3.0,laboratorio,3.0,materiale,3.0
+liceo_sci_023,Esperimento,5.0,laboratorio,5.0,fisica,2.0,curiosità,5.0
+liceo_sci_024,Esperimento,4.0,Ipotesi,4.0,Svolgimento,4.0,Conclusioni,4.0
+liceo_sci_025,Esperimento,3.0,laboratotio,3.0,sostanze,3.0,magnetismo,3.0
+liceo_sci_026,Esperimento,4.0,fallimento,1.0,scoperta,2.0,test,2.0
+liceo_sci_027,Esperimento,4.0,SCIENTIFICO,4.0,FISICO,4.0,SOCIALE,4.0
+liceo_sci_028,Esperimento,4.0,laboratorio,4.0,scienze,4.0,verifica,2.0
+liceo_sci_029,Esperimento,4.0,laboratorio,3.0,scienze,4.0,fisica,3.0
+liceo_sci_030,Esperimento,3.0,inutile,2.0,utile,4.0,scientifico,
+liceo_sci_031,Esperimento,,scienza,,innovazione,,analisi,
+liceo_sci_032,Esperimento,4.0,scoperta,4.0,metodo,3.0,,
+liceo_sci_033,Esperimento,5.0,importante,4.0,dimostrazione,5.0,fisica,5.0
+liceo_sci_034,Esperimento,4.0,calcoli,3.0,dati,3.0,,
+liceo_sci_035,Esperimento,3.0,sociale,4.0,scienza,4.0,curiosità,4.0
+liceo_sci_036,Esperimento,3.0,magico,3.0,variabile,3.0,fotoelettrico,3.0
+liceo_sci_037,Esperimento,4.0,Einstein,3.0,fisica,3.0,risultati,4.0
+liceo_sci_038,Esperimento,4.0,innovazione,5.0,scienze ,3.0,fisica,4.0
+liceo_sci_039,Esperimento,4.0,metodo,4.0,tesi,3.0,ipotesi,3.0
+liceo_sci_040,Esperimento,4.0,laboratorio,4.0,dati,3.0,diversi risultati,3.0
+liceo_sci_041,Esperimento,4.0,matematica,2.0,fisica,2.0,prova,3.0
+liceo_sci_042,Esperimento,3.0,biologia,4.0,fisica,3.0,scoperta,4.0
+liceo_sci_043,Esperimento,4.0,curiosità,5.0,innovazione,5.0,laboratorio,3.0
+liceo_sci_001,Stress,1.0,interrogazione,1.0,verifiche,1.0,,
+liceo_sci_002,Stress,2.0,capelli,2.0,troppe cose da fare ,1.0,,
+liceo_sci_003,Stress,2.0,scuola,2.0,troppo lavoro,2.0,deteriorante,1.0
+liceo_sci_004,Stress,1.0,scuola,2.0,impegni,3.0,sopraffatto,2.0
+liceo_sci_005,Stress,2.0,scuola,3.0,eventi,3.0,domande,2.0
+liceo_sci_006,Stress,1.0,mal di testa,1.0,pesante ,1.0,360°,1.0
+liceo_sci_007,Stress,2.0,ansia,1.0,scuola,3.0,aspettative,3.0
+liceo_sci_008,Stress,2.0,scolastico,2.0,esami,2.0,verifiche,2.0
+liceo_sci_009,Stress,1.0,agitazione,1.0,ansia,1.0,poca autostima,1.0
+liceo_sci_010,Stress,2.0,ansia,2.0,malessere,2.0,,3.0
+liceo_sci_011,Stress,1.0,suola,2.0,scegliere,2.0,esporsi,2.0
+liceo_sci_012,Stress,1.0,verifiche,1.0,impegni,2.0,ansia,1.0
+liceo_sci_013,Stress,1.0,ansia ,1.0,preocupazione,1.0,non stare bene,1.0
+liceo_lin_001,Stress,1.0,università,5.0,esami,3.0,patente,5.0
+liceo_lin_002,Stress,1.0,ansia,1.0,salute,2.0,paura,1.0
+liceo_lin_003,Stress,1.0,scuola,4.0,organizzazione,4.0,matematica ,2.0
+liceo_lin_004,Stress,1.0,Emotivo,5.0,Fisico,1.0,Psicologico,1.0
+liceo_lin_005,Stress,1.0,ansia,1.0,scuola,2.0,sfogo,3.0
+liceo_lin_006,Stress,1.0,ansia,2.0,scuola,4.0,mentale,4.0
+liceo_lin_007,Stress,1.0,tensione,1.0,rabbia,1.0,mal di testa,2.0
+liceo_lin_008,Stress,2.0,ansia,1.0,isolato,3.0,esaurimento,1.0
+liceo_lin_009,Stress,1.0,stanchezza,2.0,mente,3.0,ansia,1.0
+liceo_lin_010,Stress,5.0,ansia,3.0,fame,4.0,rosso,5.0
+liceo_lin_011,Stress,1.0,sociale,2.0,scolastico,2.0,pubblico,2.0
+liceo_lin_012,Stress,1.0,ansia,1.0,paura,1.0,fatica,3.0
+liceo_lin_013,Stress,1.0,scuola,2.0,rilassarsi,4.0,gestire,4.0
+liceo_lin_014,Stress,2.0,testa,1.0,,,,
+liceo_lin_015,Stress,1.0,scuola,2.0,voti,1.0,futuro,1.0
+liceo_lin_016,Stress,,lacrime,,rigidità,,paura,
+liceo_lin_017,Stress,1.0,malessere,1.0,salute,4.0,futuro,2.0
+liceo_lin_018,Stress,,abitudine,,tollerare,,risolvere,
+liceo_lin_019,Stress,,cortisolo ,,situazioni ,,mente,
+liceo_sci_014,Stress,1.0,comune,1.0,Erica,5.0,rosso siena,1.0
+liceo_sci_015,Stress,,,,,,,
+liceo_sci_016,Stress,1.0,vita,5.0,ansia,1.0,rosso,3.0
+liceo_sci_017,Stress,1.0,ansia,1.0,paura,1.0,leo,5.0
+liceo_sci_018,Stress,1.0,ansia,1.0,liceo ,1.0,futuro,2.0
+liceo_sci_019,Stress,2.0,ansia,2.0,paura,2.0,terrore,2.0
+liceo_sci_020,Stress,2.0,ansia,1.0,panico,2.0,male,1.0
+liceo_sci_021,Stress,1.0,non dormire,1.0,troppo studio,1.0,nervosismo,1.0
+liceo_sci_022,Stress,1.0,scuola,3.0,lavoro,3.0,accumolo,2.0
+liceo_sci_023,Stress,1.0,evento,3.0,paura,1.0,aspettative,4.0
+liceo_sci_024,Stress,2.0,Compiti,3.0,Emotivo,3.0,,
+liceo_sci_025,Stress,2.0,scuola,3.0,preoccupazioni,2.0,problemi,3.0
+liceo_sci_026,Stress,2.0,difficoltà,2.0,correre,5.0,pressione,2.0
+liceo_sci_027,Stress,3.0,INTERROGAZIONE,2.0,DEADLINE,4.0,,
+liceo_sci_028,Stress,1.0,studio,2.0,lavoro,3.0,scuola,3.0
+liceo_sci_029,Stress,3.0,lavoro,2.0,scuola,3.0,ansia,2.0
+liceo_sci_030,Stress,4.0,scuola,2.0,lavoro,3.0,bambini,4.0
+liceo_sci_031,Stress,,scuola,,lavoro,,ansia,
+liceo_sci_032,Stress,1.0,nervoso,1.0,procastinazione,2.0,,
+liceo_sci_033,Stress,1.0,terribile,1.0,ansiogeno,1.0,strano,1.0
+liceo_sci_034,Stress,1.0,impegni ,4.0,,,,
+liceo_sci_035,Stress,1.0,gestione,3.0,scuola,2.0,lavoro,4.0
+liceo_sci_036,Stress,3.0,ansia,3.0,generale,3.0,scuola,3.0
+liceo_sci_037,Stress,2.0,sempre,2.0,scuola,2.0,giorno,2.0
+liceo_sci_038,Stress,2.0,fastidio,1.0,incapacita di controllarmi,1.0,prestazione,4.0
+liceo_sci_039,Stress,2.0,ansia,1.0,tensione,2.0,lavoro,1.0
+liceo_sci_040,Stress,2.0,respirazione,4.0,ragionare,4.0,stimolante,4.0
+liceo_sci_041,Stress,1.0,insonnia,1.0,pensare,4.0,tremare,1.0
+liceo_sci_042,Stress,1.0,scuola,2.0,verifiche,2.0,inutile,2.0
+liceo_sci_043,Stress,1.0,palpitazioni,1.0,debolezza,1.0,esaurimento,1.0
+liceo_sci_001,Intelligenza_Artificiale,4.0,aiuto,4.0,,,,
+liceo_sci_002,Intelligenza_Artificiale,3.0,cautela,5.0,utile,5.0,non vale per copiare,2.0
+liceo_sci_003,Intelligenza_Artificiale,3.0,utile,4.0,sostituto,3.0,completa,3.0
+liceo_sci_004,Intelligenza_Artificiale,4.0,chat gpt,4.0,utilissima,4.0,dannosa,2.0
+liceo_sci_005,Intelligenza_Artificiale,4.0,comoda,4.0,aiuto,4.0,tempo,4.0
+liceo_sci_006,Intelligenza_Artificiale,2.0,opportunità,4.0,pericolo,2.0,come viene utilizzata,3.0
+liceo_sci_007,Intelligenza_Artificiale,4.0,aiuto,5.0,compiti,3.0,velocità,4.0
+liceo_sci_008,Intelligenza_Artificiale,4.0,innovativo,3.0,aiuto,4.0,spiegazioni,4.0
+liceo_sci_009,Intelligenza_Artificiale,5.0,computer,5.0,acqua,5.0,futuro,3.0
+liceo_sci_010,Intelligenza_Artificiale,4.0,chatgpt,4.0,,3.0,,3.0
+liceo_sci_011,Intelligenza_Artificiale,4.0,utile,4.0,comoda,4.0,pericolosa,2.0
+liceo_sci_012,Intelligenza_Artificiale,5.0,futuro,4.0,tecnologia,4.0,innovazione,5.0
+liceo_sci_013,Intelligenza_Artificiale,2.0,robot,2.0,aiuto,4.0,,3.0
+liceo_lin_001,Intelligenza_Artificiale,3.0,chatGPT,3.0,robot,2.0,tecnologia,4.0
+liceo_lin_002,Intelligenza_Artificiale,4.0,tecnologia,4.0,ricerca,4.0,informazioni,4.0
+liceo_lin_003,Intelligenza_Artificiale,3.0,chat gb,5.0,ai,4.0,qi,4.0
+liceo_lin_004,Intelligenza_Artificiale,5.0,Chatgpt ,5.0,Cina,3.0,Compiti,5.0
+liceo_lin_005,Intelligenza_Artificiale,4.0,chatgpt,4.0,futuro,3.0,tecnologia,4.0
+liceo_lin_006,Intelligenza_Artificiale,3.0,supporto,4.0,sostituzione,2.0,aiuto,4.0
+liceo_lin_007,Intelligenza_Artificiale,3.0,sperimentale,3.0,distopia,2.0,aiuto,4.0
+liceo_lin_008,Intelligenza_Artificiale,4.0,incredibile,4.0,veloce,4.0,gratis,4.0
+liceo_lin_009,Intelligenza_Artificiale,4.0,futuro,4.0,aiuto,4.0,,
+liceo_lin_010,Intelligenza_Artificiale,2.0,paura,3.0,futuro,3.0,aiuto,3.0
+liceo_lin_011,Intelligenza_Artificiale,4.0,utilità,3.0,futuro,4.0,ruolo,3.0
+liceo_lin_012,Intelligenza_Artificiale,3.0,aiuto,3.0,ingegno,4.0,,
+liceo_lin_013,Intelligenza_Artificiale,3.0,futuro,4.0,paura,1.0,grandezza ,4.0
+liceo_lin_014,Intelligenza_Artificiale,1.0,salvezza e distruzione,2.0,,,,
+liceo_lin_015,Intelligenza_Artificiale,5.0,scoperta,5.0,quotidianità,3.0,indispensabile,3.0
+liceo_lin_016,Intelligenza_Artificiale,,computer,,internet,,risorse,
+liceo_lin_017,Intelligenza_Artificiale,2.0,sbagliato,2.0,nocivo,1.0,strumento,3.0
+liceo_lin_018,Intelligenza_Artificiale,,utile,,consapevolmente,,pericolosa,
+liceo_lin_019,Intelligenza_Artificiale,,limitatezza,,apatia,,pigrizia,
+liceo_sci_014,Intelligenza_Artificiale,2.0,odio,1.0,interesse,2.0,azzurro chiaro,2.0
+liceo_sci_015,Intelligenza_Artificiale,,,,,,,
+liceo_sci_016,Intelligenza_Artificiale,5.0,chatgpt,5.0,compiti,3.0,spiegazioni,4.0
+liceo_sci_017,Intelligenza_Artificiale,5.0,chatgpt ,5.0,scienze ,5.0,robot umanioide ,5.0
+liceo_sci_018,Intelligenza_Artificiale,2.0,innovazione,5.0,progresso,5.0,degrado,1.0
+liceo_sci_019,Intelligenza_Artificiale,4.0,novità,4.0,aiuto,5.0,sostegno,5.0
+liceo_sci_020,Intelligenza_Artificiale,5.0,incredibile,5.0,futuro,4.0,ambigua,3.0
+liceo_sci_021,Intelligenza_Artificiale,4.0,chat gpt,4.0,spiegazioni,4.0,novità,4.0
+liceo_sci_022,Intelligenza_Artificiale,5.0,chatgpt,5.0,sostegno ,3.0,avanguardia,4.0
+liceo_sci_023,Intelligenza_Artificiale,5.0,utile,5.0,interessante,5.0,svolta,5.0
+liceo_sci_024,Intelligenza_Artificiale,4.0,Utile,4.0,Ulteriore porspettiva,4.0,Rende pigri,3.0
+liceo_sci_025,Intelligenza_Artificiale,3.0,chatgpt,4.0,compiti,2.0,domande,3.0
+liceo_sci_026,Intelligenza_Artificiale,4.0,utile,4.0,facile,4.0,velocità,5.0
+liceo_sci_027,Intelligenza_Artificiale,4.0,SCIENZA,4.0,PENSIERO,5.0,UTILIZZO,4.0
+liceo_sci_028,Intelligenza_Artificiale,4.0,risposte,5.0,innovazione,5.0,strumento,4.0
+liceo_sci_029,Intelligenza_Artificiale,4.0,chat gpt,4.0,testi,4.0,futuro,4.0
+liceo_sci_030,Intelligenza_Artificiale,4.0,chat gpt,5.0,utile,5.0,innovativa,4.0
+liceo_sci_031,Intelligenza_Artificiale,,chat gpt,,prompt,,veo 3,
+liceo_sci_032,Intelligenza_Artificiale,1.0,ansia,1.0,controllo,1.0,,
+liceo_sci_033,Intelligenza_Artificiale,5.0,bellissima,5.0,utile,5.0,futuro,5.0
+liceo_sci_034,Intelligenza_Artificiale,4.0,chatgpt,4.0,informatica,4.0,,
+liceo_sci_035,Intelligenza_Artificiale,2.0,esame,3.0,innovazione,4.0,pericolo ,2.0
+liceo_sci_036,Intelligenza_Artificiale,3.0,computer,3.0,chatbot,3.0,immagini,3.0
+liceo_sci_037,Intelligenza_Artificiale,4.0,futuro,2.0,libro,4.0,ChatGPT,4.0
+liceo_sci_038,Intelligenza_Artificiale,4.0,innovativo,5.0,comodo ,4.0,futuro,4.0
+liceo_sci_039,Intelligenza_Artificiale,4.0,tecnologia,4.0,progresso,5.0,pericoli,3.0
+liceo_sci_040,Intelligenza_Artificiale,4.0,chatGPT,4.0,strumento utile,4.0,da verificare,2.0
+liceo_sci_041,Intelligenza_Artificiale,3.0,chat gpt,3.0,innovazione,4.0,novità,4.0
+liceo_sci_042,Intelligenza_Artificiale,4.0,chat gpt,3.0,ricerca,4.0,risposte,4.0
+liceo_sci_043,Intelligenza_Artificiale,4.0,telefono,4.0,chat gpt,4.0,studio,2.0
+liceo_sci_001,Regole,3.0,seguire,3.0,,,,
+liceo_sci_002,Regole,3.0,possono essere infrante,4.0,troppe,3.0,,
+liceo_sci_003,Regole,3.0,necessarie,4.0,utili,4.0,restrittive,2.0
+liceo_sci_004,Regole,3.0,severe,2.0,restrittive,2.0,sensate,4.0
+liceo_sci_005,Regole,3.0,seguire,3.0,vivere,4.0,rispettare,4.0
+liceo_sci_006,Regole,3.0,restrizoni,2.0,ordine ,4.0,no caos ,4.0
+liceo_sci_007,Regole,4.0,tante,3.0,rispetto,3.0,ordine,4.0
+liceo_sci_008,Regole,3.0,rispettare,3.0,,,,
+liceo_sci_009,Regole,3.0,rispetto,5.0,guardia,3.0,etica,5.0
+liceo_sci_010,Regole,4.0,limiti,3.0,,3.0,,3.0
+liceo_sci_011,Regole,3.0,giuste,4.0,severe,2.0,,3.0
+liceo_sci_012,Regole,2.0,leggi,3.0,imposizioni,1.0,limitazioni,1.0
+liceo_sci_013,Regole,3.0,giuste,4.0,necessarie,3.0,,
+liceo_lin_001,Regole,4.0,scuola,4.0,leggi,5.0,gioco,5.0
+liceo_lin_002,Regole,4.0,scuola,2.0,vita,3.0,ferree,3.0
+liceo_lin_003,Regole,4.0,stato,3.0,matematica,3.0,governo,2.0
+liceo_lin_004,Regole,5.0,Schema,2.0,Legge,5.0,Ubbidienza,5.0
+liceo_lin_005,Regole,5.0,scuola,2.0,preside,3.0,carcere,1.0
+liceo_lin_006,Regole,3.0,elenco,3.0,limite,2.0,,
+liceo_lin_007,Regole,3.0,legge,4.0,codice,3.0,norme,3.0
+liceo_lin_008,Regole,3.0,comportamento,3.0,rispetto,4.0,conseguenze,3.0
+liceo_lin_009,Regole,4.0,giuste,4.0,gioco,4.0,vita,4.0
+liceo_lin_010,Regole,4.0,leggi,2.0,chiuso,4.0,persone,3.0
+liceo_lin_011,Regole,4.0,stradali,4.0,scolastiche,2.0,civili,4.0
+liceo_lin_012,Regole,4.0,ordine,4.0,,,,
+liceo_lin_013,Regole,4.0,serietà ,4.0,rispetto,4.0,vita,4.0
+liceo_lin_014,Regole,4.0,leggi,4.0,comandamenti,4.0,,
+liceo_lin_015,Regole,5.0,disciplina,5.0,scuola,2.0,morali,3.0
+liceo_lin_016,Regole,,leggi,,rispetto,,regolare,
+liceo_lin_017,Regole,3.0,giusto,4.0,pace,5.0,ordine,5.0
+liceo_lin_018,Regole,,rigide,,insensate,,utili,
+liceo_lin_019,Regole,,teoriche,,,,,
+liceo_sci_014,Regole,1.0,odio,1.0,da rompere,5.0,rosso intenso,1.0
+liceo_sci_015,Regole,,,,,,,
+liceo_sci_016,Regole,3.0,righello,3.0,legno,3.0,lavagna,2.0
+liceo_sci_017,Regole,5.0,imbrogliare ,2.0,muntari,5.0,regolamento,5.0
+liceo_sci_018,Regole,3.0,comportamento,5.0,maturità,5.0,,
+liceo_sci_019,Regole,4.0,rigide,3.0,rispetto,4.0,necessità,4.0
+liceo_sci_020,Regole,3.0,severe,3.0,rispettate,4.0,tante,3.0
+liceo_sci_021,Regole,3.0,numerate,3.0,strette,2.0,severe,2.0
+liceo_sci_022,Regole,3.0,laboratorio,3.0,obbligo,3.0,,
+liceo_sci_023,Regole,4.0,matematica,3.0,rispettarle,4.0,corrette,4.0
+liceo_sci_024,Regole,5.0,Rispetto,5.0,Convivenza,5.0,Educazione,5.0
+liceo_sci_025,Regole,3.0,limiti,3.0,calcolo,3.0,strada,4.0
+liceo_sci_026,Regole,4.0,giuste,4.0,infrazione,3.0,ordine,4.0
+liceo_sci_027,Regole,4.0,SCOLASTICHE,2.0,LEGGE,4.0,SOCIALI,4.0
+liceo_sci_028,Regole,3.0,punizioni,2.0,limiti,2.0,convivenza,4.0
+liceo_sci_029,Regole,4.0,rispetto,5.0,leggi,3.0,persone,4.0
+liceo_sci_030,Regole,4.0,severe,2.0,rispettare,4.0,,
+liceo_sci_031,Regole,,seguire,,società,,scuola,
+liceo_sci_032,Regole,2.0,società ,2.0,,,,
+liceo_sci_033,Regole,4.0,giuste,3.0,importanti,5.0,obbligo,4.0
+liceo_sci_034,Regole,4.0,grest ,5.0,,,,
+liceo_sci_035,Regole,2.0,scuola,2.0,società,4.0,benessere,5.0
+liceo_sci_036,Regole,3.0,fisse,3.0,imposte,3.0,classe,3.0
+liceo_sci_037,Regole,3.0,vita,4.0,scuola,3.0,rispettare,2.0
+liceo_sci_038,Regole,3.0,senza senso,1.0,utitli,4.0,arbitrarie,1.0
+liceo_sci_039,Regole,4.0,moralità,5.0,etica,5.0,libertà,5.0
+liceo_sci_040,Regole,4.0,legge,5.0,rispetto,4.0,società,5.0
+liceo_sci_041,Regole,3.0,rispetto,5.0,comunità,5.0,ambienti,3.0
+liceo_sci_042,Regole,4.0,geometriche,3.0,legge,4.0,,
+liceo_sci_043,Regole,3.0,rigidità,1.0,razionalità,5.0,sicurezza,4.0
+liceo_sci_001,Scienziato,3.0,lavoro,3.0,,,,
+liceo_sci_002,Scienziato,3.0,sperimentatore,4.0,ricercatore,4.0,scienziato pazzo,3.0
+liceo_sci_003,Scienziato,3.0,professione,3.0,lavoro,4.0,chimica,3.0
+liceo_sci_004,Scienziato,3.0,pazzo,4.0,esperimenti,3.0,camice,3.0
+liceo_sci_005,Scienziato,4.0,chimica,4.0,studio,3.0,fisica,2.0
+liceo_sci_006,Scienziato,3.0,persona,3.0,dotto,4.0,persevarazione,5.0
+liceo_sci_007,Scienziato,4.0,laboratorio,3.0,esperimenti,3.0,chimica,3.0
+liceo_sci_008,Scienziato,3.0,scienza,3.0,,,,
+liceo_sci_009,Scienziato,4.0,laboratorio,5.0,chimica,5.0,pipella,3.0
+liceo_sci_010,Scienziato,3.0,uomo,3.0,lavosier,3.0,scienze,3.0
+liceo_sci_011,Scienziato,4.0,studioso,3.0,esperimento,4.0,,3.0
+liceo_sci_012,Scienziato,5.0,esperimenti,5.0,laboratorio,5.0,astronauta,5.0
+liceo_sci_013,Scienziato,3.0,camice ,3.0,laboratorio,3.0,scienze,3.0
+liceo_lin_001,Scienziato,4.0,ricerca,4.0,bianco,4.0,occhiali,4.0
+liceo_lin_002,Scienziato,4.0,camice,4.0,studio,2.0,matematica,1.0
+liceo_lin_003,Scienziato,4.0,pazzo,3.0,dna,3.0,esperimento,4.0
+liceo_lin_004,Scienziato,3.0,Pazzo,5.0,Camice,2.0,Occhiali,5.0
+liceo_lin_005,Scienziato,4.0,scienziata,5.0,camice,4.0,esperimenti,4.0
+liceo_lin_006,Scienziato,4.0,studioso,4.0,fisico,4.0,,
+liceo_lin_007,Scienziato,3.0,camice,3.0,occhiali,3.0,esperimenti,3.0
+liceo_lin_008,Scienziato,3.0,uomo,3.0,camice,3.0,chimica,3.0
+liceo_lin_009,Scienziato,3.0,laboratorio,3.0,numeri,3.0,esperimenti,3.0
+liceo_lin_010,Scienziato,3.0,intelligente,3.0,,,,
+liceo_lin_011,Scienziato,3.0,matematica,3.0,fisica,3.0,chimica,3.0
+liceo_lin_012,Scienziato,4.0,ricerca,4.0,scienza,4.0,esperimenti,4.0
+liceo_lin_013,Scienziato,4.0,lavoro,3.0,laboratorio,5.0,studio,3.0
+liceo_lin_014,Scienziato,4.0,provette,3.0,,,,
+liceo_lin_015,Scienziato,4.0,esperimenti,4.0,laboratorio,3.0,progresso,4.0
+liceo_lin_016,Scienziato,3.0,camice,4.0,esperimenti,4.0,studioso,4.0
+liceo_lin_017,Scienziato,5.0,intelligente,5.0,passione,5.0,curiosità,5.0
+liceo_lin_018,Scienziato,3.0,studio,4.0,ricerca,3.0,applica,3.0
+liceo_lin_019,Scienziato,,teoria,,sperimenti,,chimica,
+liceo_sci_014,Scienziato,3.0,camice,3.0,provetta,3.0,grigio,3.0
+liceo_sci_015,Scienziato,,,,,,,
+liceo_sci_016,Scienziato,4.0,einstein ,4.0,camice,3.0,laboratorio,3.0
+liceo_sci_017,Scienziato,,matto ,,pazzo ,,einstein ,
+liceo_sci_018,Scienziato,3.0,esperimenti,5.0,scoperte,5.0,,
+liceo_sci_019,Scienziato,3.0,intelligenza,3.0,scoperte,3.0,studio,3.0
+liceo_sci_020,Scienziato,4.0,Atomo,4.0,esperimenti,4.0,chimica,4.0
+liceo_sci_021,Scienziato,3.0,camice bianco,3.0,provetta,3.0,laboratorio,3.0
+liceo_sci_022,Scienziato,3.0,scoperta ,4.0,ricerca,4.0,innovazione,4.0
+liceo_sci_023,Scienziato,3.0,esperimenti,4.0,dati,4.0,ricerche,4.0
+liceo_sci_024,Scienziato,4.0,Innovativo,5.0,Ragionamento,5.0,Ipotesi,5.0
+liceo_sci_025,Scienziato,3.0,laboratorio,3.0,camice,3.0,ricerca,3.0
+liceo_sci_026,Scienziato,3.0,camice,3.0,lavoro,2.0,,
+liceo_sci_027,Scienziato,4.0,INTELLIGENTE,5.0,CURIOSO,5.0,ACUTO,5.0
+liceo_sci_028,Scienziato,4.0,intelligente,4.0,innovativo,4.0,esperimenti,4.0
+liceo_sci_029,Scienziato,3.0,laboratorio,3.0,medicina,4.0,scuola,3.0
+liceo_sci_030,Scienziato,3.0,intelligente,3.0,studio,3.0,sceinza,4.0
+liceo_sci_031,Scienziato,4.0,einstein,4.0,pazzo,5.0,esperimento,3.0
+liceo_sci_032,Scienziato,4.0,laboratorio,4.0,ricerca,4.0,,
+liceo_sci_033,Scienziato,5.0,utile,5.0,importante,5.0,futuro,5.0
+liceo_sci_034,Scienziato,4.0,Einstein ,5.0,,,,
+liceo_sci_035,Scienziato,3.0,camice,3.0,occhiali,3.0,,
+liceo_sci_036,Scienziato,3.0,camice,3.0,laboratorio,3.0,cornice,3.0
+liceo_sci_037,Scienziato,3.0,pazzo,4.0,camice,3.0,Einstein,4.0
+liceo_sci_038,Scienziato,2.0,noioso,3.0,ripetitivo,3.0,pioniere,4.0
+liceo_sci_039,Scienziato,3.0,mente,4.0,cervello,4.0,passione,5.0
+liceo_sci_040,Scienziato,5.0,logica,5.0,curiosità,5.0,intuito,5.0
+liceo_sci_041,Scienziato,3.0,scienza,4.0,esperimenti,4.0,ricerca,4.0
+liceo_sci_042,Scienziato,4.0,scoperta,4.0,biologia,4.0,,
+liceo_sci_043,Scienziato,4.0,scienza,4.0,camice,3.0,esperimenti,4.0
+liceo_sci_001,Scuola,3.0,luogo,3.0,ansia,1.0,pressione,1.0
+liceo_sci_002,Scuola,3.0,amici,4.0,compiti,1.0,legami,5.0
+liceo_sci_003,Scuola,2.0,disinteresse,2.0,apatia,1.0,noia,1.0
+liceo_sci_004,Scuola,3.0,libri,2.0,studio,2.0,zaino,3.0
+liceo_sci_005,Scuola,3.0,ansia,2.0,verifiche,2.0,lezioni,3.0
+liceo_sci_006,Scuola,2.0,gabbia,1.0,noia,2.0,opportunità,5.0
+liceo_sci_007,Scuola,3.0,edificio,3.0,compagni,4.0,verifiche,2.0
+liceo_sci_008,Scuola,3.0,,,,,,
+liceo_sci_009,Scuola,3.0,istituto,3.0,materie,2.0,voti,1.0
+liceo_sci_010,Scuola,3.0,classe,3.0,voti,3.0,,3.0
+liceo_sci_011,Scuola,1.0,stress,1.0,studio,1.0,impegno,2.0
+liceo_sci_012,Scuola,2.0,lavoro,2.0,studio,2.0,fatica,2.0
+liceo_sci_013,Scuola,3.0,luogo,4.0,persone,4.0,materie,2.0
+liceo_lin_001,Scuola,4.0,amici,5.0,insegnanti,3.0,imparare,5.0
+liceo_lin_002,Scuola,2.0,studio,2.0,ansia,1.0,stress,1.0
+liceo_lin_003,Scuola,4.0,stress,1.0,odio ,1.0,pesante,1.0
+liceo_lin_004,Scuola,3.0,Insegnanti,3.0,Alunni,5.0,Compagni,4.0
+liceo_lin_005,Scuola,2.0,classi,4.0,liceo,3.0,compiti,4.0
+liceo_lin_006,Scuola,4.0,liceo,4.0,verifiche,2.0,ostacoli,2.0
+liceo_lin_007,Scuola,3.0,tassello,3.0,percorso,4.0,impronta,4.0
+liceo_lin_008,Scuola,3.0,classe,3.0,compagni,1.0,compiti,4.0
+liceo_lin_009,Scuola,3.0,studio,3.0,compiti,2.0,conoscenze,5.0
+liceo_lin_010,Scuola,3.0,impegnativa,3.0,stress,2.0,lavoro,3.0
+liceo_lin_011,Scuola,2.0,materna,4.0,primaria,4.0,elementare,4.0
+liceo_lin_012,Scuola,3.0,voti,3.0,studio,3.0,compagni,3.0
+liceo_lin_013,Scuola,2.0,ansia,1.0,imparare,4.0,conoscenza,4.0
+liceo_lin_014,Scuola,4.0,ring,1.0,sogni,4.0,determinazione,4.0
+liceo_lin_015,Scuola,3.0,studio,4.0,ansia,1.0,amici,5.0
+liceo_lin_016,Scuola,2.0,stress,1.0,ansia,1.0,scoperta,3.0
+liceo_lin_017,Scuola,5.0,esperienza,5.0,ricordi,5.0,nostalgia,2.0
+liceo_lin_018,Scuola,2.0,voti,1.0,studio,3.0,,
+liceo_lin_019,Scuola,,impreparazione,,indottrinamento,,ignoranza,
+liceo_sci_014,Scuola,1.0,odio,1.0,amore,1.0,ocra,1.0
+liceo_sci_015,Scuola,,materie,,compiti,,,
+liceo_sci_016,Scuola,1.0,ansia,1.0,istruzione,3.0,matematica,2.0
+liceo_sci_017,Scuola,,rosmini,,fine,,sogno ,
+liceo_sci_018,Scuola,1.0,ansia,1.0,test,1.0,voti,1.0
+liceo_sci_019,Scuola,2.0,stress,2.0,pressione,2.0,paura,2.0
+liceo_sci_020,Scuola,4.0,utile,4.0,voto,3.0,impegno,5.0
+liceo_sci_021,Scuola,2.0,liceo,2.0,libri,3.0,banchi,3.0
+liceo_sci_022,Scuola,3.0,liceo,2.0,stress,2.0,studio,4.0
+liceo_sci_023,Scuola,3.0,liceo,3.0,difficile,3.0,fondamentale,4.0
+liceo_sci_024,Scuola,4.0,Materie,4.0,Studio,3.0,Verifiche,2.0
+liceo_sci_025,Scuola,3.0,amici,5.0,studio,3.0,conoscenze,3.0
+liceo_sci_026,Scuola,3.0,tempo,4.0,studio,3.0,timore,2.0
+liceo_sci_027,Scuola,4.0,AMICI,5.0,NOZIONI,4.0,VOTO,3.0
+liceo_sci_028,Scuola,2.0,studio,2.0,voti,3.0,professori,3.0
+liceo_sci_029,Scuola,3.0,voti,2.0,lezioni,4.0,insegnanti,3.0
+liceo_sci_030,Scuola,4.0,noia,2.0,studio,3.0,obbligo,2.0
+liceo_sci_031,Scuola,4.0,dovere,4.0,opportunità,3.0,gratitudine,5.0
+liceo_sci_032,Scuola,4.0,aule,4.0,casa,4.0,noia,2.0
+liceo_sci_033,Scuola,3.0,stress,1.0,rabbia,1.0,mafia,1.0
+liceo_sci_034,Scuola,1.0,banchi,2.0,lavagna ,2.0,gesso,2.0
+liceo_sci_035,Scuola,3.0,amici,5.0,impegno,4.0,lavoro,4.0
+liceo_sci_036,Scuola,3.0,superiore,3.0,media,3.0,elementare,3.0
+liceo_sci_037,Scuola,3.0,brutto,4.0,maturità,1.0,esami,1.0
+liceo_sci_038,Scuola,4.0,disorganizzata,1.0,voti,2.0,vecchia,1.0
+liceo_sci_039,Scuola,3.0,compagni,3.0,stress,2.0,studio,3.0
+liceo_sci_040,Scuola,4.0,istituto,4.0,opportunità,5.0,antica,2.0
+liceo_sci_041,Scuola,3.0,studio,2.0,amici,5.0,crescita,5.0
+liceo_sci_042,Scuola,2.0,struttura,3.0,verifiche,2.0,dovere,3.0
+liceo_sci_043,Scuola,1.0,ansia,1.0,stress,1.0,frustrazione,1.0
+liceo_sci_001,Creatività,4.0,bella,4.0,divertente,4.0,,
+liceo_sci_002,Creatività,5.0,diegnare,5.0,più modi,5.0,,
+liceo_sci_003,Creatività,5.0,colori,4.0,arte,5.0,sport,5.0
+liceo_sci_004,Creatività,4.0,dipende,3.0,colori,4.0,movimento,4.0
+liceo_sci_005,Creatività,4.0,arte,3.0,immaginazione,4.0,,
+liceo_sci_006,Creatività,4.0,calma,4.0,serenità,5.0,blocco,2.0
+liceo_sci_007,Creatività,3.0,arte,3.0,diverso,4.0,colore,4.0
+liceo_sci_008,Creatività,4.0,arte,4.0,idee,4.0,,
+liceo_sci_009,Creatività,3.0,bambini,2.0,disegno,3.0,creazione,4.0
+liceo_sci_010,Creatività,4.0,,3.0,,3.0,,3.0
+liceo_sci_011,Creatività,4.0,utilità,3.0,intelligenza,4.0,,3.0
+liceo_sci_012,Creatività,5.0,arte,5.0,lavoretti,5.0,divertimento,5.0
+liceo_sci_013,Creatività,2.0,disegnare,2.0,fare,3.0,,
+liceo_lin_001,Creatività,5.0,lavoro,5.0,felicità,5.0,immaginazione,5.0
+liceo_lin_002,Creatività,5.0,arte,4.0,gioco,4.0,,3.0
+liceo_lin_003,Creatività,5.0,giovani,4.0,handmade,5.0,nuova,3.0
+liceo_lin_004,Creatività,5.0,Plastilina,5.0,Colori,5.0,Musica ,5.0
+liceo_lin_005,Creatività,5.0,arte,4.0,,,,
+liceo_lin_006,Creatività,5.0,dipinto,5.0,immaginazione,5.0,qualità,5.0
+liceo_lin_007,Creatività,4.0,mente,3.0,alternativo,3.0,comprensione,3.0
+liceo_lin_008,Creatività,3.0,idee,4.0,motivazione,5.0,arte,2.0
+liceo_lin_009,Creatività,5.0,fantasia,5.0,idee,5.0,novità,5.0
+liceo_lin_010,Creatività,4.0,colori,4.0,linee,3.0,personalità,5.0
+liceo_lin_011,Creatività,5.0,disegno,5.0,immaginazione,5.0,arte,5.0
+liceo_lin_012,Creatività,4.0,arte,4.0,idee,4.0,disegno,4.0
+liceo_lin_013,Creatività,5.0,arte,4.0,immaginazione,5.0,sfogo,5.0
+liceo_lin_014,Creatività,4.0,dipingere,5.0,suonare,5.0,sognare,5.0
+liceo_lin_015,Creatività,5.0,arte,5.0,musica,5.0,moda,5.0
+liceo_lin_016,Creatività,4.0,viaggiare,4.0,mente ,3.0,trovare soluzioni,3.0
+liceo_lin_017,Creatività,5.0,passione,5.0,benessere,5.0,colori,5.0
+liceo_lin_018,Creatività,4.0,innata,5.0,arte,4.0,,
+liceo_lin_019,Creatività,,artistica,,fantasia,,,
+liceo_sci_014,Creatività,5.0,immaginazione,5.0,emozione,5.0,tutti i colori,5.0
+liceo_sci_015,Creatività,,creare,,assemblare,,,
+liceo_sci_016,Creatività,5.0,felicità,4.0,colori,3.0,entusiasmo,3.0
+liceo_sci_017,Creatività,,soggettiva ,,personale ,,speciale ,
+liceo_sci_018,Creatività,2.0,modellini,5.0,costruzioni ,4.0,schizzi,1.0
+liceo_sci_019,Creatività,4.0,inventiva,4.0,novità,4.0,,
+liceo_sci_020,Creatività,5.0,arte,4.0,quadro,4.0,colori,5.0
+liceo_sci_021,Creatività,5.0,arte,5.0,musica,4.0,danza,4.0
+liceo_sci_022,Creatività,4.0,arte,4.0,mente,3.0,,
+liceo_sci_023,Creatività,5.0,musicale,5.0,cervello,5.0,nuovo,5.0
+liceo_sci_024,Creatività,5.0,Importante,5.0,Difficile,3.0,Divertente,5.0
+liceo_sci_025,Creatività,3.0,disegno,3.0,immaginazione,4.0,idee,3.0
+liceo_sci_026,Creatività,4.0,complicata,3.0,,,,
+liceo_sci_027,Creatività,5.0,PER POCHI,4.0,INTELLIGENZA,4.0,FONDAMENTALE,4.0
+liceo_sci_028,Creatività,4.0,fantasia,4.0,innovazione,4.0,arte,3.0
+liceo_sci_029,Creatività,5.0,mente,5.0,progetti,5.0,,
+liceo_sci_030,Creatività,4.0,,,,,,
+liceo_sci_031,Creatività,4.0,arte,4.0,lavoro,4.0,persona,4.0
+liceo_sci_032,Creatività,5.0,arte,5.0,espressione,5.0,sentimenti,5.0
+liceo_sci_033,Creatività,5.0,utile,5.0,,,,
+liceo_sci_034,Creatività,5.0,musica,5.0,disegnare ,5.0,cucire ,5.0
+liceo_sci_035,Creatività,5.0,bolla,3.0,colore,4.0,cervello,3.0
+liceo_sci_036,Creatività,3.0,artistica,3.0,musica,3.0,pittura,3.0
+liceo_sci_037,Creatività,2.0,immaginazione,4.0,arte,2.0,scoperta,3.0
+liceo_sci_038,Creatività,4.0,personale,4.0,bella,4.0,unica,4.0
+liceo_sci_039,Creatività,5.0,arti,5.0,genio,5.0,passione,5.0
+liceo_sci_040,Creatività,5.0,arte,4.0,espressione,5.0,diversità,5.0
+liceo_sci_041,Creatività,5.0,arte,5.0,musica,5.0,fantasia,5.0
+liceo_sci_042,Creatività,4.0,arte,3.0,lego,3.0,mente,3.0
+liceo_sci_043,Creatività,5.0,fantasia,5.0,colori,5.0,spensieratezza,5.0
+liceo_sci_001,Arte,3.0,unica ,4.0,,,,
+liceo_sci_002,Arte,3.0,Michelangelo,3.0,David,3.0,Guernica,3.0
+liceo_sci_003,Arte,5.0,espressione,5.0,creatività,5.0,anticonformista,3.0
+liceo_sci_004,Arte,4.0,colori,4.0,schizzi,4.0,pittura,4.0
+liceo_sci_005,Arte,3.0,musica,4.0,pittura,3.0,noia,2.0
+liceo_sci_006,Arte,4.0,astratta,3.0,bellissima,5.0,senza senza,3.0
+liceo_sci_007,Arte,3.0,opere,4.0, città ,4.0,colore,5.0
+liceo_sci_008,Arte,4.0,tranquilla,4.0,libera,4.0,,
+liceo_sci_009,Arte,2.0,bellini,3.0,autocad,5.0,,
+liceo_sci_010,Arte,3.0,storia,3.0,disegni,3.0,colori,4.0
+liceo_sci_011,Arte,4.0,disegnare,4.0,musica,5.0,,3.0
+liceo_sci_012,Arte,5.0,dipinti,5.0,sculture,5.0,moumenti,5.0
+liceo_sci_013,Arte,3.0,dipingere,3.0,disegno,3.0,storia,2.0
+liceo_lin_001,Arte,4.0,Picasso,3.0,colori,5.0,cappello,3.0
+liceo_lin_002,Arte,5.0,gioco,4.0,scuola,2.0,colori,4.0
+liceo_lin_003,Arte,3.0,rinascimento ,3.0,museo,4.0,opera,3.0
+liceo_lin_004,Arte,5.0,Quadro,5.0,Musica,5.0,Colori,5.0
+liceo_lin_005,Arte,4.0,pittura,4.0,Depero,4.0,tecnica,4.0
+liceo_lin_006,Arte,5.0,dipinti,5.0,danza,5.0,teatro,5.0
+liceo_lin_007,Arte,4.0,legno,5.0,colore,4.0,io,5.0
+liceo_lin_008,Arte,2.0,colori,3.0,storia,3.0,artisti,3.0
+liceo_lin_009,Arte,5.0,quadri,5.0,sculture,5.0,musica,5.0
+liceo_lin_010,Arte,5.0,dipinti,3.0,esprimere,4.0,completa,4.0
+liceo_lin_011,Arte,5.0,moderna,4.0,antica,4.0,rinascimentale,4.0
+liceo_lin_012,Arte,4.0,colori,4.0,forme,4.0,pittura,4.0
+liceo_lin_013,Arte,5.0,cultura,4.0,società,3.0,popolo,3.0
+liceo_lin_014,Arte,5.0,colori,5.0,spensieratezza,5.0,interiore,5.0
+liceo_lin_015,Arte,5.0,creatività,5.0,esprimersi,5.0,strumento,3.0
+liceo_lin_016,Arte,4.0,contemporanea ,4.0,musicale,4.0,barocca,3.0
+liceo_lin_017,Arte,5.0,espressione,5.0,sole,5.0,serenità,5.0
+liceo_lin_018,Arte,4.0,quadro,4.0,danza,5.0,musica,5.0
+liceo_lin_019,Arte,,bellezza,,creatività ,,,
+liceo_sci_014,Arte,5.0,espressione,5.0,emozionante,5.0,tutti i colori,5.0
+liceo_sci_015,Arte,,quadri,,,,,
+liceo_sci_016,Arte,4.0,scultura,4.0,Daphne,4.0,marmo,4.0
+liceo_sci_017,Arte,,dali ,,michelangelo ,,picasso ,
+liceo_sci_018,Arte,1.0,,,,,,
+liceo_sci_019,Arte,4.0,creatività,4.0,innovazione,4.0,spensieratezza,4.0
+liceo_sci_020,Arte,4.0,quadro,4.0,scultura,4.0,Gioconda,3.0
+liceo_sci_021,Arte,5.0,dipinti,5.0,disegni,5.0,colori,5.0
+liceo_sci_022,Arte,4.0,astratta,3.0,scuola,3.0,,
+liceo_sci_023,Arte,5.0,musicale,5.0,Van Gogh,5.0,soldi,5.0
+liceo_sci_024,Arte,5.0,Rinascimento,5.0,Bellezza,5.0,Dipinti,5.0
+liceo_sci_025,Arte,3.0,sculture,3.0,dipinti,3.0,natura,4.0
+liceo_sci_026,Arte,5.0,statua,4.0,quadro,4.0,significato,4.0
+liceo_sci_027,Arte,5.0,BELLEZZA,5.0,INTERESSE,4.0,GENERAZIONI,4.0
+liceo_sci_028,Arte,3.0,immaginazione,4.0,libera,4.0,storia,4.0
+liceo_sci_029,Arte,3.0,,,,,,
+liceo_sci_030,Arte,4.0,dipinto,3.0,opera,3.0,pennello,3.0
+liceo_sci_031,Arte,3.0,creatività,3.0,persona,4.0,,
+liceo_sci_032,Arte,5.0,bellezza,5.0,liberazione,5.0,pace,5.0
+liceo_sci_033,Arte,4.0,interessante,5.0,noiosa,1.0,particolare,3.0
+liceo_sci_034,Arte,4.0,colori ,5.0,artisti,4.0,quadri,5.0
+liceo_sci_035,Arte,4.0,quadro,3.0,gioia,5.0,espressione,4.0
+liceo_sci_036,Arte,3.0,classica,3.0,figurativa,3.0,pittorica,3.0
+liceo_sci_037,Arte,3.0,lezione,3.0,esposizione,2.0,Van Gogh,2.0
+liceo_sci_038,Arte,4.0,unica,4.0,messaggio,4.0,impressionante,4.0
+liceo_sci_039,Arte,5.0,musica,5.0,letteratura,5.0,emozioni,5.0
+liceo_sci_040,Arte,4.0,espressione,5.0,creatività,5.0,diversità,5.0
+liceo_sci_041,Arte,5.0,creatività,5.0,fantasia,5.0,libertà,5.0
+liceo_sci_042,Arte,3.0,bellezza,4.0,creatività,4.0,scoperta,4.0
+liceo_sci_043,Arte,5.0,creatività,5.0,museo,4.0,colori,5.0
+liceo_sci_001,Esame,3.0,ansia,1.0,pressione,1.0,studio,1.0
+liceo_sci_002,Esame,3.0,voto,2.0,studio,4.0,soddisfazione,3.0
+liceo_sci_003,Esame,1.0,competenze,3.0,orale,2.0,studio,3.0
+liceo_sci_004,Esame,2.0,test,3.0,voto,3.0,bocciatura,1.0
+liceo_sci_005,Esame,2.0,passare,4.0,ansia,2.0,,
+liceo_sci_006,Esame,3.0,ansia ,2.0,paura ,1.0,calma,5.0
+liceo_sci_007,Esame,3.0,ansia,2.0,voto,3.0,stress,2.0
+liceo_sci_008,Esame,2.0,pre-esame,2.0,liberazione dopo,4.0,,
+liceo_sci_009,Esame,3.0,di stato,3.0,università,3.0,,
+liceo_sci_010,Esame,3.0,matematica,4.0,chimica,3.0,,3.0
+liceo_sci_011,Esame,2.0,scuola,1.0,patente,4.0,srtres,2.0
+liceo_sci_012,Esame,2.0,voto,3.0,difficoltà,1.0,ansia,1.0
+liceo_sci_013,Esame,1.0,ansia,1.0,superare,1.0,studio,1.0
+liceo_lin_001,Esame,3.0,maturità,4.0,patente,5.0,università,5.0
+liceo_lin_002,Esame,1.0,ansia,1.0,stress,1.0,studio,2.0
+liceo_lin_003,Esame,2.0,di stato,1.0,scuola,2.0,università ,2.0
+liceo_lin_004,Esame,1.0,Passato,1.0,Promossa,4.0,Preparazione,5.0
+liceo_lin_005,Esame,2.0,maturità,2.0,certificazione,4.0,orale,3.0
+liceo_lin_006,Esame,2.0,ansia,2.0,conoscenze,4.0,scritto,4.0
+liceo_lin_007,Esame,3.0,esito,3.0,impegno,4.0,aspettative,3.0
+liceo_lin_008,Esame,2.0,ansia,1.0,aspettative,2.0,risultati,4.0
+liceo_lin_009,Esame,3.0,voto,3.0,studio,3.0,ansia,2.0
+liceo_lin_010,Esame,4.0,stato,3.0,studio,4.0,stress,3.0
+liceo_lin_011,Esame,3.0,statale,3.0,difficile,1.0,impegnativo,2.0
+liceo_lin_012,Esame,2.0,studio,3.0,stress,1.0,preparazione,3.0
+liceo_lin_013,Esame,2.0,prepararsi,4.0,agitazione,2.0,studio,4.0
+liceo_lin_014,Esame,1.0,superare,3.0,sangue,1.0,ansia,1.0
+liceo_lin_015,Esame,1.0,maturità,,ansia,1.0,valutazione,1.0
+liceo_lin_016,Esame,2.0,ansia,2.0,paura ,2.0,felicità,5.0
+liceo_lin_017,Esame,3.0,leggero,4.0,responsabilità,2.0,esito,3.0
+liceo_lin_018,Esame,2.0,,,,,,
+liceo_lin_019,Esame,3.0,ansia,2.0,prestazione,3.0,,
+liceo_sci_014,Esame,1.0,maturità,1.0,odio,1.0,ocra chiaro,1.0
+liceo_sci_015,Esame,2.0,,,,,,
+liceo_sci_016,Esame,1.0,ansia,1.0,stress,1.0,paura,1.0
+liceo_sci_017,Esame,3.0,maturità,2.0,università ,5.0,di stato ,3.0
+liceo_sci_018,Esame,1.0,paura,1.0,stress,1.0,agitazione,1.0
+liceo_sci_019,Esame,2.0,preoccupazione,2.0,studio,2.0,stress,2.0
+liceo_sci_020,Esame,3.0,ansia,1.0,studio,4.0,libro,3.0
+liceo_sci_021,Esame,3.0,maturità,2.0,studiare,2.0,voto,2.0
+liceo_sci_022,Esame,3.0,università ,4.0,guida,2.0,studio,4.0
+liceo_sci_023,Esame,2.0,maturità,1.0,test,1.0,ansia,1.0
+liceo_sci_024,Esame,2.0,Studio,3.0,Fine,3.0,Ansia,4.0
+liceo_sci_025,Esame,3.0,maturità,3.0,patente,5.0,punteggi,3.0
+liceo_sci_026,Esame,2.0,tempo,3.0,ansia,1.0,paura,2.0
+liceo_sci_027,Esame,3.0,ANSIA,2.0,CONSAPEVOLEZZA,5.0,OBIETTIVI,4.0
+liceo_sci_028,Esame,2.0,università,4.0,studio,2.0,patente,5.0
+liceo_sci_029,Esame,3.0,test,2.0,lunghi,3.0,,
+liceo_sci_030,Esame,3.0,matematica,4.0,maturità,3.0,difficile,2.0
+liceo_sci_031,Esame,5.0,studio,4.0,sveglia,5.0,fare,
+liceo_sci_032,Esame,2.0,ansia,2.0,studio,4.0,,
+liceo_sci_033,Esame,2.0,ansia,1.0,,,,
+liceo_sci_034,Esame,2.0,voto,2.0,sessione ,2.0,studio,3.0
+liceo_sci_035,Esame,4.0,stato,3.0,maturità,2.0,voto,3.0
+liceo_sci_036,Esame,3.0,matematica,3.0,italiano,3.0,maturità,3.0
+liceo_sci_037,Esame,1.0,maturità,1.0,scritto,2.0,impegno,2.0
+liceo_sci_038,Esame,3.0,preparazione,3.0,ansia,2.0,fine,4.0
+liceo_sci_039,Esame,3.0,maturità,2.0,università,4.0,studio,3.0
+liceo_sci_040,Esame,3.0,impegno,5.0,sfida,4.0,duro lavoro,4.0
+liceo_sci_041,Esame,2.0,ansia,1.0,studio,3.0,obiettivo,5.0
+liceo_sci_042,Esame,3.0,risultato,3.0,impegno,4.0,,
+liceo_sci_043,Esame,1.0,ansia,1.0,agitazione,1.0,studio,2.0
+liceo_sci_001,Futuro,3.0,importante,4.0,lontano,4.0,,
+liceo_sci_002,Futuro,3.0,anteriore,3.0,prossimo,3.0,incerto,3.0
+liceo_sci_003,Futuro,3.0,incerto,2.0,felice,4.0,viaggio,5.0
+liceo_sci_004,Futuro,4.0,imprevedibile,3.0,da costruire,4.0,c'è tempo,3.0
+liceo_sci_005,Futuro,3.0,ignoto,2.0,paura,2.0,ansia,2.0
+liceo_sci_006,Futuro,4.0,luce,5.0,opportunità,5.0,fallimento,1.0
+liceo_sci_007,Futuro,3.0,medico,4.0,bambini,4.0,incerto,2.0
+liceo_sci_008,Futuro,2.0,incerto,3.0,dubbi,2.0,incertezze,2.0
+liceo_sci_009,Futuro,4.0,incerto,2.0,lavoro,4.0,università,3.0
+liceo_sci_010,Futuro,4.0,,3.0,,3.0,,3.0
+liceo_sci_011,Futuro,2.0,ansia,2.0,inaspettato,3.0,,3.0
+liceo_sci_012,Futuro,4.0,incerto,2.0,probabile,2.0,positivo,4.0
+liceo_sci_013,Futuro,2.0,incerto,1.0,ansia,1.0,indecisione,2.0
+liceo_lin_001,Futuro,3.0,libertà,5.0,speranza,5.0,ignoto,3.0
+liceo_lin_002,Futuro,4.0,ansia,1.0,sfide,3.0,novità,4.0
+liceo_lin_003,Futuro,5.0,bello,5.0,studio,4.0,soldi,4.0
+liceo_lin_004,Futuro,4.0,Lavoro,4.0,Famiglia,4.0,Musica,5.0
+liceo_lin_005,Futuro,4.0,incertezza,2.0,desideri,4.0,estero,5.0
+liceo_lin_006,Futuro,2.0,incerto,2.0,paura,2.0,speranza,4.0
+liceo_lin_007,Futuro,3.0,invisibile,3.0,inaspettato,3.0,domani,3.0
+liceo_lin_008,Futuro,4.0,ampio,2.0,scelte,2.0,felicità,5.0
+liceo_lin_009,Futuro,3.0,incertezza,2.0,paura,2.0,emozione,4.0
+liceo_lin_010,Futuro,2.0,incerto,2.0,cantiere,2.0,blu,4.0
+liceo_lin_011,Futuro,4.0,incerto,1.0,ignoto,1.0,progetti,5.0
+liceo_lin_012,Futuro,3.0,ignoto,3.0,,,,
+liceo_lin_013,Futuro,4.0,lavoro,2.0,scuola,2.0,imparare,4.0
+liceo_lin_014,Futuro,4.0,punto interrogativo,3.0,ponte da costruire,3.0,incerto,3.0
+liceo_lin_015,Futuro,5.0,viaggiare,5.0,movimentato,5.0,estero,5.0
+liceo_lin_016,Futuro,3.0,paura,2.0,felicità ,4.0,ansia,3.0
+liceo_lin_017,Futuro,2.0,ansia,2.0,instabilità,1.0,responsabilità,2.0
+liceo_lin_018,Futuro,3.0,incerto,3.0,vicino,4.0,lontano,2.0
+liceo_lin_019,Futuro,3.0,incertezza,3.0,progresso,4.0,,
+liceo_sci_014,Futuro,2.0,incerto,1.0,sconosciuto,2.0,nero,1.0
+liceo_sci_015,Futuro,2.0,,,,,,
+liceo_sci_016,Futuro,5.0,paura,1.0,azzurro,3.0,sole,4.0
+liceo_sci_017,Futuro,4.0,incerto ,2.0,curioso ,5.0,paura ,1.0
+liceo_sci_018,Futuro,5.0,università,4.0,lavoro,5.0,famiglia,5.0
+liceo_sci_019,Futuro,4.0,ansia,2.0,curiosità,4.0,felicità,4.0
+liceo_sci_020,Futuro,4.0,incerto,3.0,affascinante,4.0,timoroso,2.0
+liceo_sci_021,Futuro,3.0,lavoro,3.0,famiglia,4.0,università,4.0
+liceo_sci_022,Futuro,4.0,università,4.0,lavoro,4.0,soldi,5.0
+liceo_sci_023,Futuro,4.0,tecnologie,4.0,intelligenza artificiale,5.0,lavoro,5.0
+liceo_sci_024,Futuro,5.0,Ignoto,3.0,Felicità,5.0,Ansia,3.0
+liceo_sci_025,Futuro,3.0,università,4.0,lavoro,4.0,famiglia,4.0
+liceo_sci_026,Futuro,3.0,insicurezza,2.0,timore,2.0,speranza,4.0
+liceo_sci_027,Futuro,3.0,INCERTEZZA,2.0,INTERESSE,4.0,DIFFICOLTA',4.0
+liceo_sci_028,Futuro,4.0,università,4.0,lavoro,4.0,studio,2.0
+liceo_sci_029,Futuro,5.0,informatica,4.0,università,3.0,famiglia,5.0
+liceo_sci_030,Futuro,2.0,tecnologia,3.0,informatica,3.0,computer,4.0
+liceo_sci_031,Futuro,4.0,lavoro,4.0,,,,
+liceo_sci_032,Futuro,3.0,scienza,3.0,verde,4.0,,
+liceo_sci_033,Futuro,5.0,spaventoso,4.0,,,,
+liceo_sci_034,Futuro,5.0,progresso,4.0,,,,
+liceo_sci_035,Futuro,4.0,curiosità,5.0,impazienza,4.0,,
+liceo_sci_036,Futuro,3.0,lontano,3.0,mio,3.0,neve,3.0
+liceo_sci_037,Futuro,3.0,AI,5.0,lavoro,3.0,università,2.0
+liceo_sci_038,Futuro,4.0,prosperoso,4.0,divertente,4.0,competitivo,4.0
+liceo_sci_039,Futuro,3.0,informatica,4.0,sicurezza,1.0,università,3.0
+liceo_sci_040,Futuro,5.0,brillante,5.0,impegno,5.0,soddisfazione,5.0
+liceo_sci_041,Futuro,3.0,paura,2.0,curiosità,5.0,tristezza,2.0
+liceo_sci_042,Futuro,4.0,bello,4.0,divertente,4.0,decisioni libere,5.0
+liceo_sci_043,Futuro,4.0,imprevedibilità,3.0,ansia,1.0,voglia di mettersi in gioco,5.0
+liceo_sci_001,Vita,3.0,una ,4.0,da vivere,4.0,felice,5.0
+liceo_sci_002,Vita,5.0,Libertà,5.0,scelta,5.0,futuro,5.0
+liceo_sci_003,Vita,4.0,montagne russe,3.0,impegni,2.0,responsabilità,3.0
+liceo_sci_004,Vita,4.0,lunga,3.0,tempo,3.0,salute,3.0
+liceo_sci_005,Vita,3.0,,,,,,
+liceo_sci_006,Vita,4.0,alti e bassi,3.0,linea ,3.0,eventi,3.0
+liceo_sci_007,Vita,4.0,felice,4.0,lunga,3.0,godersi,3.0
+liceo_sci_008,Vita,3.0,incerta,4.0,bella,4.0,eventi,3.0
+liceo_sci_009,Vita,4.0,umana,4.0,scienza,5.0,scoperta,4.0
+liceo_sci_010,Vita,4.0,ossigeno,4.0,acqua,5.0,,3.0
+liceo_sci_011,Vita,3.0,morte,1.0,,3.0,,3.0
+liceo_sci_012,Vita,5.0,percorso,5.0,emozioni,5.0,breve,1.0
+liceo_sci_013,Vita,5.0,bella,4.0,difficile,4.0,vivere,4.0
+liceo_lin_001,Vita,5.0,felicità,5.0,problemi,3.0,scelte,5.0
+liceo_lin_002,Vita,4.0,difficile,1.0,bellezza,5.0,sfide,3.0
+liceo_lin_003,Vita,5.0,famiglia,5.0,lavoro,5.0,studio,5.0
+liceo_lin_004,Vita,4.0,Morte,1.0,Pulcino,4.0,Gravidanza,1.0
+liceo_lin_005,Vita,4.0,amici,5.0,famiglia,5.0,ciclo della vita,3.0
+liceo_lin_006,Vita,4.0,nascita,4.0,percorso,4.0,ostacoli,2.0
+liceo_lin_007,Vita,3.0,tutto,3.0,desideri,4.0,doveri,4.0
+liceo_lin_008,Vita,5.0,felicità,5.0,sacrificio,2.0,soddisfazioni,5.0
+liceo_lin_009,Vita,4.0,amici,5.0,amore,5.0,impegno,5.0
+liceo_lin_010,Vita,3.0,bella,2.0,lunga,3.0,leggera,3.0
+liceo_lin_011,Vita,4.0,una,4.0,morte,1.0,felicità,5.0
+liceo_lin_012,Vita,3.0,biologia,4.0,umani,3.0,,
+liceo_lin_013,Vita,5.0,bellezza,5.0,incertezza,1.0,affrontare,4.0
+liceo_lin_014,Vita,4.0,scala,4.0,montagna,5.0,vortice,2.0
+liceo_lin_015,Vita,5.0,esperienze,5.0,emozioni,5.0,cambiamento,4.0
+liceo_lin_016,Vita,3.0,vivere,4.0,bella ,4.0,importante,5.0
+liceo_lin_017,Vita,4.0,felice,5.0,sole,5.0,leggera,5.0
+liceo_lin_018,Vita,5.0,lunga,5.0,corta,1.0,modellabile,5.0
+liceo_lin_019,Vita,4.0,luce,4.0,,,,
+liceo_sci_014,Vita,1.0,domande,3.0,libertà,5.0,verde,3.0
+liceo_sci_015,Vita,3.0,,,,,,
+liceo_sci_016,Vita,5.0,rosa,3.0,natura,5.0,sole,4.0
+liceo_sci_017,Vita,5.0,morte,1.0,nasci,5.0,muori,1.0
+liceo_sci_018,Vita,4.0,spensierata,5.0,felice,4.0,,
+liceo_sci_019,Vita,4.0,felicità,4.0,tristezza,3.0,sorpresa,3.0
+liceo_sci_020,Vita,5.0,bella,4.0,strana,4.0,,
+liceo_sci_021,Vita,4.0,bella,5.0,dono,5.0,serena,5.0
+liceo_sci_022,Vita,5.0,acqua,5.0,benessere,5.0,,
+liceo_sci_023,Vita,5.0,quotidiana,5.0,bella,5.0,eventi,5.0
+liceo_sci_024,Vita,5.0,Famiglia,5.0,Pallavolo,5.0,Libertà,5.0
+liceo_sci_025,Vita,4.0,serena,4.0,felicità,5.0,problemi,3.0
+liceo_sci_026,Vita,4.0,felicità,5.0,casuale,3.0,fine,2.0
+liceo_sci_027,Vita,4.0,AMICI,5.0,FAMIGLIA,5.0,MORTE,2.0
+liceo_sci_028,Vita,4.0,bella,5.0,impegno,3.0,fatica,2.0
+liceo_sci_029,Vita,5.0,famiglia,4.0,amici,5.0,lavoro,3.0
+liceo_sci_030,Vita,5.0,,,,,,
+liceo_sci_031,Vita,5.0,mondo,5.0,natura,5.0,scienza,5.0
+liceo_sci_032,Vita,3.0,libertà ,5.0,arte,5.0,avventura,5.0
+liceo_sci_033,Vita,5.0,bella,5.0,,,,
+liceo_sci_034,Vita,5.0,divertimento ,5.0,,,,
+liceo_sci_035,Vita,5.0,verde,5.0,foglia,5.0,albero,5.0
+liceo_sci_036,Vita,3.0,bella,3.0,felice,3.0,dolce,3.0
+liceo_sci_037,Vita,2.0,quotidiana,3.0,breve,1.0,finita,1.0
+liceo_sci_038,Vita,4.0,liberta ,5.0,scelta,4.0,felici,4.0
+liceo_sci_039,Vita,3.0,morte,3.0,dedizione,4.0,passione,4.0
+liceo_sci_040,Vita,5.0,gioia,5.0,salute,5.0,speranza,5.0
+liceo_sci_041,Vita,4.0,solare,5.0,difficile,2.0,veloce,3.0
+liceo_sci_042,Vita,4.0,bello,4.0,essere felici,5.0,impegnarsi,4.0
+liceo_sci_043,Vita,5.0,difficoltà,2.0,emozioni,5.0,unicità,5.0
