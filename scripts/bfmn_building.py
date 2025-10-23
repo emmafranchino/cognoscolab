@@ -304,7 +304,7 @@ def pipeline_multiple_participants(df, keywords, folder_path, file_path, flower)
     G, fmn = build_multiple_fmnt(final_df, keywords, folder_path, file_path, flower)
     return final_df, G, fmn
 
-def pipeline_df_building(df, filter):
+def pipeline_df_building(df, filter = 'no'):
     clean_df = text_cleaning(df)
     long_df = build_association_df(clean_df, filter)
     final_df = categorize_valence_multiple(long_df)
