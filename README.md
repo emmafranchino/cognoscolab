@@ -33,8 +33,3 @@ Here we extract and analysed some data collected in 2024 (via excel files) and 2
 This is the project related to a manuscript titled "Math anxiety and associative knowledge structure are entwined in psychology students but not in Large Language Models like GPT3.5 and GPT4-o". 
 
 Here we extract and analysed the data of humans collected in 2024 and 2023, as well as data generated from LLMs (GPT-3.5 and GPT-4o).
-
-## sociallmisinformation
-Project related to the manuscript "Exploring math anxiety in Large Language Models with the aid of cognitive network science".
-
-Here we only built some textual forma mentis networks as a review of the manuscript. The data was collected and analysed by other people.

@@ -46,20 +46,17 @@ gpt_4o_054,25,F,uni_fisica,3,medio-basse
 gpt_4o_055,18,M,liceo_scientifico,5,basse
 gpt_4o_056,20,M,uni_psicologia,1,medio-alte
 gpt_4o_057,19,F,liceo_scientifico,5,alte
-gpt_4o_059,22,M,uni_psicologia,1,medio-alte
 gpt_4o_060,24,M,uni_fisica,2,basse
 gpt_4o_061,21,F,uni_psicologia,2,medie
 gpt_4o_062,19,M,liceo_classico,5,basse
 gpt_4o_063,25,M,uni_psicologia,3,basse
 gpt_4o_064,18,M,liceo_scientifico,5,medie
-gpt_4o_066,23,M,uni_fisica,3,medio-alte
 gpt_4o_067,24,M,uni_psicologia,2,basse
 gpt_4o_068,18,M,liceo_classico,5,medio-basse
 gpt_4o_069,19,F,liceo_scientifico,5,medie
 gpt_4o_070,25,M,uni_psicologia,3,basse
 gpt_4o_071,19,F,liceo_scientifico,5,medio-basse
 gpt_4o_072,21,F,uni_psicologia,2,alte
-gpt_4o_073,23,M,uni_psicologia,2,medie
 gpt_4o_074,22,F,uni_psicologia,3,basse
 gpt_4o_076,20,F,uni_fisica,1,medio-alte
 gpt_4o_077,22,M,uni_psicologia,2,medio-alte
@@ -67,12 +64,10 @@ gpt_4o_078,25,M,uni_fisica,3,basse
 gpt_4o_079,21,M,uni_fisica,1,basse
 gpt_4o_080,25,F,uni_psicologia,3,medio-basse
 gpt_4o_081,19,M,liceo_scientifico,5,medio-alte
-gpt_4o_082,22,F,uni_psicologia,3,basse
 gpt_4o_083,23,M,uni_psicologia,2,medio-alte
 gpt_4o_085,23,M,uni_fisica,1,alte
 gpt_4o_087,24,F,uni_fisica,3,medio-alte
 gpt_4o_088,25,M,uni_psicologia,3,alte
-gpt_4o_089,24,F,uni_psicologia,3,medio-basse
 gpt_4o_090,19,F,liceo_classico,5,medio-alte
 gpt_4o_091,22,M,uni_fisica,1,medio-alte
 gpt_4o_092,21,F,uni_fisica,2,medio-alte
@@ -97,7 +92,6 @@ gpt_4o_111,19,M,liceo_classico,5,medie
 gpt_4o_112,24,F,uni_psicologia,3,medie
 gpt_4o_113,19,M,liceo_classico,5,medio-basse
 gpt_4o_114,23,F,uni_psicologia,3,medio-basse
-gpt_4o_115,23,F,uni_psicologia,2,medio-basse
 gpt_4o_116,24,M,uni_fisica,3,medio-alte
 gpt_4o_120,19,F,liceo_classico,5,alte
 gpt_4o_122,22,M,uni_psicologia,3,basse
@@ -110,7 +104,6 @@ gpt_4o_129,22,M,uni_psicologia,3,medio-alte
 gpt_4o_130,18,F,liceo_classico,5,alte
 gpt_4o_131,24,M,uni_psicologia,2,basse
 gpt_4o_133,22,M,uni_psicologia,3,alte
-gpt_4o_134,20,F,uni_psicologia,1,medio-alte
 gpt_4o_135,23,M,uni_psicologia,2,alte
 gpt_4o_136,24,M,uni_psicologia,2,medio-alte
 gpt_4o_137,22,M,uni_fisica,1,alte
@@ -127,7 +120,6 @@ gpt_4o_149,19,M,liceo_classico,5,alte
 gpt_4o_151,18,M,liceo_scientifico,5,alte
 gpt_4o_152,21,F,uni_psicologia,1,medio-alte
 gpt_4o_153,18,M,liceo_classico,5,medie
-gpt_4o_154,23,M,uni_psicologia,2,basse
 gpt_4o_155,25,F,uni_fisica,3,basse
 gpt_4o_156,24,F,uni_psicologia,3,medio-basse
 gpt_4o_157,23,M,uni_fisica,1,medio-alte
@@ -141,7 +133,6 @@ gpt_4o_164,24,M,uni_fisica,2,medio-alte
 gpt_4o_165,24,M,uni_fisica,3,alte
 gpt_4o_166,24,F,uni_psicologia,2,alte
 gpt_4o_167,22,F,uni_psicologia,2,medie
-gpt_4o_168,20,F,uni_fisica,1,basse
 gpt_4o_169,19,M,liceo_classico,5,medie
 gpt_4o_170,18,F,liceo_scientifico,5,alte
 gpt_4o_171,23,M,uni_psicologia,3,medio-alte
@@ -156,7 +147,6 @@ gpt_4o_179,21,F,uni_psicologia,2,medio-basse
 gpt_4o_180,19,M,liceo_scientifico,5,alte
 gpt_4o_181,19,F,liceo_classico,5,basse
 gpt_4o_183,21,M,uni_psicologia,1,basse
-gpt_4o_184,18,F,liceo_scientifico,5,medio-basse
 gpt_4o_186,25,M,uni_fisica,3,alte
 gpt_4o_188,18,M,liceo_classico,5,medie
 gpt_4o_189,24,F,uni_psicologia,2,medie
@@ -234,7 +224,6 @@ gpt_4o_266,23,F,uni_psicologia,2,medio-alte
 gpt_4o_267,21,M,uni_psicologia,2,alte
 gpt_4o_268,19,F,liceo_scientifico,5,alte
 gpt_4o_270,23,M,uni_fisica,1,medie
-gpt_4o_271,18,F,liceo_classico,5,medio-alte
 gpt_4o_272,22,M,uni_fisica,3,alte
 gpt_4o_273,25,F,uni_fisica,3,medio-basse
 gpt_4o_274,19,M,liceo_scientifico,5,medio-basse
@@ -261,7 +250,6 @@ gpt_4o_296,18,M,liceo_classico,5,medie
 gpt_4o_297,20,M,uni_fisica,1,medio-alte
 gpt_4o_298,24,M,uni_fisica,3,alte
 gpt_4o_300,19,M,liceo_classico,5,medio-basse
-gpt_4o_301,21,F,uni_psicologia,2,basse
 gpt_4o_302,22,F,uni_fisica,3,alte
 gpt_4o_303,22,F,uni_fisica,3,medio-alte
 gpt_4o_304,23,F,uni_psicologia,1,medio-basse
