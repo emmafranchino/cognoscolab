@@ -1,9 +1,10 @@
 Number of participants for Rassereno article:
+
 Experts 2019: 159
 High school students 2019: 59
-High school students 2025: 62
+
 Physics students 2025: 10
-All psychology students: 316 (2025 psy students: 23)
+physics_students_gpt-4o: 106
 
 high_school_students_2025 high anxiety: 30
 high_school_students_2025 low anxiety: 27
@@ -17,4 +18,5 @@ all_psychology_students low anxiety: 151
 psychology_students_gpt_4o high anxiety: 46
 psychology_students_gpt_4o low anxiety: 50
 
-physics_students_gpt-4o: 106
+Total high school students 2025: 62
+Total all psychology students: 316 (2025 psy students: 23)
