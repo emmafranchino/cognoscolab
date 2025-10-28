@@ -2,5 +2,4 @@ myvenv/
 .DS_Store
 .vscode/
 __pycache__
-rassereno/out/analysis/bfmn/
-rassereno/out/analysis/emotional_flowers/
+rassereno/out/analysis/

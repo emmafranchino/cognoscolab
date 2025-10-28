@@ -242,7 +242,7 @@ def build_multiple_fmnt(df, keywords, folder_path, file_path, flower='yes', lang
             if flower == 'yes':
                 zeta_scores = emo.zscores(fmnt_keyword)
                 emo.draw_plutchik(zeta_scores, reject_range=(-1.96, 1.96))
-                plt.savefig(f"{folder_path}/out/analysis/emotional_flowers/{file_path}/{keyword}", bbox_inches="tight", pad_inches=0.1)
+                plt.savefig(f"{folder_path}/out/analysis/emo_flowers_bfmn/{file_path}/{keyword}", bbox_inches="tight", pad_inches=0.1)
                 plt.close('all')
             
         except ValueError as e:

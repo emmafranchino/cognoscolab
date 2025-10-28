@@ -20,3 +20,5 @@ psychology_students_gpt_4o low anxiety: 50
 
 Total high school students 2025: 62
 Total all psychology students: 316 (2025 psy students: 23)
+all_psychology_students high anxiety: 150
+all_psychology_students low anxiety: 151
