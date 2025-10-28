@@ -87,6 +87,7 @@ def mas_it_factor_grouping(data, sample, path):
 
 def low_high_anxiety_division(mas_it_reordered, association_valence_data, sample, path):
     sum_participant = mas_it_reordered.drop(columns=['participant_id']).sum(axis=1)
+    print(f"Results for {sample} sample \n")
     print(f"max total anxiety: {max(sum_participant)}")
 
     median_total = sum_participant.median()
@@ -98,6 +99,11 @@ def low_high_anxiety_division(mas_it_reordered, association_valence_data, sample
     print(f"number of students with low anxiety: {sum(low_anxiety)}")
     to_exclude = sum_participant == median_total
     print(f"number of students to exclude: {sum(to_exclude)}")
+
+    with open(f'{path}/out/formatting/participants_rassereno.txt', 'a') as file:
+        file.write("\n"
+                   f"{sample} high anxiety: {sum(high_anxiety)}\n"
+                   f"{sample} low anxiety: {sum(low_anxiety)}\n")
 
     participant_id_high = mas_it_reordered.loc[high_anxiety, 'participant_id']
     participant_id_low = mas_it_reordered.loc[low_anxiety, 'participant_id']
