@@ -208,13 +208,12 @@ def build_multiple_fmnt(df, keywords, folder_path, file_path, flower='yes', lang
             emo.draw_formamentis(
             fmn=fmnt_keyword,
             layout="edge_bundling",
-            # thickness=2,
+            # thickness=2, # thickness of edges
             custom_valences=custom_valences, 
             ax=ax,
-            #alpha_syntactic=1.0,
+            # alpha_syntactic=1.0, # contrast of edges
             )
             fig.savefig(f'{folder_path}/out/analysis/bfmn/{file_path}/{keyword}.png', bbox_inches="tight", pad_inches=0.1)
-            plt.close(fig)
         
             # get all the vertices (words) of the subgraph
             vertices = fmnt_keyword.vertices

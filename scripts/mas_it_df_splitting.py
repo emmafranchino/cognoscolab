@@ -111,5 +111,7 @@ def low_high_anxiety_division(mas_it_reordered, association_valence_data, sample
     high_anxiety_data = association_valence_data[association_valence_data['participant_id'].isin(participant_id_high)]
     low_anxiety_data = association_valence_data[association_valence_data['participant_id'].isin(participant_id_low)]
 
-    high_anxiety_data.to_csv(f'{path}/out/splitted_dfs/high_anxiety_{sample}.csv', index=False)
-    low_anxiety_data.to_csv(f'{path}/out/splitted_dfs/low_anxiety_{sample}.csv', index=False)
+    high_anxiety_data.to_csv(f'{path}/out/splitted_dfs/{sample}/high_anx.csv', index=False)
+    low_anxiety_data.to_csv(f'{path}/out/splitted_dfs/{sample}/low_anx.csv', index=False)
+
+    return high_anxiety_data, low_anxiety_data
