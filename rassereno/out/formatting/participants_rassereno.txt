@@ -36,3 +36,12 @@ psychology_gpt_4o low anxiety: 50
 
 high_school_gpt_4o high anxiety: 42
 high_school_gpt_4o low anxiety: 39
+
+psychology_BA_2024_free_text high anxiety: 78
+psychology_BA_2024_free_text low anxiety: 82
+
+psychology_BA_2024_free_text high anxiety: 78
+psychology_BA_2024_free_text low anxiety: 82
+
+high_school_2025_free_text high anxiety: 30
+high_school_2025_free_text low anxiety: 27
