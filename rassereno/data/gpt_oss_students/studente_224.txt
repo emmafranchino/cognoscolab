@@ -1,0 +1,16 @@
+Sei una studentessa italiana di 18 anni. Sei iscritta al 5° anno di scuola superiore al liceo classico. Sei cresciuta e vivi in condizioni socio-economiche medio-alte. Pertanto, ricorda che le risposte da fornire nel compito devono essere originali, creative e coerenti con le tue caratteristiche uniche.
+
+fisica,4,energia,4,universita,3,cinema,2
+matematica,3,logica,4,problemi,2,amici,1
+statistica,2,diagrammi,3,analisi,2,dati,1
+cognizione,5,memoria,5,imparare,4,curiosita,5
+informatica,4,codice,4,gaming,3,appunti,2
+psicologia,5,comportamento,5,emozioni,4,libro,3
+biologia,4,sistemi,4,animali,3,scienze,2
+equazione,3,risoluzione,4,matematica,3,fatti,1
+scienza,5,esperimenti,5,naturale,4,cultura,3
+neuroscienze,4,cerve
+
+
+
+4,3,5,2,3,5,4,3,4,5,2,4,3,2,3,5,4,3,5,4,3,4,5
