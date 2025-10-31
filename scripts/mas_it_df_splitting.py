@@ -100,10 +100,10 @@ def low_high_anxiety_division(mas_it_reordered, association_valence_data, sample
     to_exclude = sum_participant == median_total
     print(f"number of students to exclude: {sum(to_exclude)}")
 
-    with open(f'{path}/out/formatting/participants_rassereno.txt', 'a') as file:
-        file.write("\n"
-                   f"{sample} high anxiety: {sum(high_anxiety)}\n"
-                   f"{sample} low anxiety: {sum(low_anxiety)}\n")
+    # with open(f'{path}/out/formatting/participants_rassereno.txt', 'a') as file:
+    #     file.write("\n"
+    #                f"{sample} high anxiety: {sum(high_anxiety)}\n"
+    #                f"{sample} low anxiety: {sum(low_anxiety)}\n")
 
     participant_id_high = mas_it_reordered.loc[high_anxiety, 'participant_id']
     participant_id_low = mas_it_reordered.loc[low_anxiety, 'participant_id']
@@ -111,7 +111,7 @@ def low_high_anxiety_division(mas_it_reordered, association_valence_data, sample
     high_anxiety_data = association_valence_data[association_valence_data['participant_id'].isin(participant_id_high)]
     low_anxiety_data = association_valence_data[association_valence_data['participant_id'].isin(participant_id_low)]
 
-    high_anxiety_data.to_csv(f'{path}/out/splitted_dfs/{sample}/high_anx.csv', index=False)
-    low_anxiety_data.to_csv(f'{path}/out/splitted_dfs/{sample}/low_anx.csv', index=False)
+    # high_anxiety_data.to_csv(f'{path}/out/splitted_dfs/{sample}/high_anx.csv', index=False)
+    # low_anxiety_data.to_csv(f'{path}/out/splitted_dfs/{sample}/low_anx.csv', index=False)
 
     return high_anxiety_data, low_anxiety_data

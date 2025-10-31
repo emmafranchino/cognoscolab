@@ -2,6 +2,7 @@ import pandas as pd
 import os
 import re
 import itertools
+import numpy as np
 
 def get_raw_data(folder):
     file_paths = []
@@ -64,11 +65,18 @@ def process_txt_dataset(all_txts, dataset_name):
         lines = mod_text.splitlines()
         for line in lines:
             line = line.strip()
-            match = re.search(r'^\s*(?:[1-5],){22}[1-5]\s*$', line)
+            match = re.search(r'^\s*(?:\d+,){22}\d+\s*$', line)
             if match:
-                mas_it = match.group()
-                # remove mas_it line from text
-                mod_text = mod_text.replace(match.group(), '')
+                numbers = line.split(',')
+                cleaned = []
+                for n in numbers:
+                    num = int(n)   
+                    # keep 1–5, otherwise replace with NaN
+                    if 1 <= num <= 5:
+                        cleaned.append(str(num))
+                    else:
+                        cleaned.append(str(np.nan))  # nan as str to then concatenate it
+                mas_it = ','.join(cleaned)
 
         # --- ASSOCIATIONS EXTRACTION ---
         filtered_lines = [
