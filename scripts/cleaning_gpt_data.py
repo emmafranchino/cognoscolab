@@ -61,22 +61,24 @@ def process_txt_dataset(all_txts, dataset_name):
             mod_text = mod_text.replace(str(prompt_match.group(1)), '')
 
         # --- MAS-IT EXTRACTION (23 numbers comma-separated) ---
+        # initialize mas_it in case it doesn't find the match
         mas_it = None
+        cleaned_mas_it = []
         lines = mod_text.splitlines()
         for line in lines:
-            line = line.strip()
-            match = re.search(r'^\s*(?:\d+,){22}\d+\s*$', line)
+            line = line.rstrip()
+            match = re.search(r'^\s*(?:[^,]+,){22}\d+\s*$', line)
             if match:
                 numbers = line.split(',')
-                cleaned = []
                 for n in numbers:
-                    num = int(n)   
-                    # keep 1–5, otherwise replace with NaN
-                    if 1 <= num <= 5:
-                        cleaned.append(str(num))
-                    else:
-                        cleaned.append(str(np.nan))  # nan as str to then concatenate it
-                mas_it = ','.join(cleaned)
+                    try: 
+                        if 1 <= int(n) <= 5:
+                            cleaned_mas_it.append(int(n))
+                        else:
+                            cleaned_mas_it.append(np.nan) # NaN if it's a int out of range
+                    except ValueError: 
+                        cleaned_mas_it.append(np.nan) # NaN if it's a string, not integer
+                mas_it = cleaned_mas_it
 
         # --- ASSOCIATIONS EXTRACTION ---
         filtered_lines = [
@@ -143,11 +145,12 @@ def extract_personal_info(df):
 
 def all_questionnaires(df):
     
-    # Split MAS-IT responses
-    df_mas_it = df['mas_it'].str.split(",", expand=True)
-    
+    # if mas_it was a Nonetype object (not matched), convert to list of NaN
+    df['mas_it'] = df['mas_it'].apply(lambda x: x if isinstance(x, list) else [np.nan]*23)
+
     # Label the columns
-    df_mas_it.columns = [f"mas_it_{i+1}" for i in range(23)]
+    df_mas_it = pd.DataFrame(df['mas_it'].tolist(),
+                         columns=[f"mas_it_{i+1}" for i in range(23)])
     
     df_mas_it.insert(0, 'participant_id', df['participant_id'])
 

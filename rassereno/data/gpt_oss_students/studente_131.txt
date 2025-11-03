@@ -41,5 +41,4 @@ scienziato,4,ricerca,5,esperimento,4,metodologia,3
 curiosita,5,domanda,5,esplorazione,4,interesse,5
 sfida,4,obiettivo,5,motivazione,4,confronto,3
 
-p1,p2,p3,p4,p5,p6,p7,p8,p9,p10,p11,p12,p13,p14,p15,p16,p17,p18,p19,p20,p21,p22,p23
 2,3,4,3,2,4,5,3,2,4,3,2,4,3,3,2,3,4,3,5,4,3,4
