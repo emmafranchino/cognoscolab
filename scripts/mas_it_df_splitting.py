@@ -88,11 +88,11 @@ def mas_it_factor_grouping(data, sample, path):
 def low_high_anxiety_division(mas_it_reordered, association_valence_data, sample, path):
     sum_participant = mas_it_reordered.drop(columns=['participant_id']).sum(axis=1)
     print(f"Results for {sample} sample \n")
-    print(f"max total anxiety: {max(sum_participant)}")
 
     median_total = sum_participant.median()
     print(f"total median of the summed scores: {median_total}")
 
+    print(f"number of total students: {len(mas_it_reordered)}")
     high_anxiety = sum_participant > median_total
     print(f"number of students with high anxiety: {sum(high_anxiety)}")
     low_anxiety = sum_participant < median_total
@@ -100,10 +100,17 @@ def low_high_anxiety_division(mas_it_reordered, association_valence_data, sample
     to_exclude = sum_participant == median_total
     print(f"number of students to exclude: {sum(to_exclude)}")
 
-    with open(f'{path}/out/formatting/participants_rassereno.txt', 'a') as file:
-        file.write("\n"
-                   f"{sample} high anxiety: {sum(high_anxiety)}\n"
-                   f"{sample} low anxiety: {sum(low_anxiety)}\n")
+    with open(f'{path}/out/formatting/participants_rassereno.txt', 'r') as f:
+        lines = f.readlines()
+        # Remove any lines that mention the current sample
+        lines = [line for line in lines if sample not in line]
+        # Add the new lines for this sample
+        lines.append(f"{sample} total: {len(mas_it_reordered)}\n")
+        lines.append(f"{sample} high anxiety: {sum(high_anxiety)}\n")
+        lines.append(f"{sample} low anxiety: {sum(low_anxiety)}\n")
+        # Write everything back
+        with open(f'{path}/out/formatting/participants_rassereno.txt', 'w') as f:
+            f.writelines(lines)
 
     participant_id_high = mas_it_reordered.loc[high_anxiety, 'participant_id']
     participant_id_low = mas_it_reordered.loc[low_anxiety, 'participant_id']
