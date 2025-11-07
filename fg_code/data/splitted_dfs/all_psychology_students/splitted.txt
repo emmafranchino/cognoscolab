@@ -1,0 +1,6 @@
+
+all_psychology_students high anxiety: 150
+all_psychology_students low anxiety: 151
+
+all_psychology_students high anxiety: 150
+all_psychology_students low anxiety: 151

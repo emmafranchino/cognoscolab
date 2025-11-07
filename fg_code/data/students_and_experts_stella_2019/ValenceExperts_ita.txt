@@ -1,0 +1,1588 @@
+2vec	3.	3.
+rapimento	3.	3.
+capacità	3.	3.
+di	2.	3.
+astratto	4.	3.	4.
+astrazione	4.	3.
+abisso	1.	3.
+mondo accademico	4.	2.	4.	4.	5.	4.	5.	4.
+accademico	4.	4.	5.	5.
+acceleratore	3.	3.
+accesso	3.	3.
+fisarmonica	3.	3.
+acido	3.	3.
+acustica	4.	3.	3.
+acquisizione	3.	3.	2.	3.	3.
+azione	3.	3.
+attività	4.	3.	5.	4.
+attore	4.	4.	3.	4.	3.	2.
+adattamento	5.	3.
+adattivo	3.	3.
+anticipo	5.	3.
+avanzato	3.	3.
+avventura	5.	5.	5.
+annuncio	2.	3.
+annuncio	1.	1.
+consigliare	4.	3.
+consulente	5.	3.
+aeronautica	4.	3.
+africa	4.	3.
+dopo	3.	3.
+ancora	2.	3.
+età	1.	1.
+agente	4.	4.	4.	3.	3.	3.	4.	3.	3.	4.
+accordo	4.	4.	5.	3.
+aiuto	3.	3.	3.
+aria	3.	3.	3.	4.	4.
+aereo	3.	3.
+aria condizionata	4.	3.
+aereo	3.	3.
+aereo	5.	3.
+algebra	4.	4.	3.	4.
+algoritmo	3.	3.
+tutto	4.	3.
+allocazione	4.	4.
+indennità	3.	3.	3.	3.	3.	4.	3.
+alluminio	3.	3.
+sorprendente	4.	4.
+amazzonia	3.	3.
+amper	3.	3.
+ampere	3.	3.
+analizzare	3.	3.
+analisi	3.	4.	3.	3.	4.	4.	3.	4.	3.	4.	3.	2.	3.	4.
+analitico	4.	3.
+angelo	1.	1.
+angolo	3.	3.
+animale	4.	3.	3.	3.	3.	4.	3.	4.
+anodo	3.	3.
+antropologia	5.	3.
+antisistema	4.	4.
+formiche	3.	2.	4.	3.	3.	3.	3.	3.	3.	5.	5.	4.
+a_posteriori	3.	3.
+mela	3.	4.
+applicazione	4.	3.	2.	2.	4.	2.
+approssimazione	3.	3.	4.	3.	5.	3.	4.
+a_priori	3.	3.	2.	2.
+architetto	3.	2.	5.
+architettura	2.	2.
+braccio	4.	3.
+esercito	3.	2.
+arte	4.	4.	4.	5.	5.	5.	4.	3.	5.	5.	4.	5.	5.	5.	5.	2.	5.	5.	4.	1.	5.	5.	5.	5.
+arteria	5.	3.	3.	3.	3.
+artico	5.	3.
+articolo	4.	3.	5.
+artificiale	3.	3.
+artista	4.	4.	5.
+valutare	4.	3.
+assistere	4.	3.
+associazione	5.	3.
+assunzione	3.	3.
+asintoto	3.	3.
+astro	4.	3.
+astronomia	4.	4.	5.	5.
+atomo	3.	3.	4.	3.	4.	3.	2.
+attacco	5.	2.
+attrattore	3.	5.	3.	3.	3.	3.	2.	3.	4.	5.	3.
+attributo	3.	3.
+autore	4.	3.	3.	3.	2.	2.
+autorità	4.	2.	2.	3.
+automi	3.	3.	3.	3.	3.	3.	4.	5.
+autunno	2.	5.
+autunno	3.	3.
+avatar	4.	3.
+media	3.	3.
+assioma	3.	5.	3.	4.
+asse	3.	3.	3.	3.	3.
+assone	3.	3.
+sfondo	3.	3.
+zaino	5.	5.
+batteri	2.	3.
+cattivo	1.	1.	1.	3.	2.
+pallone	4.	4.
+banca	4.	4.	2.
+bancario	4.	4.
+sbarra	3.	3.
+grafici a barre	2.	3.
+base	3.	4.
+basato	3.	3.
+basilico	4.	3.
+bacino	3.	3.
+cestino	3.	5.
+basso	4.	4.
+batteria	2.	3.	3.	3.
+bayes	3.	3.
+bayesiano	3.	3.
+bbc	3.	3.
+colpo	3.	3.	4.
+bellezza	4.	5.	4.
+letto	4.	3.
+ape	4.	4.
+birra	5.	5.
+prima	2.	2.
+inizio	3.	3.
+comportamento	2.	3.
+comportamento	4.	5.	4.
+credere	3.	4.	3.	5.	4.
+campana	3.	3.
+meglio	5.	4.
+pregiudizio	3.	2.
+bibliografia	3.	3.
+bicicletta	5.	3.
+biforcazione	3.	3.
+grande	4.	3.
+bicicletta	5.	5.	4.
+bidone	3.	3.
+bio	3.	3.
+biologico	5.	3.
+biologo	4.	3.	3.
+biologia	3.	3.	4.	4.	4.	3.	4.	4.	5.	3.	3.	4.	3.	3.	2.	2.	5.	3.	4.	4.	4.	4.	4.	4.	3.	5.	4.	3.	4.	4.	4.	5.	5.	5.
+bioma	3.	3.
+biofisica	3.	2.
+biosfera	3.	5.	5.	5.	2.	4.	3.	3.	3.	4.	4.	4.	4.	5.
+biotico	4.	3.
+uccello	3.	3.
+uccelli	3.	3.	4.	4.	4.	4.	3.
+nero	3.	2.	3.	3.	1.
+lavagna	3.	4.
+miscela	5.	5.
+bloccare	3.	3.
+sangue	5.	3.	3.	3.	4.
+blu	4.	3.
+asse	4.	3.
+bohr	5.	3.
+osso	3.	3.
+libro	5.	4.	4.	3.	5.	5.	5.	4.	5.	4.	4.
+booleano	3.	3.
+noioso	2.	3.
+bot	4.	3.
+pulsante	2.	2.
+limiti	3.	3.
+scatola	3.	2.
+cervello	3.	4.	4.	5.	4.	3.	5.	5.	4.	3.	3.	4.	4.	3.	4.	4.	5.	5.	5.
+freno	3.	3.
+ramo	2.	3.	3.	4.
+pane	4.	3.
+rottura	4.	4.
+interruttore	2.	3.
+rottura	2.	3.
+breaking bad	4.	4.
+brian	4.	3.
+luminoso	3.	3.
+voglia	1.	1.
+trasmissione	3.	4.	3.	3.	3.	4.	3.	4.	3.	3.
+marrone	3.	3.
+bilancio	3.	3.
+insetto	1.	3.
+costruire	5.	3.
+edificio	3.	3.
+lampadina	3.	3.
+stronzate	5.	3.
+bruciare	5.	3.
+burocrazia	1.	1.
+seppellire	3.	3.
+cespuglio	3.	5.
+attività commerciale	3.	2.	3.	3.	1.	4.
+farfalla	4.	3.
+pulsante	3.	3.
+acquistare	3.	3.
+acquirenti	2.	2.
+ronzio	3.	3.
+c	3.	3.
+cavo	2.	3.
+gabbia	1.	1.
+calcolare	3.	3.	5.	3.
+calcolo	4.	5.	3.	3.	3.	5.	3.	3.	4.
+campus	5.	5.
+caramella	4.	3.
+capacità	3.	3.
+capitale	3.	3.
+auto	1.	4.	5.	1.	3.	3.	4.
+carbonio	3.	3.	3.	3.	4.	3.
+carta	4.	3.
+cura	4.	4.
+carriera	4.	4.
+spensierato	4.	3.
+automobili	1.	3.
+bancomat	4.	3.
+gatto	5.	4.
+passerella	4.	3.
+causa	5.	3.
+attenzione	3.	3.
+cd	3.	3.
+cella	4.	3.	4.	4.	4.	4.	4.	3.	3.	3.	4.	3.	3.	3.	3.	3.
+cellulare	4.	3.	3.
+centro	3.	4.	4.
+centralità	4.	4.
+sedia	3.	3.
+opportunità	3.	3.
+modifica	4.	4.	4.	3.	4.	4.	4.	3.
+canale	3.	4.	1.
+caos	3.	4.	3.	5.	4.	4.	2.	4.	4.	4.	4.	4.
+caotico	3.	2.
+carattere	4.	3.	3.	3.	4.
+carica	4.	3.	3.	4.	3.	3.	3.	3.	3.
+caricabatterie	3.	3.
+grafico	3.	3.
+chiacchierata	4.	4.
+controllo	3.	3.
+chimico	3.	4.	4.
+prodotti chimici	5.	1.	4.	3.	3.	2.
+chimica	2.	5.	3.	3.	4.	3.	3.	3.	3.	3.	4.	4.	4.	4.	3.	4.	3.	3.	2.	1.	3.	3.	3.	3.	3.	5.	4.	4.	4.	4.	4.	4.
+chernobyl	2.	3.
+infanzia	4.	3.
+infantile	4.	3.
+bambini	4.	4.
+asilo nido	3.	3.
+scelta	4.	4.
+scegliere	5.	5.
+cromosoma	4.	3.	3.	4.	4.	3.
+chiesa	2.	2.
+cerchio	3.	3.	3.	4.	5.
+circuito	2.	1.	4.
+circo	5.	3.
+città	3.	3.	3.	3.
+classe	3.	2.	4.	4.	4.	3.	5.	3.	3.	2.	3.	3.	2.
+classico	4.	4.
+aula	4.	3.	3.
+pulizia	2.	3.
+chiaro	4.	3.
+intelligente	5.	4.
+argilla	4.	4.
+clima	3.	3.	2.
+orologio	4.	3.
+vicino	3.	4.
+chiuso	3.	3.
+stoffa	2.	4.	3.
+nuvola	4.	4.	3.	3.	2.	4.	3.	3.	3.	2.	2.	3.	4.	3.	4.	4.	2.
+nuvoloso	3.	3.
+clown	2.	3.
+raggruppamento	5.	3.
+cm	3.	3.
+cappotto	3.	2.	2.
+coautore	3.	3.
+noce di cocco	4.	3.
+codice	3.	5.	3.
+coefficiente	3.	5.	3.	3.	3.	3.
+caffè	4.	2.
+cognizione	4.	3.	3.	5.	5.
+coniare	3.	3.
+freddo	3.	2.	3.	2.	3.	2.	2.
+collaborazione	4.	4.	4.
+collaboratore	4.	3.
+crollo	3.	3.
+collettivo	4.	4.
+college	2.	2.	4.	4.	4.	4.	4.	4.
+collisione	3.	1.	3.
+colloquio	3.	3.
+colonia	3.	3.
+colore	4.	3.	5.
+combinazione	3.	4.	3.	3.	3.	3.
+virgola	2.	3.
+commerciale	1.	1.
+comitato	3.	3.
+comune	3.	3.
+comunicazioni	4.	3.
+comunità	5.	5.
+azienda	2.	1.	2.
+complesso	3.	5.	4.	4.	4.	4.	4.	3.	5.	4.	5.	5.	4.	4.	5.	4.	5.	4.	4.	4.	5.	4.	3.	4.	4.	5.	5.	5.	5.	5.	3.	5.	5.	4.	3.	5.	4.	3.	3.	3.	5.	3.	3.	4.	4.	5.	5.	5.	5.	5.	5.	4.	4.
+complessità	4.	5.	4.	4.	4.	4.	3.	4.	4.	5.
+numero_complesso	5.	3.
+comporre	3.	3.
+comprensione	5.	5.
+computabilità	4.	4.
+calcolo	4.	4.
+calcolare	3.	3.
+computer	5.	4.	4.	3.	3.	5.	5.	4.	4.	4.	4.	4.	4.	4.	3.	5.	5.	4.	3.	5.	5.	5.	3.	3.
+concetto	3.	4.	4.
+concettuale	3.	3.
+condensazione	3.	3.	3.	3.
+condizione	3.	3.
+conduttore	3.	3.
+conferenza	4.	3.	5.	4.	3.	5.	5.	4.	5.	3.	4.	3.	5.	5.	4.	4.	5.
+fiducia	4.	3.
+conflitto	4.	4.
+congetturare	4.	3.	3.	3.	5.
+collegare	5.	5.	5.
+collegato	5.	5.	3.
+connessione	3.	4.	4.
+connessioni	5.	4.	3.
+conquistare	3.	3.
+costante	3.	3.	3.	3.	3.	3.	3.	3.	5.
+costellazione	3.	4.	3.
+costruzione	3.	3.
+contemplazione	4.	4.
+contesto	3.	3.
+continuo	5.	3.
+contrarre	3.	4.
+controllare	3.	3.	3.
+controllore	1.	3.
+conversazione	5.	3.
+freddo	4.	3.	4.	4.	5.
+coordinazione	2.	4.
+correlazione	5.	5.
+corrotto	2.	2.
+coseno	3.	3.	3.	3.	3.
+contare	3.	3.
+corriere	2.	3.
+corso	4.	3.
+creare	4.	3.
+creativo	5.	5.	4.	5.
+cricri	3.	3.
+crimine	3.	2.
+penale	3.	3.
+crisi	1.	3.
+criticità	3.	3.
+culturale	4.	5.	4.	4.
+cultura	4.	3.
+curiosità	5.	3.
+curioso	5.	4.
+attuale	3.	4.	3.	3.	3.
+programmi di studio	2.	3.	4.	3.	3.	3.
+curva	4.	4.	3.
+ciclo	4.	4.	3.	3.	3.	3.	3.	3.	4.	4.	4.	3.	3.	3.
+pericoloso	1.	3.
+buio	2.	4.
+darwin	4.	3.
+dati	4.	5.	3.	3.	4.	5.
+da_vinci	4.	4.
+morto	2.	3.
+affare	3.	3.
+morte	4.	1.	1.	2.	1.	1.	1.	1.	1.	1.
+discussione	5.	5.
+debug	4.	3.
+decisione	3.	3.
+declino	4.	3.
+decomporsi	3.	4.	2.	3.	3.	3.
+deduzione	3.	3.
+disertore	2.	2.
+grado	4.	3.	4.	4.	4.	3.	5.	4.	3.	3.	3.	4.	5.	3.	3.	4.	3.	3.
+delizioso	5.	3.
+delta	3.	3.
+esigente	3.	3.
+demografico	3.	3.
+dimostrare	4.	4.	4.	3.
+dimostrazione	3.	3.
+raffigurare	4.	3.
+profondità	3.	3.
+derivato	3.	3.	4.	3.	3.	3.	5.	5.	5.	4.	3.	3.	5.	5.	5.	3.	2.
+derivare	3.	3.
+deserto	4.	4.
+progetto	3.	3.
+designer	5.	3.
+scrivania	3.	3.
+scrivania	4.	4.
+distruggere	2.	3.
+distruzione	3.	3.
+determinismo	1.	3.	3.	2.	3.	3.	3.	2.	3.	4.
+determinista	4.	4.
+sviluppo	4.	3.	5.
+diagramma	3.	3.
+dizionario	3.	3.
+dieta	1.	2.
+differenza	3.	3.
+differenziale	4.	4.	4.	3.
+differenziare	5.	3.
+difficile	3.	1.	3.	1.
+difficile	4.	4.
+diffrazione	3.	1.	3.	3.	1.	3.	4.	3.	3.
+diffusione	3.	3.
+scavare	4.	3.
+dilemma	3.	4.	2.	2.	2.	2.	4.	2.	2.	4.	4.	2.	4.	5.
+dilemma	2.	2.
+dilemma	4.	3.
+cena	4.	3.
+diodo	3.	3.	1.	4.
+diretto	3.	3.
+direzione	3.	3.
+sporco	1.	3.
+non sono d'accordo	3.	3.
+disaccordo	2.	3.
+scarico	3.	3.	3.	1.	3.	3.	1.
+malessere	1.	1.
+discorso	3.	3.
+scoprire	5.	5.
+scoperta	4.	4.	4.	5.	4.	4.	4.	4.	5.	4.	5.	5.
+discreto	4.	4.
+discussione	4.	4.	5.	4.	4.	4.	5.
+malattia	2.	1.	2.	1.	2.	3.	1.	1.	1.	4.	3.
+disturbo	1.	3.	1.
+disposizione	3.	3.	3.
+distanza	2.	3.
+distribuzione	4.	3.	4.	5.	3.
+disturbo	1.	3.
+divergere	3.	3.
+diversità	5.	5.
+divisione	3.	3.
+dna	3.	5.	3.	3.	3.	5.	3.	3.
+fare	3.	3.
+medico	2.	2.	3.	3.	5.
+dottorato	2.	4.	3.	2.	3.
+dominante	5.	5.
+ciambella	2.	3.
+punto	3.	3.
+giù	1.	3.
+drago	5.	3.
+disegno	3.	3.	3.	3.	5.	3.	3.	4.	5.
+disegno	5.	5.
+sogno	5.	5.
+bere	5.	3.
+gocciolare	3.	3.
+casella personale	4.	3.
+gocciolina	3.	3.
+farmaco	4.	5.	5.
+droghe	4.	3.
+batteria	4.	3.
+duello	2.	3.
+dux	2.	3.
+dvd	3.	3.
+dx	5.	3.
+dinamico	5.	4.	4.
+dinamica	4.	4.	4.	5.	5.	4.	4.	4.	4.	5.
+e-	5.	3.
+terra	5.	5.	3.	5.	5.	5.
+ecologico	5.	3.
+ecologista	3.	5.
+ecologia	5.	5.	5.	5.	3.	3.	5.
+economico	1.	3.
+economia	3.	2.	2.	4.	4.
+economia	4.	4.	4.	4.	3.	2.	2.	2.	4.	3.	2.
+ecosistema	5.	5.	3.	4.	4.	4.	4.	5.	5.	5.
+bordo	3.	3.	3.	3.	4.	3.	3.	3.	4.	4.	5.
+istruzione	5.	4.	5.	5.	4.	5.	4.	5.	5.	5.
+istruzione	5.	3.
+efficienza	4.	3.
+efficiente	4.	4.
+sforzo	3.	4.
+autostato	4.	4.
+autovalore	5.	3.
+autovettore	4.	4.	5.	3.	4.	4.
+einstein	5.	5.
+elettrico	4.	3.
+elettricità	2.	2.	4.	3.	3.	5.	3.	3.	3.	4.	3.	5.	4.	5.	5.	3.	3.	3.	3.	3.
+elettro	3.	3.
+elettromagnetismo	2.	3.	4.	1.	3.
+elettrone	5.	3.	3.	5.	3.
+elettronica	2.	3.	5.	2.	3.	4.
+elemento	3.	3.	3.	3.	3.	3.	3.	3.	4.
+elementare	2.	3.
+elefante	4.	3.
+elettricità	3.	3.
+ascensore	4.	4.
+e-mail	3.	3.
+emergenza	5.	5.	5.	4.	4.
+emergenza	4.	3.
+emotivo	3.	3.
+incoraggiare	4.	4.
+fine	3.	2.
+energia	4.	5.	3.	4.	3.
+motore	5.	5.
+inglese	4.	4.	2.	3.	4.	4.	2.	3.
+godere	5.	3.
+entità	3.	3.
+ambientale	4.	4.
+ambiente	5.	3.
+epidemie	2.	2.
+epsilon	3.	3.
+pari	3.	3.
+equazione	3.	5.	5.	4.	4.	3.	5.	3.	3.	3.	4.	5.	4.	5.	3.	3.	5.
+equilibrio	4.	4.
+erosione	3.	3.
+errore	3.	3.
+fuga	2.	3.	3.	4.	2.
+scenario	3.	3.
+stima	3.	3.	5.
+estimatore	3.	3.	4.
+etica	2.	3.
+etnico	3.	3.
+eulero	5.	3.
+valutare	4.	4.
+vigilia	2.	3.
+evento	4.	4.
+qualunque cosa	4.	3.
+ovunque	3.	3.
+evoluzione	4.	5.	5.	5.	5.	5.	5.	4.	4.	5.	5.	5.	5.	3.	4.	4.	4.
+evolvere	4.	3.
+esatto	4.	3.
+esame	2.	3.	3.	1.	4.	4.
+eccellere	4.	2.	2.
+esercizio	2.	2.	4.	4.
+espansione	3.	4.	3.	4.
+spese	2.	3.
+esperienza	4.	4.	4.	4.	5.	5.	5.	5.
+sperimentare	5.	4.	5.	5.	4.	5.	4.	2.	3.	3.	4.	4.	5.	4.	3.	4.	5.	3.	3.	5.	4.	4.
+sperimentando	4.	3.	4.	5.	5.
+esperto	3.	4.	5.	5.
+competenza	5.	3.	4.	4.	5.	3.	4.	2.	5.	5.	4.
+esplorazione	4.	5.
+esplorativo	3.	5.
+esposizione	3.	3.
+estensione	5.	5.
+occhi	5.	3.	3.
+fattore	3.	3.
+facoltà	5.	3.
+fallito	1.	3.
+fallimento	2.	1.	2.	1.	2.	2.	1.	3.	2.	2.	1.
+fede	4.	3.
+autunno	2.	2.
+famiglia	4.	3.
+famiglia	5.	3.
+famoso	3.	3.
+fantastico	3.	3.
+lontano	3.	3.
+agricoltori	3.	3.
+affascinante	5.	3.
+moda	2.	2.
+veloce	4.	3.
+grasso	2.	3.
+destino	3.	2.
+padre	4.	3.
+colpa	1.	3.
+caratteristica	3.	3.	3.	3.	3.	3.	4.
+tassa	3.	3.
+feedback	3.	4.	3.	5.
+feynmann	3.	3.
+figura	3.	3.	3.	2.	3.	5.
+finalità	3.	3.
+finanza	3.	4.	5.	5.	4.	4.
+trovare	3.	3.
+bene	5.	3.
+dito	3.	3.
+fuoco	4.	4.	4.	3.	5.
+primo	3.	3.	3.	3.	3.
+pescare	4.	4.
+mosche	2.	3.
+galleggiante	3.	3.
+gregge	4.	3.	3.	3.	5.	3.	5.	3.	3.
+pavimento	3.	3.
+fluire	3.	3.	3.	3.	5.	3.	4.	5.
+fiore	3.	4.	3.	4.	5.	5.
+soffice	5.	3.
+fluido	3.	3.
+flusso	5.	5.	5.	5.
+volare	3.	4.
+seguire	3.	3.
+font	3.	3.
+cibo	4.	4.	5.	4.	5.	5.
+calcio	2.	5.	4.	4.
+per	4.	3.
+previsione	4.	3.
+forza	3.	3.	3.	3.	4.	4.	5.	3.
+previsione	4.	3.
+straniero	3.	4.	3.
+foresta	4.	4.	4.
+per sempre	5.	3.
+formalmente	3.	3.
+formazione	3.	4.	3.	5.	3.	4.
+formula	3.	3.
+fondazione	3.	3.
+quattro	4.	3.
+fourier	4.	4.
+frattale	3.	5.
+fragilità	4.	3.	2.	2.	3.
+gratuito	5.	5.
+libertà	4.	5.	5.	5.
+congelare	3.	3.
+francese	5.	5.
+frequenza	5.	5.
+frequentista	3.	3.
+fresco	3.	3.
+attrito	2.	3.	3.	3.	4.
+frigo	3.	3.
+amico	5.	3.
+amici	5.	5.	5.	5.	5.	5.
+da	5.	3.
+frustrazione	1.	1.
+divertimento	5.	4.	4.	5.	5.	5.	5.	5.
+funzione	4.	5.	3.	4.	4.	3.	3.	5.
+funzionale	5.	5.
+finanziamenti	1.	3.
+fondi	4.	3.
+fungo	2.	2.	3.
+divertente	3.	3.
+futuro	4.	4.
+gaia	4.	3.
+gioco d'azzardo	4.	4.
+gioco	4.	3.	3.	4.	3.	4.	4.	4.	5.	5.	4.	4.	5.	5.	5.	4.
+gamma	4.	3.
+garanzia	3.	3.
+spazzatura	2.	3.
+giardino	4.	5.
+gas	3.	3.	3.	3.	4.	3.	3.	2.	3.	2.	2.	3.	4.
+assembramento	3.	3.
+ingranaggio	2.	2.
+gene	4.	4.
+generale	3.	3.	4.	4.	3.
+genetica	4.	3.
+geografia	4.	4.	3.	5.	3.	3.	4.
+geometria	4.	4.	4.	3.	3.	3.	3.
+gervais	4.	4.
+ottenere	3.	3.	4.	4.
+raduno	5.	5.
+ragazze	5.	3.
+ghiacciaio	4.	3.
+bicchiere	4.	3.
+gloria	4.	4.
+gnuplot	5.	3.
+andare	3.	3.
+dio	3.	3.
+oro	3.	3.
+bene	4.	2.	4.	3.	4.	4.	4.	4.	3.	5.	5.	5.	5.
+google	4.	4.	2.	5.
+grado	3.	2.	4.	3.	4.
+laureato	4.	4.	4.	3.	4.	3.
+grammatica	4.	4.
+grafico	4.	4.	4.	4.	3.	4.	5.	3.	5.	3.	4.	4.	3.	3.	3.	4.	3.	4.	5.
+erba	3.	4.	5.	3.	5.
+gratitudine	5.	3.
+gravità	5.	4.	3.	4.	3.	3.	3.
+grande	4.	5.	5.
+grecia	4.	3.
+greco	4.	4.
+greci	4.	4.
+verde	3.	3.	3.	3.	3.	4.	5.	4.	3.	4.	5.
+groningen	5.	3.
+terra	3.	3.
+gruppo	3.	3.	4.
+indovinare	3.	3.
+chitarra	3.	4.	4.	4.	3.
+palestra	5.	5.
+adrone	4.	3.
+emoglobina	5.	3.
+capelli	3.	4.
+martello	2.	3.	3.	2.
+mano	4.	3.
+stretta di mano	4.	3.
+felicità	5.	5.
+contento	5.	5.	4.
+difficile	3.	3.	4.	2.	3.	4.
+testa	3.	3.	3.
+salute	4.	4.	4.	5.	5.	3.	5.	4.	4.	5.	5.	4.
+salutare	4.	5.
+sentito	3.	3.
+cuore	3.	3.	3.	5.	4.	4.	3.	5.	4.	4.
+calore	4.	3.	4.	1.	2.	1.	3.	1.
+pesante	3.	3.
+elio	3.	3.
+elica	4.	4.	4.
+aiuto	4.	4.	4.	2.
+erba	3.	3.	3.	4.	4.	3.
+erbivori	5.	3.
+qui	3.	3.
+eredità	4.	3.
+eterogeneità	4.	3.
+nascondere	2.	2.	3.	3.
+gerarchia	4.	3.
+ciao	5.	3.
+alto	3.	5.	3.	4.	5.
+scuola superiore	4.	5.
+hiphop	5.	3.
+istogramma	4.	4.	3.	4.	3.	3.	3.
+oh	3.	3.
+hobby	3.	3.
+presa	3.	3.
+buco	3.	3.	3.	2.	3.	4.	3.	2.
+casa	5.	5.	5.
+città natale	5.	5.
+compiti a casa	2.	2.
+miele	2.	3.
+cavallo	4.	3.	4.	5.	3.	3.	3.	4.	4.	3.
+ospedale	2.	1.	1.
+ospite	3.	3.
+caldo	4.	3.	1.
+casa	3.	4.
+alloggiamento	3.	3.
+centro	3.	3.	5.	3.	3.	3.	4.	4.	5.	3.	4.
+hubble	5.	5.
+umano	4.	3.
+discipline umanistiche	5.	3.
+umani	4.	3.
+affamato	4.	4.
+ipotenusa	3.	3.
+ipotesi	4.	4.	4.	5.	3.
+ghiaccio	3.	3.	3.	4.	2.	5.	2.	3.	3.	3.	4.	4.
+islanda	3.	3.
+idea	5.	5.	5.	4.	5.
+ideale	3.	3.
+idealismo	4.	4.
+idee	5.	3.
+malattia	2.	1.	1.	1.
+illuminazione	4.	4.
+immaginario	4.	4.	5.
+impatto	5.	5.
+importanza	5.	5.
+importante	5.	5.	5.	5.	4.	5.	5.
+pollice	3.	3.
+incidente	2.	3.
+aumento	3.	3.
+indipendenza	5.	3.
+individuale	3.	3.	3.	3.	3.	5.	3.	4.	3.
+induzione	3.	3.
+dedurre	4.	4.
+inferenza	3.	3.
+infinito	3.	3.	3.
+infinito	5.	3.
+influenza	4.	3.	3.	3.
+infrastrutture	4.	3.
+inchiostro	4.	4.
+inchiesta	3.	3.
+follia	2.	3.
+insetto	3.	3.	3.	3.	2.
+ispirazione	4.	4.
+stimolante	5.	3.
+instabilità	2.	2.
+installare	3.	3.
+strumento	3.	4.	4.	3.	3.	3.	3.	4.	4.	4.	4.
+intero	4.	3.	3.	3.
+integrante	4.	3.	5.	4.	4.	5.	5.	4.	2.	5.	3.	3.	3.	5.	3.	3.
+integrare	2.	3.
+integrazione	4.	3.
+intelletto	3.	3.
+intelligenza	1.	5.	5.
+intelligente	5.	5.
+interagendo	4.	4.
+interazione	5.	3.	4.	4.	4.	3.	4.	4.	5.	5.	4.	5.	5.	5.	5.	4.
+interconnesso	5.	3.
+interdisciplinare	5.	3.
+interesse	4.	4.
+internet	5.	4.	4.
+intervallo	3.	3.
+ferro	3.	3.
+irrazionale	4.	1.
+isola	3.	3.	3.	5.	4.	4.
+isolani	4.	4.
+istanbul	4.	4.
+italiano	4.	5.	4.	5.
+marmellata	1.	2.
+jaume	2.	2.
+jeans	5.	3.
+jedi	3.	3.
+lavoro	5.	3.
+giunto	3.	3.
+jon	2.	3.
+diario	3.	3.
+viaggio	5.	5.
+salto	5.	5.
+k	3.	3.
+chiave	3.	3.
+kg	2.	3.
+ragazzo	3.	4.
+bambini	4.	4.
+cucina	4.	3.
+coltello	3.	3.
+sapere	5.	3.
+conoscenza	5.	5.	5.	5.	4.	5.	4.	3.	5.	5.	5.
+koehandel	5.	3.
+la	3.	3.
+laboratorio	3.	2.	2.	4.	2.	4.	4.	5.	2.	4.	3.	3.	3.	3.	4.	2.	2.
+lavoro	3.	3.
+laboratorio	3.	4.	4.
+lago	5.	4.
+lancan	4.	4.
+terra	4.	4.	3.
+massa continentale	3.	3.
+land-rover	3.	3.
+paesaggio	4.	3.
+lingua	5.	5.	5.	3.	3.	5.	4.	5.	5.	3.	3.	3.	3.	3.	4.	2.	3.	5.
+computer portatile	3.	5.	4.	5.
+grande	3.	3.
+scorso	3.	3.
+reticolo	3.	3.
+legge	5.	4.	4.	4.	3.
+lorenzo	5.	3.
+leader	3.	3.
+foglia	4.	4.	4.	5.	3.
+volantino	3.	3.
+imparare	5.	5.	5.
+apprendimento	3.	5.	4.	4.	4.	5.	5.	4.	5.	4.	4.
+partire	3.	3.
+foglie	4.	4.
+lezione	4.	4.	4.	3.
+docente	5.	5.
+guidato	2.	3.
+gamba	3.	3.
+lemma	5.	3.	4.
+lunghezza	3.	3.
+lente	3.	3.	4.	3.	3.
+lezione	4.	4.
+lettera	4.	2.	4.
+livello	2.	4.	4.	4.	3.	3.	4.	3.	4.	2.
+lessicale	4.	4.
+vita	4.	4.	4.	4.	4.	5.	4.	4.	5.	4.	5.	4.	5.	5.	5.	5.	5.	5.	5.	5.	5.	5.	4.	5.	5.	5.	5.	5.	4.	5.	5.	5.	5.	5.	5.	5.	5.	5.	5.	5.	4.	5.	4.	5.	4.	5.
+leggero	4.	5.	3.	4.	5.	3.	3.	4.	4.	4.
+probabilità	3.	3.
+limite	3.	1.	3.	3.	5.	3.	3.	3.	3.
+limitato	3.	3.
+linea	3.	2.	4.	3.	3.	3.	3.	4.	3.	3.	4.	4.	3.
+lignaggio	4.	3.
+lineare	3.	3.	3.	3.	2.	1.
+collegamento	3.	3.	3.	4.	4.	4.	4.	3.
+collegato	5.	5.
+collegamenti	3.	3.
+liquido	3.	3.	4.	3.	3.	3.	3.	3.	3.	4.
+liquido	3.	3.
+lista	3.	3.
+letteratura	3.	3.
+carico	3.	3.
+locale	4.	3.
+logica	5.	4.	3.	3.	3.	5.
+logico	5.	3.
+logistica	1.	4.	4.	3.	4.	3.	3.	4.	3.
+lecca-lecca	3.	3.
+lungo	4.	3.
+ciclo continuo	3.	3.	3.	4.	3.	3.	3.	3.	4.	2.	3.	4.
+signore	2.	3.
+lorentz	3.	3.
+perdita	2.	2.
+forte	4.	3.
+amore	4.	5.
+macchina	5.	3.	3.	4.
+pazzo	4.	3.
+magia	5.	3.
+mago	4.	3.
+magnete	2.	5.	5.	3.
+magnetico	2.	3.
+magnetismo	3.	5.	3.	3.	5.	3.	5.
+grandezza	3.	3.
+posta	3.	3.
+mantenere	3.	3.
+fare	4.	5.	5.
+creatore	3.	3.
+mammifero	3.	4.
+gestione	3.	3.
+manipolare	4.	3.
+molti	3.	1.
+mappa	4.	3.
+acero	3.	3.
+mappe	4.	3.
+marijuana	3.	3.
+segno	3.	3.	3.	3.	3.	4.
+mercato	4.	4.	3.	1.	4.	4.	3.	3.	3.	5.	3.	4.	3.
+marx	5.	3.
+massa	3.	3.	3.	3.
+incontro	4.	3.
+materiale	3.	3.
+matematica	4.	4.	2.	4.	5.	4.	4.	3.	5.	5.	5.	4.	4.	4.	4.	4.	4.	4.	4.	3.	5.
+matematico	4.	5.	5.	1.	3.	4.	4.
+matematico	3.	4.	4.	5.	3.	4.	5.	4.	3.	4.	4.
+matematica	4.	4.	5.	5.	5.	5.	3.	5.	5.	3.	3.	5.	5.	4.	4.	4.	5.	5.	5.	4.	4.	5.	5.	4.	5.	4.	4.	5.	5.	5.	5.	4.	5.	4.	5.	3.	3.	3.	2.
+matematica	4.	5.	4.	4.	4.	4.	4.	4.	3.	5.	5.	3.	5.	5.
+matplotlib	4.	3.
+matrice	4.	3.	3.	5.	2.	3.	4.	4.	3.	4.
+questione	3.	3.
+massimo	3.	3.	3.	3.	3.
+me	5.	5.
+significare	4.	3.	3.	3.	3.
+misura	4.	4.	3.	3.	3.	4.
+meccanico	3.	3.
+meccanica	3.	3.	4.	3.
+media	3.	3.	5.	3.	2.	2.	2.	4.	3.	2.
+mediano	3.	3.	3.	3.
+farmaco	3.	3.	4.	3.	4.
+medicinale	3.	4.	2.	4.	5.
+medio	2.	2.
+medrese	4.	4.
+meiosi	3.	3.	3.	3.	3.	2.	3.	3.
+sciolto	2.	3.
+fusione	3.	3.
+membrana	3.	3.
+mentale	3.	1.	1.
+mentore	4.	3.	4.
+merkel	1.	3.
+disordine	2.	2.
+messaggio	3.	3.
+disordinato	5.	3.
+metabolismo	5.	3.
+metallo	2.	3.	3.	3.	3.	3.	5.	5.	3.
+meteora	1.	1.
+metri	3.	3.
+metano	3.	3.	3.	3.
+metodo	4.	3.	5.	5.	5.
+metodi	4.	4.
+metrico	4.	3.	3.	4.
+micro	4.	3.
+microscopio	4.	4.	2.	3.	3.	5.	5.	4.
+microsoft	4.	4.
+mezzo	3.	3.
+latte	3.	2.
+mente	4.	5.	4.	4.	5.
+minimo	3.	3.	4.	3.	3.
+minuscolo	3.	3.
+mancante	2.	3.
+mitocondri	4.	3.
+mitosi	3.	3.	1.	3.	3.	4.	3.	3.	4.
+mobile	3.	3.
+modello	5.	3.	3.	3.	4.	5.	5.	5.	5.	4.	5.	5.	3.	4.	4.	4.	3.	3.	3.	5.	3.	4.	5.	5.	5.	4.
+moderno	4.	3.
+modificare	3.	4.	4.
+modulo	3.	3.
+molare	3.	3.
+molecola	3.	3.
+molecole	3.	4.	4.
+mamma	4.	4.
+soldi	2.	5.	4.	4.	4.	1.	3.	4.	3.	4.	4.	3.	4.	4.	4.
+umore	2.	2.
+luna	4.	5.	4.
+di più	4.	4.
+madre	4.	3.
+motivo	3.	3.
+movimento	4.	5.
+motivante	5.	3.
+montagna	5.	3.
+topo	3.	4.	3.
+mossa	5.	5.
+movimento	3.	3.	4.	4.	3.	4.	3.
+film	4.	4.	5.	5.	5.
+in movimento	3.	3.
+mozart	5.	5.
+tanto	4.	3.
+fango	1.	1.
+multi	3.	4.
+multisala	3.	4.	3.	3.
+moltiplicazione	3.	3.
+multiscala	5.	5.
+muscolo	3.	3.	4.	5.	4.
+museo	4.	3.	5.
+fungo	4.	3.
+musica	5.	5.	4.	5.	4.	5.	5.
+mutazione	5.	3.
+sgradevole	1.	3.
+nativo	3.	3.
+naturale	4.	5.	5.	4.	4.
+natura	3.	5.	5.	5.	5.	5.	5.	5.
+nausea	1.	1.
+necessario	3.	3.
+negativo	4.	3.
+netto	5.	3.
+paesi bassi	4.	3.
+rete	3.	3.	3.	4.	4.	4.	5.	4.	4.	3.	5.	4.	5.	5.	5.	4.	4.	4.	5.	5.	5.	4.	4.	4.	4.	5.	4.	4.	4.	4.	5.	4.	3.	3.	3.	4.	3.	3.	3.	3.	4.	3.	3.	4.	4.	4.	5.	5.	5.	4.	3.	5.	3.	4.	4.	5.	4.	5.	3.	4.	4.	4.
+neurale	5.	3.
+neurone	4.	3.	2.	3.	5.	3.	5.	3.	3.	3.	5.	5.
+neuroscienze	4.	3.
+neutrone	3.	4.	3.	3.	3.	4.	3.
+nuovo	4.	4.
+principiante	2.	2.
+notizia	5.	5.
+newtone	4.	4.	5.	4.	4.	4.	5.	4.
+newtoniano	4.	3.
+carino	4.	5.	4.	4.
+notte	5.	3.
+nitro	5.	3.
+nobile	3.	3.
+nodo	3.	3.	4.	4.	4.	3.	3.	3.	5.
+rumore	3.	4.	5.	3.
+rumoroso	2.	3.
+non lineare	3.	3.
+nonlinearità	4.	4.	4.	5.	3.	4.
+nord	3.	3.
+note	3.	2.
+romanzo	5.	5.
+novizio	2.	3.
+ora	4.	4.
+nucleare	3.	3.
+numero	5.	5.	5.	3.	5.	4.	4.	3.	3.	4.	3.	4.	4.	5.	5.	3.	5.	3.	3.	5.	5.	5.	4.
+numerico	4.	4.
+oggettivo	3.	3.
+osservazione	3.	3.
+ottenere	3.	3.	3.	4.
+oceano	5.	3.
+ode	3.	3.
+ufficio	4.	2.
+olio	1.	3.
+vecchio	2.	3.
+uno	3.	3.	1.	3.
+una_nota	1.	3.
+aprire	4.	4.	4.	4.	5.
+opera	4.	3.
+operativo	3.	3.
+operazione	4.	4.
+opinione	4.	4.
+opposto	3.	3.
+ottica	4.	3.
+ottimizzazione	3.	3.
+orbita	3.	3.
+ordine	4.	5.	4.	3.
+organo	3.	3.
+organico	3.	3.	4.	5.	3.	3.	4.
+organizzazione	3.	4.	4.	4.	4.	3.	2.	4.	3.	3.
+organismo	4.	4.	5.	4.	3.	4.	5.	5.	3.
+organizzazione	3.	3.
+origine	4.	4.	3.	3.	3.	3.
+oscillare	3.	3.
+fuori	3.	3.
+sopra	2.	3.
+ossigeno	3.	3.
+pagina	3.	4.
+dolore	1.	3.
+colore	4.	5.
+pittura	4.	3.	4.	2.	5.	4.	1.	5.	5.
+pandemie	3.	1.	3.	2.	1.	2.	4.
+carta	4.	2.	2.	4.	5.	5.	3.
+paradigma	4.	3.
+paradosso	4.	2.	5.	4.	4.
+parametro	5.	3.	4.
+parametri	3.	3.
+parassita	3.	1.	2.	1.	2.	2.	1.
+parco	4.	4.
+parziale	4.	4.
+particella	3.	3.
+parti	3.	3.
+festa	5.	3.
+pasta	4.	3.
+sentiero	3.	3.
+modello	4.	4.	3.	3.	4.	4.	4.	4.	3.	5.	5.	4.	5.
+profitti	4.	4.
+pcb	3.	3.
+pace	3.	3.
+picco	3.	3.	3.
+peculiare	4.	4.
+penna	3.	3.	4.
+matita	2.	2.
+pendolo	5.	3.	3.	3.	3.	3.	3.	3.
+pentagono	2.	2.
+persone	4.	4.	4.	4.	4.	4.
+per cento	4.	3.
+periodo	3.	3.	3.	3.	3.	3.
+periodico	3.	3.
+tavola_periodica	3.	3.
+permutazione	3.	3.
+persona	3.	4.	3.	3.	3.	2.	3.	3.	3.	3.	3.	3.	4.	2.	4.
+persuasione	4.	3.
+perturbazione	3.	3.
+pestilenza	3.	3.
+petalo	3.	3.
+petnica	5.	3.
+benzina	3.	3.
+tel	5.	3.
+farmacia	2.	3.
+fase	3.	5.
+fasico	3.	3.
+dottorato di ricerca	4.	4.	5.	5.	4.	4.	5.	5.	4.	4.	5.	5.
+fenomeni	4.	3.
+filosofo	5.	5.
+filosofia	5.	5.	4.
+telefono	4.	3.	3.	2.
+foto	4.	3.
+photoshop	3.	3.
+fotosintesi	5.	5.
+filosofia	5.	5.
+fisico	5.	5.	5.
+fisico	5.	3.
+fisica	3.	4.	4.	5.	5.	3.	4.	5.	5.	5.	5.	3.	3.	3.	3.	5.	5.	5.	4.	4.	4.	4.	2.	3.	2.	2.	5.	2.	5.	5.	4.	4.	4.	4.	3.	3.	2.	2.	2.	5.	5.	5.	5.	5.	5.	4.	5.	4.	5.	4.	5.	4.	5.	3.	3.	3.	3.	4.	5.	5.	3.	4.	5.	5.	5.	5.	3.	3.	3.	3.	5.	5.	5.	4.	4.	4.	4.	2.	3.	2.	2.	5.	2.	5.	5.	4.	4.	4.	4.	3.	3.	2.	2.	2.	5.	5.	5.	5.	5.	5.	4.	5.	4.	5.	4.	5.	4.	5.	3.	3.	3.	3.	3.	4.	4.
+pi	4.	3.
+pianoforte	3.	4.
+scegliere	3.	3.
+immagine	3.	3.
+pezzo	3.	3.
+piccione	3.	3.
+pillola	3.	3.
+pillole	1.	1.
+rosa	3.	4.
+pitagora	4.	4.
+posto	3.	3.	3.	3.	3.	3.	3.	3.
+piano	3.	3.
+aereo	5.	4.	3.	3.	2.	3.	4.	4.
+pianeta	3.	3.
+pianeti	5.	3.
+pianta	3.	5.	3.	4.	4.	3.	4.
+giocare	5.	3.
+giocatore	4.	4.
+giocatori	3.	3.
+piacevole	5.	3.
+complotto	4.	3.	3.	4.	3.	3.	5.	3.	4.	3.	3.
+tappo	3.	3.
+poesia	4.	3.
+punto	2.	2.	3.	3.	3.	3.	3.	5.	3.	3.
+inutile	3.	3.
+veleno	1.	3.
+polizia stradale	3.	3.
+politico	1.	3.
+politica	4.	3.
+poligono	4.	3.	3.	3.	4.	3.
+polinomio	3.	4.
+pony	5.	3.
+povero	1.	3.
+popolazione	5.	5.	4.	5.	3.	3.
+positrone	3.	3.
+inviare	3.	4.
+post-doc	3.	3.
+poster	4.	3.
+postulato	4.	3.	3.	5.	4.	3.	2.
+energia	3.	2.	3.
+pratica	3.	4.	4.	3.
+predatore	3.	3.	3.	5.
+previsione	4.	4.	3.	4.	3.	4.	5.	4.	5.	4.	4.
+pregiudizio	1.	1.
+premessa	4.	3.	3.	3.	3.	3.	4.	4.
+presentazione	4.	3.
+conserva	3.	3.
+presidente	2.	3.
+premere	3.	3.
+prevenzione	4.	3.
+preda	3.	3.	3.	2.	2.	5.
+prezzo	3.	3.
+primario	2.	5.
+principio	4.	3.
+prigione	1.	3.
+prigioniero	2.	4.	2.	2.	1.	4.	1.	2.	2.	2.	2.	1.	2.	2.	1.
+probabilistico	3.	3.
+probabilità	4.	3.	3.	5.	5.	2.	3.	3.	4.	5.
+problema	5.	2.	2.	2.	4.	1.
+procedura	5.	5.
+processo	4.	3.	3.	5.	3.
+produrre	4.	3.
+prodotto	3.	3.
+professore	4.	3.
+profitto	4.	3.
+programma	3.	4.	5.
+programma	4.	4.	4.
+programmazione	5.	3.	5.	4.
+progressi	4.	4.
+promuovere	4.	4.	4.	3.
+prova	4.	5.	5.	5.	5.
+proprietà	4.	4.
+proprietà	3.	3.
+proposta	2.	3.
+protein	4.	4.
+protone	3.	1.	3.	4.	3.	3.	3.	5.	4.	3.	3.
+dimostrare	3.	3.
+dimostrando	4.	4.
+psicologia	4.	5.
+pubblico	3.	4.
+pubblicazione	2.	3.
+impulso	3.	3.
+punteggiatura	3.	3.
+foratura	2.	3.
+spingere	5.	3.
+pitone	4.	5.	4.	4.	3.	4.
+qualità	3.	5.
+quantile	3.	3.
+quantità	3.	3.
+quantistico	3.	3.	3.	3.	4.	3.	3.	4.
+meccanica_quantistica	4.	3.
+regina	3.	3.
+domanda	3.	3.
+quiz	4.	3.	3.	2.
+coniglio	4.	3.
+radiazione	3.	3.	5.	3.	2.
+radio	4.	4.
+radioattivo	4.	4.
+piovere	3.	4.	3.	1.	5.	2.	2.
+casuale	4.	3.
+allineare	3.	3.	3.
+rap	3.	3.
+lampone	4.	3.
+ratto	2.	3.
+valutare	3.	3.
+razionale	4.	3.	3.	5.	2.	4.	4.	3.
+logica	3.	3.
+reazione	3.	4.	4.	3.	4.	4.	5.	4.
+leggere	5.	5.	5.
+vero	3.	3.	3.
+realtà	3.	4.	4.	3.	4.
+ragionamento	4.	5.	4.	4.	3.	4.	5.	4.	4.	5.	5.
+riconoscimento	3.	3.
+raccomandazione	4.	4.
+documentazione	3.	3.
+recupero	4.	5.
+ricreare	5.	3.
+rettangolo	3.	3.
+riciclare	4.	4.
+rosso	3.	5.	3.	3.
+redenzione	5.	3.
+redox	4.	3.
+ridurre	3.	3.
+regionale	4.	4.
+regressione	4.	3.	3.	3.	3.	3.	2.	4.	2.	3.	3.	4.	2.
+regolamento	4.	3.
+relazionare	3.	4.
+imparentato	4.	4.
+relazione	5.	3.
+relatività	4.	3.	4.	4.	3.	3.	3.	4.	5.
+relax	4.	5.	5.	5.	5.
+pubblicazione	3.	3.
+religione	2.	3.
+rimuovere	3.	3.
+rinnovo	4.	4.	5.
+riparazione	2.	3.
+rapporto	3.	3.
+rappresentazione	4.	3.
+riproduzione	5.	3.
+ricerca	4.	5.	5.	5.	5.	5.	5.	4.	4.	4.	5.	5.	5.	5.	3.	5.	5.	5.
+ricercatore	4.	4.	4.	5.	5.	2.	3.
+resistenza	4.	4.
+resistore	3.	3.
+restauro	5.	5.
+risultati	3.	3.
+revisione	4.	3.
+retorica	4.	3.
+passeggiata	4.	3.
+cavalcare	5.	3.
+diritti	5.	5.
+rischio	1.	1.
+fiume	3.	3.	4.	3.	3.	3.	4.
+rna	3.	3.	3.	3.
+vesti	2.	3.
+robusto	3.	3.	3.
+roccia	3.	4.	3.
+razzo	4.	3.
+ruolo	3.	3.
+camera	3.	3.	3.	3.	3.	3.	3.
+radice	3.	3.	3.	4.	3.	3.
+radici	3.	3.
+rosa	4.	5.
+all'incirca	3.	3.
+girare	3.	3.
+router	3.	3.
+ritmo	3.	3.
+spazzatura	2.	3.
+regola	3.	3.
+governate	3.	3.
+regole	3.	1.	3.
+rum	4.	3.
+correre	3.	5.	1.
+runge-kutta	5.	3.
+russia	2.	3.
+triste	2.	3.
+sella	4.	2.	3.	3.	5.	3.	3.	3.	3.	3.	4.	3.	3.
+santo	1.	3.
+venditore	4.	4.
+sabbia	4.	2.
+dire	3.	3.
+senza scala	5.	5.
+cicatrice	2.	2.
+scarso	3.	3.
+programma	3.	3.
+studioso	4.	4.	4.
+scuola	3.	4.	4.	4.	4.	4.	4.	4.	3.	4.	3.	4.	4.	4.	3.	2.	4.	4.	4.	4.	5.	5.	3.	4.	2.	5.	4.	5.	3.	3.	3.	3.	4.	4.	4.	4.	4.	4.	4.	4.	4.	4.	4.	2.	3.	4.	5.	3.	3.	4.	5.
+programma	3.	3.
+scienza	5.	5.	5.	5.	5.	4.	4.	4.	3.	5.	5.	4.	4.	3.	3.	3.	3.	3.	4.	4.	4.	4.	4.	4.	5.	5.	5.	5.	5.	3.	5.	5.	4.	5.	5.	5.	5.	5.	5.	3.	5.	5.	4.	4.	5.	5.	5.	5.	4.	4.	4.	4.	4.	4.	4.	4.	3.	3.	4.	4.	5.	5.	5.
+scientifico	5.	4.	5.	5.	4.	5.	3.	3.	4.	4.	4.	3.	3.	3.	4.	5.	4.	3.	5.	5.	5.	4.	5.	3.
+scienziato	5.	4.	4.	4.	4.	4.	2.
+schermo	3.	3.
+cacciavite	2.	2.
+scarabocchiare	3.	3.
+scultura	4.	3.
+mare	3.	5.	4.
+ricerca	3.	3.
+secondo	3.	3.
+secondi	3.	3.
+segreto	2.	2.
+vedere	4.	3.
+segregazione	2.	3.
+selezione	3.	3.	3.	4.	5.	5.	5.	3.	3.
+se stesso	3.	2.
+egoista	2.	2.
+auto-organizzazione	3.	4.
+auto-organizzarsi	5.	5.
+inviare	3.	3.
+anziano	3.	3.
+sensibile	3.	3.
+sensore	3.	3.
+frase	4.	4.	4.
+separato	3.	3.
+separazione	1.	3.
+serie	3.	3.
+impostato	3.	3.
+teoria_degli_insiemi	5.	3.
+sette	3.	3.
+acuto	1.	3.
+ombra	2.	3.
+forma	3.	3.	4.
+forme	2.	4.
+condividere	4.	4.
+azioni	4.	3.
+shawshank	3.	3.
+mensola	3.	3.
+shock	2.	3.
+negozio	3.	3.
+spettacolo	4.	3.	2.	2.
+doccia	4.	4.
+mostrando	3.	3.
+navetta	4.	3.
+sick	1.	1.	1.
+malattia	1.	3.
+lato	3.	3.
+vista	4.	3.
+segnale	3.	3.
+semplificazione	4.	4.
+simulare	4.	2.	4.	4.	5.
+simulazione	4.	4.	4.	5.	5.	3.
+peccato	4.	3.
+seno	3.	3.
+singapore	5.	3.
+separare	1.	3.
+sedersi	3.	3.
+sito	3.	3.
+situazione	3.	3.	2.	3.
+misurare	4.	3.
+scheletro	4.	4.
+pelle	3.	3.	3.	3.	3.
+sklearn	4.	3.
+sklodowska	4.	3.
+cielo	4.	5.	3.	5.	4.	4.	3.	4.	4.	5.	5.
+sonno	5.	3.
+lento	2.	4.	2.
+piccolo	3.	3.	3.	3.
+piccolo mondo	4.	4.	5.	4.	4.	3.	5.
+accorto	4.	4.
+odore	3.	4.
+fumo	4.	3.
+sms	3.	3.
+nevicare	3.	4.	3.	5.	3.
+sapone	4.	4.
+sociale	3.	3.	3.	4.	4.	5.	4.	3.	4.	5.	5.	4.	4.	5.
+società	4.	4.	5.	3.	3.	5.	4.
+socioscopio	5.	3.
+morbido	3.	3.
+software	3.	3.
+solido	3.	3.	3.	3.	3.	3.	3.	3.	3.	3.	3.	3.	3.	4.
+soluzione	3.	3.
+risolvere	4.	4.
+anima	4.	3.
+suono	4.	5.	5.	3.
+suoni	3.	3.
+acido	3.	3.
+fonte	3.	3.
+sud	3.	3.
+terme	4.	4.
+spazio	3.	5.	4.	4.	4.	3.	4.	3.	4.	3.	3.	4.	3.	5.	4.	3.
+spaziale	3.	3.
+speaking	4.	3.
+specializzazione	5.	4.	3.
+specialista	2.	2.
+specie	5.	5.
+velocità	3.	3.
+sfera	3.	3.
+spezie	5.	3.
+arpione	3.	3.	3.	4.	3.	3.	5.
+spirale	4.	4.
+diviso	3.	3.
+sport	4.	3.
+sport	2.	4.
+diffusione	4.	3.
+primavera	3.	3.	3.	4.	5.	4.	5.	3.	5.	5.
+sprint	5.	3.
+piazza	4.	3.	3.	3.	3.	3.	3.
+stabilità	4.	3.
+stabile	4.	3.
+stella	3.	3.	3.	5.	5.	4.	3.	4.	4.	5.	4.	5.	5.	5.	4.	5.	4.	5.	4.	5.	4.	5.	5.
+star_wars	5.	3.
+stato	3.	4.	3.	3.	4.	3.	3.	4.
+statico	3.	3.
+stazione	3.	3.
+statistica	3.	3.
+statistiche	4.	3.	4.	2.	1.	4.	4.	2.	2.	4.	4.	3.	5.	1.	2.	4.	4.	3.	4.	4.	4.	3.	3.	2.	4.	3.	3.	2.
+statua	5.	3.
+statuto	1.	3.
+rimanere	2.	3.
+standard	3.	3.
+costante	4.	3.
+vapore	3.	3.
+acciaio	3.	3.
+mescolata	3.	3.
+stocastico	5.	3.
+stocasticità	4.	4.
+mercato_azionario	1.	1.
+magazzinaggio	3.	3.
+storia	5.	5.
+dritto	3.	3.
+strano	3.	3.
+strada	4.	3.
+forza	3.	4.
+stress	2.	2.
+corda	3.	3.
+forte	3.	3.	5.
+randagio	4.	3.
+struttura	3.	3.	5.	3.	3.	3.	3.	4.
+strutturato	3.	3.
+lotta	1.	3.
+studente	3.	3.	3.	4.	3.	3.	4.	4.	4.	3.	4.	3.	4.	4.	5.	4.	5.
+studi	3.	4.	4.	2.	3.	4.	5.	3.	4.	3.	3.	3.	4.	3.	3.	3.	5.	5.	3.	3.
+studio	4.	5.	4.	5.	5.	4.	3.	5.	3.
+studiando	3.	3.
+stupido	1.	3.
+stile	3.	3.
+soggetto	4.	3.
+soggettivo	3.	3.
+sublimazione	3.	3.	2.	3.
+sottoinsieme	3.	3.
+sostanza	3.	3.
+sottrazione	3.	3.
+successo	5.	5.	4.	5.	5.	4.
+suggerimento	3.	3.	3.	4.	3.	3.	4.
+somma	3.	3.
+estate	3.	3.	5.	5.	4.
+sole	4.	3.	3.	5.	5.	4.	5.	5.
+suscettibile	2.	2.
+dolce	3.	3.
+oscillazione	3.	3.
+programma	2.	2.	2.	2.	3.	2.	2.	3.	3.	4.
+simbolo	4.	3.
+sinapsi	5.	3.
+sinapsi	3.	3.	4.
+sintetizzare	3.	3.	5.
+sistema	2.	3.	5.	3.	4.	4.	4.	3.	3.	3.	4.	4.	5.	5.	5.	3.	4.	4.	3.	3.	4.	3.	5.	4.	4.	3.	3.	3.	4.	4.	5.	5.	5.	3.	5.	4.	3.	3.	4.	3.	3.	2.	3.	4.	5.	5.	5.	4.	5.	4.	5.	5.	4.	3.	3.	5.	3.	3.	5.	3.	5.	4.
+sistemico	2.	2.
+t	3.	3.
+prendere	3.	3.
+parlare	4.	3.
+parlando	4.	4.
+parla	4.	3.
+abbronzatura	3.	3.
+tangente	3.	3.
+compito	5.	4.
+tassare	2.	2.
+tè	4.	4.
+insegnare	5.	3.	5.
+insegnante	4.	4.	4.	4.	3.	4.	3.	5.	3.	3.	2.	3.	4.	5.
+insegnamento	3.	3.	5.	4.	4.	4.	5.	3.	4.	2.	3.	5.	3.	5.
+tecnico	4.	3.
+tecnologia	4.	3.
+testo	3.	3.
+telescopio	4.	3.	4.	3.	5.	3.	3.	3.	3.	3.	4.
+televisione	3.	2.	4.	2.
+temperatura	3.	3.	3.
+temporale	4.	3.	3.	3.	4.	3.
+teso	1.	3.
+tensore	3.	3.
+terminatore	5.	3.
+termite	3.	3.	2.	2.	2.
+termiti	3.	3.
+terrorismo	1.	1.
+tesla	5.	3.
+test	2.	2.	3.	3.	5.	5.	5.	4.
+testo	3.	3.
+teatro	3.	3.
+il migliore	5.	5.
+teorema	4.	4.	4.	4.	5.	3.	4.	3.	4.	5.	3.
+teoria	4.	4.	3.	4.	4.	4.	4.	4.	4.	4.	5.	5.	3.	5.	4.	3.	4.	2.	3.	4.	5.	3.	3.	3.	3.	5.	4.	5.	5.	5.	5.	5.	4.	4.
+termico	3.	3.
+termodinamica	1.	2.	5.	3.	3.
+spesso	4.	4.
+pensare	5.	4.
+pensiero	4.	5.	4.	5.	5.
+spinoso	2.	3.
+pensiero	5.	5.	4.
+squadra	3.	3.
+tempo	5.	4.	4.	3.	1.	4.	3.	4.	4.	2.	4.
+tinta	4.	5.
+minuscolo	3.	3.
+mancia	4.	4.
+tessuto	3.	3.
+a	1.	3.
+insieme	4.	4.
+attrezzo	5.	3.	3.	4.	3.	4.	3.	4.	3.	3.
+superiore	4.	3.
+topografia	5.	3.
+topologia	4.	3.
+città	3.	3.	3.	3.	3.	3.
+traffico	2.	1.	2.	4.	2.	2.	1.	3.	3.
+semaforo	2.	3.
+formazione	2.	4.	4.	4.	5.
+traiettoria	3.	3.
+transistor	1.	5.	3.	3.	3.	3.	3.	4.	3.	3.	4.	3.	3.	3.	5.
+trasporto	4.	4.
+viaggio	5.	5.	4.	5.	5.	4.	5.	5.	4.
+trattare	3.	4.	3.
+albero	4.	4.	4.	4.	4.	3.	5.	5.	3.	4.
+tendenza	4.	3.
+prova	2.	3.
+triangolo	4.	3.	3.	3.	3.
+trucco	3.	3.
+trigonometria	3.	3.	4.	3.	3.	3.	3.	3.	3.
+trimmer	3.	3.
+banale	3.	3.
+camion	4.	3.
+tromba	4.	3.
+verità	5.	5.
+tentativo	5.	3.	4.
+tutorial	3.	3.
+tv	3.	3.	1.	3.	2.	1.	2.	3.	3.	1.	3.	2.	1.	2.
+gemello	4.	3.
+due	3.	3.
+studente universitario	4.	4.
+comprensione	5.	5.	5.	5.	3.	3.
+uni	3.	3.
+unico	4.	3.
+unità	4.	3.	3.	3.	3.
+unito	4.	3.
+unità	3.	3.
+universo	3.	3.	4.	5.
+università	3.	4.	5.	5.	5.	4.	4.	4.	4.	4.	3.	3.	2.	4.	4.	5.	3.	2.	3.	4.	4.	4.	5.	3.	4.	5.	5.	5.	5.	4.	4.	4.	4.	4.	5.	5.	4.	3.	3.	4.	4.	5.	5.
+sconosciuto	4.	3.
+imprevedibile	2.	2.
+instabile	3.	3.
+su	4.	4.
+aggiornamento	4.	4.
+superiore	3.	3.
+urbano	3.	3.
+urna	2.	3.
+utile	4.	4.	5.
+valle	3.	3.
+valore	3.	3.	3.
+vapore	3.	3.
+vapore	2.	3.
+variabile	3.	3.	5.
+varianza	3.	3.	3.	3.	3.
+vasto	3.	3.
+vettori	3.	3.
+verdure	5.	3.
+vena	3.	3.	4.
+velocità	3.	3.
+vena	3.	3.
+avventurarsi	3.	3.
+verbale	4.	3.
+vertice	3.	3.
+vittima	2.	3.
+villaggio	4.	3.
+violino	4.	4.
+virtuale	3.	4.
+virus	2.	2.	2.	2.
+vita	3.	3.
+vitae	3.	3.
+vivido	3.	3.
+vuoto	1.	3.
+voltaggio	4.	4.
+von_neumann	4.	3.
+rinuncia	4.	3.
+camminare	3.	3.
+a piedi	4.	4.
+portafoglio	3.	3.
+caldo	5.	4.
+sciupare	3.	2.
+acqua	3.	3.	3.	3.	3.	3.	5.	5.	5.	5.	3.	4.	3.	5.	4.	4.	5.	4.	4.	4.	3.	3.	3.	4.	4.	4.	4.
+onda	4.	4.
+debole	3.	3.
+tempo atmosferico	5.	3.	3.	3.
+erba	4.	3.
+peso	3.	3.
+strano	3.	3.
+benessere	4.	4.	5.	5.	2.	4.	4.	3.	5.	5.
+bagnato	1.	3.
+che cosa	3.	3.
+ruote	4.	3.
+bianco	3.	4.	3.	4.	2.	2.	3.	3.
+lavagna	3.	3.
+largo	3.	3.
+moglie	5.	3.
+wii	4.	4.
+vincita	5.	5.
+vento	3.	3.
+vincitore	5.	5.
+inverno	3.	4.
+saggio	4.	3.
+ritirare	3.	4.
+donna	5.	3.
+legna	3.	3.
+parola	4.	5.	3.	3.	4.	3.	3.	3.	4.	3.	4.	3.	3.	5.
+lavoro	3.	3.	4.	4.	3.	4.	4.	4.	5.	4.	5.	2.	2.	2.	4.	3.	3.
+officina	4.	4.	5.	5.	3.
+mondo	3.	4.	4.	4.
+scrittore	2.	4.	2.
+sbagliato	2.	2.	2.
+wwc	4.	4.
+wwcs2017	5.	5.
+x	5.	3.	5.	3.
+anno	3.	3.
+giallo	4.	3.
+giovane	4.	4.
