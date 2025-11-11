@@ -66,14 +66,14 @@ def plot_valence_distribution(df):
     plt.figure(figsize=(6,5))
 
     # count the number of occurrences of each valence category
-    counts = df['valence_cat'].value_counts().sort_index()
-    tick_positions = range(len(counts)) 
+    counts = df.value_counts().sort_index()
+    # tick_positions = range(len(counts)) 
     counts.plot(kind='bar')
 
     plt.title('Distribuzione Categorie Valenza')
     plt.xlabel('Categoria')
     plt.ylabel('Conteggio')
-    plt.xticks(tick_positions, labels=['-1 (Negativo)', '0 (Neutro)', '+1 (Positivo)'], rotation=0)
+    # plt.xticks(tick_positions, labels=['-1 (Negativo)', '0 (Neutro)', '+1 (Positivo)'], rotation=0)
 
     plt.tight_layout()
     plt.show()
@@ -89,26 +89,86 @@ def categorize_valence_single(df):
 
     # if values are too close together, return all neutral --> if gamma ≤ 1 (gamma = 0 and gamma < 1 included)
     # if gamma <= 1:
-    #     return pd.Series([0] * len(arr), index=valence_series.index)
-    if gamma <= 1:
-        df['valence_cat'] = 0
+    #     df['valence_cat'] = 0
 
     # if gamma > 1: use inclusive quartiles to classify
-    Q1, Q3 = np.percentile(arr, [25, 75])
+    Q1 = np.percentile(arr, 25)
+    Q3 = np.percentile(arr, 75)
+    mode_val = stats.mode(arr, keepdims=False)
+    print(mode_val)
 
     #  defines classification logic based on position relative to quartiles
     def cat_score(v):
-        if v <= Q1:
-            return -1  # negative
-        elif v >= Q3:
-            return 1   # positive
-        else:
-            return 0   # neutral
+        if abs(Q1 - Q3) == 0:
+            if v == mode_val:
+                return 0
+            if v < mode_val:
+                return -1
+            if v > mode_val:
+                return 1
+            
+         
+        
+        elif abs(Q1 - Q3) > 1:
+            if v <= Q1:
+                return -1
+            elif v >= Q3:
+                return 1
+            else:
+                return 0
 
     # apply classification to the new column of the df
     df['valence_cat'] = df['valence'].apply(cat_score)
-
+    plot_valence_distribution(df['valence'])
+    plot_valence_distribution(df['valence_cat'])
+    print(Q1, Q3)
     return df
+
+def build_single_fmnt(df):
+    
+    # initialize an empty undirected graph
+    G = nx.Graph()
+
+    # create a valence dictionary for all nodes (cue words + responses)
+    valence_dict = dict(zip(df['word'], df['valence_cat']))
+
+    # create lists for negative, positive and neutral words
+    positive = set()
+    negative = set()
+    neutral = set()
+    
+    # add all unique words as nodes with their valence category as a node attribute
+    for node, val in valence_dict.items(): 
+        G.add_node(node, valence=val)
+        if val == 1:
+            positive.add(node)
+        elif val == -1:
+            negative.add(node)
+        elif val == 0:
+            neutral.add(node)
+    custom_valences = [positive, negative, neutral]
+    # add undirected edges between cue words and their responses (for each row)
+    edges = list(zip(df['cue_word'], df['word']))
+    G.add_edges_from(edges)
+
+    # get the valence, degree and closeness centrality of the words of interest
+    features_fmnt_dict = {}
+    for word in ['ansia', 'matematica']:
+        valence = 1 if word in positive else -1 if word in negative else 0 if word in neutral else None
+        degree = G.degree(word)
+        clo_cen = nx.closeness_centrality(G, word)
+
+        features_fmnt_dict[f'valence_{word}'] = valence
+        features_fmnt_dict[f'degree_{word}'] = degree
+        features_fmnt_dict[f'clo_cen_{word}'] = clo_cen
+
+    # wrap in list to create a single-row DataFrame
+    features_fmnt = pd.DataFrame([features_fmnt_dict])
+    # add participant_id to the DataFrame (first col)
+    features_fmnt.insert(loc=0, column='participant_id', value=df['participant_id'].iloc[0])  
+        
+    return G, features_fmnt, custom_valences
+
 
 def categorize_valence_multiple(df):
 
@@ -192,7 +252,8 @@ def build_multiple_fmnt(df, keywords, folder_path, file_path, flower='yes', lang
 
     # create a Formamentis object from the graph
     fmn = emo.nxgraph_to_formamentis(G)
-
+    fmnts_keyword = []
+    rows = []
     # create a subgraph for each of the keywords we are intereseted in and calculate tehir features
     for keyword in keywords:
         try: 
@@ -237,6 +298,36 @@ def build_multiple_fmnt(df, keywords, folder_path, file_path, flower='yes', lang
             }
             print(f"Counts of '{keyword}' = {counts}")
             print(f"Mode of '{keyword}' = {max(counts, key=counts.get)}")
+            fmnts_keyword.append(fmnt_keyword)
+
+            G_kw = nx.Graph()
+            G_kw.add_nodes_from(fmnt_keyword.vertices)
+            G_kw.add_edges_from(fmnt_keyword.edges)
+
+            avg_shortest_path = nx.average_shortest_path_length(G_kw)
+            diameter = nx.diameter(G_kw)
+            
+            deg_dict = dict(G.degree(fmnt_keyword.vertices))
+            top5 = sorted(deg_dict.items(), key=lambda kv: (-kv[1], kv[0]))[:5]
+            top5_nodes = [n for n, d in top5]
+ 
+            # append a dict with all features
+            rows.append({
+                "sample": file_path,
+                "keyword": keyword,
+                "n_nodes": len(fmnt_keyword.vertices),
+                "n_edges": len(fmnt_keyword.edges),
+                "local_clustering": local_clustering_coeff,
+                "avg_shortest_path": avg_shortest_path,
+                "diameter": diameter,
+                "top5_degree": top5_nodes
+            })
+
+            # build the dataframe
+            features_fmnt_df = pd.DataFrame(rows)
+
+            # optional: ensure top5_degree is stored as list (not expanded)
+            features_fmnt_df["top5_degree"] = features_fmnt_df["top5_degree"].apply(lambda x: list(x))
 
             ### !!! OPTIONAL: PLOT EMOTIONAL FLOWER !!!
             if flower == 'yes':
@@ -248,61 +339,17 @@ def build_multiple_fmnt(df, keywords, folder_path, file_path, flower='yes', lang
         except ValueError as e:
             if "min() arg is an empty sequence" in str(e):
                 print(f"⚠️ Skipping {keyword}: not enough data to build the network.")
-                     
-    return G, fmn
 
-def build_single_fmnt(df):
-    
-    # initialize an empty undirected graph
-    G = nx.Graph()
+    return G, fmn, fmnts_keyword, features_fmnt_df
 
-    # create a valence dictionary for all nodes (cue words + responses)
-    valence_dict = dict(zip(df['word'], df['valence_cat']))
-
-    # create lists for negative, positive and neutral words
-    positive = []
-    negative = []
-    neutral = []
-    
-    # add all unique words as nodes with their valence category as a node attribute
-    for node, val in valence_dict.items(): 
-        G.add_node(node, valence=val)
-        if val == 1:
-            positive.append(node)
-        elif val == -1:
-            negative.append(node)
-        elif val == 0:
-            neutral.append(node)
-
-    # add undirected edges between cue words and their responses (for each row)
-    edges = list(zip(df['cue_word'], df['word']))
-    G.add_edges_from(edges)
-
-    # get the valence, degree and closeness centrality of the words of interest
-    features_fmnt_dict = {}
-    for word in ['ansia', 'matematica']:
-        valence = 1 if word in positive else -1 if word in negative else 0 if word in neutral else None
-        degree = G.degree(word)
-        clo_cen = nx.closeness_centrality(G, word)
-
-        features_fmnt_dict[f'valence_{word}'] = valence
-        features_fmnt_dict[f'degree_{word}'] = degree
-        features_fmnt_dict[f'clo_cen_{word}'] = clo_cen
-
-    # wrap in list to create a single-row DataFrame
-    features_fmnt = pd.DataFrame([features_fmnt_dict])
-    # add participant_id to the DataFrame (first col)
-    features_fmnt.insert(loc=0, column='participant_id', value=df['participant_id'].iloc[0])  
-        
-    return G, features_fmnt
 
 # function to use on the data analysis of multiple partcipants
 def pipeline_multiple_participants(df, keywords, folder_path, file_path, flower):
     clean_df = text_cleaning(df)
     long_df = build_association_df(clean_df)
     final_df = categorize_valence_multiple(long_df)
-    G, fmn = build_multiple_fmnt(final_df, keywords, folder_path, file_path, flower)
-    return final_df, G, fmn
+    G, fmn, features_fmnt_df = build_multiple_fmnt(final_df, keywords, folder_path, file_path, flower)
+    return final_df, G, fmn, features_fmnt_df
 
 def pipeline_df_building(df, filter = 'no'):
     clean_df = text_cleaning(df)
@@ -314,8 +361,8 @@ def pipeline_single_participant(df):
     clean_df = text_cleaning(df)
     long_df = build_association_df(clean_df)
     final_df = categorize_valence_single(long_df)
-    G, features_fmnt  = build_single_fmnt(final_df)
-    return final_df, G, features_fmnt
+    G, features_fmnt, valences  = build_single_fmnt(final_df)
+    return final_df, G, features_fmnt, valences
 
 def run_pipeline_all_participants(df):
     results = []
