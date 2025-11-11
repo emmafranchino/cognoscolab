@@ -1,19 +1,13 @@
-from __future__ import annotations
 from pathlib import Path
-from typing import Iterable, List, Optional, Tuple, Union, Dict, Set
+from typing import Iterable, List, Optional, Tuple, Union, Dict
 
 import pandas as pd
-from collections import namedtuple, defaultdict, Counter
 import os
-import numpy as np
 import re
 import networkx as nx
 from emoatlas.resources import _valences
-# from now on the packages are for the import_fmnt_from_sets function
-# Also defaultdict, Counter are used only there
-from scipy import stats
-from typing import Tuple, List, Set, Dict
-
+from collections import namedtuple
+from .valence import categorize_valence_multiple
 
 
 def import_fmnt_from_txt(filepath=None, language="english", custom_valences=False):
@@ -317,113 +311,6 @@ def _parse_students_edges_old_text(file_path: Union[str, Path]) -> pd.DataFrame:
     return df
 
 
-def categorize_valence_multiple(df, alpha=0.1, min_occurrences=3, return_custom_valences=False, direction_stat="mean", normalize=False):
-    """
-    Global (pooled) nonparametric per-word valence categorization (Kruskal-Wallis).
-    direction_stat: 'median' (default) or 'mean' to decide if positive, negative or neutral after significance.
-    If normalize=True, lowercase/strip the 'word' column inside this function.
-
-    Parameters
-    ----------
-    df : pd.DataFrame
-        DataFrame containing at least 'word' and 'valence' columns.
-    alpha : float
-        Significance level for the Kruskal-Wallis test (default: 0.1).
-    min_occurrences : int
-        Minimum number of occurrences of a word to perform the test (default: 3).
-    return_custom_valences : bool
-        If True, return a custom mapping of words to their valence categories.
-    direction_stat : str
-        Statistic to use for direction ('median' or 'mean').
-    normalize : bool
-        If True, normalize the 'word' column by lowercasing and stripping whitespace.
-    """
-    # Do not drop NaNs in valence early because we need as much
-    # word occurrences as possible for the statistical test.
-    # Work on a copy to avoid modifying the original DataFrame
-    df = df.copy()
-
-    # Ensure 'word' column is string type and normalize if requested
-    df['word'] = df['word'].astype("string")
-    if normalize:
-        df['word'] = df['word'].str.strip().str.lower()
-
-    # Check for possible mojibakes (encoding issues)
-    for word in df['word']:
-        if isinstance(word, str) and ('Ã' in word or 'ã' in word):
-            print(f"\nWarning! Found problematic character in word: {word}\n")
-
-    # Find number of NaNs in each column
-    cols = ['cue_word', 'word', 'valence']
-    for col in cols:
-        if df[col].isna().sum() > 0:
-            print(f"Missing values (NaNs) found in '{col}': {df[col].isna().sum()}\n")
-
-    # Get unique words excluding NaNs
-    unique_words = list(pd.Series(df['word'].unique().dropna()))
-
-    # Initialize valence_map to store the valence category for each word
-    valence_map = {}
-    val_series = df['valence']
-
-    for w in unique_words:
-        mask = df['word'] == w
-
-        if val_series[mask].isna().sum() > 0:
-            print(f"Important! Found NaNs in valence series for word '{w}': {val_series[mask].isna().sum()}")
-
-        # Get the valence scores for the current word (ignoring NaNs) in a Series
-        word_valences = val_series[mask].dropna().astype(float)
-
-        # If the word has less than min_occurrences, assign neutral valence
-        if len(word_valences) < min_occurrences:
-            valence_map[w] = 0
-            continue
-
-        other_vals = val_series[~mask].dropna().astype(float)
-        if len(other_vals) == 0:
-            valence_map[w] = 0
-            continue
-        
-        # Perform Kruskal-Wallis test
-        stat, p_value = stats.kruskal(word_valences, other_vals)
-
-        if direction_stat == "median":
-            word_v_center = word_valences.median()
-            other_v_center = other_vals.median()
-        else:
-            word_v_center = word_valences.mean()
-            other_v_center = other_vals.mean()
-
-        if p_value < alpha:
-            if word_v_center < other_v_center:
-                valence_map[w] = -1
-            elif word_v_center > other_v_center:
-                valence_map[w] = 1
-            else:
-                valence_map[w] = 0
-        else:
-            valence_map[w] = 0
-
-    # Map the valence categories back to the original column
-    df['valence_cat'] = df['word'].map(valence_map).astype('Int64')
-
-    # Create custom valences in the order: [positive, negative, neutral]
-    positive, negative, neutral = set(), set(), set()
-    custom_valences = [positive, negative, neutral]
-    for word, cat in valence_map.items():
-        if cat == 1:
-            custom_valences[0].add(word)  # positive
-        elif cat == -1:
-            custom_valences[1].add(word)  # negative
-        else:
-            custom_valences[2].add(word)  # neutral
-
-    if return_custom_valences:
-        return df, custom_valences
-    return df
-
-
 def import_fmnt_from_old_text_format(
     files: Union[str, Path, Iterable[Union[str, Path]]],
     alpha: float = 0.1,
@@ -597,3 +484,274 @@ def import_fmnt_from_old_text_format(
         "valence_df": valence_df,
         "custom_valences": custom_valences,
     }
+
+
+def export_df(df, export_path, filename: str, overwrite=False, extension='csv'):
+    '''Export the DataFrame to a file in the specified export path.
+
+    Parameters:
+    - df: pandas DataFrame to be exported.
+    - export_path: str, path to the directory where the file will be saved.
+    - overwrite: bool, whether to overwrite existing files (default is False).
+    - filename: str, name of the output file (default is None).
+    - extension: str, file extension (default is 'csv').
+    '''
+    # ensure the output folder exists else create it
+    os.makedirs(export_path, exist_ok=True)
+
+    # check if the file already exists
+    if filename and os.path.exists(os.path.join(export_path, f"{filename}.{extension}")):
+        if not overwrite:
+            print(f"File {filename}.{extension} already exists in {export_path}. Use overwrite=True to replace it.")
+            return
+        else:
+            print(f"Overwriting existing file {filename}.{extension} in {export_path}.")
+
+    # save the df to a file in the output folder
+    output_file = os.path.join(export_path, f"{filename}.{extension}")
+    if extension == 'csv':
+        df.to_csv(output_file, index=False)
+    elif extension == 'xlsx':
+        df.to_excel(output_file, index=False)
+    else:
+        raise ValueError("Unsupported file extension. Use 'csv' or 'xlsx'.")
+    print(f"Data saved to {output_file}\n")
+
+
+# An updated version of emo.export_whole_fmnt() that supports custom valence exports.
+def export_whole_fmn_custom(
+    fmnt,
+    save_path: str,
+    custom_valences=None,
+    language: str = None,
+    include_valences: bool = True,
+    separate_layers_files: bool = False,
+    merge_multiplex: bool = False,
+    overwrite: bool = True,
+    fmn_type: str = "TFMN"
+):
+    """
+    Export a single Formamentis Network to one or (optionally) multiple .txt file(s).
+
+    Supports:
+      - Flat edgelists: [(u,v)] or typed edges [(u,v,type)]
+      - Multiplex edgelists: {'syntactic':[(u,v)], 'synonyms':[(u,v)], ...}
+
+    Multiplex modes (when fmnt.edges is a dict):
+      separate_layers_files=True -> one file per layer
+      separate_layers_files=False & merge_multiplex=True  -> single merged edge list with layer annotations
+      separate_layers_files=False & merge_multiplex=False -> single file with sections per layer
+
+    Valence handling:
+      - include_valences controls whether Positive / Negative / Neutral sections are written
+      - custom_valences: list/tuple of 3 sets [positive_set, negative_set, neutral_set]; if provided overrides lexicon
+      - If neutral_set omitted (3rd set empty), neutrality inferred (nodes not in pos or neg)
+
+    Overwrite strategy:
+      - If overwrite is False and target file exists, a suffix _1, _2, ... is appended.
+
+    Parameters
+    ----------
+    fmnt : FormamentisNetwork-like (has .edges and optionally .vertices)
+    save_path : str
+        Either a directory path or a full file path.
+        If separate_layers_files=True it must be a directory (not ending with .txt).
+    custom_valences : list[set] | tuple[set] | None
+    language : str | None
+        If None tries to infer (emo.language) else falls back to 'italian'.
+    include_valences : bool
+    separate_layers_files : bool
+    merge_multiplex : bool
+    overwrite : bool
+    fmn_type : str
+        Used in filename construction when save_path is a directory.
+
+    Returns
+    -------
+    list[str] : list of written file paths.
+    """
+    # Infer language if needed
+    if language is None:
+        try:
+            lang_guess = emo.language  # relies on a global EmoScores instance if available
+        except Exception:
+            lang_guess = "italian"
+    else:
+        lang_guess = language
+
+    # Collect valence sets (or custom)
+    if custom_valences:
+        if (not isinstance(custom_valences, (list, tuple))) or len(custom_valences) != 3:
+            raise ValueError("custom_valences must be [positive_set, negative_set, neutral_set]")
+        pos_set, neg_set, neu_set = custom_valences
+        if not all(isinstance(s, set) for s in (pos_set, neg_set, neu_set)):
+            raise ValueError("custom_valences elements must be sets")
+        def is_positive(n): return n in pos_set
+        def is_negative(n): return n in neg_set
+        def is_neutral(n): return (n in neu_set) or (n not in pos_set and n not in neg_set)
+    else:
+        pos_set, neg_set, _ = _valences(lang_guess)
+        def is_positive(n): return n in pos_set
+        def is_negative(n): return n in neg_set
+        def is_neutral(n): return (n not in pos_set and n not in neg_set)
+
+    def ensure_path(path):
+        if overwrite or (not os.path.exists(path)):
+            return path
+        base, ext = os.path.splitext(path)
+        k = 1
+        new_path = f"{base}_{k}{ext}"
+        while os.path.exists(new_path):
+            k += 1
+            new_path = f"{base}_{k}{ext}"
+        return new_path
+
+    def write_valence_sections(fh, nodes):
+        if not include_valences:
+            return
+        pos_nodes = sorted([n for n in nodes if is_positive(n)])
+        neg_nodes = sorted([n for n in nodes if is_negative(n)])
+        neu_nodes = sorted([n for n in nodes if is_neutral(n)])
+        fh.write("\n## Positive Nodes\n")
+        for n in pos_nodes: fh.write(f"{n}\n")
+        fh.write("\n## Negative Nodes\n")
+        for n in neg_nodes: fh.write(f"{n}\n")
+        fh.write("\n## Neutral Nodes\n")
+        for n in neu_nodes: fh.write(f"{n}\n")
+
+    # Determine if save_path is file or directory
+    is_directory_target = not save_path.lower().endswith(".txt")
+    if is_directory_target:
+        os.makedirs(save_path, exist_ok=True)
+    else:
+        os.makedirs(os.path.dirname(save_path) or ".", exist_ok=True)
+
+    written = []
+
+    edges_obj = getattr(fmnt, "edges", None)
+    title = getattr(fmnt, "title", "formamentis")
+
+    # Helper to gather all nodes from edge collections
+    def gather_nodes_from_edges(edge_iterable):
+        nodes = set()
+        for e in edge_iterable:
+            if len(e) >= 2:
+                nodes.update([e[0], e[1]])
+        return nodes
+
+    # Multiplex case
+    if isinstance(edges_obj, dict):
+        if separate_layers_files:
+            if not is_directory_target:
+                raise ValueError("When separate_layers_files=True, save_path must be a directory (not a .txt file).")
+            for layer, edgelist in edges_obj.items():
+                filename = f"{title}_{layer}_{fmn_type}.txt"
+                out_file = ensure_path(os.path.join(save_path, filename))
+                nodes = gather_nodes_from_edges(edgelist)
+                with open(out_file, "w", encoding="utf-8") as f:
+                    f.write("# Forma Mentis Network Export (Layer)\n")
+                    f.write(f"# Layer: {layer}\n\n")
+                    f.write("## Edges\n")
+                    for e in edgelist:
+                        if len(e) >= 2:
+                            u, v = e[0], e[1]
+                            if len(e) >= 3:
+                                etype = e[2]
+                                f.write(f"{u} -- {v} [{etype}]\n")
+                            else:
+                                f.write(f"{u} -- {v}\n")
+                    write_valence_sections(f, nodes)
+                written.append(out_file)
+        else:
+            # Single file path
+            if is_directory_target:
+                out_file = os.path.join(save_path, f"{title}_{fmn_type}.txt")
+            else:
+                out_file = save_path
+            out_file = ensure_path(out_file)
+
+            if merge_multiplex:
+                merged = {}
+                for layer, edgelist in edges_obj.items():
+                    for e in edgelist:
+                        if len(e) >= 2:
+                            u, v = e[0], e[1]
+                            key = tuple(sorted((u, v)))
+                            merged.setdefault(key, set()).add(layer)
+                all_nodes = set([n for pair in merged for n in pair])
+                with open(out_file, "w", encoding="utf-8") as f:
+                    f.write("# Forma Mentis Network Export (Merged Multiplex)\n\n")
+                    f.write("## Edges (u -- v) [layers]\n")
+                    for (u, v), layers in sorted(merged.items()):
+                        layers_str = ",".join(sorted(layers))
+                        f.write(f"{u} -- {v} [{layers_str}]\n")
+                    write_valence_sections(f, all_nodes)
+                written.append(out_file)
+            else:
+                all_nodes = set()
+                with open(out_file, "w", encoding="utf-8") as f:
+                    f.write("# Forma Mentis Network Export (Layered Single File)\n\n")
+                    for layer, edgelist in edges_obj.items():
+                        f.write(f"## Layer: {layer}\n")
+                        for e in edgelist:
+                            if len(e) >= 2:
+                                u, v = e[0], e[1]
+                                all_nodes.update([u, v])
+                                if len(e) >= 3:
+                                    etype = e[2]
+                                    f.write(f"{u} -- {v} [{etype}]\n")
+                                else:
+                                    f.write(f"{u} -- {v}\n")
+                        f.write("\n")
+                    write_valence_sections(f, all_nodes)
+                written.append(out_file)
+    else:
+        # Flat list (possibly typed edges)
+        if is_directory_target:
+            out_file = os.path.join(save_path, f"{title}_{fmn_type}.txt")
+        else:
+            out_file = save_path
+        out_file = ensure_path(out_file)
+
+        nodes = set()
+        with open(out_file, "w", encoding="utf-8") as f:
+            f.write("# Forma Mentis Network Export\n\n")
+            f.write("## Edges\n")
+            for e in edges_obj or []:
+                if len(e) >= 2:
+                    u, v = e[0], e[1]
+                    nodes.update([u, v])
+                    if len(e) >= 3:
+                        etype = e[2]
+                        f.write(f"{u} -- {v} [{etype}]\n")
+                    else:
+                        f.write(f"{u} -- {v}\n")
+            write_valence_sections(f, nodes)
+        written.append(out_file)
+
+    for p in written:
+        print(f"[✔] Network exported to '{p}'")
+    return written
+
+
+def export_whole_fmn_multiple_custom(fmnts, save_path, filename, custom_valences, language="english"):
+    """
+    Export multiple FMNs with (optional) custom valences into txt files.
+    Accepts dict or list. Produces unique filenames for lists.
+    """
+    if not os.path.exists(save_path):
+        os.makedirs(save_path, exist_ok=True)
+
+    if isinstance(fmnts, list):
+        if len(fmnts) == 1:
+            out_path = os.path.join(save_path, f"{filename}.txt")
+            export_whole_fmn_custom(fmnts[0], out_path, custom_valences, language=language)
+        else:
+            for i, item in enumerate(fmnts, start=1):
+                out_path = os.path.join(save_path, f"{filename}_{i}.txt")
+                export_whole_fmn_custom(item, out_path, custom_valences, language=language)
+
+    elif isinstance(fmnts, dict):
+        for name, fmn in fmnts.items():
+            out_path = os.path.join(save_path, f"{name}.txt")
+            export_whole_fmn_custom(fmn, out_path, custom_valences, language=language)
