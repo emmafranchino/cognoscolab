@@ -107,7 +107,13 @@ def categorize_valence_single(df):
             if v > mode_val:
                 return 1
             
-         
+        elif abs(Q1 - Q3) == 1:
+            if v > Q3:
+                return 1
+            elif v < Q1:
+                return -1
+            else:
+                return 0
         
         elif abs(Q1 - Q3) > 1:
             if v <= Q1:
@@ -313,21 +319,21 @@ def build_multiple_fmnt(df, keywords, folder_path, file_path, flower='yes', lang
  
             # append a dict with all features
             rows.append({
-                "sample": file_path,
+                "Sample": file_path,
                 "keyword": keyword,
-                "n_nodes": len(fmnt_keyword.vertices),
-                "n_edges": len(fmnt_keyword.edges),
-                "local_clustering": local_clustering_coeff,
-                "avg_shortest_path": avg_shortest_path,
-                "diameter": diameter,
-                "top5_degree": top5_nodes
+                "$N$ nodes": len(fmnt_keyword.vertices),
+                "$N$ edges": len(fmnt_keyword.edges),
+                "$C_i$": local_clustering_coeff,
+                "$l_G$": avg_shortest_path,
+                "$d$": diameter,
+                "Top Nodes": top5_nodes
             })
 
             # build the dataframe
             features_fmnt_df = pd.DataFrame(rows)
 
             # optional: ensure top5_degree is stored as list (not expanded)
-            features_fmnt_df["top5_degree"] = features_fmnt_df["top5_degree"].apply(lambda x: list(x))
+            features_fmnt_df["Top Nodes"] = features_fmnt_df["Top Nodes"].apply(lambda x: list(x))
 
             ### !!! OPTIONAL: PLOT EMOTIONAL FLOWER !!!
             if flower == 'yes':
