@@ -1,2 +1,3 @@
-SPACY_MODEL_PATH=/home/franaz/coding/spacy-models/it_core_news_lg/it_core_news_lg-3.7.0
+SPACY_MODEL_PATH_IT=/home/franaz/coding/spacy-models/it_core_news_lg/it_core_news_lg-3.7.0
+SPACY_MODEL_PATH_EN=/home/franaz/coding/spacy-models/en_core_web_lg/en_core_web_lg-3.8.0
 NLTK_DATA=/home/franaz/nltk_data
