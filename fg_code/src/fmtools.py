@@ -1152,6 +1152,14 @@ def analyze_semantic_frame_concreteness_fast(
       - fallback to component average (splitting on space or underscore)
       - Mann-Whitney U test vs random baseline
       - Optional plot and JSON export
+
+    Returns a dict including the following:
+        - u_statistic: The Mann–Whitney U test statistic comparing the rank sums of empirical vs. random scores. Larger absolute deviation from its null expectation indicates stronger separation between the two distributions.
+        - median_empirical: The median concreteness of the matched items in the semantic frame (empirical_scores).
+        - median_random: The median concreteness of the random baseline sample of equal size drawn from the Brysbaert lemma means (random_scores).
+        - median_diff: median_empirical − median_random. Positive means the frame is more concrete than the random baseline; negative means less concrete.
+        - n_empirical_scores: The number of usable concreteness scores matched in the semantic frame (len(empirical_scores)).
+        - n_random_scores: The number of scores in the random baseline (len(random_scores), typically equal to n_empirical_scores).
     """
     lang = (getattr(self, "language", None) or globals().get("language") or "italian").lower()
     if lang.startswith("it"):
