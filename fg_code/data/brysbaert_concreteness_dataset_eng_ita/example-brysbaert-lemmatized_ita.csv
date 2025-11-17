@@ -1,0 +1,9 @@
+lemma,Conc.M_mean,Conc.M_std,n_forms,forms
+a,2.1633333333333336,0.6649310741222231,3,['a']
+abaco,4.52,,1,['abaco']
+abba,4.32,,1,['abba']
+abbagliamento,2.12,,1,['abbagliamento']
+abbagliante,2.36,,1,['abbagliante']
+abbagliare,2.59,0.12124355652982145,3,"['abbagliare', 'abbagliato']"
+abbagliatore,2.97,,1,['abbagliatore']
+abbaiante,2.48,,1,['abbaiante']
