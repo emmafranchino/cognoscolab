@@ -20,6 +20,7 @@ def text_cleaning(df):
                 df[col]
                 .astype(str)
                 .str.lower()
+                .str.replace('à', 'a') # for words like 'università'
                 .str.replace(r'[\d\W_]+', ' ', regex=True)
                 .str.strip()
                 # .apply(lemmatize_text_it)
