@@ -315,7 +315,8 @@ def build_multiple_fmnt(df, keywords, folder_path, file_path, flower='yes', lang
             diameter = nx.diameter(G_kw)
             
             deg_dict = dict(G.degree(fmnt_keyword.vertices))
-            top5 = sorted(deg_dict.items(), key=lambda kv: (-kv[1], kv[0]))[:5]
+            deg_dict_no_keyword = {n: d for n, d in deg_dict.items() if n != keyword}
+            top5 = sorted(deg_dict_no_keyword.items(), key=lambda kv: (-kv[1], kv[0]))[:5]
             top5_nodes = [n for n, d in top5]
  
             # append a dict with all features
