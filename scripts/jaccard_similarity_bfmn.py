@@ -72,7 +72,8 @@ def plot_comparison(df, comp, title, col1, col2, path):
             subset[comp],
             width=width,
             label=source,
-            color=colors[source]
+            color=colors[source], 
+            edgecolor='black',
         )
 
     plt.xticks([p + width/2 for p in x], df[df['source'] == 'GPT-oss']['group'], rotation=45, ha='right')
@@ -83,4 +84,4 @@ def plot_comparison(df, comp, title, col1, col2, path):
     plt.tight_layout()
     plt.show()
 
-    fig.savefig(f'{path}/out/analysis/comparison_plots/{comp}.png')
+    fig.savefig(f'{path}/comparison_plots/{comp}.png')
