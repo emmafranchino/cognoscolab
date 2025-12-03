@@ -2,4 +2,8 @@ myvenv/
 .DS_Store
 .vscode/
 __pycache__
-rassereno/out/analysis/
+rassereno/out/analysis/bfmn
+rassereno/out/analysis/comparison_plots
+rassereno/out/analysis/emo_flowers_bfmn
+rassereno/out/analysis/emo_flowers_tfmn
+rassereno/out/analysis/tfmn
