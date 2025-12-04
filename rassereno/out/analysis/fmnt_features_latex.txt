@@ -1,24 +1,24 @@
 \begin{table}[!hbpt]
 \footnotesize
 \centering
-\caption{Network features for the semantic frame of "Mathematics".}
+\caption{Network features for the semantic frame of \textit{Mathematics}.}
 \label{tab:network_features_mathematics}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
+\begin{tabular}{lccccl}
 \toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
+Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs \\
 \midrule
-Experts & 48 & 107 & 0.06 & 1.91 & ['Science', 'Physics', 'System', 'School', 'Complex'] \\
-High Schoolers (South) & 101 & 473 & 0.08 & 1.91 & ['Physics', 'Discussion', 'Together', 'School', 'Maximum'] \\
-High-Anxiety High Schoolers (North) & 73 & 212 & 0.05 & 1.92 & ['Anxiety', 'School', 'Stress', 'Physics', 'Teacher'] \\
-Low-Anxiety High Schoolers (North) & 63 & 183 & 0.06 & 1.91 & ['Challenge', 'Physics', 'School', 'Data', 'Teacher'] \\
-GPT High-Anxiety High Schoolers & 25 & 33 & 0.03 & 1.89 & ['Physics', 'Equation', 'Professor', 'Statistics', 'Research'] \\
-GPT Low-Anxiety High Schoolers & 19 & 25 & 0.05 & 1.85 & ['Equation', 'Creativity', 'Exam', 'Professor', 'Theory'] \\
-Physics Students & 25 & 42 & 0.07 & 1.86 & ['Physics', 'Statistics', 'Data', 'Numbers', 'Analysis'] \\
-GPT Physics Students & 14 & 15 & 0.03 & 1.84 & ['Equation', 'Resolution', 'Logic', 'Problems', 'Algebra'] \\
-High-Anxiety Psychology Students & 78 & 316 & 0.08 & 1.89 & ['Anxiety', 'Teacher', 'Challenge', 'Physics', 'School'] \\
-Low-Anxiety Psychology Students & 68 & 205 & 0.06 & 1.91 & ['Physics', 'Teacher', 'School', 'Professor', 'Task'] \\
-GPT High-Anxiety Psychology Students & 49 & 78 & 0.03 & 1.93 & ['Equation', 'Physics', 'Statistics', 'Exam', 'Professor'] \\
-GPT Low-Anxiety Psychology Students & 51 & 77 & 0.02 & 1.94 & ['Equation', 'Statistics', 'Exam', 'Professor', 'Creativity'] \\
+Experts & 48 & 107 & 0.06 & 1.91 & System, Physics, Science \\
+H-S South & 101 & 473 & 0.08 & 1.91 & Science, System, Physics, School, Together, Mathematics, Maximum, Discussion \\
+H-Anx H-S & 73 & 212 & 0.05 & 1.92 & Stress, School, Anxiety, Mathematics \\
+L-Anx H-S & 63 & 183 & 0.06 & 1.91 & Physics, Challenge, School, Mathematics \\
+GPT H-Anx H-S & 25 & 33 & 0.03 & 1.89 & Physics, Mathematics \\
+GPT L-Anx H-S & 19 & 25 & 0.05 & 1.85 & Equation \\
+Physics & 25 & 42 & 0.07 & 1.86 & Physics, Statistics \\
+GPT Physics & 14 & 15 & 0.03 & 1.84 & Equation, Mathematics \\
+H-Anx Psy & 78 & 316 & 0.08 & 1.89 & Challenge, Teacher, Mathematics, Anxiety \\
+L-Anx Psy & 68 & 205 & 0.06 & 1.91 & Physics, School, Teacher, Mathematics \\
+GPT H-Anx Psy & 49 & 78 & 0.03 & 1.93 & Physics, Equation, Mathematics \\
+GPT L-Anx Psy & 51 & 77 & 0.02 & 1.94 & Equation, Statistics, Mathematics \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -26,24 +26,24 @@ GPT Low-Anxiety Psychology Students & 51 & 77 & 0.02 & 1.94 & ['Equation', 'Stat
 \begin{table}[!hbpt]
 \footnotesize
 \centering
-\caption{Network features for the semantic frame of "Statistics".}
+\caption{Network features for the semantic frame of \textit{Statistics}.}
 \label{tab:network_features_statistics}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
+\begin{tabular}{lccccl}
 \toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
+Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs \\
 \midrule
-Experts & 26 & 38 & 0.04 & 1.88 & ['Physics', 'Mathematics', 'Analysis', 'Number', 'Probability'] \\
-High Schoolers (South) & 29 & 59 & 0.08 & 1.85 & ['Mathematics', 'Graph', 'Study', 'Mathematically', 'Individual'] \\
-High-Anxiety High Schoolers (North) & 37 & 68 & 0.05 & 1.90 & ['School', 'Mathematics', 'Analysis', 'Data', 'Exam'] \\
-Low-Anxiety High Schoolers (North) & 41 & 91 & 0.07 & 1.89 & ['Future', 'Mathematics', 'Research', 'Data', 'Science'] \\
-GPT High-Anxiety High Schoolers & 15 & 16 & 0.02 & 1.85 & ['Average', 'Mathematics', 'Analysis', 'Data', 'Confidence'] \\
-GPT Low-Anxiety High Schoolers & 23 & 25 & 0.01 & 1.90 & ['Average', 'Curiosity', 'Science', 'Analysis', 'Data'] \\
-Physics Students & 28 & 49 & 0.06 & 1.87 & ['Laboratory', 'Fear', 'Data', 'Numbers', 'Exam'] \\
-GPT Physics Students & 12 & 11 & 0.00 & 1.83 & ['Average', 'Analysis', 'Data analysis', 'Confidence', 'Data'] \\
-High-Anxiety Psychology Students & 49 & 127 & 0.07 & 1.89 & ['Anxiety', 'Mathematics', 'University', 'Model', 'Numbers'] \\
-Low-Anxiety Psychology Students & 53 & 120 & 0.05 & 1.91 & ['Curiosity', 'Mathematics', 'University', 'Exam', 'Model'] \\
-GPT High-Anxiety Psychology Students & 48 & 68 & 0.02 & 1.94 & ['Average', 'Mathematics', 'Science', 'Curiosity', 'Exam'] \\
-GPT Low-Anxiety Psychology Students & 44 & 63 & 0.02 & 1.93 & ['Average', 'Mathematics', 'Curiosity', 'Exam', 'Professor'] \\
+Experts & 26 & 38 & 0.04 & 1.88 & Physics, Mathematics \\
+H-S South & 29 & 59 & 0.08 & 1.85 & Graph, Mathematics \\
+H-Anx H-S & 37 & 68 & 0.05 & 1.90 & School, Mathematics \\
+L-Anx H-S & 41 & 91 & 0.07 & 1.89 & Research, Mathematics, Future \\
+GPT H-Anx H-S & 15 & 16 & 0.02 & 1.85 & Average \\
+GPT L-Anx H-S & 23 & 25 & 0.01 & 1.90 & Average, Curiosity \\
+Physics & 28 & 49 & 0.06 & 1.87 & Fear, Laboratory \\
+GPT Physics & 12 & 11 & 0.00 & 1.83 & Average \\
+H-Anx Psy & 49 & 127 & 0.07 & 1.89 & Anxiety, University, Mathematics \\
+L-Anx Psy & 53 & 120 & 0.05 & 1.91 & Curiosity, University, Mathematics \\
+GPT H-Anx Psy & 48 & 68 & 0.02 & 1.94 & Average, Statistics, Mathematics \\
+GPT L-Anx Psy & 44 & 63 & 0.02 & 1.93 & Average, Curiosity, Mathematics \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -51,24 +51,24 @@ GPT Low-Anxiety Psychology Students & 44 & 63 & 0.02 & 1.93 & ['Average', 'Mathe
 \begin{table}[!hbpt]
 \footnotesize
 \centering
-\caption{Network features for the semantic frame of "Physics".}
+\caption{Network features for the semantic frame of \textit{Physics}.}
 \label{tab:network_features_physics}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
+\begin{tabular}{lccccl}
 \toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
+Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs \\
 \midrule
-Experts & 55 & 108 & 0.04 & 1.93 & ['Science', 'Mathematics', 'University', 'Chemistry', 'Model'] \\
-High Schoolers (South) & 114 & 435 & 0.05 & 1.93 & ['Mathematics', 'Time', 'School', 'Science', 'System'] \\
-High-Anxiety High Schoolers (North) & 63 & 157 & 0.05 & 1.92 & ['Anxiety', 'School', 'Mathematics', 'Life', 'Discovery'] \\
-Low-Anxiety High Schoolers (North) & 65 & 158 & 0.05 & 1.92 & ['Future', 'Mathematics', 'School', 'Experiment', 'Research'] \\
-GPT High-Anxiety High Schoolers & 25 & 28 & 0.01 & 1.91 & ['Mathematics', 'University', 'Science', 'Theory', 'Energy'] \\
-GPT Low-Anxiety High Schoolers & 23 & 23 & 0.00 & 1.91 & ['Curiosity', 'Science', 'University', 'Theory', 'Energy'] \\
-Physics Students & 31 & 58 & 0.06 & 1.88 & ['Laboratory', 'Scientist', 'Discovery', 'Science', 'Knowledge'] \\
-GPT Physics Students & 17 & 17 & 0.01 & 1.88 & ['Science', 'Curiosity', 'University', 'Theory', 'Energy'] \\
-High-Anxiety Psychology Students & 69 & 159 & 0.04 & 1.93 & ['Anxiety', 'Mathematics', 'School', 'Curiosity', 'Numbers'] \\
-Low-Anxiety Psychology Students & 77 & 152 & 0.03 & 1.95 & ['Curiosity', 'Mathematics', 'School', 'Exam', 'Science'] \\
-GPT High-Anxiety Psychology Students & 62 & 95 & 0.02 & 1.95 & ['Equation', 'University', 'Mathematics', 'Science', 'Curiosity'] \\
-GPT Low-Anxiety Psychology Students & 67 & 86 & 0.01 & 1.96 & ['Equation', 'Science', 'University', 'Curiosity', 'Exam'] \\
+Experts & 55 & 108 & 0.04 & 1.93 & University, Physics, Science, Mathematics \\
+H-S South & 114 & 435 & 0.05 & 1.93 & Science, System, Physics, School, Time, Mathematics \\
+H-Anx H-S & 63 & 157 & 0.05 & 1.92 & Life, School, Anxiety, Mathematics \\
+L-Anx H-S & 65 & 158 & 0.05 & 1.92 & Physics, School, Mathematics, Future \\
+GPT H-Anx H-S & 25 & 28 & 0.01 & 1.91 & Physics, University, Mathematics \\
+GPT L-Anx H-S & 23 & 23 & 0.00 & 1.91 & Physics, Curiosity \\
+Physics & 31 & 58 & 0.06 & 1.88 & Physics, Laboratory, Scientist, Discovery \\
+GPT Physics & 17 & 17 & 0.01 & 1.88 & Physics \\
+H-Anx Psy & 69 & 159 & 0.04 & 1.93 & Physics, School, Anxiety, Mathematics \\
+L-Anx Psy & 77 & 152 & 0.03 & 1.95 & Physics, School, Mathematics, Curiosity \\
+GPT H-Anx Psy & 62 & 95 & 0.02 & 1.95 & Physics, Equation, University, Mathematics \\
+GPT L-Anx Psy & 67 & 86 & 0.01 & 1.96 & Physics, Equation, Science, University \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -76,24 +76,24 @@ GPT Low-Anxiety Psychology Students & 67 & 86 & 0.01 & 1.96 & ['Equation', 'Scie
 \begin{table}[!hbpt]
 \footnotesize
 \centering
-\caption{Network features for the semantic frame of "Science".}
+\caption{Network features for the semantic frame of \textit{Science}.}
 \label{tab:network_features_science}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
+\begin{tabular}{lccccl}
 \toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
+Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs \\
 \midrule
-Experts & 66 & 156 & 0.04 & 1.93 & ['Physics', 'System', 'School', 'Mathematics', 'University'] \\
-High Schoolers (South) & 64 & 242 & 0.09 & 1.88 & ['Physics', 'Mathematics', 'System', 'Rock', 'Law'] \\
-High-Anxiety High Schoolers (North) & 48 & 110 & 0.06 & 1.90 & ['School', 'Mathematics', 'Discovery', 'Research', 'Art'] \\
-Low-Anxiety High Schoolers (North) & 56 & 162 & 0.07 & 1.89 & ['Physics', 'Experiment', 'Research', 'Life', 'Discovery'] \\
-GPT High-Anxiety High Schoolers & 23 & 30 & 0.03 & 1.88 & ['Physics', 'University', 'Biology', 'Knowledge', 'Innovation'] \\
-GPT Low-Anxiety High Schoolers & 22 & 24 & 0.01 & 1.90 & ['Physics', 'Statistics', 'Biology', 'Innovation', 'Knowledge'] \\
-Physics Students & 28 & 60 & 0.09 & 1.84 & ['Physics', 'Laboratory', 'Scientist', 'Discovery', 'Knowledge'] \\
-GPT Physics Students & 16 & 17 & 0.02 & 1.86 & ['Tests', 'Physics', 'Research', 'Knowledge', 'Theory'] \\
-High-Anxiety Psychology Students & 58 & 206 & 0.09 & 1.88 & ['Mathematics', 'Physics', 'Curiosity', 'Numbers', 'Psychology'] \\
-Low-Anxiety Psychology Students & 56 & 181 & 0.08 & 1.88 & ['Physics', 'Curiosity', 'Mathematics', 'Future', 'Model'] \\
-GPT High-Anxiety Psychology Students & 43 & 70 & 0.03 & 1.92 & ['Physics', 'University', 'Statistics', 'Curiosity', 'Model'] \\
-GPT Low-Anxiety Psychology Students & 53 & 110 & 0.04 & 1.92 & ['Scientist', 'Physics', 'Try it', 'University', 'Curiosity'] \\
+Experts & 66 & 156 & 0.04 & 1.93 & System, Physics, School, Science \\
+H-S South & 64 & 242 & 0.09 & 1.88 & Physics, System, Science, Mathematics \\
+H-Anx H-S & 48 & 110 & 0.06 & 1.90 & School, Discovery, Mathematics \\
+L-Anx H-S & 56 & 162 & 0.07 & 1.89 & Physics, Research, Experiment \\
+GPT H-Anx H-S & 23 & 30 & 0.03 & 1.88 & Physics, University \\
+GPT L-Anx H-S & 22 & 24 & 0.01 & 1.90 & Physics, Statistics \\
+Physics & 28 & 60 & 0.09 & 1.84 & Physics, Laboratory, Scientist, Discovery \\
+GPT Physics & 16 & 17 & 0.02 & 1.86 & Tests \\
+H-Anx Psy & 58 & 206 & 0.09 & 1.88 & Physics, Curiosity, Mathematics \\
+L-Anx Psy & 56 & 181 & 0.08 & 1.88 & Physics, Curiosity, Mathematics \\
+GPT H-Anx Psy & 43 & 70 & 0.03 & 1.92 & Physics, Statistics, University \\
+GPT L-Anx Psy & 53 & 110 & 0.04 & 1.92 & Try it, Physics, Scientist \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -101,24 +101,24 @@ GPT Low-Anxiety Psychology Students & 53 & 110 & 0.04 & 1.92 & ['Scientist', 'Ph
 \begin{table}[!hbpt]
 \footnotesize
 \centering
-\caption{Network features for the semantic frame of "Computer science".}
+\caption{Network features for the semantic frame of \textit{Computer science}.}
 \label{tab:network_features_computer science}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
+\begin{tabular}{lccccl}
 \toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
+Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs \\
 \midrule
-Experts & 27 & 40 & 0.04 & 1.89 & ['Science', 'System', 'Complex', 'Model', 'Discovery'] \\
-High Schoolers (South) & 16 & 31 & 0.15 & 1.74 & ['Program', 'Technology', 'Laboratory', 'Connection', 'Network'] \\
-High-Anxiety High Schoolers (North) & 51 & 90 & 0.03 & 1.93 & ['Anxiety', 'School', 'Future', 'Artificial intelligence', 'Data'] \\
-Low-Anxiety High Schoolers (North) & 45 & 83 & 0.04 & 1.92 & ['Future', 'School', 'Data', 'Logic', 'Programming'] \\
-GPT High-Anxiety High Schoolers & 19 & 18 & 0.00 & 1.89 & ['Creativity', 'Technology', 'Network', 'Networking', 'Algorithms'] \\
-GPT Low-Anxiety High Schoolers & 22 & 23 & 0.01 & 1.90 & ['Creativity', 'Innovation', 'Research', 'Technology', 'Network'] \\
-Physics Students & 23 & 31 & 0.04 & 1.88 & ['Fear', 'Science', 'Data', 'Numbers', 'Programming'] \\
-GPT Physics Students & 13 & 12 & 0.00 & 1.85 & ['Algorithms', 'Algorithm', 'Code', 'Coding', 'Hardware'] \\
-High-Anxiety Psychology Students & 25 & 65 & 0.15 & 1.78 & ['Anxiety', 'Mathematics', 'Challenge', 'Work', 'University'] \\
-Low-Anxiety Psychology Students & 20 & 33 & 0.08 & 1.83 & ['Mathematics', 'Numbers', 'Technology', 'Difficult', 'Engineering'] \\
-GPT High-Anxiety Psychology Students & 47 & 51 & 0.00 & 1.95 & ['Creativity', 'Innovation', 'Stress', 'Learning', 'Revolution'] \\
-GPT Low-Anxiety Psychology Students & 55 & 60 & 0.00 & 1.96 & ['Fun', 'Creativity', 'Innovation', 'Research', 'Learning'] \\
+Experts & 27 & 40 & 0.04 & 1.89 & System, Science \\
+H-S South & 16 & 31 & 0.15 & 1.74 & Program \\
+H-Anx H-S & 51 & 90 & 0.03 & 1.93 & School, Anxiety, Future \\
+L-Anx H-S & 45 & 83 & 0.04 & 1.92 & School, Data, Future \\
+GPT H-Anx H-S & 19 & 18 & 0.00 & 1.89 & IT \\
+GPT L-Anx H-S & 22 & 23 & 0.01 & 1.90 & Creativity, IT \\
+Physics & 23 & 31 & 0.04 & 1.88 & Fear, Science \\
+GPT Physics & 13 & 12 & 0.00 & 1.85 & IT \\
+H-Anx Psy & 25 & 65 & 0.15 & 1.78 & Anxiety, Mathematics \\
+L-Anx Psy & 20 & 33 & 0.08 & 1.83 & Mathematics \\
+GPT H-Anx Psy & 47 & 51 & 0.00 & 1.95 & Creativity, IT, Innovation \\
+GPT L-Anx Psy & 55 & 60 & 0.00 & 1.96 & Creativity, IT, Fun \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -126,24 +126,24 @@ GPT Low-Anxiety Psychology Students & 55 & 60 & 0.00 & 1.96 & ['Fun', 'Creativit
 \begin{table}[!hbpt]
 \footnotesize
 \centering
-\caption{Network features for the semantic frame of "Research".}
+\caption{Network features for the semantic frame of \textit{Research}.}
 \label{tab:network_features_research}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
+\begin{tabular}{lccccl}
 \toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
+Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs \\
 \midrule
-Experts & 15 & 24 & 0.11 & 1.77 & ['Science', 'Physics', 'University', 'Model', 'Theory'] \\
-High Schoolers (South) & 13 & 25 & 0.20 & 1.68 & ['Domination', 'Discovery', 'Theory', 'Laboratory', 'Researcher'] \\
-High-Anxiety High Schoolers (North) & 65 & 168 & 0.05 & 1.92 & ['School', 'Discovery', 'Physics', 'Knowledge', 'Artificial intelligence'] \\
-Low-Anxiety High Schoolers (North) & 60 & 189 & 0.08 & 1.89 & ['Physics', 'School', 'Experiment', 'Data', 'Life'] \\
-GPT High-Anxiety High Schoolers & 11 & 13 & 0.07 & 1.76 & ['Degree', 'Scientist', 'Try it', 'Mathematics', 'Neuroscience'] \\
-GPT Low-Anxiety High Schoolers & 12 & 14 & 0.05 & 1.79 & ['Average', 'Degree', 'Try it', 'Neuroscience', 'Scientist'] \\
-Physics Students & 27 & 55 & 0.09 & 1.84 & ['Physics', 'Laboratory', 'Scientist', 'Discovery', 'Science'] \\
-GPT Physics Students & 7 & 6 & 0.00 & 1.71 & ['Science', 'Neuroscience', 'Scientist', 'University', 'Professor'] \\
-High-Anxiety Psychology Students & 19 & 70 & 0.34 & 1.59 & ['Curiosity', 'Model', 'Science', 'Psychology', 'Study'] \\
-Low-Anxiety Psychology Students & 14 & 44 & 0.40 & 1.52 & ['Curiosity', 'Science', 'Statistics', 'Model', 'Psychology'] \\
-GPT High-Anxiety Psychology Students & 16 & 31 & 0.15 & 1.74 & ['Average', 'Neuroscience', 'Try it', 'Physics', 'Psychology'] \\
-GPT Low-Anxiety Psychology Students & 18 & 33 & 0.12 & 1.78 & ['Average', 'Equation', 'Neuroscience', 'Scientist', 'Physics'] \\
+Experts & 15 & 24 & 0.11 & 1.77 & Science \\
+H-S South & 13 & 25 & 0.20 & 1.68 & Domination \\
+H-Anx H-S & 65 & 168 & 0.05 & 1.92 & Physics, Research, School, Discovery \\
+L-Anx H-S & 60 & 189 & 0.08 & 1.89 & Physics, Research, School, Experiment \\
+GPT H-Anx H-S & 11 & 13 & 0.07 & 1.76 & Degree \\
+GPT L-Anx H-S & 12 & 14 & 0.05 & 1.79 & Average \\
+Physics & 27 & 55 & 0.09 & 1.84 & Physics, Laboratory, Scientist, Discovery \\
+GPT Physics & 7 & 6 & 0.00 & 1.71 & Science \\
+H-Anx Psy & 19 & 70 & 0.34 & 1.59 & Curiosity \\
+L-Anx Psy & 14 & 44 & 0.40 & 1.52 & Curiosity \\
+GPT H-Anx Psy & 16 & 31 & 0.15 & 1.74 & Average \\
+GPT L-Anx Psy & 18 & 33 & 0.12 & 1.78 & Average \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -151,24 +151,24 @@ GPT Low-Anxiety Psychology Students & 18 & 33 & 0.12 & 1.78 & ['Average', 'Equat
 \begin{table}[!hbpt]
 \footnotesize
 \centering
-\caption{Network features for the semantic frame of "Exam".}
+\caption{Network features for the semantic frame of \textit{Exam}.}
 \label{tab:network_features_exam}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
+\begin{tabular}{lccccl}
 \toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
+Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs \\
 \midrule
-Experts & 9 & 15 & 0.25 & 1.58 & ['School', 'Studies', 'Teacher', 'Student', 'Work'] \\
-High Schoolers (South) & 41 & 83 & 0.06 & 1.90 & ['School', 'Program', 'Chemistry', 'Study', 'Graduated'] \\
-High-Anxiety High Schoolers (North) & 49 & 92 & 0.04 & 1.92 & ['Anxiety', 'School', 'Stress', 'Vote', 'Analysis'] \\
-Low-Anxiety High Schoolers (North) & 46 & 93 & 0.05 & 1.91 & ['Challenge', 'Mathematics', 'Data', 'Stress', 'Failure'] \\
-GPT High-Anxiety High Schoolers & 15 & 21 & 0.08 & 1.80 & ['Try it', 'Evaluation', 'Knowledge', 'Study', 'Result'] \\
-GPT Low-Anxiety High Schoolers & 14 & 20 & 0.09 & 1.78 & ['Try it', 'Mathematics', 'Evaluation', 'Knowledge', 'Study'] \\
-Physics Students & 25 & 44 & 0.07 & 1.85 & ['Anxiety', 'Physics', 'Fear', 'Challenge', 'Stress'] \\
-GPT Physics Students & 11 & 12 & 0.04 & 1.78 & ['Try it', 'Evaluation', 'Check', 'Difficulty', 'Result'] \\
-High-Anxiety Psychology Students & 57 & 224 & 0.11 & 1.86 & ['Anxiety', 'Teacher', 'Challenge', 'School', 'University'] \\
-Low-Anxiety Psychology Students & 58 & 211 & 0.10 & 1.87 & ['Physics', 'Challenge', 'Anxiety', 'School', 'University'] \\
-GPT High-Anxiety Psychology Students & 38 & 91 & 0.08 & 1.87 & ['Tests', 'Try it', 'Physics', 'University', 'Mathematics'] \\
-GPT Low-Anxiety Psychology Students & 41 & 88 & 0.06 & 1.89 & ['Tests', 'Physics', 'Try it', 'Evaluation', 'Mathematics'] \\
+Experts & 9 & 15 & 0.25 & 1.58 & School \\
+H-S South & 41 & 83 & 0.06 & 1.90 & Chemistry, School, Program \\
+H-Anx H-S & 49 & 92 & 0.04 & 1.92 & Stress, School, Anxiety \\
+L-Anx H-S & 46 & 93 & 0.05 & 1.91 & Challenge, Data, Mathematics \\
+GPT H-Anx H-S & 15 & 21 & 0.08 & 1.80 & Try it \\
+GPT L-Anx H-S & 14 & 20 & 0.09 & 1.78 & Try it \\
+Physics & 25 & 44 & 0.07 & 1.85 & Physics, Anxiety \\
+GPT Physics & 11 & 12 & 0.04 & 1.78 & Try it \\
+H-Anx Psy & 57 & 224 & 0.11 & 1.86 & Challenge, Teacher, Anxiety \\
+L-Anx Psy & 58 & 211 & 0.10 & 1.87 & Challenge, Physics, Anxiety \\
+GPT H-Anx Psy & 38 & 91 & 0.08 & 1.87 & Try it, Tests \\
+GPT L-Anx Psy & 41 & 88 & 0.06 & 1.89 & Try it, Physics, Tests \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -176,19 +176,19 @@ GPT Low-Anxiety Psychology Students & 41 & 88 & 0.06 & 1.89 & ['Tests', 'Physics
 \begin{table}[!hbpt]
 \footnotesize
 \centering
-\caption{Network features for the semantic frame of "Grade".}
+\caption{Network features for the semantic frame of \textit{Grade}.}
 \label{tab:network_features_grade}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
+\begin{tabular}{lccccl}
 \toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
+Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs \\
 \midrule
-Experts & 7 & 7 & 0.07 & 1.67 & ['Good', 'Mark', 'Exam', 'Bad', 'High'] \\
-High Schoolers (South) & 35 & 78 & 0.08 & 1.87 & ['Mathematics', 'School', 'Maximum', 'Teacher', 'Study'] \\
-High-Anxiety High Schoolers (North) & 59 & 110 & 0.03 & 1.94 & ['Anxiety', 'School', 'Stress', 'Teacher', 'Failure'] \\
-Low-Anxiety High Schoolers (North) & 47 & 68 & 0.02 & 1.94 & ['Future', 'School', 'Failure', 'Anxiety', 'Numbers'] \\
-Physics Students & 22 & 29 & 0.04 & 1.87 & ['Anxiety', 'Exam', 'Future', 'Judgment', 'Expectations'] \\
-High-Anxiety Psychology Students & 38 & 104 & 0.10 & 1.85 & ['Anxiety', 'School', 'Exam', 'Behavior', 'Task'] \\
-Low-Anxiety Psychology Students & 47 & 122 & 0.07 & 1.89 & ['Challenge', 'Anxiety', 'Teacher', 'School', 'University'] \\
+Experts & 7 & 7 & 0.07 & 1.67 & Good \\
+H-S South & 35 & 78 & 0.08 & 1.87 & School, Mathematics \\
+H-Anx H-S & 59 & 110 & 0.03 & 1.94 & Stress, School, Anxiety \\
+L-Anx H-S & 47 & 68 & 0.02 & 1.94 & Failure, School, Future \\
+Physics & 22 & 29 & 0.04 & 1.87 & Exam, Anxiety, Future \\
+H-Anx Psy & 38 & 104 & 0.10 & 1.85 & School, Anxiety \\
+L-Anx Psy & 47 & 122 & 0.07 & 1.89 & Challenge, Teacher, Anxiety \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -196,23 +196,23 @@ Low-Anxiety Psychology Students & 47 & 122 & 0.07 & 1.89 & ['Challenge', 'Anxiet
 \begin{table}[!hbpt]
 \footnotesize
 \centering
-\caption{Network features for the semantic frame of "Professor".}
+\caption{Network features for the semantic frame of \textit{Professor}.}
 \label{tab:network_features_professor}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
+\begin{tabular}{lccccl}
 \toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
+Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs \\
 \midrule
-Experts & 4 & 3 & 0.00 & 1.50 & ['Scientific', 'Logic', 'Scholar'] \\
-High Schoolers (South) & 17 & 30 & 0.12 & 1.78 & ['Physics', 'Teacher', 'Integral', 'Classroom', 'Mathematician'] \\
-High-Anxiety High Schoolers (North) & 3 & 2 & 0.00 & 1.33 & ['Physics', 'Teacher'] \\
-Low-Anxiety High Schoolers (North) & 2 & 1 & 0.00 & 1.00 & ['Teacher'] \\
-GPT High-Anxiety High Schoolers & 17 & 22 & 0.05 & 1.84 & ['Teacher', 'Mathematics', 'Knowledge', 'Research', 'Competence'] \\
-GPT Low-Anxiety High Schoolers & 14 & 15 & 0.03 & 1.84 & ['Teacher', 'Mathematics', 'Knowledge', 'Research', 'Competence'] \\
-GPT Physics Students & 9 & 9 & 0.04 & 1.75 & ['Teacher', 'Research', 'Knowledge', 'Competence', 'Guidance'] \\
-High-Anxiety Psychology Students & 49 & 130 & 0.07 & 1.89 & ['Anxiety', 'Mathematics', 'Teacher', 'School', 'Work'] \\
-Low-Anxiety Psychology Students & 59 & 171 & 0.07 & 1.90 & ['Teacher', 'Mathematics', 'School', 'University', 'Work'] \\
-GPT High-Anxiety Psychology Students & 33 & 57 & 0.05 & 1.89 & ['Development', 'Teacher', 'University', 'Mathematics', 'Psychopathology'] \\
-GPT Low-Anxiety Psychology Students & 35 & 48 & 0.02 & 1.92 & ['Teacher', 'University', 'Mathematics', 'Psychopathology', 'Statistics'] \\
+Experts & 4 & 3 & 0.00 & 1.50 & Scientific \\
+H-S South & 17 & 30 & 0.12 & 1.78 & Physics \\
+H-Anx H-S & 3 & 2 & 0.00 & 1.33 & Physics \\
+L-Anx H-S & 2 & 1 & 0.00 & 1.00 & Teacher \\
+GPT H-Anx H-S & 17 & 22 & 0.05 & 1.84 & Teacher \\
+GPT L-Anx H-S & 14 & 15 & 0.03 & 1.84 & Teacher \\
+GPT Physics & 9 & 9 & 0.04 & 1.75 & Teacher \\
+H-Anx Psy & 49 & 130 & 0.07 & 1.89 & Teacher, Anxiety, Mathematics \\
+L-Anx Psy & 59 & 171 & 0.07 & 1.90 & School, Teacher, University, Mathematics \\
+GPT H-Anx Psy & 33 & 57 & 0.05 & 1.89 & Development, Teacher \\
+GPT L-Anx Psy & 35 & 48 & 0.02 & 1.92 & Teacher, University \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -220,24 +220,24 @@ GPT Low-Anxiety Psychology Students & 35 & 48 & 0.02 & 1.92 & ['Teacher', 'Unive
 \begin{table}[!hbpt]
 \footnotesize
 \centering
-\caption{Network features for the semantic frame of "Teacher".}
+\caption{Network features for the semantic frame of \textit{Teacher}.}
 \label{tab:network_features_teacher}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
+\begin{tabular}{lccccl}
 \toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
+Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs \\
 \midrule
-Experts & 16 & 27 & 0.11 & 1.77 & ['School', 'Biology', 'Teaching', 'Person', 'Good'] \\
-High Schoolers (South) & 62 & 159 & 0.05 & 1.92 & ['Physics', 'Mathematics', 'School', 'Art', 'Person'] \\
-High-Anxiety High Schoolers (North) & 2 & 1 & 0.00 & 1.00 & ['Teacher'] \\
-Low-Anxiety High Schoolers (North) & 2 & 1 & 0.00 & 1.00 & ['Teacher'] \\
-GPT High-Anxiety High Schoolers & 32 & 37 & 0.01 & 1.93 & ['Passion', 'Creativity', 'Professor', 'Knowledge', 'Study'] \\
-GPT Low-Anxiety High Schoolers & 36 & 40 & 0.01 & 1.94 & ['Curiosity', 'Creativity', 'Passion', 'Professor', 'Knowledge'] \\
-Physics Students & 2 & 1 & 0.00 & 1.00 & ['Teacher'] \\
-GPT Physics Students & 17 & 17 & 0.01 & 1.88 & ['Professor', 'Guidance', 'Interaction', 'Methods', 'Students'] \\
-High-Anxiety Psychology Students & 70 & 171 & 0.04 & 1.93 & ['Mathematics', 'School', 'Work', 'University', 'Model'] \\
-Low-Anxiety Psychology Students & 69 & 167 & 0.04 & 1.93 & ['Mathematics', 'School', 'University', 'Work', 'Professor'] \\
-GPT High-Anxiety Psychology Students & 65 & 93 & 0.01 & 1.96 & ['Development', 'Psychology', 'Curiosity', 'Professor', 'Passion'] \\
-GPT Low-Anxiety Psychology Students & 69 & 86 & 0.01 & 1.96 & ['Development', 'Curiosity', 'Passion', 'Professor', 'Difficulty'] \\
+Experts & 16 & 27 & 0.11 & 1.77 & School \\
+H-S South & 62 & 159 & 0.05 & 1.92 & Physics, Art, School, Mathematics \\
+H-Anx H-S & 2 & 1 & 0.00 & 1.00 & Teacher \\
+L-Anx H-S & 2 & 1 & 0.00 & 1.00 & Teacher \\
+GPT H-Anx H-S & 32 & 37 & 0.01 & 1.93 & Passion, Teacher \\
+GPT L-Anx H-S & 36 & 40 & 0.01 & 1.94 & Teacher, Curiosity \\
+Physics & 2 & 1 & 0.00 & 1.00 & Teacher \\
+GPT Physics & 17 & 17 & 0.01 & 1.88 & Teacher \\
+H-Anx Psy & 70 & 171 & 0.04 & 1.93 & School, Teacher, Mathematics, Work \\
+L-Anx Psy & 69 & 167 & 0.04 & 1.93 & School, Teacher, University, Mathematics \\
+GPT H-Anx Psy & 65 & 93 & 0.01 & 1.96 & Development, Teacher, Psychology, Curiosity \\
+GPT L-Anx Psy & 69 & 86 & 0.01 & 1.96 & Passion, Development, Teacher, Curiosity \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -245,24 +245,24 @@ GPT Low-Anxiety Psychology Students & 69 & 86 & 0.01 & 1.96 & ['Development', 'C
 \begin{table}[!hbpt]
 \footnotesize
 \centering
-\caption{Network features for the semantic frame of "Scientist".}
+\caption{Network features for the semantic frame of \textit{Scientist}.}
 \label{tab:network_features_scientist}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
+\begin{tabular}{lccccl}
 \toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
+Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs \\
 \midrule
-Experts & 10 & 9 & 0.00 & 1.80 & ['Science', 'Game', 'Tools', 'Cultural', 'Biologist'] \\
-High Schoolers (South) & 32 & 98 & 0.14 & 1.80 & ['Science', 'Person', 'Study', 'Discovery', 'Graduated'] \\
-High-Anxiety High Schoolers (North) & 43 & 130 & 0.10 & 1.86 & ['School', 'Mathematics', 'Discovery', 'Research', 'Physics'] \\
-Low-Anxiety High Schoolers (North) & 46 & 105 & 0.06 & 1.90 & ['Experiment', 'Research', 'Data', 'Discovery', 'Science'] \\
-GPT High-Anxiety High Schoolers & 28 & 30 & 0.01 & 1.92 & ['Passion', 'Curiosity', 'Knowledge', 'Research', 'Study'] \\
-GPT Low-Anxiety High Schoolers & 26 & 30 & 0.02 & 1.91 & ['Curiosity', 'University', 'Passion', 'Knowledge', 'Research'] \\
-Physics Students & 26 & 41 & 0.05 & 1.87 & ['Physics', 'Laboratory', 'Science', 'Data', 'Research'] \\
-GPT Physics Students & 12 & 12 & 0.02 & 1.82 & ['Curiosity', 'Passion', 'Analysis', 'Research', 'Theory'] \\
-High-Anxiety Psychology Students & 19 & 38 & 0.13 & 1.78 & ['Work', 'Science', 'Study', 'Discovery', 'Intelligence'] \\
-Low-Anxiety Psychology Students & 15 & 29 & 0.16 & 1.72 & ['Physics', 'Work', 'Science', 'Intelligence', 'Research'] \\
-GPT High-Anxiety Psychology Students & 57 & 76 & 0.01 & 1.95 & ['Psychology', 'University', 'Curiosity', 'Passion', 'Research'] \\
-GPT Low-Anxiety Psychology Students & 71 & 105 & 0.01 & 1.96 & ['Science', 'University', 'Curiosity', 'Passion', 'Innovation'] \\
+Experts & 10 & 9 & 0.00 & 1.80 & Science \\
+H-S South & 32 & 98 & 0.14 & 1.80 & Person, Science \\
+H-Anx H-S & 43 & 130 & 0.10 & 1.86 & School, Discovery, Mathematics \\
+L-Anx H-S & 46 & 105 & 0.06 & 1.90 & Research, Data, Experiment \\
+GPT H-Anx H-S & 28 & 30 & 0.01 & 1.92 & Passion, Scientist \\
+GPT L-Anx H-S & 26 & 30 & 0.02 & 1.91 & Scientist, Curiosity \\
+Physics & 26 & 41 & 0.05 & 1.87 & Physics, Laboratory \\
+GPT Physics & 12 & 12 & 0.02 & 1.82 & Curiosity \\
+H-Anx Psy & 19 & 38 & 0.13 & 1.78 & Work \\
+L-Anx Psy & 15 & 29 & 0.16 & 1.72 & Physics \\
+GPT H-Anx Psy & 57 & 76 & 0.01 & 1.95 & Psychology, University, Scientist \\
+GPT L-Anx Psy & 71 & 105 & 0.01 & 1.96 & Science, Curiosity, University, Scientist \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -270,23 +270,23 @@ GPT Low-Anxiety Psychology Students & 71 & 105 & 0.01 & 1.96 & ['Science', 'Univ
 \begin{table}[!hbpt]
 \footnotesize
 \centering
-\caption{Network features for the semantic frame of "School".}
+\caption{Network features for the semantic frame of \textit{School}.}
 \label{tab:network_features_school}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
+\begin{tabular}{lccccl}
 \toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
+Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs \\
 \midrule
-Experts & 52 & 101 & 0.04 & 1.92 & ['Science', 'Mathematics', 'University', 'Life', 'Art'] \\
-High Schoolers (South) & 78 & 255 & 0.06 & 1.92 & ['Physics', 'Mathematics', 'Art', 'Renewal', 'System'] \\
-High-Anxiety High Schoolers (North) & 75 & 219 & 0.05 & 1.92 & ['Anxiety', 'Mathematics', 'Discovery', 'Research', 'Stress'] \\
-Low-Anxiety High Schoolers (North) & 62 & 128 & 0.04 & 1.93 & ['Physics', 'Mathematics', 'Research', 'Art', 'Stress'] \\
-GPT High-Anxiety High Schoolers & 3 & 2 & 0.00 & 1.33 & ['Average', 'University'] \\
-GPT Low-Anxiety High Schoolers & 2 & 1 & 0.00 & 1.00 & ['Average'] \\
-Physics Students & 26 & 27 & 0.01 & 1.92 & ['Stress', 'Teacher', 'Rules', 'Comrades', 'Study'] \\
-High-Anxiety Psychology Students & 67 & 230 & 0.08 & 1.90 & ['Anxiety', 'Mathematics', 'Teacher', 'Physics', 'Work'] \\
-Low-Anxiety Psychology Students & 67 & 236 & 0.08 & 1.89 & ['Physics', 'Challenge', 'Anxiety', 'Teacher', 'Mathematics'] \\
-GPT High-Anxiety Psychology Students & 3 & 3 & 1.00 & 1.00 & ['Tests', 'University'] \\
-GPT Low-Anxiety Psychology Students & 4 & 3 & 0.00 & 1.50 & ['Average', 'University', 'Mathematics'] \\
+Experts & 52 & 101 & 0.04 & 1.92 & University, School, Mathematics, Science \\
+H-S South & 78 & 255 & 0.06 & 1.92 & Physics, Art, School, Mathematics \\
+H-Anx H-S & 75 & 219 & 0.05 & 1.92 & School, Anxiety, Discovery, Mathematics \\
+L-Anx H-S & 62 & 128 & 0.04 & 1.93 & Physics, Research, School, Mathematics \\
+GPT H-Anx H-S & 3 & 2 & 0.00 & 1.33 & Average \\
+GPT L-Anx H-S & 2 & 1 & 0.00 & 1.00 & Average \\
+Physics & 26 & 27 & 0.01 & 1.92 & Teacher, Stress \\
+H-Anx Psy & 67 & 230 & 0.08 & 1.90 & Physics, Teacher, Anxiety, Mathematics \\
+L-Anx Psy & 67 & 236 & 0.08 & 1.89 & Physics, Challenge, Teacher, Anxiety \\
+GPT H-Anx Psy & 3 & 3 & 1.00 & 1.00 & Tests \\
+GPT L-Anx Psy & 4 & 3 & 0.00 & 1.50 & Average \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -294,24 +294,24 @@ GPT Low-Anxiety Psychology Students & 4 & 3 & 0.00 & 1.50 & ['Average', 'Univers
 \begin{table}[!hbpt]
 \footnotesize
 \centering
-\caption{Network features for the semantic frame of "University".}
+\caption{Network features for the semantic frame of \textit{University}.}
 \label{tab:network_features_university}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
+\begin{tabular}{lccccl}
 \toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
+Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs \\
 \midrule
-Experts & 48 & 93 & 0.04 & 1.92 & ['Science', 'Physics', 'School', 'Studies', 'Loops'] \\
-High Schoolers (South) & 36 & 110 & 0.13 & 1.83 & ['Physics', 'Self organization', 'Study', 'Work', 'Graduated'] \\
-High-Anxiety High Schoolers (North) & 8 & 14 & 0.33 & 1.50 & ['Anxiety', 'Future', 'Teacher', 'Knowledge', 'Analysis'] \\
-Low-Anxiety High Schoolers (North) & 10 & 23 & 0.39 & 1.49 & ['Physics', 'Future', 'Research', 'Stress', 'Teacher'] \\
-GPT High-Anxiety High Schoolers & 25 & 35 & 0.04 & 1.88 & ['Degree', 'Development', 'Physics', 'Science', 'Knowledge'] \\
-GPT Low-Anxiety High Schoolers & 20 & 29 & 0.06 & 1.85 & ['Degree', 'Scientist', 'Physics', 'Research', 'Study'] \\
-Physics Students & 5 & 5 & 0.17 & 1.50 & ['Anxiety', 'Failure', 'Discovery', 'Teacher'] \\
-GPT Physics Students & 11 & 10 & 0.00 & 1.82 & ['Physics', 'Research', 'Students', 'Study', 'Community'] \\
-High-Anxiety Psychology Students & 62 & 225 & 0.09 & 1.88 & ['Anxiety', 'Teacher', 'Challenge', 'School', 'Work'] \\
-Low-Anxiety Psychology Students & 67 & 278 & 0.10 & 1.87 & ['Anxiety', 'Curiosity', 'Teacher', 'School', 'Work'] \\
-GPT High-Anxiety Psychology Students & 51 & 99 & 0.04 & 1.92 & ['Average', 'Development', 'Tests', 'Physics', 'Psychology'] \\
-GPT Low-Anxiety Psychology Students & 53 & 75 & 0.02 & 1.95 & ['Scientist', 'Physics', 'Psychology', 'Science', 'Professor'] \\
+Experts & 48 & 93 & 0.04 & 1.92 & Physics, School, Science \\
+H-S South & 36 & 110 & 0.13 & 1.83 & Physics, Self organization \\
+H-Anx H-S & 8 & 14 & 0.33 & 1.50 & Anxiety \\
+L-Anx H-S & 10 & 23 & 0.39 & 1.49 & Physics \\
+GPT H-Anx H-S & 25 & 35 & 0.04 & 1.88 & Degree, Development \\
+GPT L-Anx H-S & 20 & 29 & 0.06 & 1.85 & Degree \\
+Physics & 5 & 5 & 0.17 & 1.50 & Anxiety \\
+GPT Physics & 11 & 10 & 0.00 & 1.82 & Physics \\
+H-Anx Psy & 62 & 225 & 0.09 & 1.88 & Challenge, School, Teacher, Anxiety \\
+L-Anx Psy & 67 & 278 & 0.10 & 1.87 & School, Teacher, Anxiety, Curiosity, University \\
+GPT H-Anx Psy & 51 & 99 & 0.04 & 1.92 & Average, Tests, Development \\
+GPT L-Anx Psy & 53 & 75 & 0.02 & 1.95 & Physics, Psychology, Scientist \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -319,24 +319,24 @@ GPT Low-Anxiety Psychology Students & 53 & 75 & 0.02 & 1.95 & ['Scientist', 'Phy
 \begin{table}[!hbpt]
 \footnotesize
 \centering
-\caption{Network features for the semantic frame of "Wellbeing".}
+\caption{Network features for the semantic frame of \textit{Wellbeing}.}
 \label{tab:network_features_wellbeing}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
+\begin{tabular}{lccccl}
 \toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
+Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs \\
 \midrule
-Experts & 11 & 12 & 0.04 & 1.78 & ['Health', 'Good', 'Determinism', 'Relax', 'Surprise'] \\
-High Schoolers (South) & 27 & 37 & 0.03 & 1.89 & ['System', 'Home', 'Physical', 'Diet', 'Movement'] \\
-High-Anxiety High Schoolers (North) & 49 & 55 & 0.01 & 1.95 & ['Life', 'Happiness', 'Social', 'Calm down', 'Family'] \\
-Low-Anxiety High Schoolers (North) & 49 & 74 & 0.02 & 1.94 & ['Life', 'Stress', 'Rules', 'Creativity', 'Meditation'] \\
-GPT High-Anxiety High Schoolers & 18 & 19 & 0.01 & 1.88 & ['Psychotherapy', 'Psychopathology', 'Therapist', 'Energy', 'Joy'] \\
-GPT Low-Anxiety High Schoolers & 14 & 14 & 0.01 & 1.85 & ['Psychotherapy', 'Therapist', 'Energy', 'Joy', 'Relax'] \\
-Physics Students & 26 & 25 & 0.00 & 1.92 & ['Time', 'Love', 'Water', 'Calm down', 'Peace'] \\
-GPT Physics Students & 11 & 10 & 0.00 & 1.82 & ['Psychotherapy', 'Therapist', 'Happiness', 'Harmony', 'Positive energy'] \\
-High-Anxiety Psychology Students & 58 & 81 & 0.02 & 1.95 & ['Psychology', 'Mind', 'Therapy', 'Psychotherapy', 'Life'] \\
-Low-Anxiety Psychology Students & 58 & 77 & 0.01 & 1.95 & ['Mind', 'Psychology', 'Therapy', 'Technology', 'Time'] \\
-GPT High-Anxiety Psychology Students & 27 & 45 & 0.06 & 1.87 & ['Development', 'Psychology', 'Psychopathology', 'Emotion', 'Psychotherapy'] \\
-GPT Low-Anxiety Psychology Students & 31 & 37 & 0.02 & 1.92 & ['Development', 'Psychology', 'Psychotherapy', 'Therapist', 'Stress'] \\
+Experts & 11 & 12 & 0.04 & 1.78 & Health \\
+H-S South & 27 & 37 & 0.03 & 1.89 & Home, System \\
+H-Anx H-S & 49 & 55 & 0.01 & 1.95 & Wellbeing, Social, Life, Happiness \\
+L-Anx H-S & 49 & 74 & 0.02 & 1.94 & Life, Stress, Rules \\
+GPT H-Anx H-S & 18 & 19 & 0.01 & 1.88 & Psychotherapy \\
+GPT L-Anx H-S & 14 & 14 & 0.01 & 1.85 & Psychotherapy \\
+Physics & 26 & 25 & 0.00 & 1.92 & Wellbeing, Time \\
+GPT Physics & 11 & 10 & 0.00 & 1.82 & Psychotherapy \\
+H-Anx Psy & 58 & 81 & 0.02 & 1.95 & Wellbeing, Mind, Psychology \\
+L-Anx Psy & 58 & 77 & 0.01 & 1.95 & Wellbeing, Mind, Psychology \\
+GPT H-Anx Psy & 27 & 45 & 0.06 & 1.87 & Development, Psychology \\
+GPT L-Anx Psy & 31 & 37 & 0.02 & 1.92 & Development, Psychology \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -344,23 +344,23 @@ GPT Low-Anxiety Psychology Students & 31 & 37 & 0.02 & 1.92 & ['Development', 'P
 \begin{table}[!hbpt]
 \footnotesize
 \centering
-\caption{Network features for the semantic frame of "Anxiety".}
+\caption{Network features for the semantic frame of \textit{Anxiety}.}
 \label{tab:network_features_anxiety}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
+\begin{tabular}{lccccl}
 \toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
+Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs \\
 \midrule
-High Schoolers (South) & 24 & 55 & 0.13 & 1.80 & ['Time', 'School', 'Teacher', 'Situation', 'Graduated'] \\
-High-Anxiety High Schoolers (North) & 75 & 218 & 0.05 & 1.92 & ['School', 'Mathematics', 'Stress', 'Physics', 'Future'] \\
-Low-Anxiety High Schoolers (North) & 51 & 110 & 0.05 & 1.91 & ['Future', 'School', 'Stress', 'Failure', 'Fear'] \\
-GPT High-Anxiety High Schoolers & 14 & 17 & 0.05 & 1.81 & ['Tests', 'Psychopathology', 'Emotion', 'Stress', 'Management'] \\
-GPT Low-Anxiety High Schoolers & 12 & 13 & 0.04 & 1.80 & ['Psychopathology', 'Emotion', 'Stress', 'Management', 'Fear'] \\
-Physics Students & 31 & 64 & 0.08 & 1.86 & ['Failure', 'Fear', 'Challenge', 'Stress', 'Exam'] \\
-GPT Physics Students & 7 & 8 & 0.13 & 1.62 & ['Emotion', 'Psychopathology', 'Stress', 'Fear', 'Concern'] \\
-High-Anxiety Psychology Students & 99 & 360 & 0.06 & 1.93 & ['Mathematics', 'Challenge', 'Physics', 'School', 'Work'] \\
-Low-Anxiety Psychology Students & 75 & 211 & 0.05 & 1.92 & ['Challenge', 'School', 'University', 'Work', 'Task'] \\
-GPT High-Anxiety Psychology Students & 33 & 57 & 0.05 & 1.89 & ['Tests', 'Try it', 'Psychology', 'Psychopathology', 'Emotion'] \\
-GPT Low-Anxiety Psychology Students & 36 & 55 & 0.03 & 1.91 & ['Tests', 'Try it', 'Psychology', 'Psychotherapy', 'Attachment'] \\
+H-S South & 24 & 55 & 0.13 & 1.80 & School, Time \\
+H-Anx H-S & 75 & 218 & 0.05 & 1.92 & Stress, School, Anxiety, Mathematics \\
+L-Anx H-S & 51 & 110 & 0.05 & 1.91 & Stress, School, Future \\
+GPT H-Anx H-S & 14 & 17 & 0.05 & 1.81 & Tests \\
+GPT L-Anx H-S & 12 & 13 & 0.04 & 1.80 & Psychopathology \\
+Physics & 31 & 64 & 0.08 & 1.86 & Fear, Challenge, Failure, Stress, Anxiety \\
+GPT Physics & 7 & 8 & 0.13 & 1.62 & Psychopathology, Emotion \\
+H-Anx Psy & 99 & 360 & 0.06 & 1.93 & Challenge, Physics, School, Mathematics, Anxiety \\
+L-Anx Psy & 75 & 211 & 0.05 & 1.92 & Challenge, School, Anxiety, University \\
+GPT H-Anx Psy & 33 & 57 & 0.05 & 1.89 & Try it, Tests \\
+GPT L-Anx Psy & 36 & 55 & 0.03 & 1.91 & Try it, Tests \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -368,2327 +368,17 @@ GPT Low-Anxiety Psychology Students & 36 & 55 & 0.03 & 1.91 & ['Tests', 'Try it'
 \begin{table}[!hbpt]
 \footnotesize
 \centering
-\caption{Network features for the semantic frame of "Scienziata".}
-\label{tab:network_features_scienziata}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
+\caption{Network features for the semantic frame of \textit{Scientist (female)}.}
+\label{tab:network_features_scientist (female)}
+\begin{tabular}{lccccl}
 \toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
+Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs \\
 \midrule
-High-Anxiety High Schoolers (North) & 37 & 96 & 0.10 & 1.86 & ['Mathematics', 'Discovery', 'Research', 'Physics', 'Laboratory'] \\
-Low-Anxiety High Schoolers (North) & 45 & 111 & 0.07 & 1.89 & ['Future', 'Experiment', 'Research', 'Data', 'Discovery'] \\
-Physics Students & 29 & 40 & 0.03 & 1.90 & ['Physics', 'Laboratory', 'Science', 'Data', 'Research'] \\
-High-Anxiety Psychology Students & 4 & 4 & 0.33 & 1.33 & ['Science', 'Research', 'Shirts'] \\
-Low-Anxiety Psychology Students & 8 & 13 & 0.29 & 1.54 & ['Science', 'Laboratory', 'Experiment', 'Experiments', 'Shirts'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Mathematics".}
-\label{tab:network_features_mathematics}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 48 & 107 & 0.06 & 1.91 & ['Science', 'Physics', 'System', 'School', 'Complex'] \\
-High Schoolers (South) & 101 & 473 & 0.08 & 1.91 & ['Physics', 'Discussion', 'Together', 'School', 'Maximum'] \\
-High-Anxiety High Schoolers (North) & 73 & 212 & 0.05 & 1.92 & ['Anxiety', 'School', 'Stress', 'Physics', 'Teacher'] \\
-Low-Anxiety High Schoolers (North) & 63 & 183 & 0.06 & 1.91 & ['Challenge', 'Physics', 'School', 'Data', 'Teacher'] \\
-GPT High-Anxiety High Schoolers & 25 & 33 & 0.03 & 1.89 & ['Physics', 'Equation', 'Professor', 'Statistics', 'Research'] \\
-GPT Low-Anxiety High Schoolers & 19 & 25 & 0.05 & 1.85 & ['Equation', 'Creativity', 'Exam', 'Professor', 'Theory'] \\
-Physics Students & 25 & 42 & 0.07 & 1.86 & ['Physics', 'Statistics', 'Data', 'Numbers', 'Analysis'] \\
-GPT Physics Students & 14 & 15 & 0.03 & 1.84 & ['Equation', 'Resolution', 'Logic', 'Problems', 'Algebra'] \\
-High-Anxiety Psychology Students & 78 & 316 & 0.08 & 1.89 & ['Anxiety', 'Teacher', 'Challenge', 'Physics', 'School'] \\
-Low-Anxiety Psychology Students & 68 & 205 & 0.06 & 1.91 & ['Physics', 'Teacher', 'School', 'Professor', 'Task'] \\
-GPT High-Anxiety Psychology Students & 49 & 78 & 0.03 & 1.93 & ['Equation', 'Physics', 'Statistics', 'Exam', 'Professor'] \\
-GPT Low-Anxiety Psychology Students & 51 & 77 & 0.02 & 1.94 & ['Equation', 'Statistics', 'Exam', 'Professor', 'Creativity'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Statistics".}
-\label{tab:network_features_statistics}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 26 & 38 & 0.04 & 1.88 & ['Physics', 'Mathematics', 'Analysis', 'Number', 'Probability'] \\
-High Schoolers (South) & 29 & 59 & 0.08 & 1.85 & ['Mathematics', 'Graph', 'Study', 'Mathematically', 'Individual'] \\
-High-Anxiety High Schoolers (North) & 37 & 68 & 0.05 & 1.90 & ['School', 'Mathematics', 'Analysis', 'Data', 'Exam'] \\
-Low-Anxiety High Schoolers (North) & 41 & 91 & 0.07 & 1.89 & ['Future', 'Mathematics', 'Research', 'Data', 'Science'] \\
-GPT High-Anxiety High Schoolers & 15 & 16 & 0.02 & 1.85 & ['Average', 'Mathematics', 'Analysis', 'Data', 'Confidence'] \\
-GPT Low-Anxiety High Schoolers & 23 & 25 & 0.01 & 1.90 & ['Average', 'Curiosity', 'Science', 'Analysis', 'Data'] \\
-Physics Students & 28 & 49 & 0.06 & 1.87 & ['Laboratory', 'Fear', 'Data', 'Numbers', 'Exam'] \\
-GPT Physics Students & 12 & 11 & 0.00 & 1.83 & ['Average', 'Analysis', 'Data analysis', 'Confidence', 'Data'] \\
-High-Anxiety Psychology Students & 49 & 127 & 0.07 & 1.89 & ['Anxiety', 'Mathematics', 'University', 'Model', 'Numbers'] \\
-Low-Anxiety Psychology Students & 53 & 120 & 0.05 & 1.91 & ['Curiosity', 'Mathematics', 'University', 'Exam', 'Model'] \\
-GPT High-Anxiety Psychology Students & 48 & 68 & 0.02 & 1.94 & ['Average', 'Mathematics', 'Science', 'Curiosity', 'Exam'] \\
-GPT Low-Anxiety Psychology Students & 44 & 63 & 0.02 & 1.93 & ['Average', 'Mathematics', 'Curiosity', 'Exam', 'Professor'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Physics".}
-\label{tab:network_features_physics}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 55 & 108 & 0.04 & 1.93 & ['Science', 'Mathematics', 'University', 'Chemistry', 'Model'] \\
-High Schoolers (South) & 114 & 435 & 0.05 & 1.93 & ['Mathematics', 'Time', 'School', 'Science', 'System'] \\
-High-Anxiety High Schoolers (North) & 63 & 157 & 0.05 & 1.92 & ['Anxiety', 'School', 'Mathematics', 'Life', 'Discovery'] \\
-Low-Anxiety High Schoolers (North) & 65 & 158 & 0.05 & 1.92 & ['Future', 'Mathematics', 'School', 'Experiment', 'Research'] \\
-GPT High-Anxiety High Schoolers & 25 & 28 & 0.01 & 1.91 & ['Mathematics', 'University', 'Science', 'Theory', 'Energy'] \\
-GPT Low-Anxiety High Schoolers & 23 & 23 & 0.00 & 1.91 & ['Curiosity', 'Science', 'University', 'Theory', 'Energy'] \\
-Physics Students & 31 & 58 & 0.06 & 1.88 & ['Laboratory', 'Scientist', 'Discovery', 'Science', 'Knowledge'] \\
-GPT Physics Students & 17 & 17 & 0.01 & 1.88 & ['Science', 'Curiosity', 'University', 'Theory', 'Energy'] \\
-High-Anxiety Psychology Students & 69 & 159 & 0.04 & 1.93 & ['Anxiety', 'Mathematics', 'School', 'Curiosity', 'Numbers'] \\
-Low-Anxiety Psychology Students & 77 & 152 & 0.03 & 1.95 & ['Curiosity', 'Mathematics', 'School', 'Exam', 'Science'] \\
-GPT High-Anxiety Psychology Students & 62 & 95 & 0.02 & 1.95 & ['Equation', 'University', 'Mathematics', 'Science', 'Curiosity'] \\
-GPT Low-Anxiety Psychology Students & 67 & 86 & 0.01 & 1.96 & ['Equation', 'Science', 'University', 'Curiosity', 'Exam'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Science".}
-\label{tab:network_features_science}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 66 & 156 & 0.04 & 1.93 & ['Physics', 'System', 'School', 'Mathematics', 'University'] \\
-High Schoolers (South) & 64 & 242 & 0.09 & 1.88 & ['Physics', 'Mathematics', 'System', 'Rock', 'Law'] \\
-High-Anxiety High Schoolers (North) & 48 & 110 & 0.06 & 1.90 & ['School', 'Mathematics', 'Discovery', 'Research', 'Art'] \\
-Low-Anxiety High Schoolers (North) & 56 & 162 & 0.07 & 1.89 & ['Physics', 'Experiment', 'Research', 'Life', 'Discovery'] \\
-GPT High-Anxiety High Schoolers & 23 & 30 & 0.03 & 1.88 & ['Physics', 'University', 'Biology', 'Knowledge', 'Innovation'] \\
-GPT Low-Anxiety High Schoolers & 22 & 24 & 0.01 & 1.90 & ['Physics', 'Statistics', 'Biology', 'Innovation', 'Knowledge'] \\
-Physics Students & 28 & 60 & 0.09 & 1.84 & ['Physics', 'Laboratory', 'Scientist', 'Discovery', 'Knowledge'] \\
-GPT Physics Students & 16 & 17 & 0.02 & 1.86 & ['Tests', 'Physics', 'Research', 'Knowledge', 'Theory'] \\
-High-Anxiety Psychology Students & 58 & 206 & 0.09 & 1.88 & ['Mathematics', 'Physics', 'Curiosity', 'Numbers', 'Psychology'] \\
-Low-Anxiety Psychology Students & 56 & 181 & 0.08 & 1.88 & ['Physics', 'Curiosity', 'Mathematics', 'Future', 'Model'] \\
-GPT High-Anxiety Psychology Students & 43 & 70 & 0.03 & 1.92 & ['Physics', 'University', 'Statistics', 'Curiosity', 'Model'] \\
-GPT Low-Anxiety Psychology Students & 53 & 110 & 0.04 & 1.92 & ['Scientist', 'Physics', 'Try it', 'University', 'Curiosity'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Computer science".}
-\label{tab:network_features_computer science}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 27 & 40 & 0.04 & 1.89 & ['Science', 'System', 'Complex', 'Model', 'Discovery'] \\
-High Schoolers (South) & 16 & 31 & 0.15 & 1.74 & ['Program', 'Technology', 'Laboratory', 'Connection', 'Network'] \\
-High-Anxiety High Schoolers (North) & 51 & 90 & 0.03 & 1.93 & ['Anxiety', 'School', 'Future', 'Artificial intelligence', 'Data'] \\
-Low-Anxiety High Schoolers (North) & 45 & 83 & 0.04 & 1.92 & ['Future', 'School', 'Data', 'Logic', 'Programming'] \\
-GPT High-Anxiety High Schoolers & 19 & 18 & 0.00 & 1.89 & ['Creativity', 'Technology', 'Network', 'Networking', 'Algorithms'] \\
-GPT Low-Anxiety High Schoolers & 22 & 23 & 0.01 & 1.90 & ['Creativity', 'Innovation', 'Research', 'Technology', 'Network'] \\
-Physics Students & 23 & 31 & 0.04 & 1.88 & ['Fear', 'Science', 'Data', 'Numbers', 'Programming'] \\
-GPT Physics Students & 13 & 12 & 0.00 & 1.85 & ['Algorithms', 'Algorithm', 'Code', 'Coding', 'Hardware'] \\
-High-Anxiety Psychology Students & 25 & 65 & 0.15 & 1.78 & ['Anxiety', 'Mathematics', 'Challenge', 'Work', 'University'] \\
-Low-Anxiety Psychology Students & 20 & 33 & 0.08 & 1.83 & ['Mathematics', 'Numbers', 'Technology', 'Difficult', 'Engineering'] \\
-GPT High-Anxiety Psychology Students & 47 & 51 & 0.00 & 1.95 & ['Creativity', 'Innovation', 'Stress', 'Learning', 'Revolution'] \\
-GPT Low-Anxiety Psychology Students & 55 & 60 & 0.00 & 1.96 & ['Fun', 'Creativity', 'Innovation', 'Research', 'Learning'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Research".}
-\label{tab:network_features_research}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 15 & 24 & 0.11 & 1.77 & ['Science', 'Physics', 'University', 'Model', 'Theory'] \\
-High Schoolers (South) & 13 & 25 & 0.20 & 1.68 & ['Domination', 'Discovery', 'Theory', 'Laboratory', 'Researcher'] \\
-High-Anxiety High Schoolers (North) & 65 & 168 & 0.05 & 1.92 & ['School', 'Discovery', 'Physics', 'Knowledge', 'Artificial intelligence'] \\
-Low-Anxiety High Schoolers (North) & 60 & 189 & 0.08 & 1.89 & ['Physics', 'School', 'Experiment', 'Data', 'Life'] \\
-GPT High-Anxiety High Schoolers & 11 & 13 & 0.07 & 1.76 & ['Degree', 'Scientist', 'Try it', 'Mathematics', 'Neuroscience'] \\
-GPT Low-Anxiety High Schoolers & 12 & 14 & 0.05 & 1.79 & ['Average', 'Degree', 'Try it', 'Neuroscience', 'Scientist'] \\
-Physics Students & 27 & 55 & 0.09 & 1.84 & ['Physics', 'Laboratory', 'Scientist', 'Discovery', 'Science'] \\
-GPT Physics Students & 7 & 6 & 0.00 & 1.71 & ['Science', 'Neuroscience', 'Scientist', 'University', 'Professor'] \\
-High-Anxiety Psychology Students & 19 & 70 & 0.34 & 1.59 & ['Curiosity', 'Model', 'Science', 'Psychology', 'Study'] \\
-Low-Anxiety Psychology Students & 14 & 44 & 0.40 & 1.52 & ['Curiosity', 'Science', 'Statistics', 'Model', 'Psychology'] \\
-GPT High-Anxiety Psychology Students & 16 & 31 & 0.15 & 1.74 & ['Average', 'Neuroscience', 'Try it', 'Physics', 'Psychology'] \\
-GPT Low-Anxiety Psychology Students & 18 & 33 & 0.12 & 1.78 & ['Average', 'Equation', 'Neuroscience', 'Scientist', 'Physics'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Exam".}
-\label{tab:network_features_exam}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 9 & 15 & 0.25 & 1.58 & ['School', 'Studies', 'Teacher', 'Student', 'Work'] \\
-High Schoolers (South) & 41 & 83 & 0.06 & 1.90 & ['School', 'Program', 'Chemistry', 'Study', 'Graduated'] \\
-High-Anxiety High Schoolers (North) & 49 & 92 & 0.04 & 1.92 & ['Anxiety', 'School', 'Stress', 'Vote', 'Analysis'] \\
-Low-Anxiety High Schoolers (North) & 46 & 93 & 0.05 & 1.91 & ['Challenge', 'Mathematics', 'Data', 'Stress', 'Failure'] \\
-GPT High-Anxiety High Schoolers & 15 & 21 & 0.08 & 1.80 & ['Try it', 'Evaluation', 'Knowledge', 'Study', 'Result'] \\
-GPT Low-Anxiety High Schoolers & 14 & 20 & 0.09 & 1.78 & ['Try it', 'Mathematics', 'Evaluation', 'Knowledge', 'Study'] \\
-Physics Students & 25 & 44 & 0.07 & 1.85 & ['Anxiety', 'Physics', 'Fear', 'Challenge', 'Stress'] \\
-GPT Physics Students & 11 & 12 & 0.04 & 1.78 & ['Try it', 'Evaluation', 'Check', 'Difficulty', 'Result'] \\
-High-Anxiety Psychology Students & 57 & 224 & 0.11 & 1.86 & ['Anxiety', 'Teacher', 'Challenge', 'School', 'University'] \\
-Low-Anxiety Psychology Students & 58 & 211 & 0.10 & 1.87 & ['Physics', 'Challenge', 'Anxiety', 'School', 'University'] \\
-GPT High-Anxiety Psychology Students & 38 & 91 & 0.08 & 1.87 & ['Tests', 'Try it', 'Physics', 'University', 'Mathematics'] \\
-GPT Low-Anxiety Psychology Students & 41 & 88 & 0.06 & 1.89 & ['Tests', 'Physics', 'Try it', 'Evaluation', 'Mathematics'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Grade".}
-\label{tab:network_features_grade}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 7 & 7 & 0.07 & 1.67 & ['Good', 'Mark', 'Exam', 'Bad', 'High'] \\
-High Schoolers (South) & 35 & 78 & 0.08 & 1.87 & ['Mathematics', 'School', 'Maximum', 'Teacher', 'Study'] \\
-High-Anxiety High Schoolers (North) & 59 & 110 & 0.03 & 1.94 & ['Anxiety', 'School', 'Stress', 'Teacher', 'Failure'] \\
-Low-Anxiety High Schoolers (North) & 47 & 68 & 0.02 & 1.94 & ['Future', 'School', 'Failure', 'Anxiety', 'Numbers'] \\
-Physics Students & 22 & 29 & 0.04 & 1.87 & ['Anxiety', 'Exam', 'Future', 'Judgment', 'Expectations'] \\
-High-Anxiety Psychology Students & 38 & 104 & 0.10 & 1.85 & ['Anxiety', 'School', 'Exam', 'Behavior', 'Task'] \\
-Low-Anxiety Psychology Students & 47 & 122 & 0.07 & 1.89 & ['Challenge', 'Anxiety', 'Teacher', 'School', 'University'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Professor".}
-\label{tab:network_features_professor}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 4 & 3 & 0.00 & 1.50 & ['Scientific', 'Logic', 'Scholar'] \\
-High Schoolers (South) & 17 & 30 & 0.12 & 1.78 & ['Physics', 'Teacher', 'Integral', 'Classroom', 'Mathematician'] \\
-High-Anxiety High Schoolers (North) & 3 & 2 & 0.00 & 1.33 & ['Physics', 'Teacher'] \\
-Low-Anxiety High Schoolers (North) & 2 & 1 & 0.00 & 1.00 & ['Teacher'] \\
-GPT High-Anxiety High Schoolers & 17 & 22 & 0.05 & 1.84 & ['Teacher', 'Mathematics', 'Knowledge', 'Research', 'Competence'] \\
-GPT Low-Anxiety High Schoolers & 14 & 15 & 0.03 & 1.84 & ['Teacher', 'Mathematics', 'Knowledge', 'Research', 'Competence'] \\
-GPT Physics Students & 9 & 9 & 0.04 & 1.75 & ['Teacher', 'Research', 'Knowledge', 'Competence', 'Guidance'] \\
-High-Anxiety Psychology Students & 49 & 130 & 0.07 & 1.89 & ['Anxiety', 'Mathematics', 'Teacher', 'School', 'Work'] \\
-Low-Anxiety Psychology Students & 59 & 171 & 0.07 & 1.90 & ['Teacher', 'Mathematics', 'School', 'University', 'Work'] \\
-GPT High-Anxiety Psychology Students & 33 & 57 & 0.05 & 1.89 & ['Development', 'Teacher', 'University', 'Mathematics', 'Psychopathology'] \\
-GPT Low-Anxiety Psychology Students & 35 & 48 & 0.02 & 1.92 & ['Teacher', 'University', 'Mathematics', 'Psychopathology', 'Statistics'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Teacher".}
-\label{tab:network_features_teacher}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 16 & 27 & 0.11 & 1.77 & ['School', 'Biology', 'Teaching', 'Person', 'Good'] \\
-High Schoolers (South) & 62 & 159 & 0.05 & 1.92 & ['Physics', 'Mathematics', 'School', 'Art', 'Person'] \\
-High-Anxiety High Schoolers (North) & 2 & 1 & 0.00 & 1.00 & ['Teacher'] \\
-Low-Anxiety High Schoolers (North) & 2 & 1 & 0.00 & 1.00 & ['Teacher'] \\
-GPT High-Anxiety High Schoolers & 32 & 37 & 0.01 & 1.93 & ['Passion', 'Creativity', 'Professor', 'Knowledge', 'Study'] \\
-GPT Low-Anxiety High Schoolers & 36 & 40 & 0.01 & 1.94 & ['Curiosity', 'Creativity', 'Passion', 'Professor', 'Knowledge'] \\
-Physics Students & 2 & 1 & 0.00 & 1.00 & ['Teacher'] \\
-GPT Physics Students & 17 & 17 & 0.01 & 1.88 & ['Professor', 'Guidance', 'Interaction', 'Methods', 'Students'] \\
-High-Anxiety Psychology Students & 70 & 171 & 0.04 & 1.93 & ['Mathematics', 'School', 'Work', 'University', 'Model'] \\
-Low-Anxiety Psychology Students & 69 & 167 & 0.04 & 1.93 & ['Mathematics', 'School', 'University', 'Work', 'Professor'] \\
-GPT High-Anxiety Psychology Students & 65 & 93 & 0.01 & 1.96 & ['Development', 'Psychology', 'Curiosity', 'Professor', 'Passion'] \\
-GPT Low-Anxiety Psychology Students & 69 & 86 & 0.01 & 1.96 & ['Development', 'Curiosity', 'Passion', 'Professor', 'Difficulty'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Scientist".}
-\label{tab:network_features_scientist}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 10 & 9 & 0.00 & 1.80 & ['Science', 'Game', 'Tools', 'Cultural', 'Biologist'] \\
-High Schoolers (South) & 32 & 98 & 0.14 & 1.80 & ['Science', 'Person', 'Study', 'Discovery', 'Graduated'] \\
-High-Anxiety High Schoolers (North) & 43 & 130 & 0.10 & 1.86 & ['School', 'Mathematics', 'Discovery', 'Research', 'Physics'] \\
-Low-Anxiety High Schoolers (North) & 46 & 105 & 0.06 & 1.90 & ['Experiment', 'Research', 'Data', 'Discovery', 'Science'] \\
-GPT High-Anxiety High Schoolers & 28 & 30 & 0.01 & 1.92 & ['Passion', 'Curiosity', 'Knowledge', 'Research', 'Study'] \\
-GPT Low-Anxiety High Schoolers & 26 & 30 & 0.02 & 1.91 & ['Curiosity', 'University', 'Passion', 'Knowledge', 'Research'] \\
-Physics Students & 26 & 41 & 0.05 & 1.87 & ['Physics', 'Laboratory', 'Science', 'Data', 'Research'] \\
-GPT Physics Students & 12 & 12 & 0.02 & 1.82 & ['Curiosity', 'Passion', 'Analysis', 'Research', 'Theory'] \\
-High-Anxiety Psychology Students & 19 & 38 & 0.13 & 1.78 & ['Work', 'Science', 'Study', 'Discovery', 'Intelligence'] \\
-Low-Anxiety Psychology Students & 15 & 29 & 0.16 & 1.72 & ['Physics', 'Work', 'Science', 'Intelligence', 'Research'] \\
-GPT High-Anxiety Psychology Students & 57 & 76 & 0.01 & 1.95 & ['Psychology', 'University', 'Curiosity', 'Passion', 'Research'] \\
-GPT Low-Anxiety Psychology Students & 71 & 105 & 0.01 & 1.96 & ['Science', 'University', 'Curiosity', 'Passion', 'Innovation'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "School".}
-\label{tab:network_features_school}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 52 & 101 & 0.04 & 1.92 & ['Science', 'Mathematics', 'University', 'Life', 'Art'] \\
-High Schoolers (South) & 78 & 255 & 0.06 & 1.92 & ['Physics', 'Mathematics', 'Art', 'Renewal', 'System'] \\
-High-Anxiety High Schoolers (North) & 75 & 219 & 0.05 & 1.92 & ['Anxiety', 'Mathematics', 'Discovery', 'Research', 'Stress'] \\
-Low-Anxiety High Schoolers (North) & 62 & 128 & 0.04 & 1.93 & ['Physics', 'Mathematics', 'Research', 'Art', 'Stress'] \\
-GPT High-Anxiety High Schoolers & 3 & 2 & 0.00 & 1.33 & ['Average', 'University'] \\
-GPT Low-Anxiety High Schoolers & 2 & 1 & 0.00 & 1.00 & ['Average'] \\
-Physics Students & 26 & 27 & 0.01 & 1.92 & ['Stress', 'Teacher', 'Rules', 'Comrades', 'Study'] \\
-High-Anxiety Psychology Students & 67 & 230 & 0.08 & 1.90 & ['Anxiety', 'Mathematics', 'Teacher', 'Physics', 'Work'] \\
-Low-Anxiety Psychology Students & 67 & 236 & 0.08 & 1.89 & ['Physics', 'Challenge', 'Anxiety', 'Teacher', 'Mathematics'] \\
-GPT High-Anxiety Psychology Students & 3 & 3 & 1.00 & 1.00 & ['Tests', 'University'] \\
-GPT Low-Anxiety Psychology Students & 4 & 3 & 0.00 & 1.50 & ['Average', 'University', 'Mathematics'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "University".}
-\label{tab:network_features_university}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 48 & 93 & 0.04 & 1.92 & ['Science', 'Physics', 'School', 'Studies', 'Loops'] \\
-High Schoolers (South) & 36 & 110 & 0.13 & 1.83 & ['Physics', 'Self organization', 'Study', 'Work', 'Graduated'] \\
-High-Anxiety High Schoolers (North) & 8 & 14 & 0.33 & 1.50 & ['Anxiety', 'Future', 'Teacher', 'Knowledge', 'Analysis'] \\
-Low-Anxiety High Schoolers (North) & 10 & 23 & 0.39 & 1.49 & ['Physics', 'Future', 'Research', 'Stress', 'Teacher'] \\
-GPT High-Anxiety High Schoolers & 25 & 35 & 0.04 & 1.88 & ['Degree', 'Development', 'Physics', 'Science', 'Knowledge'] \\
-GPT Low-Anxiety High Schoolers & 20 & 29 & 0.06 & 1.85 & ['Degree', 'Scientist', 'Physics', 'Research', 'Study'] \\
-Physics Students & 5 & 5 & 0.17 & 1.50 & ['Anxiety', 'Failure', 'Discovery', 'Teacher'] \\
-GPT Physics Students & 11 & 10 & 0.00 & 1.82 & ['Physics', 'Research', 'Students', 'Study', 'Community'] \\
-High-Anxiety Psychology Students & 62 & 225 & 0.09 & 1.88 & ['Anxiety', 'Teacher', 'Challenge', 'School', 'Work'] \\
-Low-Anxiety Psychology Students & 67 & 278 & 0.10 & 1.87 & ['Anxiety', 'Curiosity', 'Teacher', 'School', 'Work'] \\
-GPT High-Anxiety Psychology Students & 51 & 99 & 0.04 & 1.92 & ['Average', 'Development', 'Tests', 'Physics', 'Psychology'] \\
-GPT Low-Anxiety Psychology Students & 53 & 75 & 0.02 & 1.95 & ['Scientist', 'Physics', 'Psychology', 'Science', 'Professor'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Wellbeing".}
-\label{tab:network_features_wellbeing}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 11 & 12 & 0.04 & 1.78 & ['Health', 'Good', 'Determinism', 'Relax', 'Surprise'] \\
-High Schoolers (South) & 27 & 37 & 0.03 & 1.89 & ['System', 'Home', 'Physical', 'Diet', 'Movement'] \\
-High-Anxiety High Schoolers (North) & 49 & 55 & 0.01 & 1.95 & ['Life', 'Happiness', 'Social', 'Calm down', 'Family'] \\
-Low-Anxiety High Schoolers (North) & 49 & 74 & 0.02 & 1.94 & ['Life', 'Stress', 'Rules', 'Creativity', 'Meditation'] \\
-GPT High-Anxiety High Schoolers & 18 & 19 & 0.01 & 1.88 & ['Psychotherapy', 'Psychopathology', 'Therapist', 'Energy', 'Joy'] \\
-GPT Low-Anxiety High Schoolers & 14 & 14 & 0.01 & 1.85 & ['Psychotherapy', 'Therapist', 'Energy', 'Joy', 'Relax'] \\
-Physics Students & 26 & 25 & 0.00 & 1.92 & ['Time', 'Love', 'Water', 'Calm down', 'Peace'] \\
-GPT Physics Students & 11 & 10 & 0.00 & 1.82 & ['Psychotherapy', 'Therapist', 'Happiness', 'Harmony', 'Positive energy'] \\
-High-Anxiety Psychology Students & 58 & 81 & 0.02 & 1.95 & ['Psychology', 'Mind', 'Therapy', 'Psychotherapy', 'Life'] \\
-Low-Anxiety Psychology Students & 58 & 77 & 0.01 & 1.95 & ['Mind', 'Psychology', 'Therapy', 'Technology', 'Time'] \\
-GPT High-Anxiety Psychology Students & 27 & 45 & 0.06 & 1.87 & ['Development', 'Psychology', 'Psychopathology', 'Emotion', 'Psychotherapy'] \\
-GPT Low-Anxiety Psychology Students & 31 & 37 & 0.02 & 1.92 & ['Development', 'Psychology', 'Psychotherapy', 'Therapist', 'Stress'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Anxiety".}
-\label{tab:network_features_anxiety}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-High Schoolers (South) & 24 & 55 & 0.13 & 1.80 & ['Time', 'School', 'Teacher', 'Situation', 'Graduated'] \\
-High-Anxiety High Schoolers (North) & 75 & 218 & 0.05 & 1.92 & ['School', 'Mathematics', 'Stress', 'Physics', 'Future'] \\
-Low-Anxiety High Schoolers (North) & 51 & 110 & 0.05 & 1.91 & ['Future', 'School', 'Stress', 'Failure', 'Fear'] \\
-GPT High-Anxiety High Schoolers & 14 & 17 & 0.05 & 1.81 & ['Tests', 'Psychopathology', 'Emotion', 'Stress', 'Management'] \\
-GPT Low-Anxiety High Schoolers & 12 & 13 & 0.04 & 1.80 & ['Psychopathology', 'Emotion', 'Stress', 'Management', 'Fear'] \\
-Physics Students & 31 & 64 & 0.08 & 1.86 & ['Failure', 'Fear', 'Challenge', 'Stress', 'Exam'] \\
-GPT Physics Students & 7 & 8 & 0.13 & 1.62 & ['Emotion', 'Psychopathology', 'Stress', 'Fear', 'Concern'] \\
-High-Anxiety Psychology Students & 99 & 360 & 0.06 & 1.93 & ['Mathematics', 'Challenge', 'Physics', 'School', 'Work'] \\
-Low-Anxiety Psychology Students & 75 & 211 & 0.05 & 1.92 & ['Challenge', 'School', 'University', 'Work', 'Task'] \\
-GPT High-Anxiety Psychology Students & 33 & 57 & 0.05 & 1.89 & ['Tests', 'Try it', 'Psychology', 'Psychopathology', 'Emotion'] \\
-GPT Low-Anxiety Psychology Students & 36 & 55 & 0.03 & 1.91 & ['Tests', 'Try it', 'Psychology', 'Psychotherapy', 'Attachment'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Scienziata".}
-\label{tab:network_features_scienziata}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-High-Anxiety High Schoolers (North) & 37 & 96 & 0.10 & 1.86 & ['Mathematics', 'Discovery', 'Research', 'Physics', 'Laboratory'] \\
-Low-Anxiety High Schoolers (North) & 45 & 111 & 0.07 & 1.89 & ['Future', 'Experiment', 'Research', 'Data', 'Discovery'] \\
-Physics Students & 29 & 40 & 0.03 & 1.90 & ['Physics', 'Laboratory', 'Science', 'Data', 'Research'] \\
-High-Anxiety Psychology Students & 4 & 4 & 0.33 & 1.33 & ['Science', 'Research', 'Shirts'] \\
-Low-Anxiety Psychology Students & 8 & 13 & 0.29 & 1.54 & ['Science', 'Laboratory', 'Experiment', 'Experiments', 'Shirts'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Mathematics".}
-\label{tab:network_features_mathematics}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 48 & 107 & 0.06 & 1.91 & ['Science', 'Physics', 'System', 'School', 'Complex'] \\
-High Schoolers (South) & 101 & 473 & 0.08 & 1.91 & ['Physics', 'Discussion', 'Together', 'School', 'Maximum'] \\
-High-Anxiety High Schoolers (North) & 73 & 212 & 0.05 & 1.92 & ['Anxiety', 'School', 'Stress', 'Physics', 'Teacher'] \\
-Low-Anxiety High Schoolers (North) & 63 & 183 & 0.06 & 1.91 & ['Challenge', 'Physics', 'School', 'Data', 'Teacher'] \\
-GPT High-Anxiety High Schoolers & 25 & 33 & 0.03 & 1.89 & ['Physics', 'Equation', 'Professor', 'Statistics', 'Research'] \\
-GPT Low-Anxiety High Schoolers & 19 & 25 & 0.05 & 1.85 & ['Equation', 'Creativity', 'Exam', 'Professor', 'Theory'] \\
-Physics Students & 25 & 42 & 0.07 & 1.86 & ['Physics', 'Statistics', 'Data', 'Numbers', 'Analysis'] \\
-GPT Physics Students & 14 & 15 & 0.03 & 1.84 & ['Equation', 'Resolution', 'Logic', 'Problems', 'Algebra'] \\
-High-Anxiety Psychology Students & 78 & 316 & 0.08 & 1.89 & ['Anxiety', 'Teacher', 'Challenge', 'Physics', 'School'] \\
-Low-Anxiety Psychology Students & 68 & 205 & 0.06 & 1.91 & ['Physics', 'Teacher', 'School', 'Professor', 'Task'] \\
-GPT High-Anxiety Psychology Students & 49 & 78 & 0.03 & 1.93 & ['Equation', 'Physics', 'Statistics', 'Exam', 'Professor'] \\
-GPT Low-Anxiety Psychology Students & 51 & 77 & 0.02 & 1.94 & ['Equation', 'Statistics', 'Exam', 'Professor', 'Creativity'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Statistics".}
-\label{tab:network_features_statistics}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 26 & 38 & 0.04 & 1.88 & ['Physics', 'Mathematics', 'Analysis', 'Number', 'Probability'] \\
-High Schoolers (South) & 29 & 59 & 0.08 & 1.85 & ['Mathematics', 'Graph', 'Study', 'Mathematically', 'Individual'] \\
-High-Anxiety High Schoolers (North) & 37 & 68 & 0.05 & 1.90 & ['School', 'Mathematics', 'Analysis', 'Data', 'Exam'] \\
-Low-Anxiety High Schoolers (North) & 41 & 91 & 0.07 & 1.89 & ['Future', 'Mathematics', 'Research', 'Data', 'Science'] \\
-GPT High-Anxiety High Schoolers & 15 & 16 & 0.02 & 1.85 & ['Average', 'Mathematics', 'Analysis', 'Data', 'Confidence'] \\
-GPT Low-Anxiety High Schoolers & 23 & 25 & 0.01 & 1.90 & ['Average', 'Curiosity', 'Science', 'Analysis', 'Data'] \\
-Physics Students & 28 & 49 & 0.06 & 1.87 & ['Laboratory', 'Fear', 'Data', 'Numbers', 'Exam'] \\
-GPT Physics Students & 12 & 11 & 0.00 & 1.83 & ['Average', 'Analysis', 'Data analysis', 'Confidence', 'Data'] \\
-High-Anxiety Psychology Students & 49 & 127 & 0.07 & 1.89 & ['Anxiety', 'Mathematics', 'University', 'Model', 'Numbers'] \\
-Low-Anxiety Psychology Students & 53 & 120 & 0.05 & 1.91 & ['Curiosity', 'Mathematics', 'University', 'Exam', 'Model'] \\
-GPT High-Anxiety Psychology Students & 48 & 68 & 0.02 & 1.94 & ['Average', 'Mathematics', 'Science', 'Curiosity', 'Exam'] \\
-GPT Low-Anxiety Psychology Students & 44 & 63 & 0.02 & 1.93 & ['Average', 'Mathematics', 'Curiosity', 'Exam', 'Professor'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Physics".}
-\label{tab:network_features_physics}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 55 & 108 & 0.04 & 1.93 & ['Science', 'Mathematics', 'University', 'Chemistry', 'Model'] \\
-High Schoolers (South) & 114 & 435 & 0.05 & 1.93 & ['Mathematics', 'Time', 'School', 'Science', 'System'] \\
-High-Anxiety High Schoolers (North) & 63 & 157 & 0.05 & 1.92 & ['Anxiety', 'School', 'Mathematics', 'Life', 'Discovery'] \\
-Low-Anxiety High Schoolers (North) & 65 & 158 & 0.05 & 1.92 & ['Future', 'Mathematics', 'School', 'Experiment', 'Research'] \\
-GPT High-Anxiety High Schoolers & 25 & 28 & 0.01 & 1.91 & ['Mathematics', 'University', 'Science', 'Theory', 'Energy'] \\
-GPT Low-Anxiety High Schoolers & 23 & 23 & 0.00 & 1.91 & ['Curiosity', 'Science', 'University', 'Theory', 'Energy'] \\
-Physics Students & 31 & 58 & 0.06 & 1.88 & ['Laboratory', 'Scientist', 'Discovery', 'Science', 'Knowledge'] \\
-GPT Physics Students & 17 & 17 & 0.01 & 1.88 & ['Science', 'Curiosity', 'University', 'Theory', 'Energy'] \\
-High-Anxiety Psychology Students & 69 & 159 & 0.04 & 1.93 & ['Anxiety', 'Mathematics', 'School', 'Curiosity', 'Numbers'] \\
-Low-Anxiety Psychology Students & 77 & 152 & 0.03 & 1.95 & ['Curiosity', 'Mathematics', 'School', 'Exam', 'Science'] \\
-GPT High-Anxiety Psychology Students & 62 & 95 & 0.02 & 1.95 & ['Equation', 'University', 'Mathematics', 'Science', 'Curiosity'] \\
-GPT Low-Anxiety Psychology Students & 67 & 86 & 0.01 & 1.96 & ['Equation', 'Science', 'University', 'Curiosity', 'Exam'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Science".}
-\label{tab:network_features_science}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 66 & 156 & 0.04 & 1.93 & ['Physics', 'System', 'School', 'Mathematics', 'University'] \\
-High Schoolers (South) & 64 & 242 & 0.09 & 1.88 & ['Physics', 'Mathematics', 'System', 'Rock', 'Law'] \\
-High-Anxiety High Schoolers (North) & 48 & 110 & 0.06 & 1.90 & ['School', 'Mathematics', 'Discovery', 'Research', 'Art'] \\
-Low-Anxiety High Schoolers (North) & 56 & 162 & 0.07 & 1.89 & ['Physics', 'Experiment', 'Research', 'Life', 'Discovery'] \\
-GPT High-Anxiety High Schoolers & 23 & 30 & 0.03 & 1.88 & ['Physics', 'University', 'Biology', 'Knowledge', 'Innovation'] \\
-GPT Low-Anxiety High Schoolers & 22 & 24 & 0.01 & 1.90 & ['Physics', 'Statistics', 'Biology', 'Innovation', 'Knowledge'] \\
-Physics Students & 28 & 60 & 0.09 & 1.84 & ['Physics', 'Laboratory', 'Scientist', 'Discovery', 'Knowledge'] \\
-GPT Physics Students & 16 & 17 & 0.02 & 1.86 & ['Tests', 'Physics', 'Research', 'Knowledge', 'Theory'] \\
-High-Anxiety Psychology Students & 58 & 206 & 0.09 & 1.88 & ['Mathematics', 'Physics', 'Curiosity', 'Numbers', 'Psychology'] \\
-Low-Anxiety Psychology Students & 56 & 181 & 0.08 & 1.88 & ['Physics', 'Curiosity', 'Mathematics', 'Future', 'Model'] \\
-GPT High-Anxiety Psychology Students & 43 & 70 & 0.03 & 1.92 & ['Physics', 'University', 'Statistics', 'Curiosity', 'Model'] \\
-GPT Low-Anxiety Psychology Students & 53 & 110 & 0.04 & 1.92 & ['Scientist', 'Physics', 'Try it', 'University', 'Curiosity'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Computer science".}
-\label{tab:network_features_computer science}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 27 & 40 & 0.04 & 1.89 & ['Science', 'System', 'Complex', 'Model', 'Discovery'] \\
-High Schoolers (South) & 16 & 31 & 0.15 & 1.74 & ['Program', 'Technology', 'Laboratory', 'Connection', 'Network'] \\
-High-Anxiety High Schoolers (North) & 51 & 90 & 0.03 & 1.93 & ['Anxiety', 'School', 'Future', 'Artificial intelligence', 'Data'] \\
-Low-Anxiety High Schoolers (North) & 45 & 83 & 0.04 & 1.92 & ['Future', 'School', 'Data', 'Logic', 'Programming'] \\
-GPT High-Anxiety High Schoolers & 19 & 18 & 0.00 & 1.89 & ['Creativity', 'Technology', 'Network', 'Networking', 'Algorithms'] \\
-GPT Low-Anxiety High Schoolers & 22 & 23 & 0.01 & 1.90 & ['Creativity', 'Innovation', 'Research', 'Technology', 'Network'] \\
-Physics Students & 23 & 31 & 0.04 & 1.88 & ['Fear', 'Science', 'Data', 'Numbers', 'Programming'] \\
-GPT Physics Students & 13 & 12 & 0.00 & 1.85 & ['Algorithms', 'Algorithm', 'Code', 'Coding', 'Hardware'] \\
-High-Anxiety Psychology Students & 25 & 65 & 0.15 & 1.78 & ['Anxiety', 'Mathematics', 'Challenge', 'Work', 'University'] \\
-Low-Anxiety Psychology Students & 20 & 33 & 0.08 & 1.83 & ['Mathematics', 'Numbers', 'Technology', 'Difficult', 'Engineering'] \\
-GPT High-Anxiety Psychology Students & 47 & 51 & 0.00 & 1.95 & ['Creativity', 'Innovation', 'Stress', 'Learning', 'Revolution'] \\
-GPT Low-Anxiety Psychology Students & 55 & 60 & 0.00 & 1.96 & ['Fun', 'Creativity', 'Innovation', 'Research', 'Learning'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Research".}
-\label{tab:network_features_research}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 15 & 24 & 0.11 & 1.77 & ['Science', 'Physics', 'University', 'Model', 'Theory'] \\
-High Schoolers (South) & 13 & 25 & 0.20 & 1.68 & ['Domination', 'Discovery', 'Theory', 'Laboratory', 'Researcher'] \\
-High-Anxiety High Schoolers (North) & 65 & 168 & 0.05 & 1.92 & ['School', 'Discovery', 'Physics', 'Knowledge', 'Artificial intelligence'] \\
-Low-Anxiety High Schoolers (North) & 60 & 189 & 0.08 & 1.89 & ['Physics', 'School', 'Experiment', 'Data', 'Life'] \\
-GPT High-Anxiety High Schoolers & 11 & 13 & 0.07 & 1.76 & ['Degree', 'Scientist', 'Try it', 'Mathematics', 'Neuroscience'] \\
-GPT Low-Anxiety High Schoolers & 12 & 14 & 0.05 & 1.79 & ['Average', 'Degree', 'Try it', 'Neuroscience', 'Scientist'] \\
-Physics Students & 27 & 55 & 0.09 & 1.84 & ['Physics', 'Laboratory', 'Scientist', 'Discovery', 'Science'] \\
-GPT Physics Students & 7 & 6 & 0.00 & 1.71 & ['Science', 'Neuroscience', 'Scientist', 'University', 'Professor'] \\
-High-Anxiety Psychology Students & 19 & 70 & 0.34 & 1.59 & ['Curiosity', 'Model', 'Science', 'Psychology', 'Study'] \\
-Low-Anxiety Psychology Students & 14 & 44 & 0.40 & 1.52 & ['Curiosity', 'Science', 'Statistics', 'Model', 'Psychology'] \\
-GPT High-Anxiety Psychology Students & 16 & 31 & 0.15 & 1.74 & ['Average', 'Neuroscience', 'Try it', 'Physics', 'Psychology'] \\
-GPT Low-Anxiety Psychology Students & 18 & 33 & 0.12 & 1.78 & ['Average', 'Equation', 'Neuroscience', 'Scientist', 'Physics'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Exam".}
-\label{tab:network_features_exam}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 9 & 15 & 0.25 & 1.58 & ['School', 'Studies', 'Teacher', 'Student', 'Work'] \\
-High Schoolers (South) & 41 & 83 & 0.06 & 1.90 & ['School', 'Program', 'Chemistry', 'Study', 'Graduated'] \\
-High-Anxiety High Schoolers (North) & 49 & 92 & 0.04 & 1.92 & ['Anxiety', 'School', 'Stress', 'Vote', 'Analysis'] \\
-Low-Anxiety High Schoolers (North) & 46 & 93 & 0.05 & 1.91 & ['Challenge', 'Mathematics', 'Data', 'Stress', 'Failure'] \\
-GPT High-Anxiety High Schoolers & 15 & 21 & 0.08 & 1.80 & ['Try it', 'Evaluation', 'Knowledge', 'Study', 'Result'] \\
-GPT Low-Anxiety High Schoolers & 14 & 20 & 0.09 & 1.78 & ['Try it', 'Mathematics', 'Evaluation', 'Knowledge', 'Study'] \\
-Physics Students & 25 & 44 & 0.07 & 1.85 & ['Anxiety', 'Physics', 'Fear', 'Challenge', 'Stress'] \\
-GPT Physics Students & 11 & 12 & 0.04 & 1.78 & ['Try it', 'Evaluation', 'Check', 'Difficulty', 'Result'] \\
-High-Anxiety Psychology Students & 57 & 224 & 0.11 & 1.86 & ['Anxiety', 'Teacher', 'Challenge', 'School', 'University'] \\
-Low-Anxiety Psychology Students & 58 & 211 & 0.10 & 1.87 & ['Physics', 'Challenge', 'Anxiety', 'School', 'University'] \\
-GPT High-Anxiety Psychology Students & 38 & 91 & 0.08 & 1.87 & ['Tests', 'Try it', 'Physics', 'University', 'Mathematics'] \\
-GPT Low-Anxiety Psychology Students & 41 & 88 & 0.06 & 1.89 & ['Tests', 'Physics', 'Try it', 'Evaluation', 'Mathematics'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Grade".}
-\label{tab:network_features_grade}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 7 & 7 & 0.07 & 1.67 & ['Good', 'Mark', 'Exam', 'Bad', 'High'] \\
-High Schoolers (South) & 35 & 78 & 0.08 & 1.87 & ['Mathematics', 'School', 'Maximum', 'Teacher', 'Study'] \\
-High-Anxiety High Schoolers (North) & 59 & 110 & 0.03 & 1.94 & ['Anxiety', 'School', 'Stress', 'Teacher', 'Failure'] \\
-Low-Anxiety High Schoolers (North) & 47 & 68 & 0.02 & 1.94 & ['Future', 'School', 'Failure', 'Anxiety', 'Numbers'] \\
-Physics Students & 22 & 29 & 0.04 & 1.87 & ['Anxiety', 'Exam', 'Future', 'Judgment', 'Expectations'] \\
-High-Anxiety Psychology Students & 38 & 104 & 0.10 & 1.85 & ['Anxiety', 'School', 'Exam', 'Behavior', 'Task'] \\
-Low-Anxiety Psychology Students & 47 & 122 & 0.07 & 1.89 & ['Challenge', 'Anxiety', 'Teacher', 'School', 'University'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Professor".}
-\label{tab:network_features_professor}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 4 & 3 & 0.00 & 1.50 & ['Scientific', 'Logic', 'Scholar'] \\
-High Schoolers (South) & 17 & 30 & 0.12 & 1.78 & ['Physics', 'Teacher', 'Integral', 'Classroom', 'Mathematician'] \\
-High-Anxiety High Schoolers (North) & 3 & 2 & 0.00 & 1.33 & ['Physics', 'Teacher'] \\
-Low-Anxiety High Schoolers (North) & 2 & 1 & 0.00 & 1.00 & ['Teacher'] \\
-GPT High-Anxiety High Schoolers & 17 & 22 & 0.05 & 1.84 & ['Teacher', 'Mathematics', 'Knowledge', 'Research', 'Competence'] \\
-GPT Low-Anxiety High Schoolers & 14 & 15 & 0.03 & 1.84 & ['Teacher', 'Mathematics', 'Knowledge', 'Research', 'Competence'] \\
-GPT Physics Students & 9 & 9 & 0.04 & 1.75 & ['Teacher', 'Research', 'Knowledge', 'Competence', 'Guidance'] \\
-High-Anxiety Psychology Students & 49 & 130 & 0.07 & 1.89 & ['Anxiety', 'Mathematics', 'Teacher', 'School', 'Work'] \\
-Low-Anxiety Psychology Students & 59 & 171 & 0.07 & 1.90 & ['Teacher', 'Mathematics', 'School', 'University', 'Work'] \\
-GPT High-Anxiety Psychology Students & 33 & 57 & 0.05 & 1.89 & ['Development', 'Teacher', 'University', 'Mathematics', 'Psychopathology'] \\
-GPT Low-Anxiety Psychology Students & 35 & 48 & 0.02 & 1.92 & ['Teacher', 'University', 'Mathematics', 'Psychopathology', 'Statistics'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Teacher".}
-\label{tab:network_features_teacher}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 16 & 27 & 0.11 & 1.77 & ['School', 'Biology', 'Teaching', 'Person', 'Good'] \\
-High Schoolers (South) & 62 & 159 & 0.05 & 1.92 & ['Physics', 'Mathematics', 'School', 'Art', 'Person'] \\
-High-Anxiety High Schoolers (North) & 2 & 1 & 0.00 & 1.00 & ['Teacher'] \\
-Low-Anxiety High Schoolers (North) & 2 & 1 & 0.00 & 1.00 & ['Teacher'] \\
-GPT High-Anxiety High Schoolers & 32 & 37 & 0.01 & 1.93 & ['Passion', 'Creativity', 'Professor', 'Knowledge', 'Study'] \\
-GPT Low-Anxiety High Schoolers & 36 & 40 & 0.01 & 1.94 & ['Curiosity', 'Creativity', 'Passion', 'Professor', 'Knowledge'] \\
-Physics Students & 2 & 1 & 0.00 & 1.00 & ['Teacher'] \\
-GPT Physics Students & 17 & 17 & 0.01 & 1.88 & ['Professor', 'Guidance', 'Interaction', 'Methods', 'Students'] \\
-High-Anxiety Psychology Students & 70 & 171 & 0.04 & 1.93 & ['Mathematics', 'School', 'Work', 'University', 'Model'] \\
-Low-Anxiety Psychology Students & 69 & 167 & 0.04 & 1.93 & ['Mathematics', 'School', 'University', 'Work', 'Professor'] \\
-GPT High-Anxiety Psychology Students & 65 & 93 & 0.01 & 1.96 & ['Development', 'Psychology', 'Curiosity', 'Professor', 'Passion'] \\
-GPT Low-Anxiety Psychology Students & 69 & 86 & 0.01 & 1.96 & ['Development', 'Curiosity', 'Passion', 'Professor', 'Difficulty'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Scientist".}
-\label{tab:network_features_scientist}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 10 & 9 & 0.00 & 1.80 & ['Science', 'Game', 'Tools', 'Cultural', 'Biologist'] \\
-High Schoolers (South) & 32 & 98 & 0.14 & 1.80 & ['Science', 'Person', 'Study', 'Discovery', 'Graduated'] \\
-High-Anxiety High Schoolers (North) & 43 & 130 & 0.10 & 1.86 & ['School', 'Mathematics', 'Discovery', 'Research', 'Physics'] \\
-Low-Anxiety High Schoolers (North) & 46 & 105 & 0.06 & 1.90 & ['Experiment', 'Research', 'Data', 'Discovery', 'Science'] \\
-GPT High-Anxiety High Schoolers & 28 & 30 & 0.01 & 1.92 & ['Passion', 'Curiosity', 'Knowledge', 'Research', 'Study'] \\
-GPT Low-Anxiety High Schoolers & 26 & 30 & 0.02 & 1.91 & ['Curiosity', 'University', 'Passion', 'Knowledge', 'Research'] \\
-Physics Students & 26 & 41 & 0.05 & 1.87 & ['Physics', 'Laboratory', 'Science', 'Data', 'Research'] \\
-GPT Physics Students & 12 & 12 & 0.02 & 1.82 & ['Curiosity', 'Passion', 'Analysis', 'Research', 'Theory'] \\
-High-Anxiety Psychology Students & 19 & 38 & 0.13 & 1.78 & ['Work', 'Science', 'Study', 'Discovery', 'Intelligence'] \\
-Low-Anxiety Psychology Students & 15 & 29 & 0.16 & 1.72 & ['Physics', 'Work', 'Science', 'Intelligence', 'Research'] \\
-GPT High-Anxiety Psychology Students & 57 & 76 & 0.01 & 1.95 & ['Psychology', 'University', 'Curiosity', 'Passion', 'Research'] \\
-GPT Low-Anxiety Psychology Students & 71 & 105 & 0.01 & 1.96 & ['Science', 'University', 'Curiosity', 'Passion', 'Innovation'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "School".}
-\label{tab:network_features_school}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 52 & 101 & 0.04 & 1.92 & ['Science', 'Mathematics', 'University', 'Life', 'Art'] \\
-High Schoolers (South) & 78 & 255 & 0.06 & 1.92 & ['Physics', 'Mathematics', 'Art', 'Renewal', 'System'] \\
-High-Anxiety High Schoolers (North) & 75 & 219 & 0.05 & 1.92 & ['Anxiety', 'Mathematics', 'Discovery', 'Research', 'Stress'] \\
-Low-Anxiety High Schoolers (North) & 62 & 128 & 0.04 & 1.93 & ['Physics', 'Mathematics', 'Research', 'Art', 'Stress'] \\
-GPT High-Anxiety High Schoolers & 3 & 2 & 0.00 & 1.33 & ['Average', 'University'] \\
-GPT Low-Anxiety High Schoolers & 2 & 1 & 0.00 & 1.00 & ['Average'] \\
-Physics Students & 26 & 27 & 0.01 & 1.92 & ['Stress', 'Teacher', 'Rules', 'Comrades', 'Study'] \\
-High-Anxiety Psychology Students & 67 & 230 & 0.08 & 1.90 & ['Anxiety', 'Mathematics', 'Teacher', 'Physics', 'Work'] \\
-Low-Anxiety Psychology Students & 67 & 236 & 0.08 & 1.89 & ['Physics', 'Challenge', 'Anxiety', 'Teacher', 'Mathematics'] \\
-GPT High-Anxiety Psychology Students & 3 & 3 & 1.00 & 1.00 & ['Tests', 'University'] \\
-GPT Low-Anxiety Psychology Students & 4 & 3 & 0.00 & 1.50 & ['Average', 'University', 'Mathematics'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "University".}
-\label{tab:network_features_university}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 48 & 93 & 0.04 & 1.92 & ['Science', 'Physics', 'School', 'Studies', 'Loops'] \\
-High Schoolers (South) & 36 & 110 & 0.13 & 1.83 & ['Physics', 'Self organization', 'Study', 'Work', 'Graduated'] \\
-High-Anxiety High Schoolers (North) & 8 & 14 & 0.33 & 1.50 & ['Anxiety', 'Future', 'Teacher', 'Knowledge', 'Analysis'] \\
-Low-Anxiety High Schoolers (North) & 10 & 23 & 0.39 & 1.49 & ['Physics', 'Future', 'Research', 'Stress', 'Teacher'] \\
-GPT High-Anxiety High Schoolers & 25 & 35 & 0.04 & 1.88 & ['Degree', 'Development', 'Physics', 'Science', 'Knowledge'] \\
-GPT Low-Anxiety High Schoolers & 20 & 29 & 0.06 & 1.85 & ['Degree', 'Scientist', 'Physics', 'Research', 'Study'] \\
-Physics Students & 5 & 5 & 0.17 & 1.50 & ['Anxiety', 'Failure', 'Discovery', 'Teacher'] \\
-GPT Physics Students & 11 & 10 & 0.00 & 1.82 & ['Physics', 'Research', 'Students', 'Study', 'Community'] \\
-High-Anxiety Psychology Students & 62 & 225 & 0.09 & 1.88 & ['Anxiety', 'Teacher', 'Challenge', 'School', 'Work'] \\
-Low-Anxiety Psychology Students & 67 & 278 & 0.10 & 1.87 & ['Anxiety', 'Curiosity', 'Teacher', 'School', 'Work'] \\
-GPT High-Anxiety Psychology Students & 51 & 99 & 0.04 & 1.92 & ['Average', 'Development', 'Tests', 'Physics', 'Psychology'] \\
-GPT Low-Anxiety Psychology Students & 53 & 75 & 0.02 & 1.95 & ['Scientist', 'Physics', 'Psychology', 'Science', 'Professor'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Wellbeing".}
-\label{tab:network_features_wellbeing}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 11 & 12 & 0.04 & 1.78 & ['Health', 'Good', 'Determinism', 'Relax', 'Surprise'] \\
-High Schoolers (South) & 27 & 37 & 0.03 & 1.89 & ['System', 'Home', 'Physical', 'Diet', 'Movement'] \\
-High-Anxiety High Schoolers (North) & 49 & 55 & 0.01 & 1.95 & ['Life', 'Happiness', 'Social', 'Calm down', 'Family'] \\
-Low-Anxiety High Schoolers (North) & 49 & 74 & 0.02 & 1.94 & ['Life', 'Stress', 'Rules', 'Creativity', 'Meditation'] \\
-GPT High-Anxiety High Schoolers & 18 & 19 & 0.01 & 1.88 & ['Psychotherapy', 'Psychopathology', 'Therapist', 'Energy', 'Joy'] \\
-GPT Low-Anxiety High Schoolers & 14 & 14 & 0.01 & 1.85 & ['Psychotherapy', 'Therapist', 'Energy', 'Joy', 'Relax'] \\
-Physics Students & 26 & 25 & 0.00 & 1.92 & ['Time', 'Love', 'Water', 'Calm down', 'Peace'] \\
-GPT Physics Students & 11 & 10 & 0.00 & 1.82 & ['Psychotherapy', 'Therapist', 'Happiness', 'Harmony', 'Positive energy'] \\
-High-Anxiety Psychology Students & 58 & 81 & 0.02 & 1.95 & ['Psychology', 'Mind', 'Therapy', 'Psychotherapy', 'Life'] \\
-Low-Anxiety Psychology Students & 58 & 77 & 0.01 & 1.95 & ['Mind', 'Psychology', 'Therapy', 'Technology', 'Time'] \\
-GPT High-Anxiety Psychology Students & 27 & 45 & 0.06 & 1.87 & ['Development', 'Psychology', 'Psychopathology', 'Emotion', 'Psychotherapy'] \\
-GPT Low-Anxiety Psychology Students & 31 & 37 & 0.02 & 1.92 & ['Development', 'Psychology', 'Psychotherapy', 'Therapist', 'Stress'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Anxiety".}
-\label{tab:network_features_anxiety}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-High Schoolers (South) & 24 & 55 & 0.13 & 1.80 & ['Time', 'School', 'Teacher', 'Situation', 'Graduated'] \\
-High-Anxiety High Schoolers (North) & 75 & 218 & 0.05 & 1.92 & ['School', 'Mathematics', 'Stress', 'Physics', 'Future'] \\
-Low-Anxiety High Schoolers (North) & 51 & 110 & 0.05 & 1.91 & ['Future', 'School', 'Stress', 'Failure', 'Fear'] \\
-GPT High-Anxiety High Schoolers & 14 & 17 & 0.05 & 1.81 & ['Tests', 'Psychopathology', 'Emotion', 'Stress', 'Management'] \\
-GPT Low-Anxiety High Schoolers & 12 & 13 & 0.04 & 1.80 & ['Psychopathology', 'Emotion', 'Stress', 'Management', 'Fear'] \\
-Physics Students & 31 & 64 & 0.08 & 1.86 & ['Failure', 'Fear', 'Challenge', 'Stress', 'Exam'] \\
-GPT Physics Students & 7 & 8 & 0.13 & 1.62 & ['Emotion', 'Psychopathology', 'Stress', 'Fear', 'Concern'] \\
-High-Anxiety Psychology Students & 99 & 360 & 0.06 & 1.93 & ['Mathematics', 'Challenge', 'Physics', 'School', 'Work'] \\
-Low-Anxiety Psychology Students & 75 & 211 & 0.05 & 1.92 & ['Challenge', 'School', 'University', 'Work', 'Task'] \\
-GPT High-Anxiety Psychology Students & 33 & 57 & 0.05 & 1.89 & ['Tests', 'Try it', 'Psychology', 'Psychopathology', 'Emotion'] \\
-GPT Low-Anxiety Psychology Students & 36 & 55 & 0.03 & 1.91 & ['Tests', 'Try it', 'Psychology', 'Psychotherapy', 'Attachment'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Scienziata".}
-\label{tab:network_features_scienziata}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-High-Anxiety High Schoolers (North) & 37 & 96 & 0.10 & 1.86 & ['Mathematics', 'Discovery', 'Research', 'Physics', 'Laboratory'] \\
-Low-Anxiety High Schoolers (North) & 45 & 111 & 0.07 & 1.89 & ['Future', 'Experiment', 'Research', 'Data', 'Discovery'] \\
-Physics Students & 29 & 40 & 0.03 & 1.90 & ['Physics', 'Laboratory', 'Science', 'Data', 'Research'] \\
-High-Anxiety Psychology Students & 4 & 4 & 0.33 & 1.33 & ['Science', 'Research', 'Shirts'] \\
-Low-Anxiety Psychology Students & 8 & 13 & 0.29 & 1.54 & ['Science', 'Laboratory', 'Experiment', 'Experiments', 'Shirts'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Mathematics".}
-\label{tab:network_features_mathematics}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 48 & 107 & 0.06 & 1.91 & ['science', 'physics', 'system', 'school', 'complex'] \\
-High Schoolers (South) & 101 & 473 & 0.08 & 1.91 & ['fisica', 'discussione', 'insieme', 'scuola', 'massimo'] \\
-High-Anxiety High Schoolers (North) & 73 & 212 & 0.05 & 1.92 & ['ansia', 'scuola', 'stress', 'fisica', 'docente'] \\
-Low-Anxiety High Schoolers (North) & 63 & 183 & 0.06 & 1.91 & ['sfida', 'fisica', 'scuola', 'dati', 'docente'] \\
-GPT High-Anxiety High Schoolers & 25 & 33 & 0.03 & 1.89 & ['fisica', 'equazione', 'professore', 'statistica', 'ricerca'] \\
-GPT Low-Anxiety High Schoolers & 19 & 25 & 0.05 & 1.85 & ['equazione', 'creativita', 'esame', 'professore', 'teoria'] \\
-Physics Students & 25 & 42 & 0.07 & 1.86 & ['fisica', 'statistica', 'dati', 'numeri', 'analisi'] \\
-GPT Physics Students & 14 & 15 & 0.03 & 1.84 & ['equazione', 'risoluzione', 'logica', 'problemi', 'algebra'] \\
-High-Anxiety Psychology Students & 78 & 316 & 0.08 & 1.89 & ['ansia', 'insegnante', 'sfida', 'fisica', 'scuola'] \\
-Low-Anxiety Psychology Students & 68 & 205 & 0.06 & 1.91 & ['fisica', 'insegnante', 'scuola', 'professore', 'compito'] \\
-GPT High-Anxiety Psychology Students & 49 & 78 & 0.03 & 1.93 & ['equazione', 'fisica', 'statistica', 'esame', 'professore'] \\
-GPT Low-Anxiety Psychology Students & 51 & 77 & 0.02 & 1.94 & ['equazione', 'statistica', 'esame', 'professore', 'creativita'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Statistics".}
-\label{tab:network_features_statistics}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 26 & 38 & 0.04 & 1.88 & ['physics', 'mathematics', 'analysis', 'number', 'probability'] \\
-High Schoolers (South) & 29 & 59 & 0.08 & 1.85 & ['matematica', 'grafo', 'studio', 'matematicamente', 'individuo'] \\
-High-Anxiety High Schoolers (North) & 37 & 68 & 0.05 & 1.90 & ['scuola', 'matematica', 'analisi', 'dati', 'esame'] \\
-Low-Anxiety High Schoolers (North) & 41 & 91 & 0.07 & 1.89 & ['futuro', 'matematica', 'ricerca', 'dati', 'scienza'] \\
-GPT High-Anxiety High Schoolers & 15 & 16 & 0.02 & 1.85 & ['media', 'matematica', 'analisi', 'dati', 'confidenza'] \\
-GPT Low-Anxiety High Schoolers & 23 & 25 & 0.01 & 1.90 & ['media', 'curiosita', 'scienza', 'analisi', 'dati'] \\
-Physics Students & 28 & 49 & 0.06 & 1.87 & ['laboratorio', 'paura', 'dati', 'numeri', 'esame'] \\
-GPT Physics Students & 12 & 11 & 0.00 & 1.83 & ['media', 'analisi', 'analisi dati', 'confidenza', 'dati'] \\
-High-Anxiety Psychology Students & 49 & 127 & 0.07 & 1.89 & ['ansia', 'matematica', 'universita', 'modello', 'numeri'] \\
-Low-Anxiety Psychology Students & 53 & 120 & 0.05 & 1.91 & ['curiosita', 'matematica', 'universita', 'esame', 'modello'] \\
-GPT High-Anxiety Psychology Students & 48 & 68 & 0.02 & 1.94 & ['media', 'matematica', 'scienza', 'curiosita', 'esame'] \\
-GPT Low-Anxiety Psychology Students & 44 & 63 & 0.02 & 1.93 & ['media', 'matematica', 'curiosita', 'esame', 'professore'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Physics".}
-\label{tab:network_features_physics}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 55 & 108 & 0.04 & 1.93 & ['science', 'mathematics', 'university', 'chemistry', 'model'] \\
-High Schoolers (South) & 114 & 435 & 0.05 & 1.93 & ['matematica', 'tempo', 'scuola', 'scienza', 'sistema'] \\
-High-Anxiety High Schoolers (North) & 63 & 157 & 0.05 & 1.92 & ['ansia', 'scuola', 'matematica', 'vita', 'scoperta'] \\
-Low-Anxiety High Schoolers (North) & 65 & 158 & 0.05 & 1.92 & ['futuro', 'matematica', 'scuola', 'esperimento', 'ricerca'] \\
-GPT High-Anxiety High Schoolers & 25 & 28 & 0.01 & 1.91 & ['matematica', 'universita', 'scienza', 'teoria', 'energia'] \\
-GPT Low-Anxiety High Schoolers & 23 & 23 & 0.00 & 1.91 & ['curiosita', 'scienza', 'universita', 'teoria', 'energia'] \\
-Physics Students & 31 & 58 & 0.06 & 1.88 & ['laboratorio', 'scienziata', 'scoperta', 'scienza', 'conoscenza'] \\
-GPT Physics Students & 17 & 17 & 0.01 & 1.88 & ['scienza', 'curiosita', 'universita', 'teoria', 'energia'] \\
-High-Anxiety Psychology Students & 69 & 159 & 0.04 & 1.93 & ['ansia', 'matematica', 'scuola', 'curiosita', 'numeri'] \\
-Low-Anxiety Psychology Students & 77 & 152 & 0.03 & 1.95 & ['curiosita', 'matematica', 'scuola', 'esame', 'scienza'] \\
-GPT High-Anxiety Psychology Students & 62 & 95 & 0.02 & 1.95 & ['equazione', 'universita', 'matematica', 'scienza', 'curiosita'] \\
-GPT Low-Anxiety Psychology Students & 67 & 86 & 0.01 & 1.96 & ['equazione', 'scienza', 'universita', 'curiosita', 'esame'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Science".}
-\label{tab:network_features_science}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 66 & 156 & 0.04 & 1.93 & ['physics', 'system', 'school', 'mathematics', 'university'] \\
-High Schoolers (South) & 64 & 242 & 0.09 & 1.88 & ['fisica', 'matematica', 'sistema', 'roccia', 'legge'] \\
-High-Anxiety High Schoolers (North) & 48 & 110 & 0.06 & 1.90 & ['scuola', 'matematica', 'scoperta', 'ricerca', 'arte'] \\
-Low-Anxiety High Schoolers (North) & 56 & 162 & 0.07 & 1.89 & ['fisica', 'esperimento', 'ricerca', 'vita', 'scoperta'] \\
-GPT High-Anxiety High Schoolers & 23 & 30 & 0.03 & 1.88 & ['fisica', 'universita', 'biologia', 'conoscenza', 'innovazione'] \\
-GPT Low-Anxiety High Schoolers & 22 & 24 & 0.01 & 1.90 & ['fisica', 'statistica', 'biologia', 'innovazione', 'conoscenza'] \\
-Physics Students & 28 & 60 & 0.09 & 1.84 & ['fisica', 'laboratorio', 'scienziata', 'scoperta', 'conoscenza'] \\
-GPT Physics Students & 16 & 17 & 0.02 & 1.86 & ['test', 'fisica', 'ricerca', 'conoscenza', 'teoria'] \\
-High-Anxiety Psychology Students & 58 & 206 & 0.09 & 1.88 & ['matematica', 'fisica', 'curiosita', 'numeri', 'psicologia'] \\
-Low-Anxiety Psychology Students & 56 & 181 & 0.08 & 1.88 & ['fisica', 'curiosita', 'matematica', 'futuro', 'modello'] \\
-GPT High-Anxiety Psychology Students & 43 & 70 & 0.03 & 1.92 & ['fisica', 'universita', 'statistica', 'curiosita', 'modello'] \\
-GPT Low-Anxiety Psychology Students & 53 & 110 & 0.04 & 1.92 & ['scienziato', 'fisica', 'prova', 'universita', 'curiosita'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Computer science".}
-\label{tab:network_features_computer science}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 27 & 40 & 0.04 & 1.89 & ['science', 'system', 'complex', 'model', 'discovery'] \\
-High Schoolers (South) & 16 & 31 & 0.15 & 1.74 & ['programma', 'tecnologia', 'laboratorio', 'connessione', 'rete'] \\
-High-Anxiety High Schoolers (North) & 51 & 90 & 0.03 & 1.93 & ['ansia', 'scuola', 'futuro', 'intelligenza artificiale', 'dati'] \\
-Low-Anxiety High Schoolers (North) & 45 & 83 & 0.04 & 1.92 & ['futuro', 'scuola', 'dati', 'logica', 'programmazione'] \\
-GPT High-Anxiety High Schoolers & 19 & 18 & 0.00 & 1.89 & ['creativita', 'tecnologia', 'network', 'networking', 'algoritmi'] \\
-GPT Low-Anxiety High Schoolers & 22 & 23 & 0.01 & 1.90 & ['creativita', 'innovazione', 'ricerca', 'tecnologia', 'network'] \\
-Physics Students & 23 & 31 & 0.04 & 1.88 & ['paura', 'scienza', 'dati', 'numeri', 'programmazione'] \\
-GPT Physics Students & 13 & 12 & 0.00 & 1.85 & ['algoritmi', 'algoritmo', 'codice', 'codifica', 'hardware'] \\
-High-Anxiety Psychology Students & 25 & 65 & 0.15 & 1.78 & ['ansia', 'matematica', 'sfida', 'lavoro', 'universita'] \\
-Low-Anxiety Psychology Students & 20 & 33 & 0.08 & 1.83 & ['matematica', 'numeri', 'tecnologia', 'difficile', 'ingegneria'] \\
-GPT High-Anxiety Psychology Students & 47 & 51 & 0.00 & 1.95 & ['creativita', 'innovazione', 'stress', 'apprendimento', 'rivoluzione'] \\
-GPT Low-Anxiety Psychology Students & 55 & 60 & 0.00 & 1.96 & ['divertimento', 'creativita', 'innovazione', 'ricerca', 'apprendimento'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Research".}
-\label{tab:network_features_research}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 15 & 24 & 0.11 & 1.77 & ['science', 'physics', 'university', 'model', 'theory'] \\
-High Schoolers (South) & 13 & 25 & 0.20 & 1.68 & ['dominio', 'scoperta', 'teoria', 'laboratorio', 'ricercatore'] \\
-High-Anxiety High Schoolers (North) & 65 & 168 & 0.05 & 1.92 & ['scuola', 'scoperta', 'fisica', 'conoscenza', 'intelligenza artificiale'] \\
-Low-Anxiety High Schoolers (North) & 60 & 189 & 0.08 & 1.89 & ['fisica', 'scuola', 'esperimento', 'dati', 'vita'] \\
-GPT High-Anxiety High Schoolers & 11 & 13 & 0.07 & 1.76 & ['laurea', 'scienziato', 'prova', 'matematica', 'neuroscienze'] \\
-GPT Low-Anxiety High Schoolers & 12 & 14 & 0.05 & 1.79 & ['media', 'laurea', 'prova', 'neuroscienze', 'scienziato'] \\
-Physics Students & 27 & 55 & 0.09 & 1.84 & ['fisica', 'laboratorio', 'scienziata', 'scoperta', 'scienza'] \\
-GPT Physics Students & 7 & 6 & 0.00 & 1.71 & ['scienza', 'neuroscienze', 'scienziato', 'universita', 'professore'] \\
-High-Anxiety Psychology Students & 19 & 70 & 0.34 & 1.59 & ['curiosita', 'modello', 'scienza', 'psicologia', 'studio'] \\
-Low-Anxiety Psychology Students & 14 & 44 & 0.40 & 1.52 & ['curiosita', 'scienza', 'statistica', 'modello', 'psicologia'] \\
-GPT High-Anxiety Psychology Students & 16 & 31 & 0.15 & 1.74 & ['media', 'neuroscienze', 'prova', 'fisica', 'psicologia'] \\
-GPT Low-Anxiety Psychology Students & 18 & 33 & 0.12 & 1.78 & ['media', 'equazione', 'neuroscienze', 'scienziato', 'fisica'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Exam".}
-\label{tab:network_features_exam}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 9 & 15 & 0.25 & 1.58 & ['school', 'studies', 'teacher', 'student', 'work'] \\
-High Schoolers (South) & 41 & 83 & 0.06 & 1.90 & ['scuola', 'programma', 'chimica', 'studio', 'laureato'] \\
-High-Anxiety High Schoolers (North) & 49 & 92 & 0.04 & 1.92 & ['ansia', 'scuola', 'stress', 'voto', 'analisi'] \\
-Low-Anxiety High Schoolers (North) & 46 & 93 & 0.05 & 1.91 & ['sfida', 'matematica', 'dati', 'stress', 'fallimento'] \\
-GPT High-Anxiety High Schoolers & 15 & 21 & 0.08 & 1.80 & ['prova', 'valutazione', 'conoscenza', 'studio', 'risultato'] \\
-GPT Low-Anxiety High Schoolers & 14 & 20 & 0.09 & 1.78 & ['prova', 'matematica', 'valutazione', 'conoscenza', 'studio'] \\
-Physics Students & 25 & 44 & 0.07 & 1.85 & ['ansia', 'fisica', 'paura', 'sfida', 'stress'] \\
-GPT Physics Students & 11 & 12 & 0.04 & 1.78 & ['prova', 'valutazione', 'verifica', 'difficolta', 'risultato'] \\
-High-Anxiety Psychology Students & 57 & 224 & 0.11 & 1.86 & ['ansia', 'insegnante', 'sfida', 'scuola', 'universita'] \\
-Low-Anxiety Psychology Students & 58 & 211 & 0.10 & 1.87 & ['fisica', 'sfida', 'ansia', 'scuola', 'universita'] \\
-GPT High-Anxiety Psychology Students & 38 & 91 & 0.08 & 1.87 & ['test', 'prova', 'fisica', 'universita', 'matematica'] \\
-GPT Low-Anxiety Psychology Students & 41 & 88 & 0.06 & 1.89 & ['test', 'fisica', 'prova', 'valutazione', 'matematica'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Grade".}
-\label{tab:network_features_grade}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 7 & 7 & 0.07 & 1.67 & ['good', 'mark', 'exam', 'bad', 'high'] \\
-High Schoolers (South) & 35 & 78 & 0.08 & 1.87 & ['matematica', 'scuola', 'massimo', 'insegnante', 'studio'] \\
-High-Anxiety High Schoolers (North) & 59 & 110 & 0.03 & 1.94 & ['ansia', 'scuola', 'stress', 'docente', 'fallimento'] \\
-Low-Anxiety High Schoolers (North) & 47 & 68 & 0.02 & 1.94 & ['futuro', 'scuola', 'fallimento', 'ansia', 'numeri'] \\
-Physics Students & 22 & 29 & 0.04 & 1.87 & ['ansia', 'esame', 'futuro', 'giudizio', 'aspettative'] \\
-High-Anxiety Psychology Students & 38 & 104 & 0.10 & 1.85 & ['ansia', 'scuola', 'esame', 'comportamento', 'compito'] \\
-Low-Anxiety Psychology Students & 47 & 122 & 0.07 & 1.89 & ['sfida', 'ansia', 'insegnante', 'scuola', 'universita'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Professor".}
-\label{tab:network_features_professor}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 4 & 3 & 0.00 & 1.50 & ['scientific', 'logic', 'scholar'] \\
-High Schoolers (South) & 17 & 30 & 0.12 & 1.78 & ['fisica', 'insegnante', 'integrale', 'aula', 'matematico'] \\
-High-Anxiety High Schoolers (North) & 3 & 2 & 0.00 & 1.33 & ['fisica', 'docente'] \\
-Low-Anxiety High Schoolers (North) & 2 & 1 & 0.00 & 1.00 & ['docente'] \\
-GPT High-Anxiety High Schoolers & 17 & 22 & 0.05 & 1.84 & ['insegnante', 'matematica', 'conoscenza', 'ricerca', 'competenza'] \\
-GPT Low-Anxiety High Schoolers & 14 & 15 & 0.03 & 1.84 & ['insegnante', 'matematica', 'conoscenza', 'ricerca', 'competenza'] \\
-GPT Physics Students & 9 & 9 & 0.04 & 1.75 & ['insegnante', 'ricerca', 'conoscenza', 'competenza', 'guidance'] \\
-High-Anxiety Psychology Students & 49 & 130 & 0.07 & 1.89 & ['ansia', 'matematica', 'insegnante', 'scuola', 'lavoro'] \\
-Low-Anxiety Psychology Students & 59 & 171 & 0.07 & 1.90 & ['insegnante', 'matematica', 'scuola', 'universita', 'lavoro'] \\
-GPT High-Anxiety Psychology Students & 33 & 57 & 0.05 & 1.89 & ['sviluppo', 'insegnante', 'universita', 'matematica', 'psicopatologia'] \\
-GPT Low-Anxiety Psychology Students & 35 & 48 & 0.02 & 1.92 & ['insegnante', 'universita', 'matematica', 'psicopatologia', 'statistica'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Teacher".}
-\label{tab:network_features_teacher}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 16 & 27 & 0.11 & 1.77 & ['school', 'biology', 'teaching', 'person', 'good'] \\
-High Schoolers (South) & 62 & 159 & 0.05 & 1.92 & ['fisica', 'matematica', 'scuola', 'arte', 'persona'] \\
-High-Anxiety High Schoolers (North) & 2 & 1 & 0.00 & 1.00 & ['docente'] \\
-Low-Anxiety High Schoolers (North) & 2 & 1 & 0.00 & 1.00 & ['docente'] \\
-GPT High-Anxiety High Schoolers & 32 & 37 & 0.01 & 1.93 & ['passione', 'creativita', 'professore', 'conoscenza', 'studio'] \\
-GPT Low-Anxiety High Schoolers & 36 & 40 & 0.01 & 1.94 & ['curiosita', 'creativita', 'passione', 'professore', 'conoscenza'] \\
-Physics Students & 2 & 1 & 0.00 & 1.00 & ['docente'] \\
-GPT Physics Students & 17 & 17 & 0.01 & 1.88 & ['professore', 'guidance', 'interazione', 'metodi', 'studenti'] \\
-High-Anxiety Psychology Students & 70 & 171 & 0.04 & 1.93 & ['matematica', 'scuola', 'lavoro', 'universita', 'modello'] \\
-Low-Anxiety Psychology Students & 69 & 167 & 0.04 & 1.93 & ['matematica', 'scuola', 'universita', 'lavoro', 'professore'] \\
-GPT High-Anxiety Psychology Students & 65 & 93 & 0.01 & 1.96 & ['sviluppo', 'psicologia', 'curiosita', 'professore', 'passione'] \\
-GPT Low-Anxiety Psychology Students & 69 & 86 & 0.01 & 1.96 & ['sviluppo', 'curiosita', 'passione', 'professore', 'difficolta'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Scientist".}
-\label{tab:network_features_scientist}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 10 & 9 & 0.00 & 1.80 & ['science', 'game', 'tool', 'cultural', 'biologist'] \\
-High Schoolers (South) & 32 & 98 & 0.14 & 1.80 & ['scienza', 'persona', 'studio', 'scoperta', 'laureato'] \\
-High-Anxiety High Schoolers (North) & 43 & 130 & 0.10 & 1.86 & ['scuola', 'matematica', 'scoperta', 'ricerca', 'fisica'] \\
-Low-Anxiety High Schoolers (North) & 46 & 105 & 0.06 & 1.90 & ['esperimento', 'ricerca', 'dati', 'scoperta', 'scienza'] \\
-GPT High-Anxiety High Schoolers & 28 & 30 & 0.01 & 1.92 & ['passione', 'curiosita', 'conoscenza', 'ricerca', 'studio'] \\
-GPT Low-Anxiety High Schoolers & 26 & 30 & 0.02 & 1.91 & ['curiosita', 'universita', 'passione', 'conoscenza', 'ricerca'] \\
-Physics Students & 26 & 41 & 0.05 & 1.87 & ['fisica', 'laboratorio', 'scienza', 'dati', 'ricerca'] \\
-GPT Physics Students & 12 & 12 & 0.02 & 1.82 & ['curiosita', 'passione', 'analisi', 'ricerca', 'teoria'] \\
-High-Anxiety Psychology Students & 19 & 38 & 0.13 & 1.78 & ['lavoro', 'scienza', 'studio', 'scoperta', 'intelligenza'] \\
-Low-Anxiety Psychology Students & 15 & 29 & 0.16 & 1.72 & ['fisica', 'lavoro', 'scienza', 'intelligenza', 'ricerca'] \\
-GPT High-Anxiety Psychology Students & 57 & 76 & 0.01 & 1.95 & ['psicologia', 'universita', 'curiosita', 'passione', 'ricerca'] \\
-GPT Low-Anxiety Psychology Students & 71 & 105 & 0.01 & 1.96 & ['scienza', 'universita', 'curiosita', 'passione', 'innovazione'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "School".}
-\label{tab:network_features_school}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 52 & 101 & 0.04 & 1.92 & ['science', 'mathematics', 'university', 'life', 'art'] \\
-High Schoolers (South) & 78 & 255 & 0.06 & 1.92 & ['fisica', 'matematica', 'arte', 'rinnovamento', 'sistema'] \\
-High-Anxiety High Schoolers (North) & 75 & 219 & 0.05 & 1.92 & ['ansia', 'matematica', 'scoperta', 'ricerca', 'stress'] \\
-Low-Anxiety High Schoolers (North) & 62 & 128 & 0.04 & 1.93 & ['fisica', 'matematica', 'ricerca', 'arte', 'stress'] \\
-GPT High-Anxiety High Schoolers & 3 & 2 & 0.00 & 1.33 & ['media', 'universita'] \\
-GPT Low-Anxiety High Schoolers & 2 & 1 & 0.00 & 1.00 & ['media'] \\
-Physics Students & 26 & 27 & 0.01 & 1.92 & ['stress', 'docente', 'regole', 'compagni', 'studio'] \\
-High-Anxiety Psychology Students & 67 & 230 & 0.08 & 1.90 & ['ansia', 'matematica', 'insegnante', 'fisica', 'lavoro'] \\
-Low-Anxiety Psychology Students & 67 & 236 & 0.08 & 1.89 & ['fisica', 'sfida', 'ansia', 'insegnante', 'matematica'] \\
-GPT High-Anxiety Psychology Students & 3 & 3 & 1.00 & 1.00 & ['test', 'universita'] \\
-GPT Low-Anxiety Psychology Students & 4 & 3 & 0.00 & 1.50 & ['media', 'universita', 'matematica'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "University".}
-\label{tab:network_features_university}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 48 & 93 & 0.04 & 1.92 & ['science', 'physics', 'school', 'studies', 'loop'] \\
-High Schoolers (South) & 36 & 110 & 0.13 & 1.83 & ['fisica', 'auto organizzazione', 'studio', 'lavoro', 'laureato'] \\
-High-Anxiety High Schoolers (North) & 8 & 14 & 0.33 & 1.50 & ['ansia', 'futuro', 'docente', 'conoscenza', 'analisi'] \\
-Low-Anxiety High Schoolers (North) & 10 & 23 & 0.39 & 1.49 & ['fisica', 'futuro', 'ricerca', 'stress', 'docente'] \\
-GPT High-Anxiety High Schoolers & 25 & 35 & 0.04 & 1.88 & ['laurea', 'sviluppo', 'fisica', 'scienza', 'conoscenza'] \\
-GPT Low-Anxiety High Schoolers & 20 & 29 & 0.06 & 1.85 & ['laurea', 'scienziato', 'fisica', 'ricerca', 'studio'] \\
-Physics Students & 5 & 5 & 0.17 & 1.50 & ['ansia', 'fallimento', 'scoperta', 'docente'] \\
-GPT Physics Students & 11 & 10 & 0.00 & 1.82 & ['fisica', 'ricerca', 'studenti', 'studio', 'community'] \\
-High-Anxiety Psychology Students & 62 & 225 & 0.09 & 1.88 & ['ansia', 'insegnante', 'sfida', 'scuola', 'lavoro'] \\
-Low-Anxiety Psychology Students & 67 & 278 & 0.10 & 1.87 & ['ansia', 'curiosita', 'insegnante', 'scuola', 'lavoro'] \\
-GPT High-Anxiety Psychology Students & 51 & 99 & 0.04 & 1.92 & ['media', 'sviluppo', 'test', 'fisica', 'psicologia'] \\
-GPT Low-Anxiety Psychology Students & 53 & 75 & 0.02 & 1.95 & ['scienziato', 'fisica', 'psicologia', 'scienza', 'professore'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Wellbeing".}
-\label{tab:network_features_wellbeing}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 11 & 12 & 0.04 & 1.78 & ['health', 'good', 'determinism', 'relax', 'surprise'] \\
-High Schoolers (South) & 27 & 37 & 0.03 & 1.89 & ['sistema', 'casa', 'fisico', 'dieta', 'movimento'] \\
-High-Anxiety High Schoolers (North) & 49 & 55 & 0.01 & 1.95 & ['vita', 'felicita', 'sociale', 'calma', 'famiglia'] \\
-Low-Anxiety High Schoolers (North) & 49 & 74 & 0.02 & 1.94 & ['vita', 'stress', 'regole', 'creativita', 'meditazione'] \\
-GPT High-Anxiety High Schoolers & 18 & 19 & 0.01 & 1.88 & ['psicoterapia', 'psicopatologia', 'terapeuta', 'energia', 'gioia'] \\
-GPT Low-Anxiety High Schoolers & 14 & 14 & 0.01 & 1.85 & ['psicoterapia', 'terapeuta', 'energia', 'gioia', 'relax'] \\
-Physics Students & 26 & 25 & 0.00 & 1.92 & ['tempo', 'amore', 'acqua', 'calma', 'pace'] \\
-GPT Physics Students & 11 & 10 & 0.00 & 1.82 & ['psicoterapia', 'terapeuta', 'felicita', 'armonia', 'energia positiva'] \\
-High-Anxiety Psychology Students & 58 & 81 & 0.02 & 1.95 & ['psicologia', 'mente', 'terapia', 'psicoterapia', 'vita'] \\
-Low-Anxiety Psychology Students & 58 & 77 & 0.01 & 1.95 & ['mente', 'psicologia', 'terapia', 'tecnologia', 'tempo'] \\
-GPT High-Anxiety Psychology Students & 27 & 45 & 0.06 & 1.87 & ['sviluppo', 'psicologia', 'psicopatologia', 'emozione', 'psicoterapia'] \\
-GPT Low-Anxiety Psychology Students & 31 & 37 & 0.02 & 1.92 & ['sviluppo', 'psicologia', 'psicoterapia', 'terapeuta', 'stress'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Anxiety".}
-\label{tab:network_features_anxiety}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-High Schoolers (South) & 24 & 55 & 0.13 & 1.80 & ['tempo', 'scuola', 'insegnante', 'situazione', 'laureato'] \\
-High-Anxiety High Schoolers (North) & 75 & 218 & 0.05 & 1.92 & ['scuola', 'matematica', 'stress', 'fisica', 'futuro'] \\
-Low-Anxiety High Schoolers (North) & 51 & 110 & 0.05 & 1.91 & ['futuro', 'scuola', 'stress', 'fallimento', 'paura'] \\
-GPT High-Anxiety High Schoolers & 14 & 17 & 0.05 & 1.81 & ['test', 'psicopatologia', 'emozione', 'stress', 'gestione'] \\
-GPT Low-Anxiety High Schoolers & 12 & 13 & 0.04 & 1.80 & ['psicopatologia', 'emozione', 'stress', 'gestione', 'paura'] \\
-Physics Students & 31 & 64 & 0.08 & 1.86 & ['fallimento', 'paura', 'sfida', 'stress', 'esame'] \\
-GPT Physics Students & 7 & 8 & 0.13 & 1.62 & ['emozione', 'psicopatologia', 'stress', 'paura', 'preoccupazione'] \\
-High-Anxiety Psychology Students & 99 & 360 & 0.06 & 1.93 & ['matematica', 'sfida', 'fisica', 'scuola', 'lavoro'] \\
-Low-Anxiety Psychology Students & 75 & 211 & 0.05 & 1.92 & ['sfida', 'scuola', 'universita', 'lavoro', 'compito'] \\
-GPT High-Anxiety Psychology Students & 33 & 57 & 0.05 & 1.89 & ['test', 'prova', 'psicologia', 'psicopatologia', 'emozione'] \\
-GPT Low-Anxiety Psychology Students & 36 & 55 & 0.03 & 1.91 & ['test', 'prova', 'psicologia', 'psicoterapia', 'attaccamento'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Scienziata".}
-\label{tab:network_features_scienziata}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-High-Anxiety High Schoolers (North) & 37 & 96 & 0.10 & 1.86 & ['matematica', 'scoperta', 'ricerca', 'fisica', 'laboratorio'] \\
-Low-Anxiety High Schoolers (North) & 45 & 111 & 0.07 & 1.89 & ['futuro', 'esperimento', 'ricerca', 'dati', 'scoperta'] \\
-Physics Students & 29 & 40 & 0.03 & 1.90 & ['fisica', 'laboratorio', 'scienza', 'dati', 'ricerca'] \\
-High-Anxiety Psychology Students & 4 & 4 & 0.33 & 1.33 & ['scienza', 'ricerca', 'camice'] \\
-Low-Anxiety Psychology Students & 8 & 13 & 0.29 & 1.54 & ['scienza', 'laboratorio', 'esperimento', 'esperimenti', 'camice'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Mathematics".}
-\label{tab:network_features_mathematics}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 48 & 107 & 0.06 & 1.91 & ['Science', 'Physics', 'System', 'School', 'Complex'] \\
-High Schoolers (South) & 101 & 473 & 0.08 & 1.91 & ['Physics', 'Discussion', 'Together', 'School', 'Maximum'] \\
-High-Anxiety High Schoolers (North) & 73 & 212 & 0.05 & 1.92 & ['Anxiety', 'School', 'Stress', 'Physics', 'Teacher'] \\
-Low-Anxiety High Schoolers (North) & 63 & 183 & 0.06 & 1.91 & ['Challenge', 'Physics', 'School', 'Data', 'Teacher'] \\
-GPT High-Anxiety High Schoolers & 25 & 33 & 0.03 & 1.89 & ['Physics', 'Equation', 'Professor', 'Statistics', 'Research'] \\
-GPT Low-Anxiety High Schoolers & 19 & 25 & 0.05 & 1.85 & ['Equation', 'Creativity', 'Exam', 'Professor', 'Theory'] \\
-Physics Students & 25 & 42 & 0.07 & 1.86 & ['Physics', 'Statistics', 'Data', 'Numbers', 'Analysis'] \\
-GPT Physics Students & 14 & 15 & 0.03 & 1.84 & ['Equation', 'Resolution', 'Logic', 'Problems', 'Algebra'] \\
-High-Anxiety Psychology Students & 78 & 316 & 0.08 & 1.89 & ['Anxiety', 'Teacher', 'Challenge', 'Physics', 'School'] \\
-Low-Anxiety Psychology Students & 68 & 205 & 0.06 & 1.91 & ['Physics', 'Teacher', 'School', 'Professor', 'Task'] \\
-GPT High-Anxiety Psychology Students & 49 & 78 & 0.03 & 1.93 & ['Equation', 'Physics', 'Statistics', 'Exam', 'Professor'] \\
-GPT Low-Anxiety Psychology Students & 51 & 77 & 0.02 & 1.94 & ['Equation', 'Statistics', 'Exam', 'Professor', 'Creativity'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Statistics".}
-\label{tab:network_features_statistics}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 26 & 38 & 0.04 & 1.88 & ['Physics', 'Mathematics', 'Analysis', 'Number', 'Probability'] \\
-High Schoolers (South) & 29 & 59 & 0.08 & 1.85 & ['Mathematics', 'Graph', 'Study', 'Mathematically', 'Individual'] \\
-High-Anxiety High Schoolers (North) & 37 & 68 & 0.05 & 1.90 & ['School', 'Mathematics', 'Analysis', 'Data', 'Exam'] \\
-Low-Anxiety High Schoolers (North) & 41 & 91 & 0.07 & 1.89 & ['Future', 'Mathematics', 'Research', 'Data', 'Science'] \\
-GPT High-Anxiety High Schoolers & 15 & 16 & 0.02 & 1.85 & ['Average', 'Mathematics', 'Analysis', 'Data', 'Confidence'] \\
-GPT Low-Anxiety High Schoolers & 23 & 25 & 0.01 & 1.90 & ['Average', 'Curiosity', 'Science', 'Analysis', 'Data'] \\
-Physics Students & 28 & 49 & 0.06 & 1.87 & ['Laboratory', 'Fear', 'Data', 'Numbers', 'Exam'] \\
-GPT Physics Students & 12 & 11 & 0.00 & 1.83 & ['Average', 'Analysis', 'Data analysis', 'Confidence', 'Data'] \\
-High-Anxiety Psychology Students & 49 & 127 & 0.07 & 1.89 & ['Anxiety', 'Mathematics', 'University', 'Model', 'Numbers'] \\
-Low-Anxiety Psychology Students & 53 & 120 & 0.05 & 1.91 & ['Curiosity', 'Mathematics', 'University', 'Exam', 'Model'] \\
-GPT High-Anxiety Psychology Students & 48 & 68 & 0.02 & 1.94 & ['Average', 'Mathematics', 'Science', 'Curiosity', 'Exam'] \\
-GPT Low-Anxiety Psychology Students & 44 & 63 & 0.02 & 1.93 & ['Average', 'Mathematics', 'Curiosity', 'Exam', 'Professor'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Physics".}
-\label{tab:network_features_physics}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 55 & 108 & 0.04 & 1.93 & ['Science', 'Mathematics', 'University', 'Chemistry', 'Model'] \\
-High Schoolers (South) & 114 & 435 & 0.05 & 1.93 & ['Mathematics', 'Time', 'School', 'Science', 'System'] \\
-High-Anxiety High Schoolers (North) & 63 & 157 & 0.05 & 1.92 & ['Anxiety', 'School', 'Mathematics', 'Life', 'Discovery'] \\
-Low-Anxiety High Schoolers (North) & 65 & 158 & 0.05 & 1.92 & ['Future', 'Mathematics', 'School', 'Experiment', 'Research'] \\
-GPT High-Anxiety High Schoolers & 25 & 28 & 0.01 & 1.91 & ['Mathematics', 'University', 'Science', 'Theory', 'Energy'] \\
-GPT Low-Anxiety High Schoolers & 23 & 23 & 0.00 & 1.91 & ['Curiosity', 'Science', 'University', 'Theory', 'Energy'] \\
-Physics Students & 31 & 58 & 0.06 & 1.88 & ['Laboratory', 'Scientist', 'Discovery', 'Science', 'Knowledge'] \\
-GPT Physics Students & 17 & 17 & 0.01 & 1.88 & ['Science', 'Curiosity', 'University', 'Theory', 'Energy'] \\
-High-Anxiety Psychology Students & 69 & 159 & 0.04 & 1.93 & ['Anxiety', 'Mathematics', 'School', 'Curiosity', 'Numbers'] \\
-Low-Anxiety Psychology Students & 77 & 152 & 0.03 & 1.95 & ['Curiosity', 'Mathematics', 'School', 'Exam', 'Science'] \\
-GPT High-Anxiety Psychology Students & 62 & 95 & 0.02 & 1.95 & ['Equation', 'University', 'Mathematics', 'Science', 'Curiosity'] \\
-GPT Low-Anxiety Psychology Students & 67 & 86 & 0.01 & 1.96 & ['Equation', 'Science', 'University', 'Curiosity', 'Exam'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Science".}
-\label{tab:network_features_science}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 66 & 156 & 0.04 & 1.93 & ['Physics', 'System', 'School', 'Mathematics', 'University'] \\
-High Schoolers (South) & 64 & 242 & 0.09 & 1.88 & ['Physics', 'Mathematics', 'System', 'Rock', 'Law'] \\
-High-Anxiety High Schoolers (North) & 48 & 110 & 0.06 & 1.90 & ['School', 'Mathematics', 'Discovery', 'Research', 'Art'] \\
-Low-Anxiety High Schoolers (North) & 56 & 162 & 0.07 & 1.89 & ['Physics', 'Experiment', 'Research', 'Life', 'Discovery'] \\
-GPT High-Anxiety High Schoolers & 23 & 30 & 0.03 & 1.88 & ['Physics', 'University', 'Biology', 'Knowledge', 'Innovation'] \\
-GPT Low-Anxiety High Schoolers & 22 & 24 & 0.01 & 1.90 & ['Physics', 'Statistics', 'Biology', 'Innovation', 'Knowledge'] \\
-Physics Students & 28 & 60 & 0.09 & 1.84 & ['Physics', 'Laboratory', 'Scientist', 'Discovery', 'Knowledge'] \\
-GPT Physics Students & 16 & 17 & 0.02 & 1.86 & ['Tests', 'Physics', 'Research', 'Knowledge', 'Theory'] \\
-High-Anxiety Psychology Students & 58 & 206 & 0.09 & 1.88 & ['Mathematics', 'Physics', 'Curiosity', 'Numbers', 'Psychology'] \\
-Low-Anxiety Psychology Students & 56 & 181 & 0.08 & 1.88 & ['Physics', 'Curiosity', 'Mathematics', 'Future', 'Model'] \\
-GPT High-Anxiety Psychology Students & 43 & 70 & 0.03 & 1.92 & ['Physics', 'University', 'Statistics', 'Curiosity', 'Model'] \\
-GPT Low-Anxiety Psychology Students & 53 & 110 & 0.04 & 1.92 & ['Scientist', 'Physics', 'Try it', 'University', 'Curiosity'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Computer science".}
-\label{tab:network_features_computer science}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 27 & 40 & 0.04 & 1.89 & ['Science', 'System', 'Complex', 'Model', 'Discovery'] \\
-High Schoolers (South) & 16 & 31 & 0.15 & 1.74 & ['Program', 'Technology', 'Laboratory', 'Connection', 'Network'] \\
-High-Anxiety High Schoolers (North) & 51 & 90 & 0.03 & 1.93 & ['Anxiety', 'School', 'Future', 'Artificial intelligence', 'Data'] \\
-Low-Anxiety High Schoolers (North) & 45 & 83 & 0.04 & 1.92 & ['Future', 'School', 'Data', 'Logic', 'Programming'] \\
-GPT High-Anxiety High Schoolers & 19 & 18 & 0.00 & 1.89 & ['Creativity', 'Technology', 'Network', 'Networking', 'Algorithms'] \\
-GPT Low-Anxiety High Schoolers & 22 & 23 & 0.01 & 1.90 & ['Creativity', 'Innovation', 'Research', 'Technology', 'Network'] \\
-Physics Students & 23 & 31 & 0.04 & 1.88 & ['Fear', 'Science', 'Data', 'Numbers', 'Programming'] \\
-GPT Physics Students & 13 & 12 & 0.00 & 1.85 & ['Algorithms', 'Algorithm', 'Code', 'Coding', 'Hardware'] \\
-High-Anxiety Psychology Students & 25 & 65 & 0.15 & 1.78 & ['Anxiety', 'Mathematics', 'Challenge', 'Work', 'University'] \\
-Low-Anxiety Psychology Students & 20 & 33 & 0.08 & 1.83 & ['Mathematics', 'Numbers', 'Technology', 'Difficult', 'Engineering'] \\
-GPT High-Anxiety Psychology Students & 47 & 51 & 0.00 & 1.95 & ['Creativity', 'Innovation', 'Stress', 'Learning', 'Revolution'] \\
-GPT Low-Anxiety Psychology Students & 55 & 60 & 0.00 & 1.96 & ['Fun', 'Creativity', 'Innovation', 'Research', 'Learning'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Research".}
-\label{tab:network_features_research}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 15 & 24 & 0.11 & 1.77 & ['Science', 'Physics', 'University', 'Model', 'Theory'] \\
-High Schoolers (South) & 13 & 25 & 0.20 & 1.68 & ['Domination', 'Discovery', 'Theory', 'Laboratory', 'Researcher'] \\
-High-Anxiety High Schoolers (North) & 65 & 168 & 0.05 & 1.92 & ['School', 'Discovery', 'Physics', 'Knowledge', 'Artificial intelligence'] \\
-Low-Anxiety High Schoolers (North) & 60 & 189 & 0.08 & 1.89 & ['Physics', 'School', 'Experiment', 'Data', 'Life'] \\
-GPT High-Anxiety High Schoolers & 11 & 13 & 0.07 & 1.76 & ['Degree', 'Scientist', 'Try it', 'Mathematics', 'Neuroscience'] \\
-GPT Low-Anxiety High Schoolers & 12 & 14 & 0.05 & 1.79 & ['Average', 'Degree', 'Try it', 'Neuroscience', 'Scientist'] \\
-Physics Students & 27 & 55 & 0.09 & 1.84 & ['Physics', 'Laboratory', 'Scientist', 'Discovery', 'Science'] \\
-GPT Physics Students & 7 & 6 & 0.00 & 1.71 & ['Science', 'Neuroscience', 'Scientist', 'University', 'Professor'] \\
-High-Anxiety Psychology Students & 19 & 70 & 0.34 & 1.59 & ['Curiosity', 'Model', 'Science', 'Psychology', 'Study'] \\
-Low-Anxiety Psychology Students & 14 & 44 & 0.40 & 1.52 & ['Curiosity', 'Science', 'Statistics', 'Model', 'Psychology'] \\
-GPT High-Anxiety Psychology Students & 16 & 31 & 0.15 & 1.74 & ['Average', 'Neuroscience', 'Try it', 'Physics', 'Psychology'] \\
-GPT Low-Anxiety Psychology Students & 18 & 33 & 0.12 & 1.78 & ['Average', 'Equation', 'Neuroscience', 'Scientist', 'Physics'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Exam".}
-\label{tab:network_features_exam}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 9 & 15 & 0.25 & 1.58 & ['School', 'Studies', 'Teacher', 'Student', 'Work'] \\
-High Schoolers (South) & 41 & 83 & 0.06 & 1.90 & ['School', 'Program', 'Chemistry', 'Study', 'Graduated'] \\
-High-Anxiety High Schoolers (North) & 49 & 92 & 0.04 & 1.92 & ['Anxiety', 'School', 'Stress', 'Vote', 'Analysis'] \\
-Low-Anxiety High Schoolers (North) & 46 & 93 & 0.05 & 1.91 & ['Challenge', 'Mathematics', 'Data', 'Stress', 'Failure'] \\
-GPT High-Anxiety High Schoolers & 15 & 21 & 0.08 & 1.80 & ['Try it', 'Evaluation', 'Knowledge', 'Study', 'Result'] \\
-GPT Low-Anxiety High Schoolers & 14 & 20 & 0.09 & 1.78 & ['Try it', 'Mathematics', 'Evaluation', 'Knowledge', 'Study'] \\
-Physics Students & 25 & 44 & 0.07 & 1.85 & ['Anxiety', 'Physics', 'Fear', 'Challenge', 'Stress'] \\
-GPT Physics Students & 11 & 12 & 0.04 & 1.78 & ['Try it', 'Evaluation', 'Check', 'Difficulty', 'Result'] \\
-High-Anxiety Psychology Students & 57 & 224 & 0.11 & 1.86 & ['Anxiety', 'Teacher', 'Challenge', 'School', 'University'] \\
-Low-Anxiety Psychology Students & 58 & 211 & 0.10 & 1.87 & ['Physics', 'Challenge', 'Anxiety', 'School', 'University'] \\
-GPT High-Anxiety Psychology Students & 38 & 91 & 0.08 & 1.87 & ['Tests', 'Try it', 'Physics', 'University', 'Mathematics'] \\
-GPT Low-Anxiety Psychology Students & 41 & 88 & 0.06 & 1.89 & ['Tests', 'Physics', 'Try it', 'Evaluation', 'Mathematics'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Grade".}
-\label{tab:network_features_grade}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 7 & 7 & 0.07 & 1.67 & ['Good', 'Mark', 'Exam', 'Bad', 'High'] \\
-High Schoolers (South) & 35 & 78 & 0.08 & 1.87 & ['Mathematics', 'School', 'Maximum', 'Teacher', 'Study'] \\
-High-Anxiety High Schoolers (North) & 59 & 110 & 0.03 & 1.94 & ['Anxiety', 'School', 'Stress', 'Teacher', 'Failure'] \\
-Low-Anxiety High Schoolers (North) & 47 & 68 & 0.02 & 1.94 & ['Future', 'School', 'Failure', 'Anxiety', 'Numbers'] \\
-Physics Students & 22 & 29 & 0.04 & 1.87 & ['Anxiety', 'Exam', 'Future', 'Judgment', 'Expectations'] \\
-High-Anxiety Psychology Students & 38 & 104 & 0.10 & 1.85 & ['Anxiety', 'School', 'Exam', 'Behavior', 'Task'] \\
-Low-Anxiety Psychology Students & 47 & 122 & 0.07 & 1.89 & ['Challenge', 'Anxiety', 'Teacher', 'School', 'University'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Professor".}
-\label{tab:network_features_professor}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 4 & 3 & 0.00 & 1.50 & ['Scientific', 'Logic', 'Scholar'] \\
-High Schoolers (South) & 17 & 30 & 0.12 & 1.78 & ['Physics', 'Teacher', 'Integral', 'Classroom', 'Mathematician'] \\
-High-Anxiety High Schoolers (North) & 3 & 2 & 0.00 & 1.33 & ['Physics', 'Teacher'] \\
-Low-Anxiety High Schoolers (North) & 2 & 1 & 0.00 & 1.00 & ['Teacher'] \\
-GPT High-Anxiety High Schoolers & 17 & 22 & 0.05 & 1.84 & ['Teacher', 'Mathematics', 'Knowledge', 'Research', 'Competence'] \\
-GPT Low-Anxiety High Schoolers & 14 & 15 & 0.03 & 1.84 & ['Teacher', 'Mathematics', 'Knowledge', 'Research', 'Competence'] \\
-GPT Physics Students & 9 & 9 & 0.04 & 1.75 & ['Teacher', 'Research', 'Knowledge', 'Competence', 'Guidance'] \\
-High-Anxiety Psychology Students & 49 & 130 & 0.07 & 1.89 & ['Anxiety', 'Mathematics', 'Teacher', 'School', 'Work'] \\
-Low-Anxiety Psychology Students & 59 & 171 & 0.07 & 1.90 & ['Teacher', 'Mathematics', 'School', 'University', 'Work'] \\
-GPT High-Anxiety Psychology Students & 33 & 57 & 0.05 & 1.89 & ['Development', 'Teacher', 'University', 'Mathematics', 'Psychopathology'] \\
-GPT Low-Anxiety Psychology Students & 35 & 48 & 0.02 & 1.92 & ['Teacher', 'University', 'Mathematics', 'Psychopathology', 'Statistics'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Teacher".}
-\label{tab:network_features_teacher}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 16 & 27 & 0.11 & 1.77 & ['School', 'Biology', 'Teaching', 'Person', 'Good'] \\
-High Schoolers (South) & 62 & 159 & 0.05 & 1.92 & ['Physics', 'Mathematics', 'School', 'Art', 'Person'] \\
-High-Anxiety High Schoolers (North) & 2 & 1 & 0.00 & 1.00 & ['Teacher'] \\
-Low-Anxiety High Schoolers (North) & 2 & 1 & 0.00 & 1.00 & ['Teacher'] \\
-GPT High-Anxiety High Schoolers & 32 & 37 & 0.01 & 1.93 & ['Passion', 'Creativity', 'Professor', 'Knowledge', 'Study'] \\
-GPT Low-Anxiety High Schoolers & 36 & 40 & 0.01 & 1.94 & ['Curiosity', 'Creativity', 'Passion', 'Professor', 'Knowledge'] \\
-Physics Students & 2 & 1 & 0.00 & 1.00 & ['Teacher'] \\
-GPT Physics Students & 17 & 17 & 0.01 & 1.88 & ['Professor', 'Guidance', 'Interaction', 'Methods', 'Students'] \\
-High-Anxiety Psychology Students & 70 & 171 & 0.04 & 1.93 & ['Mathematics', 'School', 'Work', 'University', 'Model'] \\
-Low-Anxiety Psychology Students & 69 & 167 & 0.04 & 1.93 & ['Mathematics', 'School', 'University', 'Work', 'Professor'] \\
-GPT High-Anxiety Psychology Students & 65 & 93 & 0.01 & 1.96 & ['Development', 'Psychology', 'Curiosity', 'Professor', 'Passion'] \\
-GPT Low-Anxiety Psychology Students & 69 & 86 & 0.01 & 1.96 & ['Development', 'Curiosity', 'Passion', 'Professor', 'Difficulty'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Scientist".}
-\label{tab:network_features_scientist}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 10 & 9 & 0.00 & 1.80 & ['Science', 'Game', 'Tools', 'Cultural', 'Biologist'] \\
-High Schoolers (South) & 32 & 98 & 0.14 & 1.80 & ['Science', 'Person', 'Study', 'Discovery', 'Graduated'] \\
-High-Anxiety High Schoolers (North) & 43 & 130 & 0.10 & 1.86 & ['School', 'Mathematics', 'Discovery', 'Research', 'Physics'] \\
-Low-Anxiety High Schoolers (North) & 46 & 105 & 0.06 & 1.90 & ['Experiment', 'Research', 'Data', 'Discovery', 'Science'] \\
-GPT High-Anxiety High Schoolers & 28 & 30 & 0.01 & 1.92 & ['Passion', 'Curiosity', 'Knowledge', 'Research', 'Study'] \\
-GPT Low-Anxiety High Schoolers & 26 & 30 & 0.02 & 1.91 & ['Curiosity', 'University', 'Passion', 'Knowledge', 'Research'] \\
-Physics Students & 26 & 41 & 0.05 & 1.87 & ['Physics', 'Laboratory', 'Science', 'Data', 'Research'] \\
-GPT Physics Students & 12 & 12 & 0.02 & 1.82 & ['Curiosity', 'Passion', 'Analysis', 'Research', 'Theory'] \\
-High-Anxiety Psychology Students & 19 & 38 & 0.13 & 1.78 & ['Work', 'Science', 'Study', 'Discovery', 'Intelligence'] \\
-Low-Anxiety Psychology Students & 15 & 29 & 0.16 & 1.72 & ['Physics', 'Work', 'Science', 'Intelligence', 'Research'] \\
-GPT High-Anxiety Psychology Students & 57 & 76 & 0.01 & 1.95 & ['Psychology', 'University', 'Curiosity', 'Passion', 'Research'] \\
-GPT Low-Anxiety Psychology Students & 71 & 105 & 0.01 & 1.96 & ['Science', 'University', 'Curiosity', 'Passion', 'Innovation'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "School".}
-\label{tab:network_features_school}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 52 & 101 & 0.04 & 1.92 & ['Science', 'Mathematics', 'University', 'Life', 'Art'] \\
-High Schoolers (South) & 78 & 255 & 0.06 & 1.92 & ['Physics', 'Mathematics', 'Art', 'Renewal', 'System'] \\
-High-Anxiety High Schoolers (North) & 75 & 219 & 0.05 & 1.92 & ['Anxiety', 'Mathematics', 'Discovery', 'Research', 'Stress'] \\
-Low-Anxiety High Schoolers (North) & 62 & 128 & 0.04 & 1.93 & ['Physics', 'Mathematics', 'Research', 'Art', 'Stress'] \\
-GPT High-Anxiety High Schoolers & 3 & 2 & 0.00 & 1.33 & ['Average', 'University'] \\
-GPT Low-Anxiety High Schoolers & 2 & 1 & 0.00 & 1.00 & ['Average'] \\
-Physics Students & 26 & 27 & 0.01 & 1.92 & ['Stress', 'Teacher', 'Rules', 'Comrades', 'Study'] \\
-High-Anxiety Psychology Students & 67 & 230 & 0.08 & 1.90 & ['Anxiety', 'Mathematics', 'Teacher', 'Physics', 'Work'] \\
-Low-Anxiety Psychology Students & 67 & 236 & 0.08 & 1.89 & ['Physics', 'Challenge', 'Anxiety', 'Teacher', 'Mathematics'] \\
-GPT High-Anxiety Psychology Students & 3 & 3 & 1.00 & 1.00 & ['Tests', 'University'] \\
-GPT Low-Anxiety Psychology Students & 4 & 3 & 0.00 & 1.50 & ['Average', 'University', 'Mathematics'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "University".}
-\label{tab:network_features_university}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 48 & 93 & 0.04 & 1.92 & ['Science', 'Physics', 'School', 'Studies', 'Loops'] \\
-High Schoolers (South) & 36 & 110 & 0.13 & 1.83 & ['Physics', 'Self organization', 'Study', 'Work', 'Graduated'] \\
-High-Anxiety High Schoolers (North) & 8 & 14 & 0.33 & 1.50 & ['Anxiety', 'Future', 'Teacher', 'Knowledge', 'Analysis'] \\
-Low-Anxiety High Schoolers (North) & 10 & 23 & 0.39 & 1.49 & ['Physics', 'Future', 'Research', 'Stress', 'Teacher'] \\
-GPT High-Anxiety High Schoolers & 25 & 35 & 0.04 & 1.88 & ['Degree', 'Development', 'Physics', 'Science', 'Knowledge'] \\
-GPT Low-Anxiety High Schoolers & 20 & 29 & 0.06 & 1.85 & ['Degree', 'Scientist', 'Physics', 'Research', 'Study'] \\
-Physics Students & 5 & 5 & 0.17 & 1.50 & ['Anxiety', 'Failure', 'Discovery', 'Teacher'] \\
-GPT Physics Students & 11 & 10 & 0.00 & 1.82 & ['Physics', 'Research', 'Students', 'Study', 'Community'] \\
-High-Anxiety Psychology Students & 62 & 225 & 0.09 & 1.88 & ['Anxiety', 'Teacher', 'Challenge', 'School', 'Work'] \\
-Low-Anxiety Psychology Students & 67 & 278 & 0.10 & 1.87 & ['Anxiety', 'Curiosity', 'Teacher', 'School', 'Work'] \\
-GPT High-Anxiety Psychology Students & 51 & 99 & 0.04 & 1.92 & ['Average', 'Development', 'Tests', 'Physics', 'Psychology'] \\
-GPT Low-Anxiety Psychology Students & 53 & 75 & 0.02 & 1.95 & ['Scientist', 'Physics', 'Psychology', 'Science', 'Professor'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Wellbeing".}
-\label{tab:network_features_wellbeing}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 11 & 12 & 0.04 & 1.78 & ['Health', 'Good', 'Determinism', 'Relax', 'Surprise'] \\
-High Schoolers (South) & 27 & 37 & 0.03 & 1.89 & ['System', 'Home', 'Physical', 'Diet', 'Movement'] \\
-High-Anxiety High Schoolers (North) & 49 & 55 & 0.01 & 1.95 & ['Life', 'Happiness', 'Social', 'Calm down', 'Family'] \\
-Low-Anxiety High Schoolers (North) & 49 & 74 & 0.02 & 1.94 & ['Life', 'Stress', 'Rules', 'Creativity', 'Meditation'] \\
-GPT High-Anxiety High Schoolers & 18 & 19 & 0.01 & 1.88 & ['Psychotherapy', 'Psychopathology', 'Therapist', 'Energy', 'Joy'] \\
-GPT Low-Anxiety High Schoolers & 14 & 14 & 0.01 & 1.85 & ['Psychotherapy', 'Therapist', 'Energy', 'Joy', 'Relax'] \\
-Physics Students & 26 & 25 & 0.00 & 1.92 & ['Time', 'Love', 'Water', 'Calm down', 'Peace'] \\
-GPT Physics Students & 11 & 10 & 0.00 & 1.82 & ['Psychotherapy', 'Therapist', 'Happiness', 'Harmony', 'Positive energy'] \\
-High-Anxiety Psychology Students & 58 & 81 & 0.02 & 1.95 & ['Psychology', 'Mind', 'Therapy', 'Psychotherapy', 'Life'] \\
-Low-Anxiety Psychology Students & 58 & 77 & 0.01 & 1.95 & ['Mind', 'Psychology', 'Therapy', 'Technology', 'Time'] \\
-GPT High-Anxiety Psychology Students & 27 & 45 & 0.06 & 1.87 & ['Development', 'Psychology', 'Psychopathology', 'Emotion', 'Psychotherapy'] \\
-GPT Low-Anxiety Psychology Students & 31 & 37 & 0.02 & 1.92 & ['Development', 'Psychology', 'Psychotherapy', 'Therapist', 'Stress'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Anxiety".}
-\label{tab:network_features_anxiety}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-High Schoolers (South) & 24 & 55 & 0.13 & 1.80 & ['Time', 'School', 'Teacher', 'Situation', 'Graduated'] \\
-High-Anxiety High Schoolers (North) & 75 & 218 & 0.05 & 1.92 & ['School', 'Mathematics', 'Stress', 'Physics', 'Future'] \\
-Low-Anxiety High Schoolers (North) & 51 & 110 & 0.05 & 1.91 & ['Future', 'School', 'Stress', 'Failure', 'Fear'] \\
-GPT High-Anxiety High Schoolers & 14 & 17 & 0.05 & 1.81 & ['Tests', 'Psychopathology', 'Emotion', 'Stress', 'Management'] \\
-GPT Low-Anxiety High Schoolers & 12 & 13 & 0.04 & 1.80 & ['Psychopathology', 'Emotion', 'Stress', 'Management', 'Fear'] \\
-Physics Students & 31 & 64 & 0.08 & 1.86 & ['Failure', 'Fear', 'Challenge', 'Stress', 'Exam'] \\
-GPT Physics Students & 7 & 8 & 0.13 & 1.62 & ['Emotion', 'Psychopathology', 'Stress', 'Fear', 'Concern'] \\
-High-Anxiety Psychology Students & 99 & 360 & 0.06 & 1.93 & ['Mathematics', 'Challenge', 'Physics', 'School', 'Work'] \\
-Low-Anxiety Psychology Students & 75 & 211 & 0.05 & 1.92 & ['Challenge', 'School', 'University', 'Work', 'Task'] \\
-GPT High-Anxiety Psychology Students & 33 & 57 & 0.05 & 1.89 & ['Tests', 'Try it', 'Psychology', 'Psychopathology', 'Emotion'] \\
-GPT Low-Anxiety Psychology Students & 36 & 55 & 0.03 & 1.91 & ['Tests', 'Try it', 'Psychology', 'Psychotherapy', 'Attachment'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Scienziata".}
-\label{tab:network_features_scienziata}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-High-Anxiety High Schoolers (North) & 37 & 96 & 0.10 & 1.86 & ['Mathematics', 'Discovery', 'Research', 'Physics', 'Laboratory'] \\
-Low-Anxiety High Schoolers (North) & 45 & 111 & 0.07 & 1.89 & ['Future', 'Experiment', 'Research', 'Data', 'Discovery'] \\
-Physics Students & 29 & 40 & 0.03 & 1.90 & ['Physics', 'Laboratory', 'Science', 'Data', 'Research'] \\
-High-Anxiety Psychology Students & 4 & 4 & 0.33 & 1.33 & ['Science', 'Research', 'Shirts'] \\
-Low-Anxiety Psychology Students & 8 & 13 & 0.29 & 1.54 & ['Science', 'Laboratory', 'Experiment', 'Experiments', 'Shirts'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Mathematics".}
-\label{tab:network_features_mathematics}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 48 & 107 & 0.06 & 1.91 & ['Science', 'Physics', 'System', 'School', 'Complex'] \\
-High Schoolers (South) & 101 & 473 & 0.08 & 1.91 & ['Physics', 'Discussion', 'Together', 'School', 'Maximum'] \\
-High-Anxiety High Schoolers (North) & 73 & 212 & 0.05 & 1.92 & ['Anxiety', 'School', 'Stress', 'Physics', 'Teacher'] \\
-Low-Anxiety High Schoolers (North) & 63 & 183 & 0.06 & 1.91 & ['Challenge', 'Physics', 'School', 'Data', 'Teacher'] \\
-GPT High-Anxiety High Schoolers & 25 & 33 & 0.03 & 1.89 & ['Physics', 'Equation', 'Professor', 'Statistics', 'Research'] \\
-GPT Low-Anxiety High Schoolers & 19 & 25 & 0.05 & 1.85 & ['Equation', 'Creativity', 'Exam', 'Professor', 'Theory'] \\
-Physics Students & 25 & 42 & 0.07 & 1.86 & ['Physics', 'Statistics', 'Data', 'Numbers', 'Analysis'] \\
-GPT Physics Students & 14 & 15 & 0.03 & 1.84 & ['Equation', 'Resolution', 'Logic', 'Problems', 'Algebra'] \\
-High-Anxiety Psychology Students & 78 & 316 & 0.08 & 1.89 & ['Anxiety', 'Teacher', 'Challenge', 'Physics', 'School'] \\
-Low-Anxiety Psychology Students & 68 & 205 & 0.06 & 1.91 & ['Physics', 'Teacher', 'School', 'Professor', 'Task'] \\
-GPT High-Anxiety Psychology Students & 49 & 78 & 0.03 & 1.93 & ['Equation', 'Physics', 'Statistics', 'Exam', 'Professor'] \\
-GPT Low-Anxiety Psychology Students & 51 & 77 & 0.02 & 1.94 & ['Equation', 'Statistics', 'Exam', 'Professor', 'Creativity'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Statistics".}
-\label{tab:network_features_statistics}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 26 & 38 & 0.04 & 1.88 & ['Physics', 'Mathematics', 'Analysis', 'Number', 'Probability'] \\
-High Schoolers (South) & 29 & 59 & 0.08 & 1.85 & ['Mathematics', 'Graph', 'Study', 'Mathematically', 'Individual'] \\
-High-Anxiety High Schoolers (North) & 37 & 68 & 0.05 & 1.90 & ['School', 'Mathematics', 'Analysis', 'Data', 'Exam'] \\
-Low-Anxiety High Schoolers (North) & 41 & 91 & 0.07 & 1.89 & ['Future', 'Mathematics', 'Research', 'Data', 'Science'] \\
-GPT High-Anxiety High Schoolers & 15 & 16 & 0.02 & 1.85 & ['Average', 'Mathematics', 'Analysis', 'Data', 'Confidence'] \\
-GPT Low-Anxiety High Schoolers & 23 & 25 & 0.01 & 1.90 & ['Average', 'Curiosity', 'Science', 'Analysis', 'Data'] \\
-Physics Students & 28 & 49 & 0.06 & 1.87 & ['Laboratory', 'Fear', 'Data', 'Numbers', 'Exam'] \\
-GPT Physics Students & 12 & 11 & 0.00 & 1.83 & ['Average', 'Analysis', 'Data analysis', 'Confidence', 'Data'] \\
-High-Anxiety Psychology Students & 49 & 127 & 0.07 & 1.89 & ['Anxiety', 'Mathematics', 'University', 'Model', 'Numbers'] \\
-Low-Anxiety Psychology Students & 53 & 120 & 0.05 & 1.91 & ['Curiosity', 'Mathematics', 'University', 'Exam', 'Model'] \\
-GPT High-Anxiety Psychology Students & 48 & 68 & 0.02 & 1.94 & ['Average', 'Mathematics', 'Science', 'Curiosity', 'Exam'] \\
-GPT Low-Anxiety Psychology Students & 44 & 63 & 0.02 & 1.93 & ['Average', 'Mathematics', 'Curiosity', 'Exam', 'Professor'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Physics".}
-\label{tab:network_features_physics}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 55 & 108 & 0.04 & 1.93 & ['Science', 'Mathematics', 'University', 'Chemistry', 'Model'] \\
-High Schoolers (South) & 114 & 435 & 0.05 & 1.93 & ['Mathematics', 'Time', 'School', 'Science', 'System'] \\
-High-Anxiety High Schoolers (North) & 63 & 157 & 0.05 & 1.92 & ['Anxiety', 'School', 'Mathematics', 'Life', 'Discovery'] \\
-Low-Anxiety High Schoolers (North) & 65 & 158 & 0.05 & 1.92 & ['Future', 'Mathematics', 'School', 'Experiment', 'Research'] \\
-GPT High-Anxiety High Schoolers & 25 & 28 & 0.01 & 1.91 & ['Mathematics', 'University', 'Science', 'Theory', 'Energy'] \\
-GPT Low-Anxiety High Schoolers & 23 & 23 & 0.00 & 1.91 & ['Curiosity', 'Science', 'University', 'Theory', 'Energy'] \\
-Physics Students & 31 & 58 & 0.06 & 1.88 & ['Laboratory', 'Scientist', 'Discovery', 'Science', 'Knowledge'] \\
-GPT Physics Students & 17 & 17 & 0.01 & 1.88 & ['Science', 'Curiosity', 'University', 'Theory', 'Energy'] \\
-High-Anxiety Psychology Students & 69 & 159 & 0.04 & 1.93 & ['Anxiety', 'Mathematics', 'School', 'Curiosity', 'Numbers'] \\
-Low-Anxiety Psychology Students & 77 & 152 & 0.03 & 1.95 & ['Curiosity', 'Mathematics', 'School', 'Exam', 'Science'] \\
-GPT High-Anxiety Psychology Students & 62 & 95 & 0.02 & 1.95 & ['Equation', 'University', 'Mathematics', 'Science', 'Curiosity'] \\
-GPT Low-Anxiety Psychology Students & 67 & 86 & 0.01 & 1.96 & ['Equation', 'Science', 'University', 'Curiosity', 'Exam'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Science".}
-\label{tab:network_features_science}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 66 & 156 & 0.04 & 1.93 & ['Physics', 'System', 'School', 'Mathematics', 'University'] \\
-High Schoolers (South) & 64 & 242 & 0.09 & 1.88 & ['Physics', 'Mathematics', 'System', 'Rock', 'Law'] \\
-High-Anxiety High Schoolers (North) & 48 & 110 & 0.06 & 1.90 & ['School', 'Mathematics', 'Discovery', 'Research', 'Art'] \\
-Low-Anxiety High Schoolers (North) & 56 & 162 & 0.07 & 1.89 & ['Physics', 'Experiment', 'Research', 'Life', 'Discovery'] \\
-GPT High-Anxiety High Schoolers & 23 & 30 & 0.03 & 1.88 & ['Physics', 'University', 'Biology', 'Knowledge', 'Innovation'] \\
-GPT Low-Anxiety High Schoolers & 22 & 24 & 0.01 & 1.90 & ['Physics', 'Statistics', 'Biology', 'Innovation', 'Knowledge'] \\
-Physics Students & 28 & 60 & 0.09 & 1.84 & ['Physics', 'Laboratory', 'Scientist', 'Discovery', 'Knowledge'] \\
-GPT Physics Students & 16 & 17 & 0.02 & 1.86 & ['Tests', 'Physics', 'Research', 'Knowledge', 'Theory'] \\
-High-Anxiety Psychology Students & 58 & 206 & 0.09 & 1.88 & ['Mathematics', 'Physics', 'Curiosity', 'Numbers', 'Psychology'] \\
-Low-Anxiety Psychology Students & 56 & 181 & 0.08 & 1.88 & ['Physics', 'Curiosity', 'Mathematics', 'Future', 'Model'] \\
-GPT High-Anxiety Psychology Students & 43 & 70 & 0.03 & 1.92 & ['Physics', 'University', 'Statistics', 'Curiosity', 'Model'] \\
-GPT Low-Anxiety Psychology Students & 53 & 110 & 0.04 & 1.92 & ['Scientist', 'Physics', 'Try it', 'University', 'Curiosity'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Computer science".}
-\label{tab:network_features_computer science}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 27 & 40 & 0.04 & 1.89 & ['Science', 'System', 'Complex', 'Model', 'Discovery'] \\
-High Schoolers (South) & 16 & 31 & 0.15 & 1.74 & ['Program', 'Technology', 'Laboratory', 'Connection', 'Network'] \\
-High-Anxiety High Schoolers (North) & 51 & 90 & 0.03 & 1.93 & ['Anxiety', 'School', 'Future', 'Artificial intelligence', 'Data'] \\
-Low-Anxiety High Schoolers (North) & 45 & 83 & 0.04 & 1.92 & ['Future', 'School', 'Data', 'Logic', 'Programming'] \\
-GPT High-Anxiety High Schoolers & 19 & 18 & 0.00 & 1.89 & ['Creativity', 'Technology', 'Network', 'Networking', 'Algorithms'] \\
-GPT Low-Anxiety High Schoolers & 22 & 23 & 0.01 & 1.90 & ['Creativity', 'Innovation', 'Research', 'Technology', 'Network'] \\
-Physics Students & 23 & 31 & 0.04 & 1.88 & ['Fear', 'Science', 'Data', 'Numbers', 'Programming'] \\
-GPT Physics Students & 13 & 12 & 0.00 & 1.85 & ['Algorithms', 'Algorithm', 'Code', 'Coding', 'Hardware'] \\
-High-Anxiety Psychology Students & 25 & 65 & 0.15 & 1.78 & ['Anxiety', 'Mathematics', 'Challenge', 'Work', 'University'] \\
-Low-Anxiety Psychology Students & 20 & 33 & 0.08 & 1.83 & ['Mathematics', 'Numbers', 'Technology', 'Difficult', 'Engineering'] \\
-GPT High-Anxiety Psychology Students & 47 & 51 & 0.00 & 1.95 & ['Creativity', 'Innovation', 'Stress', 'Learning', 'Revolution'] \\
-GPT Low-Anxiety Psychology Students & 55 & 60 & 0.00 & 1.96 & ['Fun', 'Creativity', 'Innovation', 'Research', 'Learning'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Research".}
-\label{tab:network_features_research}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 15 & 24 & 0.11 & 1.77 & ['Science', 'Physics', 'University', 'Model', 'Theory'] \\
-High Schoolers (South) & 13 & 25 & 0.20 & 1.68 & ['Domination', 'Discovery', 'Theory', 'Laboratory', 'Researcher'] \\
-High-Anxiety High Schoolers (North) & 65 & 168 & 0.05 & 1.92 & ['School', 'Discovery', 'Physics', 'Knowledge', 'Artificial intelligence'] \\
-Low-Anxiety High Schoolers (North) & 60 & 189 & 0.08 & 1.89 & ['Physics', 'School', 'Experiment', 'Data', 'Life'] \\
-GPT High-Anxiety High Schoolers & 11 & 13 & 0.07 & 1.76 & ['Degree', 'Scientist', 'Try it', 'Mathematics', 'Neuroscience'] \\
-GPT Low-Anxiety High Schoolers & 12 & 14 & 0.05 & 1.79 & ['Average', 'Degree', 'Try it', 'Neuroscience', 'Scientist'] \\
-Physics Students & 27 & 55 & 0.09 & 1.84 & ['Physics', 'Laboratory', 'Scientist', 'Discovery', 'Science'] \\
-GPT Physics Students & 7 & 6 & 0.00 & 1.71 & ['Science', 'Neuroscience', 'Scientist', 'University', 'Professor'] \\
-High-Anxiety Psychology Students & 19 & 70 & 0.34 & 1.59 & ['Curiosity', 'Model', 'Science', 'Psychology', 'Study'] \\
-Low-Anxiety Psychology Students & 14 & 44 & 0.40 & 1.52 & ['Curiosity', 'Science', 'Statistics', 'Model', 'Psychology'] \\
-GPT High-Anxiety Psychology Students & 16 & 31 & 0.15 & 1.74 & ['Average', 'Neuroscience', 'Try it', 'Physics', 'Psychology'] \\
-GPT Low-Anxiety Psychology Students & 18 & 33 & 0.12 & 1.78 & ['Average', 'Equation', 'Neuroscience', 'Scientist', 'Physics'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Exam".}
-\label{tab:network_features_exam}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 9 & 15 & 0.25 & 1.58 & ['School', 'Studies', 'Teacher', 'Student', 'Work'] \\
-High Schoolers (South) & 41 & 83 & 0.06 & 1.90 & ['School', 'Program', 'Chemistry', 'Study', 'Graduated'] \\
-High-Anxiety High Schoolers (North) & 49 & 92 & 0.04 & 1.92 & ['Anxiety', 'School', 'Stress', 'Vote', 'Analysis'] \\
-Low-Anxiety High Schoolers (North) & 46 & 93 & 0.05 & 1.91 & ['Challenge', 'Mathematics', 'Data', 'Stress', 'Failure'] \\
-GPT High-Anxiety High Schoolers & 15 & 21 & 0.08 & 1.80 & ['Try it', 'Evaluation', 'Knowledge', 'Study', 'Result'] \\
-GPT Low-Anxiety High Schoolers & 14 & 20 & 0.09 & 1.78 & ['Try it', 'Mathematics', 'Evaluation', 'Knowledge', 'Study'] \\
-Physics Students & 25 & 44 & 0.07 & 1.85 & ['Anxiety', 'Physics', 'Fear', 'Challenge', 'Stress'] \\
-GPT Physics Students & 11 & 12 & 0.04 & 1.78 & ['Try it', 'Evaluation', 'Check', 'Difficulty', 'Result'] \\
-High-Anxiety Psychology Students & 57 & 224 & 0.11 & 1.86 & ['Anxiety', 'Teacher', 'Challenge', 'School', 'University'] \\
-Low-Anxiety Psychology Students & 58 & 211 & 0.10 & 1.87 & ['Physics', 'Challenge', 'Anxiety', 'School', 'University'] \\
-GPT High-Anxiety Psychology Students & 38 & 91 & 0.08 & 1.87 & ['Tests', 'Try it', 'Physics', 'University', 'Mathematics'] \\
-GPT Low-Anxiety Psychology Students & 41 & 88 & 0.06 & 1.89 & ['Tests', 'Physics', 'Try it', 'Evaluation', 'Mathematics'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Grade".}
-\label{tab:network_features_grade}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 7 & 7 & 0.07 & 1.67 & ['Good', 'Mark', 'Exam', 'Bad', 'High'] \\
-High Schoolers (South) & 35 & 78 & 0.08 & 1.87 & ['Mathematics', 'School', 'Maximum', 'Teacher', 'Study'] \\
-High-Anxiety High Schoolers (North) & 59 & 110 & 0.03 & 1.94 & ['Anxiety', 'School', 'Stress', 'Teacher', 'Failure'] \\
-Low-Anxiety High Schoolers (North) & 47 & 68 & 0.02 & 1.94 & ['Future', 'School', 'Failure', 'Anxiety', 'Numbers'] \\
-Physics Students & 22 & 29 & 0.04 & 1.87 & ['Anxiety', 'Exam', 'Future', 'Judgment', 'Expectations'] \\
-High-Anxiety Psychology Students & 38 & 104 & 0.10 & 1.85 & ['Anxiety', 'School', 'Exam', 'Behavior', 'Task'] \\
-Low-Anxiety Psychology Students & 47 & 122 & 0.07 & 1.89 & ['Challenge', 'Anxiety', 'Teacher', 'School', 'University'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Professor".}
-\label{tab:network_features_professor}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 4 & 3 & 0.00 & 1.50 & ['Scientific', 'Logic', 'Scholar'] \\
-High Schoolers (South) & 17 & 30 & 0.12 & 1.78 & ['Physics', 'Teacher', 'Integral', 'Classroom', 'Mathematician'] \\
-High-Anxiety High Schoolers (North) & 3 & 2 & 0.00 & 1.33 & ['Physics', 'Teacher'] \\
-Low-Anxiety High Schoolers (North) & 2 & 1 & 0.00 & 1.00 & ['Teacher'] \\
-GPT High-Anxiety High Schoolers & 17 & 22 & 0.05 & 1.84 & ['Teacher', 'Mathematics', 'Knowledge', 'Research', 'Competence'] \\
-GPT Low-Anxiety High Schoolers & 14 & 15 & 0.03 & 1.84 & ['Teacher', 'Mathematics', 'Knowledge', 'Research', 'Competence'] \\
-GPT Physics Students & 9 & 9 & 0.04 & 1.75 & ['Teacher', 'Research', 'Knowledge', 'Competence', 'Guidance'] \\
-High-Anxiety Psychology Students & 49 & 130 & 0.07 & 1.89 & ['Anxiety', 'Mathematics', 'Teacher', 'School', 'Work'] \\
-Low-Anxiety Psychology Students & 59 & 171 & 0.07 & 1.90 & ['Teacher', 'Mathematics', 'School', 'University', 'Work'] \\
-GPT High-Anxiety Psychology Students & 33 & 57 & 0.05 & 1.89 & ['Development', 'Teacher', 'University', 'Mathematics', 'Psychopathology'] \\
-GPT Low-Anxiety Psychology Students & 35 & 48 & 0.02 & 1.92 & ['Teacher', 'University', 'Mathematics', 'Psychopathology', 'Statistics'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Teacher".}
-\label{tab:network_features_teacher}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 16 & 27 & 0.11 & 1.77 & ['School', 'Biology', 'Teaching', 'Person', 'Good'] \\
-High Schoolers (South) & 62 & 159 & 0.05 & 1.92 & ['Physics', 'Mathematics', 'School', 'Art', 'Person'] \\
-High-Anxiety High Schoolers (North) & 2 & 1 & 0.00 & 1.00 & ['Teacher'] \\
-Low-Anxiety High Schoolers (North) & 2 & 1 & 0.00 & 1.00 & ['Teacher'] \\
-GPT High-Anxiety High Schoolers & 32 & 37 & 0.01 & 1.93 & ['Passion', 'Creativity', 'Professor', 'Knowledge', 'Study'] \\
-GPT Low-Anxiety High Schoolers & 36 & 40 & 0.01 & 1.94 & ['Curiosity', 'Creativity', 'Passion', 'Professor', 'Knowledge'] \\
-Physics Students & 2 & 1 & 0.00 & 1.00 & ['Teacher'] \\
-GPT Physics Students & 17 & 17 & 0.01 & 1.88 & ['Professor', 'Guidance', 'Interaction', 'Methods', 'Students'] \\
-High-Anxiety Psychology Students & 70 & 171 & 0.04 & 1.93 & ['Mathematics', 'School', 'Work', 'University', 'Model'] \\
-Low-Anxiety Psychology Students & 69 & 167 & 0.04 & 1.93 & ['Mathematics', 'School', 'University', 'Work', 'Professor'] \\
-GPT High-Anxiety Psychology Students & 65 & 93 & 0.01 & 1.96 & ['Development', 'Psychology', 'Curiosity', 'Professor', 'Passion'] \\
-GPT Low-Anxiety Psychology Students & 69 & 86 & 0.01 & 1.96 & ['Development', 'Curiosity', 'Passion', 'Professor', 'Difficulty'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Scientist".}
-\label{tab:network_features_scientist}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 10 & 9 & 0.00 & 1.80 & ['Science', 'Game', 'Tools', 'Cultural', 'Biologist'] \\
-High Schoolers (South) & 32 & 98 & 0.14 & 1.80 & ['Science', 'Person', 'Study', 'Discovery', 'Graduated'] \\
-High-Anxiety High Schoolers (North) & 43 & 130 & 0.10 & 1.86 & ['School', 'Mathematics', 'Discovery', 'Research', 'Physics'] \\
-Low-Anxiety High Schoolers (North) & 46 & 105 & 0.06 & 1.90 & ['Experiment', 'Research', 'Data', 'Discovery', 'Science'] \\
-GPT High-Anxiety High Schoolers & 28 & 30 & 0.01 & 1.92 & ['Passion', 'Curiosity', 'Knowledge', 'Research', 'Study'] \\
-GPT Low-Anxiety High Schoolers & 26 & 30 & 0.02 & 1.91 & ['Curiosity', 'University', 'Passion', 'Knowledge', 'Research'] \\
-Physics Students & 26 & 41 & 0.05 & 1.87 & ['Physics', 'Laboratory', 'Science', 'Data', 'Research'] \\
-GPT Physics Students & 12 & 12 & 0.02 & 1.82 & ['Curiosity', 'Passion', 'Analysis', 'Research', 'Theory'] \\
-High-Anxiety Psychology Students & 19 & 38 & 0.13 & 1.78 & ['Work', 'Science', 'Study', 'Discovery', 'Intelligence'] \\
-Low-Anxiety Psychology Students & 15 & 29 & 0.16 & 1.72 & ['Physics', 'Work', 'Science', 'Intelligence', 'Research'] \\
-GPT High-Anxiety Psychology Students & 57 & 76 & 0.01 & 1.95 & ['Psychology', 'University', 'Curiosity', 'Passion', 'Research'] \\
-GPT Low-Anxiety Psychology Students & 71 & 105 & 0.01 & 1.96 & ['Science', 'University', 'Curiosity', 'Passion', 'Innovation'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "School".}
-\label{tab:network_features_school}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 52 & 101 & 0.04 & 1.92 & ['Science', 'Mathematics', 'University', 'Life', 'Art'] \\
-High Schoolers (South) & 78 & 255 & 0.06 & 1.92 & ['Physics', 'Mathematics', 'Art', 'Renewal', 'System'] \\
-High-Anxiety High Schoolers (North) & 75 & 219 & 0.05 & 1.92 & ['Anxiety', 'Mathematics', 'Discovery', 'Research', 'Stress'] \\
-Low-Anxiety High Schoolers (North) & 62 & 128 & 0.04 & 1.93 & ['Physics', 'Mathematics', 'Research', 'Art', 'Stress'] \\
-GPT High-Anxiety High Schoolers & 3 & 2 & 0.00 & 1.33 & ['Average', 'University'] \\
-GPT Low-Anxiety High Schoolers & 2 & 1 & 0.00 & 1.00 & ['Average'] \\
-Physics Students & 26 & 27 & 0.01 & 1.92 & ['Stress', 'Teacher', 'Rules', 'Comrades', 'Study'] \\
-High-Anxiety Psychology Students & 67 & 230 & 0.08 & 1.90 & ['Anxiety', 'Mathematics', 'Teacher', 'Physics', 'Work'] \\
-Low-Anxiety Psychology Students & 67 & 236 & 0.08 & 1.89 & ['Physics', 'Challenge', 'Anxiety', 'Teacher', 'Mathematics'] \\
-GPT High-Anxiety Psychology Students & 3 & 3 & 1.00 & 1.00 & ['Tests', 'University'] \\
-GPT Low-Anxiety Psychology Students & 4 & 3 & 0.00 & 1.50 & ['Average', 'University', 'Mathematics'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "University".}
-\label{tab:network_features_university}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 48 & 93 & 0.04 & 1.92 & ['Science', 'Physics', 'School', 'Studies', 'Loops'] \\
-High Schoolers (South) & 36 & 110 & 0.13 & 1.83 & ['Physics', 'Self organization', 'Study', 'Work', 'Graduated'] \\
-High-Anxiety High Schoolers (North) & 8 & 14 & 0.33 & 1.50 & ['Anxiety', 'Future', 'Teacher', 'Knowledge', 'Analysis'] \\
-Low-Anxiety High Schoolers (North) & 10 & 23 & 0.39 & 1.49 & ['Physics', 'Future', 'Research', 'Stress', 'Teacher'] \\
-GPT High-Anxiety High Schoolers & 25 & 35 & 0.04 & 1.88 & ['Degree', 'Development', 'Physics', 'Science', 'Knowledge'] \\
-GPT Low-Anxiety High Schoolers & 20 & 29 & 0.06 & 1.85 & ['Degree', 'Scientist', 'Physics', 'Research', 'Study'] \\
-Physics Students & 5 & 5 & 0.17 & 1.50 & ['Anxiety', 'Failure', 'Discovery', 'Teacher'] \\
-GPT Physics Students & 11 & 10 & 0.00 & 1.82 & ['Physics', 'Research', 'Students', 'Study', 'Community'] \\
-High-Anxiety Psychology Students & 62 & 225 & 0.09 & 1.88 & ['Anxiety', 'Teacher', 'Challenge', 'School', 'Work'] \\
-Low-Anxiety Psychology Students & 67 & 278 & 0.10 & 1.87 & ['Anxiety', 'Curiosity', 'Teacher', 'School', 'Work'] \\
-GPT High-Anxiety Psychology Students & 51 & 99 & 0.04 & 1.92 & ['Average', 'Development', 'Tests', 'Physics', 'Psychology'] \\
-GPT Low-Anxiety Psychology Students & 53 & 75 & 0.02 & 1.95 & ['Scientist', 'Physics', 'Psychology', 'Science', 'Professor'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Wellbeing".}
-\label{tab:network_features_wellbeing}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 11 & 12 & 0.04 & 1.78 & ['Health', 'Good', 'Determinism', 'Relax', 'Surprise'] \\
-High Schoolers (South) & 27 & 37 & 0.03 & 1.89 & ['System', 'Home', 'Physical', 'Diet', 'Movement'] \\
-High-Anxiety High Schoolers (North) & 49 & 55 & 0.01 & 1.95 & ['Life', 'Happiness', 'Social', 'Calm down', 'Family'] \\
-Low-Anxiety High Schoolers (North) & 49 & 74 & 0.02 & 1.94 & ['Life', 'Stress', 'Rules', 'Creativity', 'Meditation'] \\
-GPT High-Anxiety High Schoolers & 18 & 19 & 0.01 & 1.88 & ['Psychotherapy', 'Psychopathology', 'Therapist', 'Energy', 'Joy'] \\
-GPT Low-Anxiety High Schoolers & 14 & 14 & 0.01 & 1.85 & ['Psychotherapy', 'Therapist', 'Energy', 'Joy', 'Relax'] \\
-Physics Students & 26 & 25 & 0.00 & 1.92 & ['Time', 'Love', 'Water', 'Calm down', 'Peace'] \\
-GPT Physics Students & 11 & 10 & 0.00 & 1.82 & ['Psychotherapy', 'Therapist', 'Happiness', 'Harmony', 'Positive energy'] \\
-High-Anxiety Psychology Students & 58 & 81 & 0.02 & 1.95 & ['Psychology', 'Mind', 'Therapy', 'Psychotherapy', 'Life'] \\
-Low-Anxiety Psychology Students & 58 & 77 & 0.01 & 1.95 & ['Mind', 'Psychology', 'Therapy', 'Technology', 'Time'] \\
-GPT High-Anxiety Psychology Students & 27 & 45 & 0.06 & 1.87 & ['Development', 'Psychology', 'Psychopathology', 'Emotion', 'Psychotherapy'] \\
-GPT Low-Anxiety Psychology Students & 31 & 37 & 0.02 & 1.92 & ['Development', 'Psychology', 'Psychotherapy', 'Therapist', 'Stress'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Anxiety".}
-\label{tab:network_features_anxiety}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-High Schoolers (South) & 24 & 55 & 0.13 & 1.80 & ['Time', 'School', 'Teacher', 'Situation', 'Graduated'] \\
-High-Anxiety High Schoolers (North) & 75 & 218 & 0.05 & 1.92 & ['School', 'Mathematics', 'Stress', 'Physics', 'Future'] \\
-Low-Anxiety High Schoolers (North) & 51 & 110 & 0.05 & 1.91 & ['Future', 'School', 'Stress', 'Failure', 'Fear'] \\
-GPT High-Anxiety High Schoolers & 14 & 17 & 0.05 & 1.81 & ['Tests', 'Psychopathology', 'Emotion', 'Stress', 'Management'] \\
-GPT Low-Anxiety High Schoolers & 12 & 13 & 0.04 & 1.80 & ['Psychopathology', 'Emotion', 'Stress', 'Management', 'Fear'] \\
-Physics Students & 31 & 64 & 0.08 & 1.86 & ['Failure', 'Fear', 'Challenge', 'Stress', 'Exam'] \\
-GPT Physics Students & 7 & 8 & 0.13 & 1.62 & ['Emotion', 'Psychopathology', 'Stress', 'Fear', 'Concern'] \\
-High-Anxiety Psychology Students & 99 & 360 & 0.06 & 1.93 & ['Mathematics', 'Challenge', 'Physics', 'School', 'Work'] \\
-Low-Anxiety Psychology Students & 75 & 211 & 0.05 & 1.92 & ['Challenge', 'School', 'University', 'Work', 'Task'] \\
-GPT High-Anxiety Psychology Students & 33 & 57 & 0.05 & 1.89 & ['Tests', 'Try it', 'Psychology', 'Psychopathology', 'Emotion'] \\
-GPT Low-Anxiety Psychology Students & 36 & 55 & 0.03 & 1.91 & ['Tests', 'Try it', 'Psychology', 'Psychotherapy', 'Attachment'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Scienziata".}
-\label{tab:network_features_scienziata}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-High-Anxiety High Schoolers (North) & 37 & 96 & 0.10 & 1.86 & ['Mathematics', 'Discovery', 'Research', 'Physics', 'Laboratory'] \\
-Low-Anxiety High Schoolers (North) & 45 & 111 & 0.07 & 1.89 & ['Future', 'Experiment', 'Research', 'Data', 'Discovery'] \\
-Physics Students & 29 & 40 & 0.03 & 1.90 & ['Physics', 'Laboratory', 'Science', 'Data', 'Research'] \\
-High-Anxiety Psychology Students & 4 & 4 & 0.33 & 1.33 & ['Science', 'Research', 'Shirts'] \\
-Low-Anxiety Psychology Students & 8 & 13 & 0.29 & 1.54 & ['Science', 'Laboratory', 'Experiment', 'Experiments', 'Shirts'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Mathematics".}
-\label{tab:network_features_mathematics}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 48 & 107 & 0.06 & 1.91 & ['Science', 'Physics', 'System', 'School', 'Complex'] \\
-High Schoolers (South) & 101 & 473 & 0.08 & 1.91 & ['Physics', 'Discussion', 'Together', 'School', 'Maximum'] \\
-High-Anxiety High Schoolers (North) & 73 & 212 & 0.05 & 1.92 & ['Anxiety', 'School', 'Stress', 'Physics', 'Teacher'] \\
-Low-Anxiety High Schoolers (North) & 63 & 183 & 0.06 & 1.91 & ['Challenge', 'Physics', 'School', 'Data', 'Teacher'] \\
-GPT High-Anxiety High Schoolers & 25 & 33 & 0.03 & 1.89 & ['Physics', 'Equation', 'Professor', 'Statistics', 'Research'] \\
-GPT Low-Anxiety High Schoolers & 19 & 25 & 0.05 & 1.85 & ['Equation', 'Creativity', 'Exam', 'Professor', 'Theory'] \\
-Physics Students & 25 & 42 & 0.07 & 1.86 & ['Physics', 'Statistics', 'Data', 'Numbers', 'Analysis'] \\
-GPT Physics Students & 14 & 15 & 0.03 & 1.84 & ['Equation', 'Resolution', 'Logic', 'Problems', 'Algebra'] \\
-High-Anxiety Psychology Students & 78 & 316 & 0.08 & 1.89 & ['Anxiety', 'Teacher', 'Challenge', 'Physics', 'School'] \\
-Low-Anxiety Psychology Students & 68 & 205 & 0.06 & 1.91 & ['Physics', 'Teacher', 'School', 'Professor', 'Task'] \\
-GPT High-Anxiety Psychology Students & 49 & 78 & 0.03 & 1.93 & ['Equation', 'Physics', 'Statistics', 'Exam', 'Professor'] \\
-GPT Low-Anxiety Psychology Students & 51 & 77 & 0.02 & 1.94 & ['Equation', 'Statistics', 'Exam', 'Professor', 'Creativity'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Statistics".}
-\label{tab:network_features_statistics}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 26 & 38 & 0.04 & 1.88 & ['Physics', 'Mathematics', 'Analysis', 'Number', 'Probability'] \\
-High Schoolers (South) & 29 & 59 & 0.08 & 1.85 & ['Mathematics', 'Graph', 'Study', 'Mathematically', 'Individual'] \\
-High-Anxiety High Schoolers (North) & 37 & 68 & 0.05 & 1.90 & ['School', 'Mathematics', 'Analysis', 'Data', 'Exam'] \\
-Low-Anxiety High Schoolers (North) & 41 & 91 & 0.07 & 1.89 & ['Future', 'Mathematics', 'Research', 'Data', 'Science'] \\
-GPT High-Anxiety High Schoolers & 15 & 16 & 0.02 & 1.85 & ['Average', 'Mathematics', 'Analysis', 'Data', 'Confidence'] \\
-GPT Low-Anxiety High Schoolers & 23 & 25 & 0.01 & 1.90 & ['Average', 'Curiosity', 'Science', 'Analysis', 'Data'] \\
-Physics Students & 28 & 49 & 0.06 & 1.87 & ['Laboratory', 'Fear', 'Data', 'Numbers', 'Exam'] \\
-GPT Physics Students & 12 & 11 & 0.00 & 1.83 & ['Average', 'Analysis', 'Data analysis', 'Confidence', 'Data'] \\
-High-Anxiety Psychology Students & 49 & 127 & 0.07 & 1.89 & ['Anxiety', 'Mathematics', 'University', 'Model', 'Numbers'] \\
-Low-Anxiety Psychology Students & 53 & 120 & 0.05 & 1.91 & ['Curiosity', 'Mathematics', 'University', 'Exam', 'Model'] \\
-GPT High-Anxiety Psychology Students & 48 & 68 & 0.02 & 1.94 & ['Average', 'Mathematics', 'Science', 'Curiosity', 'Exam'] \\
-GPT Low-Anxiety Psychology Students & 44 & 63 & 0.02 & 1.93 & ['Average', 'Mathematics', 'Curiosity', 'Exam', 'Professor'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Physics".}
-\label{tab:network_features_physics}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 55 & 108 & 0.04 & 1.93 & ['Science', 'Mathematics', 'University', 'Chemistry', 'Model'] \\
-High Schoolers (South) & 114 & 435 & 0.05 & 1.93 & ['Mathematics', 'Time', 'School', 'Science', 'System'] \\
-High-Anxiety High Schoolers (North) & 63 & 157 & 0.05 & 1.92 & ['Anxiety', 'School', 'Mathematics', 'Life', 'Discovery'] \\
-Low-Anxiety High Schoolers (North) & 65 & 158 & 0.05 & 1.92 & ['Future', 'Mathematics', 'School', 'Experiment', 'Research'] \\
-GPT High-Anxiety High Schoolers & 25 & 28 & 0.01 & 1.91 & ['Mathematics', 'University', 'Science', 'Theory', 'Energy'] \\
-GPT Low-Anxiety High Schoolers & 23 & 23 & 0.00 & 1.91 & ['Curiosity', 'Science', 'University', 'Theory', 'Energy'] \\
-Physics Students & 31 & 58 & 0.06 & 1.88 & ['Laboratory', 'Scientist', 'Discovery', 'Science', 'Knowledge'] \\
-GPT Physics Students & 17 & 17 & 0.01 & 1.88 & ['Science', 'Curiosity', 'University', 'Theory', 'Energy'] \\
-High-Anxiety Psychology Students & 69 & 159 & 0.04 & 1.93 & ['Anxiety', 'Mathematics', 'School', 'Curiosity', 'Numbers'] \\
-Low-Anxiety Psychology Students & 77 & 152 & 0.03 & 1.95 & ['Curiosity', 'Mathematics', 'School', 'Exam', 'Science'] \\
-GPT High-Anxiety Psychology Students & 62 & 95 & 0.02 & 1.95 & ['Equation', 'University', 'Mathematics', 'Science', 'Curiosity'] \\
-GPT Low-Anxiety Psychology Students & 67 & 86 & 0.01 & 1.96 & ['Equation', 'Science', 'University', 'Curiosity', 'Exam'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Science".}
-\label{tab:network_features_science}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 66 & 156 & 0.04 & 1.93 & ['Physics', 'System', 'School', 'Mathematics', 'University'] \\
-High Schoolers (South) & 64 & 242 & 0.09 & 1.88 & ['Physics', 'Mathematics', 'System', 'Rock', 'Law'] \\
-High-Anxiety High Schoolers (North) & 48 & 110 & 0.06 & 1.90 & ['School', 'Mathematics', 'Discovery', 'Research', 'Art'] \\
-Low-Anxiety High Schoolers (North) & 56 & 162 & 0.07 & 1.89 & ['Physics', 'Experiment', 'Research', 'Life', 'Discovery'] \\
-GPT High-Anxiety High Schoolers & 23 & 30 & 0.03 & 1.88 & ['Physics', 'University', 'Biology', 'Knowledge', 'Innovation'] \\
-GPT Low-Anxiety High Schoolers & 22 & 24 & 0.01 & 1.90 & ['Physics', 'Statistics', 'Biology', 'Innovation', 'Knowledge'] \\
-Physics Students & 28 & 60 & 0.09 & 1.84 & ['Physics', 'Laboratory', 'Scientist', 'Discovery', 'Knowledge'] \\
-GPT Physics Students & 16 & 17 & 0.02 & 1.86 & ['Tests', 'Physics', 'Research', 'Knowledge', 'Theory'] \\
-High-Anxiety Psychology Students & 58 & 206 & 0.09 & 1.88 & ['Mathematics', 'Physics', 'Curiosity', 'Numbers', 'Psychology'] \\
-Low-Anxiety Psychology Students & 56 & 181 & 0.08 & 1.88 & ['Physics', 'Curiosity', 'Mathematics', 'Future', 'Model'] \\
-GPT High-Anxiety Psychology Students & 43 & 70 & 0.03 & 1.92 & ['Physics', 'University', 'Statistics', 'Curiosity', 'Model'] \\
-GPT Low-Anxiety Psychology Students & 53 & 110 & 0.04 & 1.92 & ['Scientist', 'Physics', 'Try it', 'University', 'Curiosity'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Computer science".}
-\label{tab:network_features_computer science}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 27 & 40 & 0.04 & 1.89 & ['Science', 'System', 'Complex', 'Model', 'Discovery'] \\
-High Schoolers (South) & 16 & 31 & 0.15 & 1.74 & ['Program', 'Technology', 'Laboratory', 'Connection', 'Network'] \\
-High-Anxiety High Schoolers (North) & 51 & 90 & 0.03 & 1.93 & ['Anxiety', 'School', 'Future', 'Artificial intelligence', 'Data'] \\
-Low-Anxiety High Schoolers (North) & 45 & 83 & 0.04 & 1.92 & ['Future', 'School', 'Data', 'Logic', 'Programming'] \\
-GPT High-Anxiety High Schoolers & 19 & 18 & 0.00 & 1.89 & ['Creativity', 'Technology', 'Network', 'Networking', 'Algorithms'] \\
-GPT Low-Anxiety High Schoolers & 22 & 23 & 0.01 & 1.90 & ['Creativity', 'Innovation', 'Research', 'Technology', 'Network'] \\
-Physics Students & 23 & 31 & 0.04 & 1.88 & ['Fear', 'Science', 'Data', 'Numbers', 'Programming'] \\
-GPT Physics Students & 13 & 12 & 0.00 & 1.85 & ['Algorithms', 'Algorithm', 'Code', 'Coding', 'Hardware'] \\
-High-Anxiety Psychology Students & 25 & 65 & 0.15 & 1.78 & ['Anxiety', 'Mathematics', 'Challenge', 'Work', 'University'] \\
-Low-Anxiety Psychology Students & 20 & 33 & 0.08 & 1.83 & ['Mathematics', 'Numbers', 'Technology', 'Difficult', 'Engineering'] \\
-GPT High-Anxiety Psychology Students & 47 & 51 & 0.00 & 1.95 & ['Creativity', 'Innovation', 'Stress', 'Learning', 'Revolution'] \\
-GPT Low-Anxiety Psychology Students & 55 & 60 & 0.00 & 1.96 & ['Fun', 'Creativity', 'Innovation', 'Research', 'Learning'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Research".}
-\label{tab:network_features_research}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 15 & 24 & 0.11 & 1.77 & ['Science', 'Physics', 'University', 'Model', 'Theory'] \\
-High Schoolers (South) & 13 & 25 & 0.20 & 1.68 & ['Domination', 'Discovery', 'Theory', 'Laboratory', 'Researcher'] \\
-High-Anxiety High Schoolers (North) & 65 & 168 & 0.05 & 1.92 & ['School', 'Discovery', 'Physics', 'Knowledge', 'Artificial intelligence'] \\
-Low-Anxiety High Schoolers (North) & 60 & 189 & 0.08 & 1.89 & ['Physics', 'School', 'Experiment', 'Data', 'Life'] \\
-GPT High-Anxiety High Schoolers & 11 & 13 & 0.07 & 1.76 & ['Degree', 'Scientist', 'Try it', 'Mathematics', 'Neuroscience'] \\
-GPT Low-Anxiety High Schoolers & 12 & 14 & 0.05 & 1.79 & ['Average', 'Degree', 'Try it', 'Neuroscience', 'Scientist'] \\
-Physics Students & 27 & 55 & 0.09 & 1.84 & ['Physics', 'Laboratory', 'Scientist', 'Discovery', 'Science'] \\
-GPT Physics Students & 7 & 6 & 0.00 & 1.71 & ['Science', 'Neuroscience', 'Scientist', 'University', 'Professor'] \\
-High-Anxiety Psychology Students & 19 & 70 & 0.34 & 1.59 & ['Curiosity', 'Model', 'Science', 'Psychology', 'Study'] \\
-Low-Anxiety Psychology Students & 14 & 44 & 0.40 & 1.52 & ['Curiosity', 'Science', 'Statistics', 'Model', 'Psychology'] \\
-GPT High-Anxiety Psychology Students & 16 & 31 & 0.15 & 1.74 & ['Average', 'Neuroscience', 'Try it', 'Physics', 'Psychology'] \\
-GPT Low-Anxiety Psychology Students & 18 & 33 & 0.12 & 1.78 & ['Average', 'Equation', 'Neuroscience', 'Scientist', 'Physics'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Exam".}
-\label{tab:network_features_exam}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 9 & 15 & 0.25 & 1.58 & ['School', 'Studies', 'Teacher', 'Student', 'Work'] \\
-High Schoolers (South) & 41 & 83 & 0.06 & 1.90 & ['School', 'Program', 'Chemistry', 'Study', 'Graduated'] \\
-High-Anxiety High Schoolers (North) & 49 & 92 & 0.04 & 1.92 & ['Anxiety', 'School', 'Stress', 'Vote', 'Analysis'] \\
-Low-Anxiety High Schoolers (North) & 46 & 93 & 0.05 & 1.91 & ['Challenge', 'Mathematics', 'Data', 'Stress', 'Failure'] \\
-GPT High-Anxiety High Schoolers & 15 & 21 & 0.08 & 1.80 & ['Try it', 'Evaluation', 'Knowledge', 'Study', 'Result'] \\
-GPT Low-Anxiety High Schoolers & 14 & 20 & 0.09 & 1.78 & ['Try it', 'Mathematics', 'Evaluation', 'Knowledge', 'Study'] \\
-Physics Students & 25 & 44 & 0.07 & 1.85 & ['Anxiety', 'Physics', 'Fear', 'Challenge', 'Stress'] \\
-GPT Physics Students & 11 & 12 & 0.04 & 1.78 & ['Try it', 'Evaluation', 'Check', 'Difficulty', 'Result'] \\
-High-Anxiety Psychology Students & 57 & 224 & 0.11 & 1.86 & ['Anxiety', 'Teacher', 'Challenge', 'School', 'University'] \\
-Low-Anxiety Psychology Students & 58 & 211 & 0.10 & 1.87 & ['Physics', 'Challenge', 'Anxiety', 'School', 'University'] \\
-GPT High-Anxiety Psychology Students & 38 & 91 & 0.08 & 1.87 & ['Tests', 'Try it', 'Physics', 'University', 'Mathematics'] \\
-GPT Low-Anxiety Psychology Students & 41 & 88 & 0.06 & 1.89 & ['Tests', 'Physics', 'Try it', 'Evaluation', 'Mathematics'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Grade".}
-\label{tab:network_features_grade}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 7 & 7 & 0.07 & 1.67 & ['Good', 'Mark', 'Exam', 'Bad', 'High'] \\
-High Schoolers (South) & 35 & 78 & 0.08 & 1.87 & ['Mathematics', 'School', 'Maximum', 'Teacher', 'Study'] \\
-High-Anxiety High Schoolers (North) & 59 & 110 & 0.03 & 1.94 & ['Anxiety', 'School', 'Stress', 'Teacher', 'Failure'] \\
-Low-Anxiety High Schoolers (North) & 47 & 68 & 0.02 & 1.94 & ['Future', 'School', 'Failure', 'Anxiety', 'Numbers'] \\
-Physics Students & 22 & 29 & 0.04 & 1.87 & ['Anxiety', 'Exam', 'Future', 'Judgment', 'Expectations'] \\
-High-Anxiety Psychology Students & 38 & 104 & 0.10 & 1.85 & ['Anxiety', 'School', 'Exam', 'Behavior', 'Task'] \\
-Low-Anxiety Psychology Students & 47 & 122 & 0.07 & 1.89 & ['Challenge', 'Anxiety', 'Teacher', 'School', 'University'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Professor".}
-\label{tab:network_features_professor}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 4 & 3 & 0.00 & 1.50 & ['Scientific', 'Logic', 'Scholar'] \\
-High Schoolers (South) & 17 & 30 & 0.12 & 1.78 & ['Physics', 'Teacher', 'Integral', 'Classroom', 'Mathematician'] \\
-High-Anxiety High Schoolers (North) & 3 & 2 & 0.00 & 1.33 & ['Physics', 'Teacher'] \\
-Low-Anxiety High Schoolers (North) & 2 & 1 & 0.00 & 1.00 & ['Teacher'] \\
-GPT High-Anxiety High Schoolers & 17 & 22 & 0.05 & 1.84 & ['Teacher', 'Mathematics', 'Knowledge', 'Research', 'Competence'] \\
-GPT Low-Anxiety High Schoolers & 14 & 15 & 0.03 & 1.84 & ['Teacher', 'Mathematics', 'Knowledge', 'Research', 'Competence'] \\
-GPT Physics Students & 9 & 9 & 0.04 & 1.75 & ['Teacher', 'Research', 'Knowledge', 'Competence', 'Guidance'] \\
-High-Anxiety Psychology Students & 49 & 130 & 0.07 & 1.89 & ['Anxiety', 'Mathematics', 'Teacher', 'School', 'Work'] \\
-Low-Anxiety Psychology Students & 59 & 171 & 0.07 & 1.90 & ['Teacher', 'Mathematics', 'School', 'University', 'Work'] \\
-GPT High-Anxiety Psychology Students & 33 & 57 & 0.05 & 1.89 & ['Development', 'Teacher', 'University', 'Mathematics', 'Psychopathology'] \\
-GPT Low-Anxiety Psychology Students & 35 & 48 & 0.02 & 1.92 & ['Teacher', 'University', 'Mathematics', 'Psychopathology', 'Statistics'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Teacher".}
-\label{tab:network_features_teacher}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 16 & 27 & 0.11 & 1.77 & ['School', 'Biology', 'Teaching', 'Person', 'Good'] \\
-High Schoolers (South) & 62 & 159 & 0.05 & 1.92 & ['Physics', 'Mathematics', 'School', 'Art', 'Person'] \\
-High-Anxiety High Schoolers (North) & 2 & 1 & 0.00 & 1.00 & ['Teacher'] \\
-Low-Anxiety High Schoolers (North) & 2 & 1 & 0.00 & 1.00 & ['Teacher'] \\
-GPT High-Anxiety High Schoolers & 32 & 37 & 0.01 & 1.93 & ['Passion', 'Creativity', 'Professor', 'Knowledge', 'Study'] \\
-GPT Low-Anxiety High Schoolers & 36 & 40 & 0.01 & 1.94 & ['Curiosity', 'Creativity', 'Passion', 'Professor', 'Knowledge'] \\
-Physics Students & 2 & 1 & 0.00 & 1.00 & ['Teacher'] \\
-GPT Physics Students & 17 & 17 & 0.01 & 1.88 & ['Professor', 'Guidance', 'Interaction', 'Methods', 'Students'] \\
-High-Anxiety Psychology Students & 70 & 171 & 0.04 & 1.93 & ['Mathematics', 'School', 'Work', 'University', 'Model'] \\
-Low-Anxiety Psychology Students & 69 & 167 & 0.04 & 1.93 & ['Mathematics', 'School', 'University', 'Work', 'Professor'] \\
-GPT High-Anxiety Psychology Students & 65 & 93 & 0.01 & 1.96 & ['Development', 'Psychology', 'Curiosity', 'Professor', 'Passion'] \\
-GPT Low-Anxiety Psychology Students & 69 & 86 & 0.01 & 1.96 & ['Development', 'Curiosity', 'Passion', 'Professor', 'Difficulty'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Scientist".}
-\label{tab:network_features_scientist}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 10 & 9 & 0.00 & 1.80 & ['Science', 'Game', 'Tools', 'Cultural', 'Biologist'] \\
-High Schoolers (South) & 32 & 98 & 0.14 & 1.80 & ['Science', 'Person', 'Study', 'Discovery', 'Graduated'] \\
-High-Anxiety High Schoolers (North) & 43 & 130 & 0.10 & 1.86 & ['School', 'Mathematics', 'Discovery', 'Research', 'Physics'] \\
-Low-Anxiety High Schoolers (North) & 46 & 105 & 0.06 & 1.90 & ['Experiment', 'Research', 'Data', 'Discovery', 'Science'] \\
-GPT High-Anxiety High Schoolers & 28 & 30 & 0.01 & 1.92 & ['Passion', 'Curiosity', 'Knowledge', 'Research', 'Study'] \\
-GPT Low-Anxiety High Schoolers & 26 & 30 & 0.02 & 1.91 & ['Curiosity', 'University', 'Passion', 'Knowledge', 'Research'] \\
-Physics Students & 26 & 41 & 0.05 & 1.87 & ['Physics', 'Laboratory', 'Science', 'Data', 'Research'] \\
-GPT Physics Students & 12 & 12 & 0.02 & 1.82 & ['Curiosity', 'Passion', 'Analysis', 'Research', 'Theory'] \\
-High-Anxiety Psychology Students & 19 & 38 & 0.13 & 1.78 & ['Work', 'Science', 'Study', 'Discovery', 'Intelligence'] \\
-Low-Anxiety Psychology Students & 15 & 29 & 0.16 & 1.72 & ['Physics', 'Work', 'Science', 'Intelligence', 'Research'] \\
-GPT High-Anxiety Psychology Students & 57 & 76 & 0.01 & 1.95 & ['Psychology', 'University', 'Curiosity', 'Passion', 'Research'] \\
-GPT Low-Anxiety Psychology Students & 71 & 105 & 0.01 & 1.96 & ['Science', 'University', 'Curiosity', 'Passion', 'Innovation'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "School".}
-\label{tab:network_features_school}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 52 & 101 & 0.04 & 1.92 & ['Science', 'Mathematics', 'University', 'Life', 'Art'] \\
-High Schoolers (South) & 78 & 255 & 0.06 & 1.92 & ['Physics', 'Mathematics', 'Art', 'Renewal', 'System'] \\
-High-Anxiety High Schoolers (North) & 75 & 219 & 0.05 & 1.92 & ['Anxiety', 'Mathematics', 'Discovery', 'Research', 'Stress'] \\
-Low-Anxiety High Schoolers (North) & 62 & 128 & 0.04 & 1.93 & ['Physics', 'Mathematics', 'Research', 'Art', 'Stress'] \\
-GPT High-Anxiety High Schoolers & 3 & 2 & 0.00 & 1.33 & ['Average', 'University'] \\
-GPT Low-Anxiety High Schoolers & 2 & 1 & 0.00 & 1.00 & ['Average'] \\
-Physics Students & 26 & 27 & 0.01 & 1.92 & ['Stress', 'Teacher', 'Rules', 'Comrades', 'Study'] \\
-High-Anxiety Psychology Students & 67 & 230 & 0.08 & 1.90 & ['Anxiety', 'Mathematics', 'Teacher', 'Physics', 'Work'] \\
-Low-Anxiety Psychology Students & 67 & 236 & 0.08 & 1.89 & ['Physics', 'Challenge', 'Anxiety', 'Teacher', 'Mathematics'] \\
-GPT High-Anxiety Psychology Students & 3 & 3 & 1.00 & 1.00 & ['Tests', 'University'] \\
-GPT Low-Anxiety Psychology Students & 4 & 3 & 0.00 & 1.50 & ['Average', 'University', 'Mathematics'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "University".}
-\label{tab:network_features_university}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 48 & 93 & 0.04 & 1.92 & ['Science', 'Physics', 'School', 'Studies', 'Loops'] \\
-High Schoolers (South) & 36 & 110 & 0.13 & 1.83 & ['Physics', 'Self organization', 'Study', 'Work', 'Graduated'] \\
-High-Anxiety High Schoolers (North) & 8 & 14 & 0.33 & 1.50 & ['Anxiety', 'Future', 'Teacher', 'Knowledge', 'Analysis'] \\
-Low-Anxiety High Schoolers (North) & 10 & 23 & 0.39 & 1.49 & ['Physics', 'Future', 'Research', 'Stress', 'Teacher'] \\
-GPT High-Anxiety High Schoolers & 25 & 35 & 0.04 & 1.88 & ['Degree', 'Development', 'Physics', 'Science', 'Knowledge'] \\
-GPT Low-Anxiety High Schoolers & 20 & 29 & 0.06 & 1.85 & ['Degree', 'Scientist', 'Physics', 'Research', 'Study'] \\
-Physics Students & 5 & 5 & 0.17 & 1.50 & ['Anxiety', 'Failure', 'Discovery', 'Teacher'] \\
-GPT Physics Students & 11 & 10 & 0.00 & 1.82 & ['Physics', 'Research', 'Students', 'Study', 'Community'] \\
-High-Anxiety Psychology Students & 62 & 225 & 0.09 & 1.88 & ['Anxiety', 'Teacher', 'Challenge', 'School', 'Work'] \\
-Low-Anxiety Psychology Students & 67 & 278 & 0.10 & 1.87 & ['Anxiety', 'Curiosity', 'Teacher', 'School', 'Work'] \\
-GPT High-Anxiety Psychology Students & 51 & 99 & 0.04 & 1.92 & ['Average', 'Development', 'Tests', 'Physics', 'Psychology'] \\
-GPT Low-Anxiety Psychology Students & 53 & 75 & 0.02 & 1.95 & ['Scientist', 'Physics', 'Psychology', 'Science', 'Professor'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Wellbeing".}
-\label{tab:network_features_wellbeing}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-Experts & 11 & 12 & 0.04 & 1.78 & ['Health', 'Good', 'Determinism', 'Relax', 'Surprise'] \\
-High Schoolers (South) & 27 & 37 & 0.03 & 1.89 & ['System', 'Home', 'Physical', 'Diet', 'Movement'] \\
-High-Anxiety High Schoolers (North) & 49 & 55 & 0.01 & 1.95 & ['Life', 'Happiness', 'Social', 'Calm down', 'Family'] \\
-Low-Anxiety High Schoolers (North) & 49 & 74 & 0.02 & 1.94 & ['Life', 'Stress', 'Rules', 'Creativity', 'Meditation'] \\
-GPT High-Anxiety High Schoolers & 18 & 19 & 0.01 & 1.88 & ['Psychotherapy', 'Psychopathology', 'Therapist', 'Energy', 'Joy'] \\
-GPT Low-Anxiety High Schoolers & 14 & 14 & 0.01 & 1.85 & ['Psychotherapy', 'Therapist', 'Energy', 'Joy', 'Relax'] \\
-Physics Students & 26 & 25 & 0.00 & 1.92 & ['Time', 'Love', 'Water', 'Calm down', 'Peace'] \\
-GPT Physics Students & 11 & 10 & 0.00 & 1.82 & ['Psychotherapy', 'Therapist', 'Happiness', 'Harmony', 'Positive energy'] \\
-High-Anxiety Psychology Students & 58 & 81 & 0.02 & 1.95 & ['Psychology', 'Mind', 'Therapy', 'Psychotherapy', 'Life'] \\
-Low-Anxiety Psychology Students & 58 & 77 & 0.01 & 1.95 & ['Mind', 'Psychology', 'Therapy', 'Technology', 'Time'] \\
-GPT High-Anxiety Psychology Students & 27 & 45 & 0.06 & 1.87 & ['Development', 'Psychology', 'Psychopathology', 'Emotion', 'Psychotherapy'] \\
-GPT Low-Anxiety Psychology Students & 31 & 37 & 0.02 & 1.92 & ['Development', 'Psychology', 'Psychotherapy', 'Therapist', 'Stress'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Anxiety".}
-\label{tab:network_features_anxiety}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-High Schoolers (South) & 24 & 55 & 0.13 & 1.80 & ['Time', 'School', 'Teacher', 'Situation', 'Graduated'] \\
-High-Anxiety High Schoolers (North) & 75 & 218 & 0.05 & 1.92 & ['School', 'Mathematics', 'Stress', 'Physics', 'Future'] \\
-Low-Anxiety High Schoolers (North) & 51 & 110 & 0.05 & 1.91 & ['Future', 'School', 'Stress', 'Failure', 'Fear'] \\
-GPT High-Anxiety High Schoolers & 14 & 17 & 0.05 & 1.81 & ['Tests', 'Psychopathology', 'Emotion', 'Stress', 'Management'] \\
-GPT Low-Anxiety High Schoolers & 12 & 13 & 0.04 & 1.80 & ['Psychopathology', 'Emotion', 'Stress', 'Management', 'Fear'] \\
-Physics Students & 31 & 64 & 0.08 & 1.86 & ['Failure', 'Fear', 'Challenge', 'Stress', 'Exam'] \\
-GPT Physics Students & 7 & 8 & 0.13 & 1.62 & ['Emotion', 'Psychopathology', 'Stress', 'Fear', 'Concern'] \\
-High-Anxiety Psychology Students & 99 & 360 & 0.06 & 1.93 & ['Mathematics', 'Challenge', 'Physics', 'School', 'Work'] \\
-Low-Anxiety Psychology Students & 75 & 211 & 0.05 & 1.92 & ['Challenge', 'School', 'University', 'Work', 'Task'] \\
-GPT High-Anxiety Psychology Students & 33 & 57 & 0.05 & 1.89 & ['Tests', 'Try it', 'Psychology', 'Psychopathology', 'Emotion'] \\
-GPT Low-Anxiety Psychology Students & 36 & 55 & 0.03 & 1.91 & ['Tests', 'Try it', 'Psychology', 'Psychotherapy', 'Attachment'] \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of "Scienziata".}
-\label{tab:network_features_scienziata}
-\begin{tabular}{C{4cm}ccccC{6.5cm}}
-\toprule
-Sample & $N$ nodes & $N$ edges & $C_i$ & $l_G$ & Top Nodes \\
-\midrule
-High-Anxiety High Schoolers (North) & 37 & 96 & 0.10 & 1.86 & ['Mathematics', 'Discovery', 'Research', 'Physics', 'Laboratory'] \\
-Low-Anxiety High Schoolers (North) & 45 & 111 & 0.07 & 1.89 & ['Future', 'Experiment', 'Research', 'Data', 'Discovery'] \\
-Physics Students & 29 & 40 & 0.03 & 1.90 & ['Physics', 'Laboratory', 'Science', 'Data', 'Research'] \\
-High-Anxiety Psychology Students & 4 & 4 & 0.33 & 1.33 & ['Science', 'Research', 'Shirts'] \\
-Low-Anxiety Psychology Students & 8 & 13 & 0.29 & 1.54 & ['Science', 'Laboratory', 'Experiment', 'Experiments', 'Shirts'] \\
+H-Anx H-S & 37 & 96 & 0.10 & 1.86 & Discovery, Mathematics \\
+L-Anx H-S & 45 & 111 & 0.07 & 1.89 & Research, Experiment, Future \\
+Physics & 29 & 40 & 0.03 & 1.90 & Physics, Laboratory, Scientist \\
+H-Anx Psy & 4 & 4 & 0.33 & 1.33 & Science \\
+L-Anx Psy & 8 & 13 & 0.29 & 1.54 & Science \\
 \bottomrule
 \end{tabular}
 \end{table}

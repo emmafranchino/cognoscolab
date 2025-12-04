@@ -315,27 +315,31 @@ def build_multiple_fmnt(df, keywords, folder_path, file_path, flower='yes', lang
             diameter = nx.diameter(G_kw)
             
             deg_dict = dict(G.degree(fmnt_keyword.vertices))
-            deg_dict_no_keyword = {n: d for n, d in deg_dict.items() if n != keyword}
-            top5 = sorted(deg_dict_no_keyword.items(), key=lambda kv: (-kv[1], kv[0]))[:5]
-            top5_nodes = [n for n, d in top5]
- 
+
+            # compute the degree threshold for the top 5%
+            degrees = np.array(list(deg_dict.values()))
+            threshold = np.percentile(degrees, 95)
+
+            # all nodes whose degree is >= threshold
+            hubs = [n for n, d in deg_dict.items() if d >= threshold]
+            
             # append a dict with all features
             rows.append({
                 "Sample": file_path,
                 "keyword": keyword,
-                "$N$ nodes": len(fmnt_keyword.vertices),
-                "$N$ edges": len(fmnt_keyword.edges),
+                "$N_v$": len(fmnt_keyword.vertices),
+                "$N_e$": len(fmnt_keyword.edges),
                 "$C_i$": local_clustering_coeff,
                 "$l_G$": avg_shortest_path,
                 "$d$": diameter,
-                "Top Nodes": top5_nodes
+                "Hubs": hubs
             })
 
             # build the dataframe
             features_fmnt_df = pd.DataFrame(rows)
 
             # optional: ensure top5_degree is stored as list (not expanded)
-            features_fmnt_df["Top Nodes"] = features_fmnt_df["Top Nodes"].apply(lambda x: list(x))
+            features_fmnt_df["Hubs"] = features_fmnt_df["Hubs"].apply(lambda x: list(x))
 
             ### !!! OPTIONAL: PLOT EMOTIONAL FLOWER !!!
             if flower == 'yes':
