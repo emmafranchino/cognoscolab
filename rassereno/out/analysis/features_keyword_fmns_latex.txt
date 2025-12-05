@@ -7,18 +7,18 @@
 \toprule
 Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs \\
 \midrule
-Experts & 48 & 107 & 0.06 & 1.91 & System, Physics, Science \\
-H-S South & 101 & 473 & 0.08 & 1.91 & Science, System, Physics, School, Together, Mathematics, Maximum, Discussion \\
-H-Anx H-S & 73 & 212 & 0.05 & 1.92 & Stress, School, Anxiety, Mathematics \\
-L-Anx H-S & 63 & 183 & 0.06 & 1.91 & Physics, Challenge, School, Mathematics \\
-GPT H-Anx H-S & 25 & 33 & 0.03 & 1.89 & Physics, Mathematics \\
+Experts & 48 & 107 & 0.06 & 1.91 & Physics, Science, System \\
+H-S South & 101 & 473 & 0.08 & 1.91 & Science, Together, Discussion, School, System, Mathematics, Physics, Maximum \\
+H-Anx H-S & 73 & 212 & 0.05 & 1.92 & Anxiety, Mathematics, Stress, School \\
+L-Anx H-S & 63 & 183 & 0.06 & 1.91 & Mathematics, Physics, School, Challenge \\
+GPT H-Anx H-S & 25 & 33 & 0.03 & 1.89 & Mathematics, Physics \\
 GPT L-Anx H-S & 19 & 25 & 0.05 & 1.85 & Equation \\
 Physics & 25 & 42 & 0.07 & 1.86 & Physics, Statistics \\
-GPT Physics & 14 & 15 & 0.03 & 1.84 & Equation, Mathematics \\
-H-Anx Psy & 78 & 316 & 0.08 & 1.89 & Challenge, Teacher, Mathematics, Anxiety \\
-L-Anx Psy & 68 & 205 & 0.06 & 1.91 & Physics, School, Teacher, Mathematics \\
-GPT H-Anx Psy & 49 & 78 & 0.03 & 1.93 & Physics, Equation, Mathematics \\
-GPT L-Anx Psy & 51 & 77 & 0.02 & 1.94 & Equation, Statistics, Mathematics \\
+GPT Physics & 14 & 15 & 0.03 & 1.84 & Mathematics, Equation \\
+H-Anx Psy & 78 & 316 & 0.08 & 1.89 & Anxiety, Teacher, Mathematics, Challenge \\
+L-Anx Psy & 68 & 205 & 0.06 & 1.91 & Teacher, Mathematics, Physics, School \\
+GPT H-Anx Psy & 49 & 78 & 0.03 & 1.93 & Equation, Mathematics, Physics \\
+GPT L-Anx Psy & 51 & 77 & 0.02 & 1.94 & Equation, Mathematics, Statistics \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -32,18 +32,18 @@ GPT L-Anx Psy & 51 & 77 & 0.02 & 1.94 & Equation, Statistics, Mathematics \\
 \toprule
 Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs \\
 \midrule
-Experts & 26 & 38 & 0.04 & 1.88 & Physics, Mathematics \\
-H-S South & 29 & 59 & 0.08 & 1.85 & Graph, Mathematics \\
-H-Anx H-S & 37 & 68 & 0.05 & 1.90 & School, Mathematics \\
-L-Anx H-S & 41 & 91 & 0.07 & 1.89 & Research, Mathematics, Future \\
+Experts & 26 & 38 & 0.04 & 1.88 & Mathematics, Physics \\
+H-S South & 29 & 59 & 0.08 & 1.85 & Mathematics, Graph \\
+H-Anx H-S & 37 & 68 & 0.05 & 1.90 & Mathematics, School \\
+L-Anx H-S & 41 & 91 & 0.07 & 1.89 & Research, Future, Mathematics \\
 GPT H-Anx H-S & 15 & 16 & 0.02 & 1.85 & Average \\
 GPT L-Anx H-S & 23 & 25 & 0.01 & 1.90 & Average, Curiosity \\
 Physics & 28 & 49 & 0.06 & 1.87 & Fear, Laboratory \\
 GPT Physics & 12 & 11 & 0.00 & 1.83 & Average \\
-H-Anx Psy & 49 & 127 & 0.07 & 1.89 & Anxiety, University, Mathematics \\
-L-Anx Psy & 53 & 120 & 0.05 & 1.91 & Curiosity, University, Mathematics \\
-GPT H-Anx Psy & 48 & 68 & 0.02 & 1.94 & Average, Statistics, Mathematics \\
-GPT L-Anx Psy & 44 & 63 & 0.02 & 1.93 & Average, Curiosity, Mathematics \\
+H-Anx Psy & 49 & 127 & 0.07 & 1.89 & Anxiety, Mathematics, University \\
+L-Anx Psy & 53 & 120 & 0.05 & 1.91 & Mathematics, Curiosity, University \\
+GPT H-Anx Psy & 48 & 68 & 0.02 & 1.94 & Average, Mathematics, Statistics \\
+GPT L-Anx Psy & 44 & 63 & 0.02 & 1.93 & Average, Mathematics, Curiosity \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -57,18 +57,18 @@ GPT L-Anx Psy & 44 & 63 & 0.02 & 1.93 & Average, Curiosity, Mathematics \\
 \toprule
 Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs \\
 \midrule
-Experts & 55 & 108 & 0.04 & 1.93 & University, Physics, Science, Mathematics \\
-H-S South & 114 & 435 & 0.05 & 1.93 & Science, System, Physics, School, Time, Mathematics \\
-H-Anx H-S & 63 & 157 & 0.05 & 1.92 & Life, School, Anxiety, Mathematics \\
-L-Anx H-S & 65 & 158 & 0.05 & 1.92 & Physics, School, Mathematics, Future \\
-GPT H-Anx H-S & 25 & 28 & 0.01 & 1.91 & Physics, University, Mathematics \\
+Experts & 55 & 108 & 0.04 & 1.93 & Mathematics, Physics, Science, University \\
+H-S South & 114 & 435 & 0.05 & 1.93 & Science, Time, School, System, Mathematics, Physics \\
+H-Anx H-S & 63 & 157 & 0.05 & 1.92 & Anxiety, Life, Mathematics, School \\
+L-Anx H-S & 65 & 158 & 0.05 & 1.92 & Future, Mathematics, Physics, School \\
+GPT H-Anx H-S & 25 & 28 & 0.01 & 1.91 & Mathematics, Physics, University \\
 GPT L-Anx H-S & 23 & 23 & 0.00 & 1.91 & Physics, Curiosity \\
-Physics & 31 & 58 & 0.06 & 1.88 & Physics, Laboratory, Scientist, Discovery \\
+Physics & 31 & 58 & 0.06 & 1.88 & Discovery, Physics, Laboratory, Scientist \\
 GPT Physics & 17 & 17 & 0.01 & 1.88 & Physics \\
-H-Anx Psy & 69 & 159 & 0.04 & 1.93 & Physics, School, Anxiety, Mathematics \\
-L-Anx Psy & 77 & 152 & 0.03 & 1.95 & Physics, School, Mathematics, Curiosity \\
-GPT H-Anx Psy & 62 & 95 & 0.02 & 1.95 & Physics, Equation, University, Mathematics \\
-GPT L-Anx Psy & 67 & 86 & 0.01 & 1.96 & Physics, Equation, Science, University \\
+H-Anx Psy & 69 & 159 & 0.04 & 1.93 & Anxiety, Mathematics, Physics, School \\
+L-Anx Psy & 77 & 152 & 0.03 & 1.95 & School, Curiosity, Mathematics, Physics \\
+GPT H-Anx Psy & 62 & 95 & 0.02 & 1.95 & Equation, Mathematics, Physics, University \\
+GPT L-Anx Psy & 67 & 86 & 0.01 & 1.96 & Equation, Science, Physics, University \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -82,18 +82,18 @@ GPT L-Anx Psy & 67 & 86 & 0.01 & 1.96 & Physics, Equation, Science, University \
 \toprule
 Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs \\
 \midrule
-Experts & 66 & 156 & 0.04 & 1.93 & System, Physics, School, Science \\
-H-S South & 64 & 242 & 0.09 & 1.88 & Physics, System, Science, Mathematics \\
-H-Anx H-S & 48 & 110 & 0.06 & 1.90 & School, Discovery, Mathematics \\
-L-Anx H-S & 56 & 162 & 0.07 & 1.89 & Physics, Research, Experiment \\
+Experts & 66 & 156 & 0.04 & 1.93 & School, System, Physics, Science \\
+H-S South & 64 & 242 & 0.09 & 1.88 & System, Science, Mathematics, Physics \\
+H-Anx H-S & 48 & 110 & 0.06 & 1.90 & Discovery, Mathematics, School \\
+L-Anx H-S & 56 & 162 & 0.07 & 1.89 & Research, Experiment, Physics \\
 GPT H-Anx H-S & 23 & 30 & 0.03 & 1.88 & Physics, University \\
 GPT L-Anx H-S & 22 & 24 & 0.01 & 1.90 & Physics, Statistics \\
-Physics & 28 & 60 & 0.09 & 1.84 & Physics, Laboratory, Scientist, Discovery \\
+Physics & 28 & 60 & 0.09 & 1.84 & Discovery, Physics, Laboratory, Scientist \\
 GPT Physics & 16 & 17 & 0.02 & 1.86 & Tests \\
-H-Anx Psy & 58 & 206 & 0.09 & 1.88 & Physics, Curiosity, Mathematics \\
-L-Anx Psy & 56 & 181 & 0.08 & 1.88 & Physics, Curiosity, Mathematics \\
-GPT H-Anx Psy & 43 & 70 & 0.03 & 1.92 & Physics, Statistics, University \\
-GPT L-Anx Psy & 53 & 110 & 0.04 & 1.92 & Try it, Physics, Scientist \\
+H-Anx Psy & 58 & 206 & 0.09 & 1.88 & Mathematics, Physics, Curiosity \\
+L-Anx Psy & 56 & 181 & 0.08 & 1.88 & Mathematics, Curiosity, Physics \\
+GPT H-Anx Psy & 43 & 70 & 0.03 & 1.92 & Physics, University, Statistics \\
+GPT L-Anx Psy & 53 & 110 & 0.04 & 1.92 & Scientist, Try it, Physics \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -107,18 +107,18 @@ GPT L-Anx Psy & 53 & 110 & 0.04 & 1.92 & Try it, Physics, Scientist \\
 \toprule
 Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs \\
 \midrule
-Experts & 27 & 40 & 0.04 & 1.89 & System, Science \\
+Experts & 27 & 40 & 0.04 & 1.89 & Science, System \\
 H-S South & 16 & 31 & 0.15 & 1.74 & Program \\
-H-Anx H-S & 51 & 90 & 0.03 & 1.93 & School, Anxiety, Future \\
-L-Anx H-S & 45 & 83 & 0.04 & 1.92 & School, Data, Future \\
+H-Anx H-S & 51 & 90 & 0.03 & 1.93 & Future, Anxiety, School \\
+L-Anx H-S & 45 & 83 & 0.04 & 1.92 & Future, Data, School \\
 GPT H-Anx H-S & 19 & 18 & 0.00 & 1.89 & IT \\
-GPT L-Anx H-S & 22 & 23 & 0.01 & 1.90 & Creativity, IT \\
-Physics & 23 & 31 & 0.04 & 1.88 & Fear, Science \\
+GPT L-Anx H-S & 22 & 23 & 0.01 & 1.90 & IT, Creativity \\
+Physics & 23 & 31 & 0.04 & 1.88 & Science, Fear \\
 GPT Physics & 13 & 12 & 0.00 & 1.85 & IT \\
 H-Anx Psy & 25 & 65 & 0.15 & 1.78 & Anxiety, Mathematics \\
 L-Anx Psy & 20 & 33 & 0.08 & 1.83 & Mathematics \\
-GPT H-Anx Psy & 47 & 51 & 0.00 & 1.95 & Creativity, IT, Innovation \\
-GPT L-Anx Psy & 55 & 60 & 0.00 & 1.96 & Creativity, IT, Fun \\
+GPT H-Anx Psy & 47 & 51 & 0.00 & 1.95 & IT, Innovation, Creativity \\
+GPT L-Anx Psy & 55 & 60 & 0.00 & 1.96 & Fun, IT, Creativity \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -134,11 +134,11 @@ Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs \\
 \midrule
 Experts & 15 & 24 & 0.11 & 1.77 & Science \\
 H-S South & 13 & 25 & 0.20 & 1.68 & Domination \\
-H-Anx H-S & 65 & 168 & 0.05 & 1.92 & Physics, Research, School, Discovery \\
-L-Anx H-S & 60 & 189 & 0.08 & 1.89 & Physics, Research, School, Experiment \\
+H-Anx H-S & 65 & 168 & 0.05 & 1.92 & Research, Discovery, Physics, School \\
+L-Anx H-S & 60 & 189 & 0.08 & 1.89 & Research, Experiment, Physics, School \\
 GPT H-Anx H-S & 11 & 13 & 0.07 & 1.76 & Degree \\
 GPT L-Anx H-S & 12 & 14 & 0.05 & 1.79 & Average \\
-Physics & 27 & 55 & 0.09 & 1.84 & Physics, Laboratory, Scientist, Discovery \\
+Physics & 27 & 55 & 0.09 & 1.84 & Discovery, Physics, Laboratory, Scientist \\
 GPT Physics & 7 & 6 & 0.00 & 1.71 & Science \\
 H-Anx Psy & 19 & 70 & 0.34 & 1.59 & Curiosity \\
 L-Anx Psy & 14 & 44 & 0.40 & 1.52 & Curiosity \\
@@ -159,16 +159,16 @@ Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs \\
 \midrule
 Experts & 9 & 15 & 0.25 & 1.58 & School \\
 H-S South & 41 & 83 & 0.06 & 1.90 & Chemistry, School, Program \\
-H-Anx H-S & 49 & 92 & 0.04 & 1.92 & Stress, School, Anxiety \\
-L-Anx H-S & 46 & 93 & 0.05 & 1.91 & Challenge, Data, Mathematics \\
+H-Anx H-S & 49 & 92 & 0.04 & 1.92 & Anxiety, Stress, School \\
+L-Anx H-S & 46 & 93 & 0.05 & 1.91 & Data, Mathematics, Challenge \\
 GPT H-Anx H-S & 15 & 21 & 0.08 & 1.80 & Try it \\
 GPT L-Anx H-S & 14 & 20 & 0.09 & 1.78 & Try it \\
-Physics & 25 & 44 & 0.07 & 1.85 & Physics, Anxiety \\
+Physics & 25 & 44 & 0.07 & 1.85 & Anxiety, Physics \\
 GPT Physics & 11 & 12 & 0.04 & 1.78 & Try it \\
-H-Anx Psy & 57 & 224 & 0.11 & 1.86 & Challenge, Teacher, Anxiety \\
-L-Anx Psy & 58 & 211 & 0.10 & 1.87 & Challenge, Physics, Anxiety \\
-GPT H-Anx Psy & 38 & 91 & 0.08 & 1.87 & Try it, Tests \\
-GPT L-Anx Psy & 41 & 88 & 0.06 & 1.89 & Try it, Physics, Tests \\
+H-Anx Psy & 57 & 224 & 0.11 & 1.86 & Teacher, Anxiety, Challenge \\
+L-Anx Psy & 58 & 211 & 0.10 & 1.87 & Anxiety, Physics, Challenge \\
+GPT H-Anx Psy & 38 & 91 & 0.08 & 1.87 & Tests, Try it \\
+GPT L-Anx Psy & 41 & 88 & 0.06 & 1.89 & Tests, Try it, Physics \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -183,12 +183,12 @@ GPT L-Anx Psy & 41 & 88 & 0.06 & 1.89 & Try it, Physics, Tests \\
 Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs \\
 \midrule
 Experts & 7 & 7 & 0.07 & 1.67 & Good \\
-H-S South & 35 & 78 & 0.08 & 1.87 & School, Mathematics \\
-H-Anx H-S & 59 & 110 & 0.03 & 1.94 & Stress, School, Anxiety \\
-L-Anx H-S & 47 & 68 & 0.02 & 1.94 & Failure, School, Future \\
-Physics & 22 & 29 & 0.04 & 1.87 & Exam, Anxiety, Future \\
-H-Anx Psy & 38 & 104 & 0.10 & 1.85 & School, Anxiety \\
-L-Anx Psy & 47 & 122 & 0.07 & 1.89 & Challenge, Teacher, Anxiety \\
+H-S South & 35 & 78 & 0.08 & 1.87 & Mathematics, School \\
+H-Anx H-S & 59 & 110 & 0.03 & 1.94 & Anxiety, Stress, School \\
+L-Anx H-S & 47 & 68 & 0.02 & 1.94 & Future, Failure, School \\
+Physics & 22 & 29 & 0.04 & 1.87 & Future, Anxiety, Exam \\
+H-Anx Psy & 38 & 104 & 0.10 & 1.85 & Anxiety, School \\
+L-Anx Psy & 47 & 122 & 0.07 & 1.89 & Teacher, Anxiety, Challenge \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -210,8 +210,8 @@ GPT H-Anx H-S & 17 & 22 & 0.05 & 1.84 & Teacher \\
 GPT L-Anx H-S & 14 & 15 & 0.03 & 1.84 & Teacher \\
 GPT Physics & 9 & 9 & 0.04 & 1.75 & Teacher \\
 H-Anx Psy & 49 & 130 & 0.07 & 1.89 & Teacher, Anxiety, Mathematics \\
-L-Anx Psy & 59 & 171 & 0.07 & 1.90 & School, Teacher, University, Mathematics \\
-GPT H-Anx Psy & 33 & 57 & 0.05 & 1.89 & Development, Teacher \\
+L-Anx Psy & 59 & 171 & 0.07 & 1.90 & Teacher, Mathematics, University, School \\
+GPT H-Anx Psy & 33 & 57 & 0.05 & 1.89 & Teacher, Development \\
 GPT L-Anx Psy & 35 & 48 & 0.02 & 1.92 & Teacher, University \\
 \bottomrule
 \end{tabular}
@@ -227,17 +227,17 @@ GPT L-Anx Psy & 35 & 48 & 0.02 & 1.92 & Teacher, University \\
 Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs \\
 \midrule
 Experts & 16 & 27 & 0.11 & 1.77 & School \\
-H-S South & 62 & 159 & 0.05 & 1.92 & Physics, Art, School, Mathematics \\
+H-S South & 62 & 159 & 0.05 & 1.92 & Art, Mathematics, Physics, School \\
 H-Anx H-S & 2 & 1 & 0.00 & 1.00 & Teacher \\
 L-Anx H-S & 2 & 1 & 0.00 & 1.00 & Teacher \\
-GPT H-Anx H-S & 32 & 37 & 0.01 & 1.93 & Passion, Teacher \\
+GPT H-Anx H-S & 32 & 37 & 0.01 & 1.93 & Teacher, Passion \\
 GPT L-Anx H-S & 36 & 40 & 0.01 & 1.94 & Teacher, Curiosity \\
 Physics & 2 & 1 & 0.00 & 1.00 & Teacher \\
 GPT Physics & 17 & 17 & 0.01 & 1.88 & Teacher \\
-H-Anx Psy & 70 & 171 & 0.04 & 1.93 & School, Teacher, Mathematics, Work \\
-L-Anx Psy & 69 & 167 & 0.04 & 1.93 & School, Teacher, University, Mathematics \\
-GPT H-Anx Psy & 65 & 93 & 0.01 & 1.96 & Development, Teacher, Psychology, Curiosity \\
-GPT L-Anx Psy & 69 & 86 & 0.01 & 1.96 & Passion, Development, Teacher, Curiosity \\
+H-Anx Psy & 70 & 171 & 0.04 & 1.93 & Teacher, Mathematics, School, Work \\
+L-Anx Psy & 69 & 167 & 0.04 & 1.93 & Teacher, Mathematics, University, School \\
+GPT H-Anx Psy & 65 & 93 & 0.01 & 1.96 & Teacher, Development, Psychology, Curiosity \\
+GPT L-Anx Psy & 69 & 86 & 0.01 & 1.96 & Teacher, Development, Curiosity, Passion \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -252,17 +252,6 @@ GPT L-Anx Psy & 69 & 86 & 0.01 & 1.96 & Passion, Development, Teacher, Curiosity
 Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs \\
 \midrule
 Experts & 10 & 9 & 0.00 & 1.80 & Science \\
-H-S South & 32 & 98 & 0.14 & 1.80 & Person, Science \\
-H-Anx H-S & 43 & 130 & 0.10 & 1.86 & School, Discovery, Mathematics \\
-L-Anx H-S & 46 & 105 & 0.06 & 1.90 & Research, Data, Experiment \\
-GPT H-Anx H-S & 28 & 30 & 0.01 & 1.92 & Passion, Scientist \\
-GPT L-Anx H-S & 26 & 30 & 0.02 & 1.91 & Scientist, Curiosity \\
-Physics & 26 & 41 & 0.05 & 1.87 & Physics, Laboratory \\
-GPT Physics & 12 & 12 & 0.02 & 1.82 & Curiosity \\
-H-Anx Psy & 19 & 38 & 0.13 & 1.78 & Work \\
-L-Anx Psy & 15 & 29 & 0.16 & 1.72 & Physics \\
-GPT H-Anx Psy & 57 & 76 & 0.01 & 1.95 & Psychology, University, Scientist \\
-GPT L-Anx Psy & 71 & 105 & 0.01 & 1.96 & Science, Curiosity, University, Scientist \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -276,15 +265,15 @@ GPT L-Anx Psy & 71 & 105 & 0.01 & 1.96 & Science, Curiosity, University, Scienti
 \toprule
 Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs \\
 \midrule
-Experts & 52 & 101 & 0.04 & 1.92 & University, School, Mathematics, Science \\
-H-S South & 78 & 255 & 0.06 & 1.92 & Physics, Art, School, Mathematics \\
-H-Anx H-S & 75 & 219 & 0.05 & 1.92 & School, Anxiety, Discovery, Mathematics \\
-L-Anx H-S & 62 & 128 & 0.04 & 1.93 & Physics, Research, School, Mathematics \\
+Experts & 52 & 101 & 0.04 & 1.92 & Mathematics, School, Science, University \\
+H-S South & 78 & 255 & 0.06 & 1.92 & Art, School, Mathematics, Physics \\
+H-Anx H-S & 75 & 219 & 0.05 & 1.92 & Anxiety, Discovery, Mathematics, School \\
+L-Anx H-S & 62 & 128 & 0.04 & 1.93 & Research, Mathematics, Physics, School \\
 GPT H-Anx H-S & 3 & 2 & 0.00 & 1.33 & Average \\
 GPT L-Anx H-S & 2 & 1 & 0.00 & 1.00 & Average \\
-Physics & 26 & 27 & 0.01 & 1.92 & Teacher, Stress \\
-H-Anx Psy & 67 & 230 & 0.08 & 1.90 & Physics, Teacher, Anxiety, Mathematics \\
-L-Anx Psy & 67 & 236 & 0.08 & 1.89 & Physics, Challenge, Teacher, Anxiety \\
+Physics & 26 & 27 & 0.01 & 1.92 & Stress, Teacher \\
+H-Anx Psy & 67 & 230 & 0.08 & 1.90 & Teacher, Anxiety, Mathematics, Physics \\
+L-Anx Psy & 67 & 236 & 0.08 & 1.89 & Teacher, Anxiety, Physics, Challenge \\
 GPT H-Anx Psy & 3 & 3 & 1.00 & 1.00 & Tests \\
 GPT L-Anx Psy & 4 & 3 & 0.00 & 1.50 & Average \\
 \bottomrule
@@ -300,18 +289,18 @@ GPT L-Anx Psy & 4 & 3 & 0.00 & 1.50 & Average \\
 \toprule
 Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs \\
 \midrule
-Experts & 48 & 93 & 0.04 & 1.92 & Physics, School, Science \\
+Experts & 48 & 93 & 0.04 & 1.92 & School, Physics, Science \\
 H-S South & 36 & 110 & 0.13 & 1.83 & Physics, Self organization \\
 H-Anx H-S & 8 & 14 & 0.33 & 1.50 & Anxiety \\
 L-Anx H-S & 10 & 23 & 0.39 & 1.49 & Physics \\
-GPT H-Anx H-S & 25 & 35 & 0.04 & 1.88 & Degree, Development \\
+GPT H-Anx H-S & 25 & 35 & 0.04 & 1.88 & Development, Degree \\
 GPT L-Anx H-S & 20 & 29 & 0.06 & 1.85 & Degree \\
 Physics & 5 & 5 & 0.17 & 1.50 & Anxiety \\
 GPT Physics & 11 & 10 & 0.00 & 1.82 & Physics \\
-H-Anx Psy & 62 & 225 & 0.09 & 1.88 & Challenge, School, Teacher, Anxiety \\
-L-Anx Psy & 67 & 278 & 0.10 & 1.87 & School, Teacher, Anxiety, Curiosity, University \\
-GPT H-Anx Psy & 51 & 99 & 0.04 & 1.92 & Average, Tests, Development \\
-GPT L-Anx Psy & 53 & 75 & 0.02 & 1.95 & Physics, Psychology, Scientist \\
+H-Anx Psy & 62 & 225 & 0.09 & 1.88 & Teacher, Anxiety, School, Challenge \\
+L-Anx Psy & 67 & 278 & 0.10 & 1.87 & Teacher, Anxiety, University, School, Curiosity \\
+GPT H-Anx Psy & 51 & 99 & 0.04 & 1.92 & Development, Tests, Average \\
+GPT L-Anx Psy & 53 & 75 & 0.02 & 1.95 & Scientist, Psychology, Physics \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -326,8 +315,8 @@ GPT L-Anx Psy & 53 & 75 & 0.02 & 1.95 & Physics, Psychology, Scientist \\
 Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs \\
 \midrule
 Experts & 11 & 12 & 0.04 & 1.78 & Health \\
-H-S South & 27 & 37 & 0.03 & 1.89 & Home, System \\
-H-Anx H-S & 49 & 55 & 0.01 & 1.95 & Wellbeing, Social, Life, Happiness \\
+H-S South & 27 & 37 & 0.03 & 1.89 & System, Home \\
+H-Anx H-S & 49 & 55 & 0.01 & 1.95 & Happiness, Wellbeing, Social, Life \\
 L-Anx H-S & 49 & 74 & 0.02 & 1.94 & Life, Stress, Rules \\
 GPT H-Anx H-S & 18 & 19 & 0.01 & 1.88 & Psychotherapy \\
 GPT L-Anx H-S & 14 & 14 & 0.01 & 1.85 & Psychotherapy \\
@@ -344,23 +333,47 @@ GPT L-Anx Psy & 31 & 37 & 0.02 & 1.92 & Development, Psychology \\
 \begin{table}[!hbpt]
 \footnotesize
 \centering
+\caption{Network features for the semantic frame of \textit{Scientist (male)}.}
+\label{tab:network_features_scientist (male)}
+\begin{tabular}{lccccl}
+\toprule
+Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs \\
+\midrule
+H-S South & 32 & 98 & 0.14 & 1.80 & Person, Science \\
+H-Anx H-S & 43 & 130 & 0.10 & 1.86 & Discovery, Mathematics, School \\
+L-Anx H-S & 46 & 105 & 0.06 & 1.90 & Research, Data, Experiment \\
+GPT H-Anx H-S & 28 & 30 & 0.01 & 1.92 & Scientist, Passion \\
+GPT L-Anx H-S & 26 & 30 & 0.02 & 1.91 & Scientist, Curiosity \\
+Physics & 26 & 41 & 0.05 & 1.87 & Physics, Laboratory \\
+GPT Physics & 12 & 12 & 0.02 & 1.82 & Curiosity \\
+H-Anx Psy & 19 & 38 & 0.13 & 1.78 & Work \\
+L-Anx Psy & 15 & 29 & 0.16 & 1.72 & Physics \\
+GPT H-Anx Psy & 57 & 76 & 0.01 & 1.95 & Scientist, Psychology, University \\
+GPT L-Anx Psy & 71 & 105 & 0.01 & 1.96 & Scientist, Science, Curiosity, University \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[!hbpt]
+\footnotesize
+\centering
 \caption{Network features for the semantic frame of \textit{Anxiety}.}
 \label{tab:network_features_anxiety}
 \begin{tabular}{lccccl}
 \toprule
 Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs \\
 \midrule
-H-S South & 24 & 55 & 0.13 & 1.80 & School, Time \\
-H-Anx H-S & 75 & 218 & 0.05 & 1.92 & Stress, School, Anxiety, Mathematics \\
-L-Anx H-S & 51 & 110 & 0.05 & 1.91 & Stress, School, Future \\
+H-S South & 24 & 55 & 0.13 & 1.80 & Time, School \\
+H-Anx H-S & 75 & 218 & 0.05 & 1.92 & Anxiety, Mathematics, Stress, School \\
+L-Anx H-S & 51 & 110 & 0.05 & 1.91 & Future, Stress, School \\
 GPT H-Anx H-S & 14 & 17 & 0.05 & 1.81 & Tests \\
 GPT L-Anx H-S & 12 & 13 & 0.04 & 1.80 & Psychopathology \\
-Physics & 31 & 64 & 0.08 & 1.86 & Fear, Challenge, Failure, Stress, Anxiety \\
-GPT Physics & 7 & 8 & 0.13 & 1.62 & Psychopathology, Emotion \\
-H-Anx Psy & 99 & 360 & 0.06 & 1.93 & Challenge, Physics, School, Mathematics, Anxiety \\
-L-Anx Psy & 75 & 211 & 0.05 & 1.92 & Challenge, School, Anxiety, University \\
-GPT H-Anx Psy & 33 & 57 & 0.05 & 1.89 & Try it, Tests \\
-GPT L-Anx Psy & 36 & 55 & 0.03 & 1.91 & Try it, Tests \\
+Physics & 31 & 64 & 0.08 & 1.86 & Failure, Fear, Anxiety, Stress, Challenge \\
+GPT Physics & 7 & 8 & 0.13 & 1.62 & Emotion, Psychopathology \\
+H-Anx Psy & 99 & 360 & 0.06 & 1.93 & Anxiety, School, Mathematics, Physics, Challenge \\
+L-Anx Psy & 75 & 211 & 0.05 & 1.92 & Anxiety, University, School, Challenge \\
+GPT H-Anx Psy & 33 & 57 & 0.05 & 1.89 & Tests, Try it \\
+GPT L-Anx Psy & 36 & 55 & 0.03 & 1.91 & Tests, Try it \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -375,7 +388,7 @@ GPT L-Anx Psy & 36 & 55 & 0.03 & 1.91 & Try it, Tests \\
 Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs \\
 \midrule
 H-Anx H-S & 37 & 96 & 0.10 & 1.86 & Discovery, Mathematics \\
-L-Anx H-S & 45 & 111 & 0.07 & 1.89 & Research, Experiment, Future \\
+L-Anx H-S & 45 & 111 & 0.07 & 1.89 & Research, Future, Experiment \\
 Physics & 29 & 40 & 0.03 & 1.90 & Physics, Laboratory, Scientist \\
 H-Anx Psy & 4 & 4 & 0.33 & 1.33 & Science \\
 L-Anx Psy & 8 & 13 & 0.29 & 1.54 & Science \\
