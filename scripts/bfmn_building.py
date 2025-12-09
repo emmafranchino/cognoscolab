@@ -224,7 +224,7 @@ def categorize_valence_multiple(df):
 
     return df
 
-def multiple_fmnt_features(G, fmn, keyword, file_path):
+def multiple_fmnt_features(G, fmn, keyword, file_path, percentage):
     local_clustering_coeff = nx.clustering(G, keyword)
 
     G_kw = nx.Graph()
@@ -246,10 +246,11 @@ def multiple_fmnt_features(G, fmn, keyword, file_path):
 
     # compute the degree threshold for the top 5%
     degrees = np.array(list(deg_dict.values()))
-    threshold = np.percentile(degrees, 95)
+    threshold = np.percentile(degrees, percentage)
 
     # all nodes whose degree is >= threshold
-    hubs = [n for n, d in deg_dict.items() if d >= threshold]
+    hubs = sorted([(f'{n} ({d})', d) for n, d in deg_dict.items() if d >= threshold], key=lambda x: x[1], reverse=True)
+    hubs = [h[0] for h in hubs]
 
     rows = []
     # append a dict with all features
@@ -261,7 +262,7 @@ def multiple_fmnt_features(G, fmn, keyword, file_path):
         "$C_i$": local_clustering_coeff,
         "$l_G$": avg_shortest_path,
         "$d$": diameter,
-        "Hubs": hubs
+        "Hubs": hubs 
     })
 
     # build the dataframe
@@ -309,7 +310,7 @@ def build_multiple_fmnt(df, keywords, folder_path, file_path, flower='yes', lang
     fmn = emo.nxgraph_to_formamentis(G)
     fmnts_keyword = []
 
-    features_fmn = multiple_fmnt_features(G, fmn, None, file_path).drop(columns=['keyword', '$C_i$'])
+    features_fmn = multiple_fmnt_features(G, fmn, None, file_path, 99).drop(columns=['keyword', '$C_i$'])
 
     features = []
     # create a subgraph for each of the keywords we are intereseted in and calculate tehir features
@@ -348,7 +349,7 @@ def build_multiple_fmnt(df, keywords, folder_path, file_path, flower='yes', lang
                 plt.savefig(f"{folder_path}/out/analysis/emo_flowers_bfmn/{file_path}/{keyword}", bbox_inches="tight", pad_inches=0.1)
                 plt.close('all')
             
-            features_fmnt_keyword = multiple_fmnt_features(G, fmnt_keyword, keyword, file_path)
+            features_fmnt_keyword = multiple_fmnt_features(G, fmnt_keyword, keyword, file_path, 95)
             features.append(features_fmnt_keyword)
             all_features_df = pd.concat(features, ignore_index=True).drop(columns=['$d$'])
             
