@@ -1,24 +1,24 @@
 \begin{table}[!hbpt]
 \footnotesize
 \centering
-\caption{Network features for the semantic frame of \textit{Mathematics}.}
+\caption{Network features for the semantic frame of \textit{\textbf{Mathematics}}. For each hub, its degree is reported in parentheses. The italicised hubs are part of the cue words.}
 \label{tab:network_features_mathematics}
-\begin{tabular}{lccccl}
+\begin{tabular}{lccccp{9cm}}
 \toprule
-Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs \\
+Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs (top 5\% of degree distribution) \\
 \midrule
-Experts & 48 & 107 & 0.06 & 1.91 & \textit{Science} (65), \textit{Physics} (54), Systems (53) \\
-H-S South & 101 & 473 & 0.08 & 1.91 & \textit{Physics} (113), \textit{Mathematics} (100), Discussion (82), Together (79), \textit{School} (77), System (63), \textit{Science} (63), Maximum (63) \\
-H-Anx H-S & 73 & 212 & 0.05 & 1.92 & \textit{Anxiety} (74), \textit{School} (74), \textit{Mathematics} (72), \textit{Stress} (63) \\
-L-Anx H-S & 63 & 183 & 0.06 & 1.91 & \textit{Challenge} (68), \textit{Physics} (64), \textit{Mathematics} (62), \textit{School} (61) \\
-GPT H-Anx H-S & 25 & 33 & 0.03 & 1.89 & \textit{Physics} (24), \textit{Mathematics} (24) \\
-GPT L-Anx H-S & 19 & 25 & 0.05 & 1.85 & \textit{Equation} (21) \\
-Physics & 25 & 42 & 0.07 & 1.86 & \textit{Physics} (30), \textit{Statistics} (27) \\
-GPT Physics & 14 & 15 & 0.03 & 1.84 & \textit{Mathematics} (13), \textit{Equation} (13) \\
-H-Anx Psy & 180 & 1016 & 0.05 & 1.94 & \textit{Anxiety} (252), \textit{Challenge} (209), \textit{Teacher} (196), Work (190), \textit{Physics} (182), \textit{Model} (181), \textit{Mathematics} (179), \textit{Professor} (170), \textit{School} (163) \\
-L-Anx Psy & 195 & 909 & 0.04 & 1.95 & \textit{Anxiety} (222), \textit{Teacher} (202), \textit{Physics} (201), \textit{Mathematics} (194), Curiosities (194), Work (192), \textit{Science} (176), \textit{Model} (172), \textit{Professor} (171), \textit{University} (162) \\
-GPT H-Anx Psy & 49 & 78 & 0.03 & 1.93 & \textit{Equation} (68), \textit{Physics} (61), \textit{Mathematics} (48) \\
-GPT L-Anx Psy & 51 & 77 & 0.02 & 1.94 & \textit{Equation} (77), \textit{Mathematics} (50), \textit{Statistics} (43) \\
+Experts & 48 & 107 & 0.06 & 1.91 & \textit{Mathematics} (47), \textit{Physics} (11), \textit{Science} (10) \\
+H-S South & 101 & 473 & 0.08 & 1.91 & \textit{Mathematics} (100), \textit{Physics} (32), Calculation (25), Numbers (24), Mathematically (22), \textit{Number} (22) \\
+H-Anx H-S & 73 & 212 & 0.05 & 1.92 & \textit{Mathematics} (72), \textit{Physics} (20), \textit{Numbers} (17), \textit{Problem} (17) \\
+L-Anx H-S & 63 & 183 & 0.06 & 1.91 & \textit{Mathematics} (62), \textit{Physics} (18), Analysis (15), \textit{Numbers} (14), \textit{Data} (14) \\
+GPT H-Anx H-S & 25 & 33 & 0.03 & 1.89 & \textit{Mathematics} (24), \textit{Equation} (8) \\
+GPT L-Anx H-S & 19 & 25 & 0.05 & 1.85 & \textit{Mathematics} (18) \\
+Physics & 25 & 42 & 0.07 & 1.86 & \textit{Mathematics} (24), \textit{Numbers} (7) \\
+GPT Physics & 14 & 15 & 0.03 & 1.84 & \textit{Mathematics} (13) \\
+H-Anx Psy & 180 & 1016 & 0.05 & 1.94 & \textit{Mathematics} (179), \textit{Numbers} (57), \textit{Physics} (52), \textit{Equation} (52), \textit{Challenge} (50), \textit{Statistics} (48), \textit{Anxiety} (45), \textit{School} (44), \textit{Exam} (41) \\
+L-Anx Psy & 195 & 909 & 0.04 & 1.95 & \textit{Mathematics} (194), \textit{Equation} (55), \textit{Physics} (54), \textit{Numbers} (48), \textit{Statistics} (48), \textit{Science} (40), \textit{Exam} (36), \textit{School} (36), \textit{Professor} (35), \textit{University} (34) \\
+GPT H-Anx Psy & 49 & 78 & 0.03 & 1.93 & \textit{Mathematics} (48), \textit{Equation} (13), \textit{Physics} (10) \\
+GPT L-Anx Psy & 51 & 77 & 0.02 & 1.94 & \textit{Mathematics} (50), \textit{Equation} (18), \textit{Statistics} (7) \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -26,24 +26,24 @@ GPT L-Anx Psy & 51 & 77 & 0.02 & 1.94 & \textit{Equation} (77), \textit{Mathemat
 \begin{table}[!hbpt]
 \footnotesize
 \centering
-\caption{Network features for the semantic frame of \textit{Statistics}.}
+\caption{Network features for the semantic frame of \textit{\textbf{Statistics}}. For each hub, its degree is reported in parentheses. The italicised hubs are part of the cue words.}
 \label{tab:network_features_statistics}
-\begin{tabular}{lccccl}
+\begin{tabular}{lccccp{9cm}}
 \toprule
-Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs \\
+Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs (top 5\% of degree distribution) \\
 \midrule
-Experts & 26 & 38 & 0.04 & 1.88 & \textit{Physics} (54), \textit{Mathematics} (47) \\
-H-S South & 29 & 59 & 0.08 & 1.85 & \textit{Mathematics} (100), Graph (56) \\
-H-Anx H-S & 37 & 68 & 0.05 & 1.90 & \textit{School} (74), \textit{Mathematics} (72) \\
-L-Anx H-S & 41 & 91 & 0.07 & 1.89 & \textit{Future} (62), \textit{Mathematics} (62), Search (59) \\
-GPT H-Anx H-S & 15 & 16 & 0.02 & 1.85 & Medium (37) \\
-GPT L-Anx H-S & 23 & 25 & 0.01 & 1.90 & Medium (42), Curiosities (23) \\
-Physics & 28 & 49 & 0.06 & 1.87 & \textit{Fear} (28), \textit{Laboratory} (28) \\
-GPT Physics & 12 & 11 & 0.00 & 1.83 & Medium (14) \\
-H-Anx Psy & 150 & 576 & 0.04 & 1.95 & \textit{Anxiety} (252), \textit{Challenge} (209), Work (190), \textit{Model} (181), \textit{Mathematics} (179), Exam (155), \textit{University} (154), \textit{Numbers} (151) \\
-L-Anx Psy & 154 & 469 & 0.03 & 1.96 & \textit{Physics} (201), \textit{Mathematics} (194), Curiosities (194), Work (192), \textit{Model} (172), \textit{University} (162), Exam (156), \textit{Statistics} (153) \\
-GPT H-Anx Psy & 48 & 68 & 0.02 & 1.94 & \textit{Average} (104), \textit{Mathematics} (48), \textit{Statistics} (47) \\
-GPT L-Anx Psy & 44 & 63 & 0.02 & 1.93 & \textit{Average} (129), \textit{Mathematics} (50), Curiosities (49) \\
+Experts & 26 & 38 & 0.04 & 1.88 & \textit{Statistics} (25), \textit{Mathematics} (5), \textit{Number} (5) \\
+H-S South & 29 & 59 & 0.08 & 1.85 & \textit{Statistics} (28), \textit{Mathematics} (12) \\
+H-Anx H-S & 37 & 68 & 0.05 & 1.90 & \textit{Statistics} (36), Analysis (12) \\
+L-Anx H-S & 41 & 91 & 0.07 & 1.89 & \textit{Statistics} (40), Analysis (14), \textit{Mathematics} (12) \\
+GPT H-Anx H-S & 15 & 16 & 0.02 & 1.85 & \textit{Statistics} (14) \\
+GPT L-Anx H-S & 23 & 25 & 0.01 & 1.90 & \textit{Statistics} (22), \textit{Average} (4) \\
+Physics & 28 & 49 & 0.06 & 1.87 & \textit{Statistics} (27), \textit{Data} (9) \\
+GPT Physics & 12 & 11 & 0.00 & 1.83 & \textit{Statistics} (11) \\
+H-Anx Psy & 150 & 576 & 0.04 & 1.95 & \textit{Statistics} (149), \textit{Mathematics} (48), \textit{Graphic} (32), \textit{Numbers} (32), \textit{Challenge} (31), \textit{Anxiety} (31), \textit{Model} (28), \textit{Psychology} (26), IT (26), \textit{University} (26) \\
+L-Anx Psy & 154 & 469 & 0.03 & 1.96 & \textit{Statistics} (153), \textit{Mathematics} (48), \textit{Physics} (33), \textit{Numbers} (28), \textit{Graphic} (27), \textit{Model} (24), \textit{University} (24), \textit{Exam} (23) \\
+GPT H-Anx Psy & 48 & 68 & 0.02 & 1.94 & \textit{Statistics} (47), \textit{Average} (11), \textit{Mathematics} (6) \\
+GPT L-Anx Psy & 44 & 63 & 0.02 & 1.93 & \textit{Statistics} (43), \textit{Average} (12), \textit{Mathematics} (7) \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -51,74 +51,24 @@ GPT L-Anx Psy & 44 & 63 & 0.02 & 1.93 & \textit{Average} (129), \textit{Mathemat
 \begin{table}[!hbpt]
 \footnotesize
 \centering
-\caption{Network features for the semantic frame of \textit{Physics}.}
-\label{tab:network_features_physics}
-\begin{tabular}{lccccl}
-\toprule
-Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs \\
-\midrule
-Experts & 55 & 108 & 0.04 & 1.93 & \textit{Science} (65), \textit{Physics} (54), \textit{University} (47), \textit{Mathematics} (47) \\
-H-S South & 114 & 435 & 0.05 & 1.93 & \textit{Physics} (113), \textit{Mathematics} (100), Time (79), \textit{School} (77), System (63), \textit{Science} (63) \\
-H-Anx H-S & 63 & 157 & 0.05 & 1.92 & \textit{Anxiety} (74), \textit{School} (74), \textit{Mathematics} (72), Life (70) \\
-L-Anx H-S & 65 & 158 & 0.05 & 1.92 & \textit{Physics} (64), \textit{Future} (62), \textit{Mathematics} (62), \textit{School} (61) \\
-GPT H-Anx H-S & 25 & 28 & 0.01 & 1.91 & \textit{University} (24), \textit{Physics} (24), \textit{Mathematics} (24) \\
-GPT L-Anx H-S & 23 & 23 & 0.00 & 1.91 & Curiosities (23), \textit{Physics} (22) \\
-Physics & 31 & 58 & 0.06 & 1.88 & \textit{Physics} (30), \textit{Discovery} (28), \textit{Scientist} (28), \textit{Laboratory} (28) \\
-GPT Physics & 17 & 17 & 0.01 & 1.88 & \textit{Physics} (16) \\
-H-Anx Psy & 183 & 655 & 0.03 & 1.96 & \textit{Anxiety} (252), \textit{Challenge} (209), \textit{Teacher} (196), Work (190), Curiosities (184), \textit{Physics} (182), \textit{Model} (181), \textit{Mathematics} (179), \textit{Professor} (170), \textit{School} (163) \\
-L-Anx Psy & 202 & 709 & 0.03 & 1.97 & \textit{Anxiety} (222), \textit{Challenge} (202), \textit{Physics} (201), \textit{Mathematics} (194), Curiosities (194), \textit{Science} (176), \textit{Model} (172), \textit{Professor} (171), \textit{University} (162), \textit{School} (160), \textit{Stress} (160) \\
-GPT H-Anx Psy & 62 & 95 & 0.02 & 1.95 & \textit{Equation} (68), \textit{Physics} (61), \textit{University} (50), \textit{Mathematics} (48) \\
-GPT L-Anx Psy & 67 & 86 & 0.01 & 1.96 & \textit{Equation} (77), \textit{Physics} (66), \textit{University} (52), \textit{Science} (52) \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of \textit{Science}.}
-\label{tab:network_features_science}
-\begin{tabular}{lccccl}
-\toprule
-Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs \\
-\midrule
-Experts & 66 & 156 & 0.04 & 1.93 & \textit{Science} (65), \textit{Physics} (54), Systems (53), \textit{School} (51) \\
-H-S South & 64 & 242 & 0.09 & 1.88 & \textit{Physics} (113), \textit{Mathematics} (100), \textit{Science} (63), System (63) \\
-H-Anx H-S & 48 & 110 & 0.06 & 1.90 & \textit{School} (74), \textit{Mathematics} (72), \textit{Discovery} (66) \\
-L-Anx H-S & 56 & 162 & 0.07 & 1.89 & \textit{Physics} (64), \textit{Experiment} (59), Search (59) \\
-GPT H-Anx H-S & 23 & 30 & 0.03 & 1.88 & \textit{University} (24), \textit{Physics} (24) \\
-GPT L-Anx H-S & 22 & 24 & 0.01 & 1.90 & \textit{Physics} (22), \textit{Statistics} (22) \\
-Physics & 28 & 60 & 0.09 & 1.84 & \textit{Physics} (30), \textit{Discovery} (28), \textit{Scientist} (28), \textit{Laboratory} (28) \\
-GPT Physics & 16 & 17 & 0.02 & 1.86 & Tests (17) \\
-H-Anx Psy & 146 & 741 & 0.06 & 1.93 & \textit{Anxiety} (252), Curiosities (184), \textit{Physics} (182), \textit{Mathematics} (179), \textit{Professor} (170), \textit{School} (163), \textit{University} (154), \textit{Numbers} (151) \\
-L-Anx Psy & 177 & 774 & 0.04 & 1.95 & \textit{Anxiety} (222), \textit{Physics} (201), Behavior (199), \textit{Mathematics} (194), Curiosities (194), \textit{Science} (176), \textit{Model} (172), \textit{Emotion} (155), \textit{Future} (155) \\
-GPT H-Anx Psy & 43 & 70 & 0.03 & 1.92 & \textit{Physics} (61), \textit{University} (50), \textit{Statistics} (47) \\
-GPT L-Anx Psy & 53 & 110 & 0.04 & 1.92 & \textit{Scientist} (70), \textit{Physics} (66), Try (65) \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of \textit{Computer science}.}
+\caption{Network features for the semantic frame of \textit{\textbf{Computer science}}. For each hub, its degree is reported in parentheses. The italicised hubs are part of the cue words.}
 \label{tab:network_features_computer science}
-\begin{tabular}{lccccl}
+\begin{tabular}{lccccp{9cm}}
 \toprule
-Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs \\
+Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs (top 5\% of degree distribution) \\
 \midrule
-Experts & 27 & 40 & 0.04 & 1.89 & \textit{Science} (65), Systems (53) \\
-H-S South & 16 & 31 & 0.15 & 1.74 & \textit{Program} (62) \\
-H-Anx H-S & 51 & 90 & 0.03 & 1.93 & \textit{Anxiety} (74), \textit{School} (74), \textit{Future} (62) \\
-L-Anx H-S & 45 & 83 & 0.04 & 1.92 & \textit{Future} (62), \textit{School} (61), \textit{Data} (58) \\
+Experts & 27 & 40 & 0.04 & 1.89 & Computers (26), \textit{Science} (7) \\
+H-S South & 16 & 31 & 0.15 & 1.74 & IT (15) \\
+H-Anx H-S & 51 & 90 & 0.03 & 1.93 & IT (50), \textit{Programming} (14), \textit{Innovation} (8), \textit{Future} (8) \\
+L-Anx H-S & 45 & 83 & 0.04 & 1.92 & IT (44), \textit{Programming} (12), \textit{Laboratory} (8) \\
 GPT H-Anx H-S & 19 & 18 & 0.00 & 1.89 & IT (18) \\
-GPT L-Anx H-S & 22 & 23 & 0.01 & 1.90 & IT (21), \textit{Creativity} (18) \\
-Physics & 23 & 31 & 0.04 & 1.88 & \textit{Fear} (28), \textit{Science} (27) \\
+GPT L-Anx H-S & 22 & 23 & 0.01 & 1.90 & IT (21), \textit{Innovation} (3) \\
+Physics & 23 & 31 & 0.04 & 1.88 & IT (22), \textit{Programming} (5), \textit{Data} (5) \\
 GPT Physics & 13 & 12 & 0.00 & 1.85 & IT (12) \\
-H-Anx Psy & 65 & 270 & 0.10 & 1.87 & \textit{Anxiety} (252), \textit{Challenge} (209), Work (190), \textit{Mathematics} (179) \\
-L-Anx Psy & 69 & 241 & 0.08 & 1.90 & \textit{Mathematics} (194), \textit{Science} (176), \textit{Professor} (171), \textit{University} (162) \\
-GPT H-Anx Psy & 47 & 51 & 0.00 & 1.95 & IT (46), \textit{Creativity} (27), \textit{Innovation} (27) \\
-GPT L-Anx Psy & 55 & 60 & 0.00 & 1.96 & \textit{Fun} (55), IT (54), \textit{Creativity} (32) \\
+H-Anx Psy & 65 & 270 & 0.10 & 1.87 & IT (64), \textit{Mathematics} (29), \textit{Statistics} (26), \textit{Technology} (23) \\
+L-Anx Psy & 69 & 241 & 0.08 & 1.90 & IT (68), \textit{Mathematics} (27), \textit{Technology} (22), \textit{Statistics} (22) \\
+GPT H-Anx Psy & 47 & 51 & 0.00 & 1.95 & IT (46), \textit{Innovation} (5), \textit{Creativity} (3) \\
+GPT L-Anx Psy & 55 & 60 & 0.00 & 1.96 & IT (54), \textit{Creativity} (4), \textit{Innovation} (4) \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -126,24 +76,74 @@ GPT L-Anx Psy & 55 & 60 & 0.00 & 1.96 & \textit{Fun} (55), IT (54), \textit{Crea
 \begin{table}[!hbpt]
 \footnotesize
 \centering
-\caption{Network features for the semantic frame of \textit{Research}.}
+\caption{Network features for the semantic frame of \textit{\textbf{Physics}}. For each hub, its degree is reported in parentheses. The italicised hubs are part of the cue words.}
+\label{tab:network_features_physics}
+\begin{tabular}{lccccp{9cm}}
+\toprule
+Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs (top 5\% of degree distribution) \\
+\midrule
+Experts & 55 & 108 & 0.04 & 1.93 & \textit{Physics} (54), \textit{Science} (15), \textit{Mathematics} (11) \\
+H-S South & 114 & 435 & 0.05 & 1.93 & \textit{Physics} (113), \textit{Mathematics} (32), \textit{Science} (24), Physical (18), \textit{School} (18), Come on (17), Electron (17) \\
+H-Anx H-S & 63 & 157 & 0.05 & 1.92 & \textit{Physics} (62), \textit{Mathematics} (20), \textit{Laboratory} (13), \textit{Experiment} (12), \textit{Research} (12) \\
+L-Anx H-S & 65 & 158 & 0.05 & 1.92 & \textit{Physics} (64), \textit{Mathematics} (18), \textit{Science} (15), \textit{Research} (14) \\
+GPT H-Anx H-S & 25 & 28 & 0.01 & 1.91 & \textit{Physics} (24), \textit{Science} (4) \\
+GPT L-Anx H-S & 23 & 23 & 0.00 & 1.91 & \textit{Physics} (22), Theory (2), \textit{Science} (2) \\
+Physics & 31 & 58 & 0.06 & 1.88 & \textit{Physics} (30), \textit{Science} (9) \\
+GPT Physics & 17 & 17 & 0.01 & 1.88 & \textit{Physics} (16) \\
+H-Anx Psy & 183 & 655 & 0.03 & 1.96 & \textit{Physics} (182), \textit{Mathematics} (52), \textit{Science} (45), \textit{Equation} (34), \textit{Biology} (33), \textit{Anxiety} (33), \textit{Numbers} (32), \textit{Challenge} (29), \textit{School} (28), \textit{Knowledge} (25), \textit{Study} (25), \textit{Teacher} (25) \\
+L-Anx Psy & 202 & 709 & 0.03 & 1.97 & \textit{Physics} (201), \textit{Mathematics} (54), \textit{Science} (46), \textit{Statistics} (33), \textit{School} (32), \textit{Equation} (31), \textit{Mind} (30), \textit{University} (28), \textit{Numbers} (27), \textit{Professor} (27), \textit{Anxiety} (27) \\
+GPT H-Anx Psy & 62 & 95 & 0.02 & 1.95 & \textit{Physics} (61), \textit{Mathematics} (10), \textit{Science} (7), \textit{Equation} (7) \\
+GPT L-Anx Psy & 67 & 86 & 0.01 & 1.96 & \textit{Physics} (66), \textit{Science} (9), \textit{Knowledge} (5), \textit{Curiosity} (5), \textit{University} (5), \textit{Equation} (5) \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[!hbpt]
+\footnotesize
+\centering
+\caption{Network features for the semantic frame of \textit{\textbf{Science}}. For each hub, its degree is reported in parentheses. The italicised hubs are part of the cue words.}
+\label{tab:network_features_science}
+\begin{tabular}{lccccp{9cm}}
+\toprule
+Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs (top 5\% of degree distribution) \\
+\midrule
+Experts & 66 & 156 & 0.04 & 1.93 & \textit{Science} (65), \textit{Physics} (15), System (12), \textit{Complex} (11) \\
+H-S South & 64 & 242 & 0.09 & 1.88 & \textit{Science} (63), \textit{Physics} (24), \textit{Biology} (18), Study (17), \textit{Mathematics} (17) \\
+H-Anx H-S & 48 & 110 & 0.06 & 1.90 & \textit{Science} (47), \textit{Scientist} (14), \textit{Discovery} (14) \\
+L-Anx H-S & 56 & 162 & 0.07 & 1.89 & \textit{Science} (55), \textit{Research} (20), \textit{Scientist} (17) \\
+GPT H-Anx H-S & 23 & 30 & 0.03 & 1.88 & \textit{Science} (22), \textit{University} (5) \\
+GPT L-Anx H-S & 22 & 24 & 0.01 & 1.90 & \textit{Science} (21), \textit{Innovation} (3) \\
+Physics & 28 & 60 & 0.09 & 1.84 & \textit{Science} (27), \textit{Research} (11) \\
+GPT Physics & 16 & 17 & 0.02 & 1.86 & \textit{Science} (15) \\
+H-Anx Psy & 146 & 741 & 0.06 & 1.93 & \textit{Science} (145), \textit{Physics} (45), \textit{Biology} (44), \textit{Psychology} (40), \textit{Knowledge} (40), \textit{Mathematics} (37), \textit{Neuroscience} (37), \textit{Curiosity} (34) \\
+L-Anx Psy & 177 & 774 & 0.04 & 1.95 & \textit{Science} (176), \textit{Physics} (46), \textit{Discovery} (42), \textit{Curiosity} (41), \textit{Biology} (41), \textit{Mathematics} (40), \textit{Psychology} (39), \textit{Neuroscience} (33), \textit{Knowledge} (32) \\
+GPT H-Anx Psy & 43 & 70 & 0.03 & 1.92 & \textit{Science} (42), \textit{Curiosity} (9), \textit{Physics} (7) \\
+GPT L-Anx Psy & 53 & 110 & 0.04 & 1.92 & \textit{Science} (52), \textit{Scientist} (22), Try it (10) \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[!hbpt]
+\footnotesize
+\centering
+\caption{Network features for the semantic frame of \textit{\textbf{Research}}. For each hub, its degree is reported in parentheses. The italicised hubs are part of the cue words.}
 \label{tab:network_features_research}
-\begin{tabular}{lccccl}
+\begin{tabular}{lccccp{9cm}}
 \toprule
-Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs \\
+Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs (top 5\% of degree distribution) \\
 \midrule
-Experts & 15 & 24 & 0.11 & 1.77 & \textit{Science} (65) \\
-H-S South & 13 & 25 & 0.20 & 1.68 & Domain (58) \\
-H-Anx H-S & 65 & 168 & 0.05 & 1.92 & \textit{School} (74), \textit{Discovery} (66), Search (64), \textit{Physics} (62) \\
-L-Anx H-S & 60 & 189 & 0.08 & 1.89 & \textit{Physics} (64), \textit{School} (61), \textit{Experiment} (59), Search (59) \\
-GPT H-Anx H-S & 11 & 13 & 0.07 & 1.76 & Degree (28) \\
-GPT L-Anx H-S & 12 & 14 & 0.05 & 1.79 & Medium (42) \\
-Physics & 27 & 55 & 0.09 & 1.84 & \textit{Physics} (30), \textit{Discovery} (28), \textit{Scientist} (28), \textit{Laboratory} (28) \\
-GPT Physics & 7 & 6 & 0.00 & 1.71 & \textit{Science} (15) \\
-H-Anx Psy & 40 & 208 & 0.23 & 1.73 & Curiosities (184), \textit{Model} (181) \\
-L-Anx Psy & 52 & 245 & 0.15 & 1.82 & \textit{Anxiety} (222), \textit{Teacher} (202), Behavior (199) \\
-GPT H-Anx Psy & 16 & 31 & 0.15 & 1.74 & \textit{Average} (104) \\
-GPT L-Anx Psy & 18 & 33 & 0.12 & 1.78 & \textit{Average} (129) \\
+Experts & 15 & 24 & 0.11 & 1.77 & Research (14) \\
+H-S South & 13 & 25 & 0.20 & 1.68 & Research (12) \\
+H-Anx H-S & 65 & 168 & 0.05 & 1.92 & \textit{Research} (64), \textit{Discovery} (23), \textit{Scientist} (15), \textit{Laboratory} (13) \\
+L-Anx H-S & 60 & 189 & 0.08 & 1.89 & \textit{Research} (59), \textit{Science} (20), \textit{Laboratory} (17) \\
+GPT H-Anx H-S & 11 & 13 & 0.07 & 1.76 & \textit{Research} (10) \\
+GPT L-Anx H-S & 12 & 14 & 0.05 & 1.79 & \textit{Research} (11) \\
+Physics & 27 & 55 & 0.09 & 1.84 & \textit{Research} (26), \textit{Science} (11) \\
+GPT Physics & 7 & 6 & 0.00 & 1.71 & \textit{Research} (6) \\
+H-Anx Psy & 40 & 208 & 0.23 & 1.73 & \textit{Research} (39), \textit{Science} (22) \\
+L-Anx Psy & 52 & 245 & 0.15 & 1.82 & \textit{Research} (51), \textit{Science} (25), \textit{Curiosity} (22), \textit{Study} (22) \\
+GPT H-Anx Psy & 16 & 31 & 0.15 & 1.74 & \textit{Research} (15) \\
+GPT L-Anx Psy & 18 & 33 & 0.12 & 1.78 & \textit{Research} (17) \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -151,24 +151,24 @@ GPT L-Anx Psy & 18 & 33 & 0.12 & 1.78 & \textit{Average} (129) \\
 \begin{table}[!hbpt]
 \footnotesize
 \centering
-\caption{Network features for the semantic frame of \textit{Exam}.}
+\caption{Network features for the semantic frame of \textit{\textbf{Exam}}. For each hub, its degree is reported in parentheses. The italicised hubs are part of the cue words.}
 \label{tab:network_features_exam}
-\begin{tabular}{lccccl}
+\begin{tabular}{lccccp{9cm}}
 \toprule
-Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs \\
+Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs (top 5\% of degree distribution) \\
 \midrule
-Experts & 9 & 15 & 0.25 & 1.58 & \textit{School} (51) \\
-H-S South & 41 & 83 & 0.06 & 1.90 & \textit{School} (77), \textit{Program} (62), Chemistry (54) \\
-H-Anx H-S & 49 & 92 & 0.04 & 1.92 & \textit{Anxiety} (74), \textit{School} (74), \textit{Stress} (63) \\
-L-Anx H-S & 46 & 93 & 0.05 & 1.91 & \textit{Challenge} (68), \textit{Mathematics} (62), \textit{Data} (58) \\
-GPT H-Anx H-S & 15 & 21 & 0.08 & 1.80 & Try (26) \\
-GPT L-Anx H-S & 14 & 20 & 0.09 & 1.78 & Try (26) \\
-Physics & 25 & 44 & 0.07 & 1.85 & \textit{Anxiety} (30), \textit{Physics} (30) \\
-GPT Physics & 11 & 12 & 0.04 & 1.78 & Try (13) \\
-H-Anx Psy & 156 & 903 & 0.06 & 1.93 & \textit{Anxiety} (252), \textit{Challenge} (209), \textit{Teacher} (196), Work (190), \textit{Mathematics} (179), \textit{Personality} (173), \textit{Professor} (170), \textit{School} (163) \\
-L-Anx Psy & 157 & 832 & 0.06 & 1.93 & \textit{Anxiety} (222), \textit{Teacher} (202), \textit{Challenge} (202), \textit{Physics} (201), \textit{Mathematics} (194), Work (192), \textit{Professor} (171), \textit{University} (162) \\
-GPT H-Anx Psy & 38 & 91 & 0.08 & 1.87 & Tests (67), Try (65) \\
-GPT L-Anx Psy & 41 & 88 & 0.06 & 1.89 & Tests (76), \textit{Physics} (66), Try (65) \\
+Experts & 9 & 15 & 0.25 & 1.58 & Exam (8) \\
+H-S South & 41 & 83 & 0.06 & 1.90 & Exam (40), Tests (12), Study (8), Vote (8), Graduated (8) \\
+H-Anx H-S & 49 & 92 & 0.04 & 1.92 & \textit{Exam} (48), \textit{Vote} (13), \textit{School} (12) \\
+L-Anx H-S & 46 & 93 & 0.05 & 1.91 & \textit{Exam} (45), Analysis (10), \textit{Mathematics} (10) \\
+GPT H-Anx H-S & 15 & 21 & 0.08 & 1.80 & \textit{Exam} (14) \\
+GPT L-Anx H-S & 14 & 20 & 0.09 & 1.78 & \textit{Exam} (13) \\
+Physics & 25 & 44 & 0.07 & 1.85 & \textit{Exam} (24), \textit{Anxiety} (8) \\
+GPT Physics & 11 & 12 & 0.04 & 1.78 & \textit{Exam} (10) \\
+H-Anx Psy & 156 & 903 & 0.06 & 1.93 & \textit{Exam} (155), \textit{Task} (52), \textit{Anxiety} (51), \textit{Challenge} (49), \textit{University} (47), Work (43), \textit{School} (43), \textit{Mathematics} (41) \\
+L-Anx Psy & 157 & 832 & 0.06 & 1.93 & \textit{Exam} (156), \textit{University} (55), \textit{Task} (47), \textit{Anxiety} (47), \textit{Challenge} (41), \textit{School} (41), Work (38), \textit{Exercise} (38), \textit{Vote} (38) \\
+GPT H-Anx Psy & 38 & 91 & 0.08 & 1.87 & \textit{Exam} (37), Tests (19) \\
+GPT L-Anx Psy & 41 & 88 & 0.06 & 1.89 & \textit{Exam} (40), Tests (18), Try it (16) \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -176,19 +176,19 @@ GPT L-Anx Psy & 41 & 88 & 0.06 & 1.89 & Tests (76), \textit{Physics} (66), Try (
 \begin{table}[!hbpt]
 \footnotesize
 \centering
-\caption{Network features for the semantic frame of \textit{Grade}.}
+\caption{Network features for the semantic frame of \textit{\textbf{Grade}}. For each hub, its degree is reported in parentheses. The italicised hubs are part of the cue words.}
 \label{tab:network_features_grade}
-\begin{tabular}{lccccl}
+\begin{tabular}{lccccp{9cm}}
 \toprule
-Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs \\
+Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs (top 5\% of degree distribution) \\
 \midrule
-Experts & 7 & 7 & 0.07 & 1.67 & Good (13) \\
-H-S South & 35 & 78 & 0.08 & 1.87 & \textit{Mathematics} (100), \textit{School} (77) \\
-H-Anx H-S & 59 & 110 & 0.03 & 1.94 & \textit{Anxiety} (74), \textit{School} (74), \textit{Stress} (63) \\
-L-Anx H-S & 47 & 68 & 0.02 & 1.94 & \textit{Future} (62), \textit{School} (61), \textit{Failure} (54) \\
-Physics & 22 & 29 & 0.04 & 1.87 & \textit{Anxiety} (30), Exam (24), \textit{Future} (24) \\
-H-Anx Psy & 114 & 506 & 0.06 & 1.92 & \textit{Anxiety} (252), Behavior (198), \textit{Teacher} (196), \textit{Physics} (182), \textit{School} (163), Exam (155) \\
-L-Anx Psy & 125 & 464 & 0.04 & 1.94 & \textit{Anxiety} (222), \textit{Teacher} (202), \textit{Challenge} (202), \textit{Physics} (201), \textit{Mathematics} (194), \textit{Personality} (186), \textit{Professor} (171) \\
+Experts & 7 & 7 & 0.07 & 1.67 & Grade (6) \\
+H-S South & 35 & 78 & 0.08 & 1.87 & Vote (34), \textit{Mathematics} (10) \\
+H-Anx H-S & 59 & 110 & 0.03 & 1.94 & \textit{Vote} (58), \textit{Anxiety} (14), \textit{Exam} (13) \\
+L-Anx H-S & 47 & 68 & 0.02 & 1.94 & \textit{Vote} (46), \textit{Anxiety} (9), \textit{Future} (8) \\
+Physics & 22 & 29 & 0.04 & 1.87 & \textit{Vote} (21), \textit{Exam} (5), \textit{Anxiety} (5) \\
+H-Anx Psy & 114 & 506 & 0.06 & 1.92 & \textit{Vote} (113), \textit{Anxiety} (41), \textit{Exam} (36), \textit{Task} (33), \textit{School} (29), Degree (28) \\
+L-Anx Psy & 125 & 464 & 0.04 & 1.94 & \textit{Vote} (124), \textit{Exam} (38), \textit{Challenge} (33), \textit{University} (28), \textit{Anxiety} (28), \textit{Exercise} (27), \textit{School} (27) \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -196,23 +196,23 @@ L-Anx Psy & 125 & 464 & 0.04 & 1.94 & \textit{Anxiety} (222), \textit{Teacher} (
 \begin{table}[!hbpt]
 \footnotesize
 \centering
-\caption{Network features for the semantic frame of \textit{Professor}.}
+\caption{Network features for the semantic frame of \textit{\textbf{Professor}}. For each hub, its degree is reported in parentheses. The italicised hubs are part of the cue words.}
 \label{tab:network_features_professor}
-\begin{tabular}{lccccl}
+\begin{tabular}{lccccp{9cm}}
 \toprule
-Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs \\
+Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs (top 5\% of degree distribution) \\
 \midrule
-Experts & 4 & 3 & 0.00 & 1.50 & Scientific (26) \\
-H-S South & 17 & 30 & 0.12 & 1.78 & \textit{Physics} (113) \\
-H-Anx H-S & 3 & 2 & 0.00 & 1.33 & \textit{Physics} (62) \\
-L-Anx H-S & 2 & 1 & 0.00 & 1.00 & \textit{Teacher} (54) \\
-GPT H-Anx H-S & 17 & 22 & 0.05 & 1.84 & \textit{Teacher} (31) \\
-GPT L-Anx H-S & 14 & 15 & 0.03 & 1.84 & \textit{Teacher} (35) \\
-GPT Physics & 9 & 9 & 0.04 & 1.75 & \textit{Teacher} (16) \\
-H-Anx Psy & 171 & 610 & 0.03 & 1.96 & \textit{Anxiety} (252), \textit{Teacher} (196), Work (190), \textit{Physics} (182), \textit{Model} (181), \textit{Mathematics} (179), \textit{Professor} (170), \textit{School} (163), Exam (155) \\
-L-Anx Psy & 172 & 729 & 0.04 & 1.95 & \textit{Anxiety} (222), \textit{Teacher} (202), \textit{Challenge} (202), \textit{Physics} (201), \textit{Mathematics} (194), Work (192), \textit{Model} (172), \textit{Professor} (171), \textit{University} (162) \\
-GPT H-Anx Psy & 33 & 57 & 0.05 & 1.89 & \textit{Development} (71), \textit{Teacher} (64) \\
-GPT L-Anx Psy & 35 & 48 & 0.02 & 1.92 & \textit{Teacher} (68), \textit{University} (52) \\
+Experts & 4 & 3 & 0.00 & 1.50 & Professor (3) \\
+H-S South & 17 & 30 & 0.12 & 1.78 & Professor (16) \\
+H-Anx H-S & 3 & 2 & 0.00 & 1.33 & Professor (2) \\
+L-Anx H-S & 2 & 1 & 0.00 & 1.00 & Professor (1), \textit{Teacher} (1) \\
+GPT H-Anx H-S & 17 & 22 & 0.05 & 1.84 & \textit{Professor} (16) \\
+GPT L-Anx H-S & 14 & 15 & 0.03 & 1.84 & \textit{Professor} (13) \\
+GPT Physics & 9 & 9 & 0.04 & 1.75 & \textit{Professor} (8) \\
+H-Anx Psy & 171 & 610 & 0.03 & 1.96 & \textit{Professor} (170), \textit{Teacher} (81), \textit{School} (41), \textit{Mathematics} (32), \textit{Exam} (29), \textit{Anxiety} (28), Work (27), \textit{University} (27), \textit{Psychology} (26), \textit{Knowledge} (26) \\
+L-Anx Psy & 172 & 729 & 0.04 & 1.95 & \textit{Professor} (171), \textit{Teacher} (90), \textit{School} (51), \textit{University} (45), Work (36), \textit{Exam} (35), \textit{Mathematics} (35), \textit{Student} (32), \textit{Study} (30) \\
+GPT H-Anx Psy & 33 & 57 & 0.05 & 1.89 & \textit{Professor} (32), \textit{Teacher} (17) \\
+GPT L-Anx Psy & 35 & 48 & 0.02 & 1.92 & \textit{Professor} (34), \textit{Teacher} (11) \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -220,24 +220,24 @@ GPT L-Anx Psy & 35 & 48 & 0.02 & 1.92 & \textit{Teacher} (68), \textit{Universit
 \begin{table}[!hbpt]
 \footnotesize
 \centering
-\caption{Network features for the semantic frame of \textit{Teacher}.}
+\caption{Network features for the semantic frame of \textit{\textbf{Teacher}}. For each hub, its degree is reported in parentheses. The italicised hubs are part of the cue words.}
 \label{tab:network_features_teacher}
-\begin{tabular}{lccccl}
+\begin{tabular}{lccccp{9cm}}
 \toprule
-Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs \\
+Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs (top 5\% of degree distribution) \\
 \midrule
-Experts & 16 & 27 & 0.11 & 1.77 & \textit{School} (51) \\
-H-S South & 62 & 159 & 0.05 & 1.92 & \textit{Physics} (113), \textit{Mathematics} (100), \textit{School} (77), \textit{Art} (67) \\
-H-Anx H-S & 2 & 1 & 0.00 & 1.00 & \textit{Teacher} (58) \\
-L-Anx H-S & 2 & 1 & 0.00 & 1.00 & \textit{Teacher} (54) \\
-GPT H-Anx H-S & 32 & 37 & 0.01 & 1.93 & \textit{Teacher} (31), \textit{Passion} (19) \\
-GPT L-Anx H-S & 36 & 40 & 0.01 & 1.94 & \textit{Teacher} (35), Curiosities (23) \\
-Physics & 2 & 1 & 0.00 & 1.00 & \textit{Teacher} (26) \\
+Experts & 16 & 27 & 0.11 & 1.77 & Teacher (15) \\
+H-S South & 62 & 159 & 0.05 & 1.92 & Teacher (61), \textit{School} (23), \textit{Student} (16), Classroom (12) \\
+H-Anx H-S & 2 & 1 & 0.00 & 1.00 & \textit{Teacher} (1), \textit{Teacher} (1) \\
+L-Anx H-S & 2 & 1 & 0.00 & 1.00 & \textit{Teacher} (1), \textit{Teacher} (1) \\
+GPT H-Anx H-S & 32 & 37 & 0.01 & 1.93 & \textit{Teacher} (31), \textit{Professor} (6) \\
+GPT L-Anx H-S & 36 & 40 & 0.01 & 1.94 & \textit{Teacher} (35), \textit{Knowledge} (3), \textit{Curiosity} (3), \textit{Professor} (3) \\
+Physics & 2 & 1 & 0.00 & 1.00 & \textit{Teacher} (1), \textit{Teacher} (1) \\
 GPT Physics & 17 & 17 & 0.01 & 1.88 & \textit{Teacher} (16) \\
-H-Anx Psy & 197 & 667 & 0.02 & 1.97 & \textit{Anxiety} (252), \textit{Teacher} (196), Work (190), \textit{Physics} (182), \textit{Model} (181), \textit{Mathematics} (179), \textit{Professor} (170), \textit{School} (163), Exam (155), \textit{University} (154) \\
-L-Anx Psy & 203 & 628 & 0.02 & 1.97 & \textit{Teacher} (202), \textit{Mathematics} (194), Work (192), \textit{Model} (172), \textit{Professor} (171), \textit{University} (162), \textit{School} (160), \textit{Stress} (160), Exam (156), \textit{Future} (155), \textit{Boredom} (147) \\
-GPT H-Anx Psy & 65 & 93 & 0.01 & 1.96 & \textit{Development} (71), \textit{Teacher} (64), \textit{Psychology} (56), Curiosities (41) \\
-GPT L-Anx Psy & 69 & 86 & 0.01 & 1.96 & \textit{Development} (76), \textit{Teacher} (68), Curiosities (49), \textit{Passion} (40) \\
+H-Anx Psy & 197 & 667 & 0.02 & 1.97 & \textit{Teacher} (196), \textit{Professor} (81), \textit{School} (47), \textit{Mathematics} (32), \textit{Task} (31), \textit{University} (31), \textit{Knowledge} (30), Work (29), \textit{Anxiety} (29), \textit{Exam} (26) \\
+L-Anx Psy & 203 & 628 & 0.02 & 1.97 & \textit{Teacher} (202), \textit{Professor} (90), \textit{School} (52), \textit{University} (38), \textit{Exam} (33), \textit{Knowledge} (32), Work (31), \textit{Mathematics} (28), Degree (25), \textit{Know} (22), \textit{Study} (20) \\
+GPT H-Anx Psy & 65 & 93 & 0.01 & 1.96 & \textit{Teacher} (64), \textit{Professor} (17), \textit{Development} (8), \textit{Psychology} (6) \\
+GPT L-Anx Psy & 69 & 86 & 0.01 & 1.96 & \textit{Teacher} (68), \textit{Professor} (11), \textit{Development} (5), \textit{Curiosity} (4) \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -245,13 +245,13 @@ GPT L-Anx Psy & 69 & 86 & 0.01 & 1.96 & \textit{Development} (76), \textit{Teach
 \begin{table}[!hbpt]
 \footnotesize
 \centering
-\caption{Network features for the semantic frame of \textit{Scientist}.}
+\caption{Network features for the semantic frame of \textit{\textbf{Scientist}}. For each hub, its degree is reported in parentheses. The italicised hubs are part of the cue words.}
 \label{tab:network_features_scientist}
-\begin{tabular}{lccccl}
+\begin{tabular}{lccccp{9cm}}
 \toprule
-Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs \\
+Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs (top 5\% of degree distribution) \\
 \midrule
-Experts & 10 & 9 & 0.00 & 1.80 & \textit{Science} (65) \\
+Experts & 10 & 9 & 0.00 & 1.80 & Scientist (9) \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -259,97 +259,23 @@ Experts & 10 & 9 & 0.00 & 1.80 & \textit{Science} (65) \\
 \begin{table}[!hbpt]
 \footnotesize
 \centering
-\caption{Network features for the semantic frame of \textit{School}.}
-\label{tab:network_features_school}
-\begin{tabular}{lccccl}
-\toprule
-Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs \\
-\midrule
-Experts & 52 & 101 & 0.04 & 1.92 & \textit{Science} (65), \textit{School} (51), \textit{University} (47), \textit{Mathematics} (47) \\
-H-S South & 78 & 255 & 0.06 & 1.92 & \textit{Physics} (113), \textit{Mathematics} (100), \textit{School} (77), \textit{Art} (67) \\
-H-Anx H-S & 75 & 219 & 0.05 & 1.92 & \textit{Anxiety} (74), \textit{School} (74), \textit{Mathematics} (72), \textit{Discovery} (66) \\
-L-Anx H-S & 62 & 128 & 0.04 & 1.93 & \textit{Physics} (64), \textit{Mathematics} (62), \textit{School} (61), Search (59) \\
-GPT H-Anx H-S & 3 & 2 & 0.00 & 1.33 & Medium (37) \\
-GPT L-Anx H-S & 2 & 1 & 0.00 & 1.00 & Medium (42) \\
-Physics & 26 & 27 & 0.01 & 1.92 & \textit{Stress} (28), \textit{Teacher} (26) \\
-H-Anx Psy & 164 & 888 & 0.05 & 1.93 & \textit{Anxiety} (252), \textit{Challenge} (209), \textit{Teacher} (196), Work (190), \textit{Physics} (182), \textit{Mathematics} (179), \textit{Professor} (170), \textit{School} (163), Exam (155) \\
-L-Anx Psy & 161 & 865 & 0.06 & 1.93 & \textit{Anxiety} (222), \textit{Teacher} (202), \textit{Challenge} (202), \textit{Physics} (201), \textit{Mathematics} (194), Work (192), \textit{Professor} (171), \textit{University} (162), \textit{School} (160), \textit{Stress} (160) \\
-GPT H-Anx Psy & 3 & 3 & 1.00 & 1.00 & Tests (67) \\
-GPT L-Anx Psy & 4 & 3 & 0.00 & 1.50 & \textit{Average} (129) \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of \textit{University}.}
-\label{tab:network_features_university}
-\begin{tabular}{lccccl}
-\toprule
-Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs \\
-\midrule
-Experts & 48 & 93 & 0.04 & 1.92 & \textit{Science} (65), \textit{Physics} (54), \textit{School} (51) \\
-H-S South & 36 & 110 & 0.13 & 1.83 & \textit{Physics} (113), Self organization (61) \\
-H-Anx H-S & 8 & 14 & 0.33 & 1.50 & \textit{Anxiety} (74) \\
-L-Anx H-S & 10 & 23 & 0.39 & 1.49 & \textit{Physics} (64) \\
-GPT H-Anx H-S & 25 & 35 & 0.04 & 1.88 & Degree (28), \textit{Development} (27) \\
-GPT L-Anx H-S & 20 & 29 & 0.06 & 1.85 & Degree (29) \\
-Physics & 5 & 5 & 0.17 & 1.50 & \textit{Anxiety} (30) \\
-GPT Physics & 11 & 10 & 0.00 & 1.82 & \textit{Physics} (16) \\
-H-Anx Psy & 155 & 863 & 0.06 & 1.93 & \textit{Anxiety} (252), \textit{Challenge} (209), \textit{Teacher} (196), Work (190), Curiosities (184), \textit{Professor} (170), \textit{School} (163), Exam (155) \\
-L-Anx Psy & 163 & 1026 & 0.07 & 1.92 & \textit{Anxiety} (222), \textit{Teacher} (202), \textit{Challenge} (202), \textit{Physics} (201), Behavior (199), \textit{Mathematics} (194), Curiosities (194), Work (192), \textit{Professor} (171) \\
-GPT H-Anx Psy & 51 & 99 & 0.04 & 1.92 & \textit{Average} (104), \textit{Development} (71), Tests (67) \\
-GPT L-Anx Psy & 53 & 75 & 0.02 & 1.95 & \textit{Scientist} (70), \textit{Physics} (66), \textit{Psychology} (56) \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of \textit{Wellbeing}.}
-\label{tab:network_features_wellbeing}
-\begin{tabular}{lccccl}
-\toprule
-Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs \\
-\midrule
-Experts & 11 & 12 & 0.04 & 1.78 & Health (16) \\
-H-S South & 27 & 37 & 0.03 & 1.89 & System (63), Home (43) \\
-H-Anx H-S & 49 & 55 & 0.01 & 1.95 & Life (70), Wellbeing (48), Happiness (8), Social (8) \\
-L-Anx H-S & 49 & 74 & 0.02 & 1.94 & Life (57), \textit{Stress} (55), \textit{Rules} (53) \\
-GPT H-Anx H-S & 18 & 19 & 0.01 & 1.88 & \textit{Psychotherapy} (26) \\
-GPT L-Anx H-S & 14 & 14 & 0.01 & 1.85 & \textit{Psychotherapy} (24) \\
-Physics & 26 & 25 & 0.00 & 1.92 & Wellbeing (25), Time (5) \\
-GPT Physics & 11 & 10 & 0.00 & 1.82 & \textit{Psychotherapy} (15) \\
-H-Anx Psy & 141 & 337 & 0.02 & 1.97 & \textit{Anxiety} (252), \textit{Mind} (150), \textit{Emotion} (148), \textit{Science} (145), Wellbeing (140), \textit{Future} (140), \textit{Psychology} (139), \textit{Therapy} (123) \\
-L-Anx Psy & 148 & 429 & 0.03 & 1.96 & Work (192), \textit{Science} (176), \textit{Stress} (160), \textit{Emotion} (155), \textit{Future} (155), \textit{Mind} (152), Wellbeing (147), \textit{Therapy} (145) \\
-GPT H-Anx Psy & 27 & 45 & 0.06 & 1.87 & \textit{Development} (71), \textit{Psychology} (56) \\
-GPT L-Anx Psy & 31 & 37 & 0.02 & 1.92 & \textit{Development} (76), \textit{Psychology} (56) \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of \textit{Scientist (male)}.}
+\caption{Network features for the semantic frame of \textit{\textbf{Scientist (male)}}. For each hub, its degree is reported in parentheses. The italicised hubs are part of the cue words.}
 \label{tab:network_features_scientist (male)}
-\begin{tabular}{lccccl}
+\begin{tabular}{lccccp{9cm}}
 \toprule
-Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs \\
+Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs (top 5\% of degree distribution) \\
 \midrule
-H-S South & 32 & 98 & 0.14 & 1.80 & \textit{Science} (63), Person (55) \\
-H-Anx H-S & 43 & 130 & 0.10 & 1.86 & \textit{School} (74), \textit{Mathematics} (72), \textit{Discovery} (66) \\
-L-Anx H-S & 46 & 105 & 0.06 & 1.90 & \textit{Experiment} (59), Search (59), \textit{Data} (58) \\
-GPT H-Anx H-S & 28 & 30 & 0.01 & 1.92 & \textit{Scientist} (27), \textit{Passion} (19) \\
-GPT L-Anx H-S & 26 & 30 & 0.02 & 1.91 & \textit{Scientist} (25), Curiosities (23) \\
-Physics & 26 & 41 & 0.05 & 1.87 & \textit{Physics} (30), \textit{Laboratory} (28) \\
-GPT Physics & 12 & 12 & 0.02 & 1.82 & Curiosities (12) \\
-H-Anx Psy & 66 & 157 & 0.04 & 1.93 & Work (190), Curiosities (184), \textit{Physics} (182), \textit{Science} (145) \\
-L-Anx Psy & 60 & 198 & 0.08 & 1.89 & \textit{Physics} (201), Curiosities (194), \textit{Mathematics} (194) \\
-GPT H-Anx Psy & 57 & 76 & 0.01 & 1.95 & \textit{Scientist} (56), \textit{Psychology} (56), \textit{University} (50) \\
-GPT L-Anx Psy & 71 & 105 & 0.01 & 1.96 & \textit{Scientist} (70), \textit{University} (52), \textit{Science} (52), Curiosities (49) \\
+H-S South & 32 & 98 & 0.14 & 1.80 & Scientist (31), Study (13) \\
+H-Anx H-S & 43 & 130 & 0.10 & 1.86 & \textit{Scientist} (42), \textit{Laboratory} (17), \textit{Scientist} (17) \\
+L-Anx H-S & 46 & 105 & 0.06 & 1.90 & \textit{Scientist} (45), \textit{Science} (15), \textit{Laboratory} (14), \textit{Experiment} (14) \\
+GPT H-Anx H-S & 28 & 30 & 0.01 & 1.92 & \textit{Scientist} (27), \textit{Curiosity} (4) \\
+GPT L-Anx H-S & 26 & 30 & 0.02 & 1.91 & \textit{Scientist} (25), \textit{University} (4) \\
+Physics & 26 & 41 & 0.05 & 1.87 & \textit{Scientist} (25), \textit{Laboratory} (8) \\
+GPT Physics & 12 & 12 & 0.02 & 1.82 & \textit{Scientist} (11) \\
+H-Anx Psy & 66 & 157 & 0.04 & 1.93 & \textit{Scientist} (65), \textit{Science} (21), \textit{Curiosity} (14), \textit{Physics} (13) \\
+L-Anx Psy & 60 & 198 & 0.08 & 1.89 & \textit{Scientist} (59), \textit{Science} (26), \textit{Physics} (21) \\
+GPT H-Anx Psy & 57 & 76 & 0.01 & 1.95 & \textit{Scientist} (56), \textit{Psychology} (11), \textit{University} (8) \\
+GPT L-Anx Psy & 71 & 105 & 0.01 & 1.96 & \textit{Scientist} (70), \textit{Science} (22), \textit{University} (9), \textit{Curiosity} (6) \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -357,41 +283,115 @@ GPT L-Anx Psy & 71 & 105 & 0.01 & 1.96 & \textit{Scientist} (70), \textit{Univer
 \begin{table}[!hbpt]
 \footnotesize
 \centering
-\caption{Network features for the semantic frame of \textit{Anxiety}.}
-\label{tab:network_features_anxiety}
-\begin{tabular}{lccccl}
-\toprule
-Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs \\
-\midrule
-H-S South & 24 & 55 & 0.13 & 1.80 & Time (79), \textit{School} (77) \\
-H-Anx H-S & 75 & 218 & 0.05 & 1.92 & \textit{Anxiety} (74), \textit{School} (74), \textit{Mathematics} (72), \textit{Stress} (63) \\
-L-Anx H-S & 51 & 110 & 0.05 & 1.91 & \textit{Future} (62), \textit{School} (61), \textit{Stress} (55) \\
-GPT H-Anx H-S & 14 & 17 & 0.05 & 1.81 & Tests (26) \\
-GPT L-Anx H-S & 12 & 13 & 0.04 & 1.80 & \textit{Psychopathology} (21) \\
-Physics & 31 & 64 & 0.08 & 1.86 & \textit{Anxiety} (30), \textit{Challenge} (28), \textit{Failure} (28), \textit{Fear} (28), \textit{Stress} (28) \\
-GPT Physics & 7 & 8 & 0.13 & 1.62 & \textit{Psychopathology} (8), \textit{Emotion} (8) \\
-H-Anx Psy & 253 & 1376 & 0.04 & 1.96 & \textit{Anxiety} (252), \textit{Challenge} (209), \textit{Teacher} (196), Work (190), \textit{Physics} (182), \textit{Mathematics} (179), \textit{Professor} (170), \textit{School} (163), Exam (155), \textit{University} (154), \textit{Numbers} (151), \textit{Mind} (150), \textit{Stress} (149), \textit{Statistics} (149) \\
-L-Anx Psy & 223 & 944 & 0.03 & 1.96 & \textit{Anxiety} (222), \textit{Challenge} (202), \textit{Physics} (201), \textit{Mathematics} (194), Curiosities (194), Work (192), \textit{Science} (176), \textit{Professor} (171), \textit{University} (162), \textit{School} (160), \textit{Stress} (160), Exam (156) \\
-GPT H-Anx Psy & 33 & 57 & 0.05 & 1.89 & Tests (67), Try (65) \\
-GPT L-Anx Psy & 36 & 55 & 0.03 & 1.91 & Tests (76), Try (65) \\
-\bottomrule
-\end{tabular}
-\end{table}
-
-\begin{table}[!hbpt]
-\footnotesize
-\centering
-\caption{Network features for the semantic frame of \textit{Scientist (female)}.}
+\caption{Network features for the semantic frame of \textit{\textbf{Scientist (female)}}. For each hub, its degree is reported in parentheses. The italicised hubs are part of the cue words.}
 \label{tab:network_features_scientist (female)}
-\begin{tabular}{lccccl}
+\begin{tabular}{lccccp{9cm}}
 \toprule
-Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs \\
+Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs (top 5\% of degree distribution) \\
 \midrule
-H-Anx H-S & 37 & 96 & 0.10 & 1.86 & \textit{Mathematics} (72), \textit{Discovery} (66) \\
-L-Anx H-S & 45 & 111 & 0.07 & 1.89 & \textit{Future} (62), \textit{Experiment} (59), Search (59) \\
-Physics & 29 & 40 & 0.03 & 1.90 & \textit{Physics} (30), \textit{Scientist} (28), \textit{Laboratory} (28) \\
-H-Anx Psy & 18 & 31 & 0.10 & 1.80 & \textit{Physics} (182) \\
-L-Anx Psy & 24 & 38 & 0.06 & 1.86 & \textit{Science} (176), \textit{Discovery} (140) \\
+H-Anx H-S & 37 & 96 & 0.10 & 1.86 & \textit{Scientist} (36), \textit{Scientist} (17) \\
+L-Anx H-S & 45 & 111 & 0.07 & 1.89 & \textit{Scientist} (44), \textit{Science} (17), \textit{Research} (16) \\
+Physics & 29 & 40 & 0.03 & 1.90 & \textit{Scientist} (28), \textit{Laboratory} (6), \textit{Research} (6) \\
+H-Anx Psy & 18 & 31 & 0.10 & 1.80 & \textit{Scientist} (17) \\
+L-Anx Psy & 24 & 38 & 0.06 & 1.86 & \textit{Scientist} (23), \textit{Science} (8) \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[!hbpt]
+\footnotesize
+\centering
+\caption{Network features for the semantic frame of \textit{\textbf{School}}. For each hub, its degree is reported in parentheses. The italicised hubs are part of the cue words.}
+\label{tab:network_features_school}
+\begin{tabular}{lccccp{9cm}}
+\toprule
+Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs (top 5\% of degree distribution) \\
+\midrule
+Experts & 52 & 101 & 0.04 & 1.92 & \textit{School} (51), \textit{University} (14), \textit{Science} (9) \\
+H-S South & 78 & 255 & 0.06 & 1.92 & \textit{School} (77), Teacher (23), \textit{Mathematics} (21), \textit{Physics} (18) \\
+H-Anx H-S & 75 & 219 & 0.05 & 1.92 & \textit{School} (74), \textit{Anxiety} (19), \textit{Stress} (14), \textit{Mathematics} (14) \\
+L-Anx H-S & 62 & 128 & 0.04 & 1.93 & \textit{School} (61), \textit{Mathematics} (13), \textit{Research} (10), \textit{Teacher} (10) \\
+GPT H-Anx H-S & 3 & 2 & 0.00 & 1.33 & \textit{School} (2) \\
+GPT L-Anx H-S & 2 & 1 & 0.00 & 1.00 & \textit{Average} (1), \textit{School} (1) \\
+Physics & 26 & 27 & 0.01 & 1.92 & \textit{School} (25), \textit{Stress} (2), Comrades (2), Study (2), Friends (2) \\
+H-Anx Psy & 164 & 888 & 0.05 & 1.93 & \textit{School} (163), \textit{University} (51), \textit{Anxiety} (50), \textit{Teacher} (47), \textit{Mathematics} (44), \textit{Exam} (43), Work (43), \textit{Professor} (41), \textit{Challenge} (38), \textit{Boredom} (38) \\
+L-Anx Psy & 161 & 865 & 0.06 & 1.93 & \textit{School} (160), \textit{University} (61), \textit{Teacher} (52), \textit{Professor} (51), \textit{Exam} (41), Work (41), \textit{Mathematics} (36), \textit{Anxiety} (36), \textit{Boredom} (33) \\
+GPT H-Anx Psy & 3 & 3 & 1.00 & 1.00 & Tests (2), \textit{School} (2), \textit{University} (2) \\
+GPT L-Anx Psy & 4 & 3 & 0.00 & 1.50 & \textit{School} (3) \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[!hbpt]
+\footnotesize
+\centering
+\caption{Network features for the semantic frame of \textit{\textbf{University}}. For each hub, its degree is reported in parentheses. The italicised hubs are part of the cue words.}
+\label{tab:network_features_university}
+\begin{tabular}{lccccp{9cm}}
+\toprule
+Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs (top 5\% of degree distribution) \\
+\midrule
+Experts & 48 & 93 & 0.04 & 1.92 & \textit{University} (47), \textit{School} (14), \textit{Science} (9) \\
+H-S South & 36 & 110 & 0.13 & 1.83 & \textit{University} (35), Study (15) \\
+H-Anx H-S & 8 & 14 & 0.33 & 1.50 & University (7) \\
+L-Anx H-S & 10 & 23 & 0.39 & 1.49 & University (9) \\
+GPT H-Anx H-S & 25 & 35 & 0.04 & 1.88 & \textit{University} (24), Degree (8) \\
+GPT L-Anx H-S & 20 & 29 & 0.06 & 1.85 & \textit{University} (19) \\
+Physics & 5 & 5 & 0.17 & 1.50 & University (4) \\
+GPT Physics & 11 & 10 & 0.00 & 1.82 & \textit{University} (10) \\
+H-Anx Psy & 155 & 863 & 0.06 & 1.93 & \textit{University} (154), Work (51), \textit{School} (51), \textit{Exam} (47), Degree (44), \textit{Challenge} (40), \textit{Anxiety} (40), \textit{Psychology} (39) \\
+L-Anx Psy & 163 & 1026 & 0.07 & 1.92 & \textit{University} (162), \textit{School} (61), Work (60), \textit{Exam} (55), Degree (47), \textit{Professor} (45), \textit{Anxiety} (44), \textit{Future} (40), \textit{Student} (39) \\
+GPT H-Anx Psy & 51 & 99 & 0.04 & 1.92 & \textit{University} (50), \textit{Psychology} (9), \textit{Scientist} (8), \textit{Exam} (8), \textit{Development} (8) \\
+GPT L-Anx Psy & 53 & 75 & 0.02 & 1.95 & \textit{University} (52), \textit{Scientist} (9), \textit{Science} (7) \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[!hbpt]
+\footnotesize
+\centering
+\caption{Network features for the semantic frame of \textit{\textbf{Anxiety}}. For each hub, its degree is reported in parentheses. The italicised hubs are part of the cue words.}
+\label{tab:network_features_anxiety}
+\begin{tabular}{lccccp{9cm}}
+\toprule
+Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs (top 5\% of degree distribution) \\
+\midrule
+H-S South & 24 & 55 & 0.13 & 1.80 & Anxiety (23), Vote (9) \\
+H-Anx H-S & 75 & 218 & 0.05 & 1.92 & \textit{Anxiety} (74), \textit{Stress} (23), \textit{Fear} (21), \textit{School} (19) \\
+L-Anx H-S & 51 & 110 & 0.05 & 1.91 & \textit{Anxiety} (50), \textit{Stress} (18), \textit{Fear} (11), \textit{Embarrassment} (11) \\
+GPT H-Anx H-S & 14 & 17 & 0.05 & 1.81 & \textit{Anxiety} (13) \\
+GPT L-Anx H-S & 12 & 13 & 0.04 & 1.80 & \textit{Anxiety} (11) \\
+Physics & 31 & 64 & 0.08 & 1.86 & \textit{Anxiety} (30), \textit{Stress} (9) \\
+GPT Physics & 7 & 8 & 0.13 & 1.62 & \textit{Anxiety} (6) \\
+H-Anx Psy & 253 & 1376 & 0.04 & 1.96 & \textit{Anxiety} (252), \textit{Stress} (69), Work (53), \textit{Boredom} (52), \textit{Exam} (51), \textit{School} (50), \textit{Frustration} (49), \textit{Challenge} (46), \textit{Mathematics} (45), \textit{Study} (41), \textit{Vote} (41), \textit{Emotion} (40), \textit{Task} (40), \textit{University} (40) \\
+L-Anx Psy & 223 & 944 & 0.03 & 1.96 & \textit{Anxiety} (222), \textit{Stress} (63), \textit{Exam} (47), \textit{Challenge} (46), \textit{University} (44), Work (38), \textit{School} (36), \textit{Frustration} (34), \textit{Future} (32), \textit{Psychology} (32), \textit{Task} (32), \textit{Study} (32), \textit{Boredom} (32) \\
+GPT H-Anx Psy & 33 & 57 & 0.05 & 1.89 & \textit{Anxiety} (32), \textit{Stress} (8) \\
+GPT L-Anx Psy & 36 & 55 & 0.03 & 1.91 & \textit{Anxiety} (35), Tests (6), \textit{Exam} (6), \textit{Stress} (6) \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[!hbpt]
+\footnotesize
+\centering
+\caption{Network features for the semantic frame of \textit{\textbf{Wellbeing}}. For each hub, its degree is reported in parentheses. The italicised hubs are part of the cue words.}
+\label{tab:network_features_wellbeing}
+\begin{tabular}{lccccp{9cm}}
+\toprule
+Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs (top 5\% of degree distribution) \\
+\midrule
+Experts & 11 & 12 & 0.04 & 1.78 & Wellbeing (10) \\
+H-S South & 27 & 37 & 0.03 & 1.89 & Wellbeing (26), Health (6) \\
+H-Anx H-S & 49 & 55 & 0.01 & 1.95 & \textit{Wellbeing} (48), Life (8), Sun (2), Pink (2), Nature (2), Friends (2), Freedom (2), Happiness (2), Family (2) \\
+L-Anx H-S & 49 & 74 & 0.02 & 1.94 & \textit{Wellbeing} (48), \textit{Meditation} (12), Life (8) \\
+GPT H-Anx H-S & 18 & 19 & 0.01 & 1.88 & \textit{Wellbeing} (17) \\
+GPT L-Anx H-S & 14 & 14 & 0.01 & 1.85 & \textit{Wellbeing} (13) \\
+Physics & 26 & 25 & 0.00 & 1.92 & \textit{Wellbeing} (25), Flowers (1), Sun (1), Awareness (1), Tranquility (1), Love (1), Spa (1), Green (1), Serenity (1), Time (1), Health (1), Presence (1), Support (1), Holiday (1), Water (1), Affection (1), Psychophysical (1), Relax (1), Family (1), Money (1), Balance (1), Calm down (1), Peace (1), Society (1), Sea (1), Security (1) \\
+GPT Physics & 11 & 10 & 0.00 & 1.82 & \textit{Wellbeing} (10) \\
+H-Anx Psy & 141 & 337 & 0.02 & 1.97 & \textit{Wellbeing} (140), \textit{Emotion} (28), \textit{Psychology} (23), \textit{Mind} (20), \textit{Discovery} (20), \textit{Future} (19), \textit{Passion} (18), \textit{Fun} (18) \\
+L-Anx Psy & 148 & 429 & 0.03 & 1.96 & \textit{Wellbeing} (147), Work (29), \textit{Future} (27), \textit{Psychology} (26), \textit{Emotion} (26), \textit{Mind} (22), \textit{Stress} (22), Life (22) \\
+GPT H-Anx Psy & 27 & 45 & 0.06 & 1.87 & \textit{Wellbeing} (26), \textit{Emotion} (7) \\
+GPT L-Anx Psy & 31 & 37 & 0.02 & 1.92 & \textit{Wellbeing} (30), \textit{Development} (5) \\
 \bottomrule
 \end{tabular}
 \end{table}

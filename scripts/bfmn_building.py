@@ -242,7 +242,7 @@ def multiple_fmnt_features(G, fmn, keyword, file_path, percentage):
     avg_shortest_path = nx.average_shortest_path_length(G_kw_sub)
     diameter = nx.diameter(G_kw_sub)
 
-    deg_dict = dict(G.degree(fmn.vertices))
+    deg_dict = dict(G_kw.degree(fmn.vertices))
 
     # compute the degree threshold for the top 5%
     degrees = np.array(list(deg_dict.values()))
