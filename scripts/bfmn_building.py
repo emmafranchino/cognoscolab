@@ -12,6 +12,7 @@ spacy.load('en_core_web_lg')
 
 
 def text_cleaning(df):
+    df = df.copy()
     # clean columns that have words inside
     columns_to_clean = ['cue_word', 'association_1', 'association_2', 'association_3']
     for col in columns_to_clean:
@@ -96,7 +97,6 @@ def categorize_valence_single(df):
     Q1 = np.percentile(arr, 25)
     Q3 = np.percentile(arr, 75)
     mode_val = stats.mode(arr, keepdims=False)
-    print(mode_val)
 
     #  defines classification logic based on position relative to quartiles
     def cat_score(v):
@@ -126,13 +126,12 @@ def categorize_valence_single(df):
 
     # apply classification to the new column of the df
     df['valence_cat'] = df['valence'].apply(cat_score)
-    plot_valence_distribution(df['valence'])
     plot_valence_distribution(df['valence_cat'])
-    print(Q1, Q3)
+    
     return df
 
-def build_single_fmnt(df):
-    
+def build_single_fmnt(df, keywords):
+    emo = EmoScores(language="italian", spacy_model='it_core_news_lg')
     # initialize an empty undirected graph
     G = nx.Graph()
 
@@ -155,9 +154,23 @@ def build_single_fmnt(df):
             neutral.add(node)
     custom_valences = [positive, negative, neutral]
     # add undirected edges between cue words and their responses (for each row)
-    edges = list(zip(df['cue_word'], df['word']))
-    G.add_edges_from(edges)
+    edges = [(cue, word) for cue, word in zip(df['cue_word'], df['word']) if cue != word]
 
+    G.add_edges_from(edges)
+    fmn = emo.nxgraph_to_formamentis(G)
+
+    for keyword in keywords:   # plot bfmn
+        fig, ax = plt.subplots(figsize=(9,9))
+        ax.axis('off')       
+        fmnt_keyword = emo.extract_word_from_formamentis(fmn, keyword)
+        emo.draw_formamentis(
+            fmn=fmnt_keyword,
+            layout="edge_bundling",
+            # thickness=2, # thickness of edges
+            custom_valences=custom_valences, 
+            ax=ax,
+            # alpha_syntactic=1.0, # contrast of edges
+        )
     # get the valence, degree and closeness centrality of the words of interest
     features_fmnt_dict = {}
     for word in ['ansia', 'matematica']:
@@ -174,8 +187,7 @@ def build_single_fmnt(df):
     # add participant_id to the DataFrame (first col)
     features_fmnt.insert(loc=0, column='participant_id', value=df['participant_id'].iloc[0])  
         
-    return G, features_fmnt, custom_valences
-
+    return features_fmnt, custom_valences
 
 def categorize_valence_multiple(df):
 
@@ -365,12 +377,12 @@ def pipeline_df_building(df, filter = 'no'):
     final_df = categorize_valence_multiple(long_df)
     return final_df
 
-def pipeline_single_participant(df):
+def pipeline_single_participant(df, keywords):
     clean_df = text_cleaning(df)
     long_df = build_association_df(clean_df)
     final_df = categorize_valence_single(long_df)
-    G, features_fmnt, valences  = build_single_fmnt(final_df)
-    return final_df, G, features_fmnt, valences
+    features_fmnt, valences  = build_single_fmnt(final_df, keywords)
+    return final_df, features_fmnt, valences
 
 def run_pipeline_all_participants(df):
     results = []

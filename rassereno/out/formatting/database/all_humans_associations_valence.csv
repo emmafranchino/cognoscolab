@@ -13291,6 +13291,13 @@ physics_007,scienza,4.0,progresso,2.0,conoscenza,5.0,natura,5.0
 physics_008,scienza,3.0,studio,3.0,scoperta,4.0,accorgimenti ,4.0
 physics_009,scienza,4.0,ricerca,4.0,curiosità ,5.0,interesse,5.0
 physics_010,scienza,4.0,azzurro,5.0,provette,2.0,,
+physics_011,scienza,4.0,vita,5.0,ricerca ,5.0,progresso,5.0
+physics_012,scienza,4.0,scoperta,5.0,chimica,2.0,verde,2.0
+physics_013,scienza,3.0,merendine,2.0,chimica,4.0,fisica,4.0
+physics_014,scienza,4.0,barbara,3.0,scula elementare,3.0,james watson,4.0
+physics_015,scienza,2.0,strumento,2.0,matematica,2.0,rigidità,1.0
+physics_016,scienza,4.0,progresso,3.0,ricerca,4.0,eitca,5.0
+physics_017,scienza,5.0,invenzioni,4.0,natura,4.0,creatività ,5.0
 physics_001,statistica,3.0,dati,3.0,numero,3.0,media,3.0
 physics_002,statistica,3.0,probabilità ,3.0,evento,3.0,casualità ,3.0
 physics_003,statistica,3.0,laboratorio,3.0,relazione,2.0,noia,2.0
@@ -13301,6 +13308,13 @@ physics_007,statistica,2.0,distribuzioni,4.0,dati,3.0,elaborazione,3.0
 physics_008,statistica,3.0,percentuali ,3.0,realtà ,3.0,guadagnare,3.0
 physics_009,statistica,3.0,analisi,3.0,grafici,3.0,numeri,3.0
 physics_010,statistica,2.0,grafici,1.0,excel,4.0,paura,1.0
+physics_011,statistica,5.0,necessaria ,5.0,utile ,5.0,noiosa,2.0
+physics_012,statistica,4.0,laboratorio 1,4.0,gaussiana,4.0,birra,5.0
+physics_013,statistica,3.0,matematica,3.0,quantistica,5.0,,
+physics_014,statistica,4.0,compagno di classe,2.0,matematica,3.0,precisione,4.0
+physics_015,statistica,2.0,verità,5.0,accuratezza,3.0,sintesi,4.0
+physics_016,statistica,3.0,dati,3.0,matematica,3.0,teoremi,3.0
+physics_017,statistica,4.0,linguaggio,4.0,lettura,5.0,numeri,4.0
 physics_001,ipotesi,3.0,induttiva,3.0,idea,4.0,falsa,2.0
 physics_002,ipotesi,3.0,tesi,3.0,dimostrazione,3.0,teorema,3.0
 physics_003,ipotesi,4.0,tesi,4.0,teoria,4.0,prova,3.0
@@ -13311,6 +13325,13 @@ physics_007,ipotesi,3.0,tesi,3.0,teorema,4.0,dimostrazione,4.0
 physics_008,ipotesi,4.0,idea,4.0,controllare,3.0,novità ,3.0
 physics_009,ipotesi,3.0,teoria,4.0,tesi,3.0,dimostrazione ,4.0
 physics_010,ipotesi,4.0,metodo scientifico,5.0,filosofia,1.0,dubbio,2.0
+physics_011,ipotesi,5.0,possibilità ,5.0,progetto ,5.0,,
+physics_012,ipotesi,3.0,tesi,3.0,verifica,2.0,dimostrazione,4.0
+physics_013,ipotesi,3.0,antitesi,3.0,teorema,3.0,,
+physics_014,ipotesi,3.0,esperimento,4.0,problema,3.0,me da piccolo,4.0
+physics_015,ipotesi,3.0,interesse,5.0,detection,1.0,fallibilità,4.0
+physics_016,ipotesi,3.0,tesi,3.0,antitesi,3.0,conferma,3.0
+physics_017,ipotesi,3.0,idea,5.0,creatività,5.0,teoremi,3.0
 physics_001,ansia,1.0,preoccupazioni,2.0,futuro,3.0,lavoro,3.0
 physics_002,ansia,2.0,paura,2.0,panico,2.0,agitazione,2.0
 physics_003,ansia,1.0,analisi,3.0,esami,2.0,sessione,2.0
@@ -13321,6 +13342,13 @@ physics_007,ansia,1.0,paralisi,1.0,insuccesso,1.0,vergogna,1.0
 physics_008,ansia,3.0,ahia,2.0,preparazione ,4.0,allerta,3.0
 physics_009,ansia,2.0,paura,2.0,giudizio,2.0,paralisi ,1.0
 physics_010,ansia,1.0,stress,1.0,vomito,1.0,pianto,1.0
+physics_011,ansia,5.0,esami,5.0,vita,5.0,futuro,5.0
+physics_012,ansia,1.0,stress,1.0,unghie,1.0,esame,3.0
+physics_013,ansia,1.0,prestazione,3.0,esame,1.0,,
+physics_014,ansia,1.0,io,1.0,tanta,1.0,infermabile,1.0
+physics_015,ansia,4.0,dolore,4.0,preoccupazione,4.0,sfida,5.0
+physics_016,ansia,2.0,stress,2.0,prestazione,2.0,paralisi,1.0
+physics_017,ansia,1.0,mostro,1.0,perdita,1.0,dolore,1.0
 physics_001,benessere,5.0,calma,5.0,tempo,4.0,presenza,5.0
 physics_002,benessere,4.0,tranquillità ,5.0,pace,5.0,serenità ,5.0
 physics_003,benessere,5.0,denaro,4.0,famiglia,5.0,amore,5.0
@@ -13331,6 +13359,13 @@ physics_007,benessere,5.0,equilibrio,5.0,consapevolezza,5.0,supporto,5.0
 physics_008,benessere,4.0,verde,3.0,sole,3.0,acqua ,4.0
 physics_009,benessere,4.0,salute,5.0,equilibrio ,5.0,consapevolezza ,5.0
 physics_010,benessere,5.0,terme,4.0,psicofisico,5.0,fiori,5.0
+physics_011,benessere,5.0,speranza,3.0,mentale ,5.0,fisico,5.0
+physics_012,benessere,5.0,mentale,4.0,rottura,2.0,malattia,1.0
+physics_013,benessere,3.0,relax,4.0,casa,3.0,mare,2.0
+physics_014,benessere,3.0,,,,,,
+physics_015,benessere,4.0,libertà,5.0,solidità,4.0,uguaglianza,5.0
+physics_016,benessere,4.0,mentale,5.0,fisico,5.0,equilibrio ,5.0
+physics_017,benessere,5.0,riposo,5.0,relazioni,5.0,passioni,5.0
 physics_001,equazione,3.0,calcoli,3.0,matematica,3.0,soluzione,4.0
 physics_002,equazione,3.0,variabile,3.0,soluzione,3.0,incognita,4.0
 physics_003,equazione,3.0,autovalori,3.0,schroedinger,3.0,grado,3.0
@@ -13341,6 +13376,13 @@ physics_007,equazione,3.0,algebra,3.0,legge,3.0,associazione,4.0
 physics_008,equazione,3.0,più ,3.0,diviso,3.0,fratto,3.0
 physics_009,equazione,3.0,somma,3.0,legge,3.0,calcolo,3.0
 physics_010,equazione,4.0,medie,3.0,matematica,4.0,,
+physics_011,equazione,5.0,matematica,5.0, legge,5.0,quotidianità,5.0
+physics_012,equazione,4.0,x,4.0,risoluzione,5.0,differenziale,1.0
+physics_013,equazione,3.0,,,,,,
+physics_014,equazione,3.0,facile,4.0,x,3.0,'=,3.0
+physics_015,equazione,4.0,uguale,3.0,massimo,2.0,satirico,2.0
+physics_016,equazione,3.0,calcolo,3.0,incognita ,3.0,algebra,3.0
+physics_017,equazione,3.0,soluzione,5.0,sfida,4.0,rappresentazione,4.0
 physics_001,fisica,5.0,scoperta,5.0,mondo,5.0,universo,5.0
 physics_002,fisica,5.0,curiosità ,5.0,conoscenza,5.0,ricerca,4.0
 physics_003,fisica,5.0,bella,5.0,interessante,5.0,universale,5.0
@@ -13351,6 +13393,13 @@ physics_007,fisica,5.0,matematica,5.0,astronomia,5.0,particelle,5.0
 physics_008,fisica,3.0,pesi,4.0,scienza,4.0,realtà ,4.0
 physics_009,fisica,4.0,legge,3.0,realtà ,4.0,formalizzazione ,4.0
 physics_010,fisica,5.0,azzurro,4.0,pendolo,5.0,meccanica,3.0
+physics_011,fisica,5.0,ovunque ,4.0,natura ,5.0,curiosità,5.0
+physics_012,fisica,4.0,elettrodinamica,3.0,orale,2.0,meccanica,5.0
+physics_013,fisica,3.0,,,,,,
+physics_014,fisica,5.0,oss,5.0,aula università,3.0,lim,3.0
+physics_015,fisica,4.0,amore,5.0,vita,5.0,società,2.0
+physics_016,fisica,4.0,quantistica ,4.0,matematica,4.0,sperimentale,3.0
+physics_017,fisica,4.0,equazioni ,4.0,natura,3.0,problemi ,3.0
 physics_001,innovazione,4.0,energia,4.0,ambiente,5.0,tecnologie,3.0
 physics_002,innovazione,4.0,scoperta,4.0,progresso,4.0,ricerca,4.0
 physics_003,innovazione,5.0,nuovo,4.0,oggetti,3.0,scienza,5.0
@@ -13361,6 +13410,13 @@ physics_007,innovazione,2.0,tecnologia,2.0,futuro,2.0,etica,5.0
 physics_008,innovazione,4.0,novità ,4.0,differenza ,4.0,prospettiva ,4.0
 physics_009,innovazione,3.0,ricerca,4.0,novità ,4.0,regolamentazione ,5.0
 physics_010,innovazione,2.0,scienza,4.0,tecnologia,2.0,ricerca,4.0
+physics_011,innovazione,5.0,scienza ,5.0,arte ,5.0,vita ,3.0
+physics_012,innovazione,2.0,scienze,3.0,invenzione,4.0,ricerca,2.0
+physics_013,innovazione,3.0,,,,,,
+physics_014,innovazione,4.0,,,,,,
+physics_015,innovazione,5.0,nuova,5.0,cambiamento,5.0,analisi,3.0
+physics_016,innovazione,3.0,tecnologia,3.0,progresso,3.0,etica,4.0
+physics_017,innovazione,3.0,genialità ,5.0,creatività,5.0,tecnica,5.0
 physics_001,panico,1.0,crisi,2.0,battito,2.0,tremore,1.0
 physics_002,panico,2.0,paura,1.0,ansia,2.0,stress,2.0
 physics_003,panico,1.0,lazza,3.0,attacco,1.0,ansia,1.0
@@ -13371,6 +13427,13 @@ physics_007,panico,1.0,paralisi,1.0,nebbia mentale,1.0,crisi,1.0
 physics_008,panico,3.0,correre,4.0,scappare,2.0,difesa,2.0
 physics_009,panico,1.0,paura,2.0,terrore,2.0,paralisi,1.0
 physics_010,panico,1.0,ansia,1.0,pianto,1.0,,
+physics_011,panico,5.0,spesso,2.0,esami,5.0,futuro,5.0
+physics_012,panico,1.0,urlo,2.0,paura,2.0,imbarazzo,2.0
+physics_013,panico,3.0,,,,,,
+physics_014,panico,2.0,forte,1.0,subuito,1.0,veloce,1.0
+physics_015,panico,1.0,paura,1.0,tremore,4.0,inuguaglianza,2.0
+physics_016,panico,2.0,paralisi,1.0,blocco,2.0,nebbia,1.0
+physics_017,panico,1.0,vergogna,1.0,ansia ,1.0,paura,1.0
 physics_001,meditazione,5.0,calma,5.0,libertà,5.0,pulizia,4.0
 physics_002,meditazione,4.0,pace,5.0,silenzio,5.0,connessione,4.0
 physics_003,meditazione,3.0,yoga,3.0,zen,3.0,pace,4.0
@@ -13381,6 +13444,13 @@ physics_007,meditazione,5.0,isolamento,5.0,elaborazione,5.0,rilassamento,4.0
 physics_008,meditazione,5.0,pausa,4.0,riflessione,4.0,grounding,5.0
 physics_009,meditazione,4.0,ragionamento ,4.0,calma ,5.0,pace,5.0
 physics_010,meditazione,4.0,zen,3.0,monaco,5.0,chiusura,3.0
+physics_011,meditazione,5.0,servirebbe,3.0,lenta ,4.0,noiosa,4.0
+physics_012,meditazione,3.0,cuffie,3.0,vento,4.0,silenzio,5.0
+physics_013,meditazione,3.0,,,,,,
+physics_014,meditazione,3.0,,,,,,
+physics_015,meditazione,4.0,profonda,5.0,inutile,3.0,strad,3.0
+physics_016,meditazione,3.0,rilassamento,4.0,concentrazione,4.0,silenzio,5.0
+physics_017,meditazione,3.0,rilassamento ,5.0,riposo,5.0,cura,5.0
 physics_001,matematica,4.0,strumento,3.0,natura,5.0,linguaggio,3.0
 physics_002,matematica,4.0,dati,3.0,analisi,3.0,statistica,3.0
 physics_003,matematica,3.0,analisi,2.0,astratta,3.0,infinito,3.0
@@ -13391,6 +13461,13 @@ physics_007,matematica,5.0,fisica,5.0,astrazione,5.0,ordine,5.0
 physics_008,matematica,3.0,numeri,2.0,squadra,2.0,base,5.0
 physics_009,matematica,4.0,ragionamento ,5.0,astrazione ,5.0,rigore ,4.0
 physics_010,matematica,4.0,numeri,4.0,equazione,5.0,bellezza,5.0
+physics_011,matematica,4.0,utile ,4.0,noiosa,2.0,strumento,4.0
+physics_012,matematica,2.0,analisi,1.0,bocciatura,3.0,amarezza,2.0
+physics_013,matematica,3.0,fisica,3.0,challenge,4.0,studio,
+physics_014,matematica,4.0,professore universitario,4.0,analisi,4.0,geometria,3.0
+physics_015,matematica,,pura,,applicata,,algebra,
+physics_016,matematica,4.0,logica,4.0,algebra,4.0,analisi,4.0
+physics_017,matematica,4.0,alfabeto,3.0,difficile ,2.0,bella,4.0
 physics_001,analisi,3.0,matematica,3.0,psicologica,4.0,introspettiva,4.0
 physics_002,analisi,3.0,dati,3.0,matematica,3.0,computer ,4.0
 physics_003,analisi,3.0,1,4.0,2,2.0,ansia,1.0
@@ -13401,6 +13478,13 @@ physics_007,analisi,4.0,dati,2.0,matematica,4.0,calcolo,4.0
 physics_008,analisi,3.0,controllo,3.0,pensiero,4.0,medico,5.0
 physics_009,analisi,3.0,dati,3.0,funzione,4.0,limite,3.0
 physics_010,analisi,5.0,matematica,5.0,laboratorio,3.0,sangue,2.0
+physics_011,analisi,4.0,laboratorio ,5.0,quotidiane ,3.0,,
+physics_012,analisi,2.0,bocciatura,4.0,rabbia,2.0,rassegnazione,1.0
+physics_013,analisi,3.0,1,3.0,matematica,3.0,curiosita,5.0
+physics_014,analisi,4.0,matematica,4.0,professore universitario,4.0,materia,3.0
+physics_015,analisi,,profonda,,noiosa,,faticosa,
+physics_016,analisi,3.0,logica,4.0,dati,3.0,teoremi,3.0
+physics_017,analisi,2.0,vergogna,1.0,stanchezza ,2.0,autostima ,1.0
 physics_001,scoperta,5.0,stupore,5.0,importanza,4.0,natura,5.0
 physics_002,scoperta,4.0,collaborazione,5.0,progresso,4.0,ricerca,4.0
 physics_003,scoperta,5.0,scienza,5.0,ricerca,5.0,università ,4.0
@@ -13411,6 +13495,13 @@ physics_007,scoperta,4.0,svolta,4.0,riconoscimento,4.0,prestigio,4.0
 physics_008,scoperta,4.0,mago,4.0,pilastro,3.0,nuovo,3.0
 physics_009,scoperta,4.0,rivoluzione ,4.0,riconoscimento ,4.0,prestigio,3.0
 physics_010,scoperta,5.0,esploratore,5.0,arancione,4.0,stupore,5.0
+physics_011,scoperta,5.0,scientifica ,5.0,invenzione ,5.0,meraviglia,5.0
+physics_012,scoperta,2.0,articolo,2.0,pubblicazione,3.0,ricerca,1.0
+physics_013,scoperta,4.0,scientifica,4.0,sorpresa,4.0,casualita,3.0
+physics_014,scoperta,4.0,einstein,3.0,svolta,5.0,,
+physics_015,scoperta,,entusiasmo,,vita,,miracolo,
+physics_016,scoperta,4.0,curiosità ,4.0,dedizione,5.0,svolta,4.0
+physics_017,scoperta,4.0,genialità ,5.0,immaginazione,5.0,fortuna ,4.0
 physics_001,scienziata,5.0,curiosità,5.0,saggezza,5.0,lavoro rubato (dai colleghi uomini),2.0
 physics_002,scienziata,5.0,ricerca,4.0,laboratorio,4.0,dati,3.0
 physics_003,scienziata,5.0,amica,4.0,fisica,5.0,ricerca,5.0
@@ -13421,6 +13512,13 @@ physics_007,scienziata,5.0,diritti,5.0,lavoro,5.0,storia della scienza,5.0
 physics_008,scienziata,3.0,capelli,3.0,occhiali,3.0,mantello,3.0
 physics_009,scienziata,5.0,ricercatrice,5.0,curiosa,5.0,studiosa,4.0
 physics_010,scienziata,5.0,camice,4.0,pazza,2.0,cuore,4.0
+physics_011,scienziata,4.0,singolarità ,3.0,isolata,2.0,modello,4.0
+physics_012,scienziata,3.0,ricerca,3.0,laboratorio,4.0,nobel,5.0
+physics_013,scienziata,5.0,donna,4.0,curie,3.0,chimica,4.0
+physics_014,scienziata,4.0,marie curie,5.0,camice,3.0,laboratorio,3.0
+physics_015,scienziata,,bella,,debole,,onesta,
+physics_016,scienziata,4.0,lavoro ,4.0,equità ,5.0,discriminazione ,1.0
+physics_017,scienziata,5.0,stereotipi ,1.0,genialità ,5.0,equilibrio ,5.0
 physics_001,docente,3.0,guida,3.0,mentore,4.0,valutazione,2.0
 physics_002,docente,3.0,condivisione,4.0,conoscenza,4.0,,
 physics_003,docente,3.0,bravo,4.0,pessimo,1.0,svogliato,2.0
@@ -13431,6 +13529,13 @@ physics_007,docente,2.0,insegnante,3.0,guida,5.0,responsabilità,2.0
 physics_008,docente,4.0,stressato,3.0,ascolto,3.0,parlare,3.0
 physics_009,docente,3.0,insicurezza ,1.0,giudizio ,3.0,confronto ,4.0
 physics_010,docente,2.0,insegnante,3.0,università,3.0,distante,2.0
+physics_011,docente,5.0,umano,5.0,presente ,4.0,tramite ,5.0
+physics_012,docente,4.0,insegnare,5.0,interessante,4.0,persona,5.0
+physics_013,docente,3.0,ansia,1.0,occhi azzurri,3.0,,
+physics_014,docente,3.0,cattivo,1.0,lontano,2.0,migliore di me,2.0
+physics_015,docente,,noioso,,sistema,,casa,
+physics_016,docente,3.0,insegnante,3.0,voto,2.0,curiosità ,5.0
+physics_017,docente,4.0,insegna,4.0,vergogna,1.0,intelligenza ,5.0
 physics_001,programmazione,4.0,organizzazione,5.0,creazione,4.0,setting,3.0
 physics_002,programmazione,2.0,informatica,3.0,linguaggio,3.0,codice,2.0
 physics_003,programmazione,2.0,scientifica,3.0,computer,4.0,python,3.0
@@ -13441,6 +13546,13 @@ physics_007,programmazione,3.0,coding,3.0,linguaggio,5.0,interfaccia,3.0
 physics_008,programmazione,5.0,tentativo ,4.0,progetto,4.0,magia,4.0
 physics_009,programmazione,4.0,coding,4.0,dati,3.0,funzioni,4.0
 physics_010,programmazione,4.0,scientifica,4.0,esame,2.0,calendario,3.0
+physics_011,programmazione,5.0,organizzare,5.0,dead line ,5.0,ansia ,5.0
+physics_012,programmazione,3.0,c,2.0,informatici,4.0,ingegneria,3.0
+physics_013,programmazione,3.0,ubuntu,3.0,c++,3.0,passatempo,4.0
+physics_014,programmazione,4.0,informatica,4.0,non so farla,3.0,altri invece si,2.0
+physics_015,programmazione,2.0,futuro,2.0,mania,1.0,sensazione,3.0
+physics_016,programmazione,3.0,coding,4.0,computer,4.0,informatica,4.0
+physics_017,programmazione,3.0,codice ,3.0,pensiero,4.0,astrazione,5.0
 physics_001,laboratorio,4.0,attività,4.0,manualità,5.0,pratica,4.0
 physics_002,laboratorio,4.0,dati,3.0,misure,3.0,gruppo,4.0
 physics_003,laboratorio,3.0,relazione,2.0,smanettare,3.0,statistica ,2.0
@@ -13451,6 +13563,13 @@ physics_007,laboratorio,2.0,esperimento,4.0,dati,3.0,attrezzature,4.0
 physics_008,laboratorio,4.0,provette,3.0,esperimenti,5.0,lavoro,4.0
 physics_009,laboratorio,3.0,analisi,3.0,matlab,2.0,strumentazione ,3.0
 physics_010,laboratorio,4.0,fisica,5.0,scienza,4.0,terra,5.0
+physics_011,laboratorio,4.0,divertente,5.0,interattivo,5.0,pratico,5.0
+physics_012,laboratorio,5.0,chimica,2.0,pericolo,3.0,elettronica,4.0
+physics_013,laboratorio,4.0,fisica,4.0,cannone,3.0,compagni,3.0
+physics_014,laboratorio,4.0,scienziato,4.0,camice,3.0,esperimento,4.0
+physics_015,laboratorio,2.0,chiuso,1.0,buio,1.0,freddo,1.0
+physics_016,laboratorio,3.0,sessione,3.0,relazione,2.0,esperimento,3.0
+physics_017,laboratorio,3.0,prova,4.0,esperimento ,4.0,gioco ,5.0
 physics_001,conoscenza,4.0,novità,4.0,competenza,3.0,meraviglia,5.0
 physics_002,conoscenza,4.0,ricerca,4.0,curiosità ,5.0,approfondire,5.0
 physics_003,conoscenza,3.0,saggezza,3.0,informazioni,4.0,rappresentazione,4.0
@@ -13461,6 +13580,13 @@ physics_007,conoscenza,5.0,libertà,5.0,cultura,5.0,potere,4.0
 physics_008,conoscenza,4.0,apprendere,4.0,pensare,4.0,elaborate,4.0
 physics_009,conoscenza,5.0,curiosità ,5.0,cultura,5.0,abilità ,5.0
 physics_010,conoscenza,5.0,libri,4.0,saggezza,5.0,,
+physics_011,conoscenza,5.0,cultura,5.0,indipendenza ,5.0,libertà,4.0
+physics_012,conoscenza,4.0,studio,2.0,intelligenza,2.0,mentalità,4.0
+physics_013,conoscenza,5.0,polivalente,5.0,versatilità,5.0,futuro,1.0
+physics_014,conoscenza,3.0,tanta,4.0,importante,4.0,voglia di averne di più,5.0
+physics_015,conoscenza,4.0,stupida,3.0,banale,2.0,inutile,2.0
+physics_016,conoscenza,5.0,sapere,5.0,saggezza,5.0,potere,5.0
+physics_017,conoscenza,5.0,stanchezza ,2.0,tentativi,2.0,disciplina,2.0
 physics_001,fallimento,2.0,insegnamento,4.0,tristezza,2.0,rialzarsi,4.0
 physics_002,fallimento,1.0,delusione,1.0,paura,2.0,,
 physics_003,fallimento,1.0,fantapapa,3.0,fantasanremo,3.0,fantacalcio,1.0
@@ -13471,6 +13597,13 @@ physics_007,fallimento,1.0,reindirizzamento,4.0,errore,2.0,valore,2.0
 physics_008,fallimento,3.0,sbaglio,3.0,tentativo,4.0,incoscienza ,4.0
 physics_009,fallimento,2.0,paura,2.0,giudizio ,2.0,inadeguatezza ,1.0
 physics_010,fallimento,1.0,catastrofe,1.0,disastro,2.0,,
+physics_011,fallimento,5.0,possibile ,4.0,delusione ,5.0,paura,5.0
+physics_012,fallimento,1.0,bocciatura,1.0,imbarazzo,3.0,impegno,3.0
+physics_013,fallimento,1.0,vita,1.0,università,2.0,famiglia,3.0
+physics_014,fallimento,1.0,io,1.0,certo,1.0,irreversibile,1.0
+physics_015,fallimento,2.0,scienza,2.0,nazione,2.0,paura,2.0
+physics_016,fallimento,1.0,sconfitta,1.0,errori,2.0,miglioramento,4.0
+physics_017,fallimento,1.0,buco,1.0,tristezza,1.0,vergogna,1.0
 physics_001,voto,3.0,valutazione,3.0,insegnamento,4.0,ansia,1.0
 physics_002,voto,1.0,pressione,1.0,comparazione,1.0,aspettative,1.0
 physics_003,voto,3.0,26,4.0,30,5.0,media,3.0
@@ -13481,6 +13614,13 @@ physics_007,voto,2.0,numero,2.0,futuro,1.0,esame,3.0
 physics_008,voto,3.0,misura,3.0,numero,2.0,arbitrario,2.0
 physics_009,voto,3.0,numero,2.0,giudizio,2.0,valore ,2.0
 physics_010,voto,2.0,test,3.0,ansia,1.0,presentazione,4.0
+physics_011,voto,5.0,esame ,5.0,ansia,5.0,aspettative,5.0
+physics_012,voto,2.0,alto,4.0,meritato,3.0,insoddisfatto,1.0
+physics_013,voto,1.0,insufficienza,1.0,pigrizia,1.0,fallimento,1.0
+physics_014,voto,3.0,basso,2.0,9,2.0,giudizio,1.0
+physics_015,voto,1.0,alto,1.0,faticoso,1.0,leggero,4.0
+physics_016,voto,3.0,esito,3.0,giudizio,2.0,esame,3.0
+physics_017,voto,2.0,validazione,3.0,autostima ,2.0,invidia,1.0
 physics_001,numeri,3.0,conti,3.0,matematica,4.0,lettere,3.0
 physics_002,numeri,3.0,analisi,3.0,dati,3.0,matematica,4.0
 physics_003,numeri,3.0,primi,3.0,reali,3.0,complessi,2.0
@@ -13491,6 +13631,13 @@ physics_007,numeri,3.0,insiemi,4.0,reali,3.0,relazioni,4.0
 physics_008,numeri,2.0,uno,3.0,dieci,3.0,ventisette,3.0
 physics_009,numeri,3.0,algebra,3.0,primi,4.0,teoria,4.0
 physics_010,numeri,5.0,casuali,2.0,interi,3.0,pagine,4.0
+physics_011,numeri,4.0,strumenti ,4.0,matematica ,4.0,fisica,4.0
+physics_012,numeri,3.0,uno,2.0,analisi,3.0,dati,3.0
+physics_013,numeri,3.0,algebra,3.0,insiemi numerici,3.0,,
+physics_014,numeri,3.0,1,3.0,2,3.0,3,3.0
+physics_015,numeri,,bellezza,,geometria,,limite,
+physics_016,numeri,3.0,calcoli,3.0,cifre,3.0,analisi,3.0
+physics_017,numeri,4.0,alfabeto,4.0,universo,5.0,scienze,5.0
 physics_001,logica,4.0,pensiero,4.0,razionalità,4.0,matematica,3.0
 physics_002,logica,4.0,,,,,,
 physics_003,logica,3.0,aristotele,2.0,fallacia,4.0,cesare cremonini,3.0
@@ -13501,6 +13648,13 @@ physics_007,logica,5.0,matematica,4.0,paradossi,4.0,informatica,4.0
 physics_008,logica,5.0,pensiero,4.0,realtà ,4.0,criticare,4.0
 physics_009,logica,4.0,ragionamento ,4.0,matematica ,4.0,formalità ,4.0
 physics_010,logica,4.0,matematica,4.0,libro,5.0,,
+physics_011,logica,5.0,sopravvivenza ,3.0,approccio,5.0,fisica ,5.0
+physics_012,logica,5.0,programmazione,3.0,matematica,2.0,problem solving,5.0
+physics_013,logica,5.0,,,,,,
+physics_014,logica,4.0,filosofia,4.0,bravo,4.0,matematica,4.0
+physics_015,logica,,ansia,,stress,,rifiuto,
+physics_016,logica,4.0,ragionamento,4.0,fallacia,2.0,analisi,4.0
+physics_017,logica,5.0,intelligenza ,5.0,utilità,5.0,spigliatezza,4.0
 physics_001,ricerca,4.0,brillante,4.0,divertimento,5.0,curiosità,5.0
 physics_002,ricerca,4.0,scoperta,4.0,collaborazione,5.0,curiosità ,5.0
 physics_003,ricerca,5.0,fisica,5.0,spazio,5.0,fondi,4.0
@@ -13511,6 +13665,13 @@ physics_007,ricerca,5.0,dedizione,5.0,passione,5.0,esperienza,4.0
 physics_008,ricerca,4.0,innovazione,5.0,scoperta,4.0,trovare,4.0
 physics_009,ricerca,4.0,istituti ,4.0,studio,4.0,qualifiche ,3.0
 physics_010,ricerca,4.0,scientifica,4.0,laboratorio,2.0,persone,5.0
+physics_011,ricerca,5.0,sottopagata,5.0,impegnativa ,5.0,creativa ,5.0
+physics_012,ricerca,2.0,scientifica,4.0,laboratorio,5.0,complessa,2.0
+physics_013,ricerca,4.0,futuro,1.0,obiettivo,3.0,,
+physics_014,ricerca,5.0,scienziati ,5.0,laboratorio,3.0,ricercatori,5.0
+physics_015,ricerca,,fatica,,impegno,,solidità,
+physics_016,ricerca,4.0,progresso,3.0,lavoro,3.0,assegno,3.0
+physics_017,ricerca,5.0,scoperta,4.0,studio,4.0,passione,5.0
 physics_001,imbarazzo,1.0,rossore,2.0,vergogna,1.0,nascondiglio,2.0
 physics_002,imbarazzo,1.0,agitazione,2.0,,,,
 physics_003,imbarazzo,1.0,nudo,2.0,rosso,3.0,antonio dikele distefano,1.0
@@ -13521,6 +13682,13 @@ physics_007,imbarazzo,2.0,umiliazione,1.0,vergogna,1.0,nascondersi,1.0
 physics_008,imbarazzo,4.0,ups,4.0,nascondere,2.0,errore,3.0
 physics_009,imbarazzo,2.0,paura,2.0,giudizio,2.0,umiliazione ,1.0
 physics_010,imbarazzo,3.0,intimo,2.0,disagio,1.0,pianto,1.0
+physics_011,imbarazzo,4.0,constante,3.0,figuraccia,5.0,presentazione,5.0
+physics_012,imbarazzo,2.0,silenzio,1.0,sbagliare,2.0,fuori luogo,1.0
+physics_013,imbarazzo,2.0,,,,,,
+physics_014,imbarazzo,1.0,io,1.0,classe,1.0,genitori,1.0
+physics_015,imbarazzo,,disillusione,,paura,,ansia,
+physics_016,imbarazzo,2.0,ansia,2.0,sguardo,2.0,performance,3.0
+physics_017,imbarazzo,1.0,sopravvalutarsi,1.0,autostima,1.0,vergogna ,1.0
 physics_001,compagni,4.0,amici,5.0,viaggio,5.0,team,3.0
 physics_002,compagni,4.0,gruppo,3.0,,,,
 physics_003,compagni,5.0,bastardi,2.0,autismo,3.0,secchioni,3.0
@@ -13531,6 +13699,13 @@ physics_007,compagni,3.0,differenze,4.0,disinteresse,2.0,distacco,2.0
 physics_008,compagni,3.0,amici,4.0,poveretti,3.0,pregiudizi ,2.0
 physics_009,compagni,3.0,aiuto,4.0,confronto ,4.0,giudizio ,2.0
 physics_010,compagni,4.0,vita,5.0,compagnia,4.0,,
+physics_011,compagni,5.0,supporto,5.0,amici ,5.0,relazioni,5.0
+physics_012,compagni,4.0,cena,5.0,chiacchierare,4.0,studio,2.0
+physics_013,compagni,3.0,,,,,,
+physics_014,compagni,3.0,intelligenti,3.0,alessio,4.0,simpatici,3.0
+physics_015,compagni,,maschi,,diversi,,bravi,
+physics_016,compagni,4.0,colleghi,4.0,lavoro,3.0,collaborazione ,4.0
+physics_017,compagni,3.0,confronto ,4.0,crescita,5.0,invidia,1.0
 physics_001,problema,2.0,risolvere,4.0,ragionamento,4.0,idee,4.0
 physics_002,problema,3.0,soluzione,4.0,,,,
 physics_003,problema,3.0,sociale,2.0,risolvere,3.0,soluzione,3.0
@@ -13541,6 +13716,13 @@ physics_007,problema,4.0,soluzione,5.0,discussione,5.0,ostacolo,2.0
 physics_008,problema,4.0,sfida,4.0,interessante ,4.0,peculiarità ,4.0
 physics_009,problema,4.0,soluzione ,5.0,procedimento ,4.0,ragionamento ,5.0
 physics_010,problema,4.0,matematica,5.0,rosso,3.0,elementari,4.0
+physics_011,problema,5.0,soluzione ,3.0,dati,4.0,studio,4.0
+physics_012,problema,2.0,sbaglio,2.0,difficoltà,4.0,soluzione,5.0
+physics_013,problema,3.0,matematica,3.0,fisica,3.0,soluzioni,4.0
+physics_014,problema,3.0, matematica,3.0,famiglia,1.0,irrisolvibile,1.0
+physics_015,problema,3.0,risolto,4.0,inutile,3.0,classico,1.0
+physics_016,problema,3.0,soluzione ,4.0,ragionamento ,4.0,procedimento ,4.0
+physics_017,problema,3.0,stanchezza,3.0,pigrizia,1.0,sfida,3.0
 physics_001,informatica,4.0,computer,3.0,programmazione,4.0,computazione,3.0
 physics_002,informatica,3.0,programmazione,2.0,codice,2.0,analisi dati ,3.0
 physics_003,informatica,3.0,ciclo,3.0,programmare,3.0,computer,4.0
@@ -13551,6 +13733,13 @@ physics_007,informatica,4.0,alan turing,5.0,ada lovelace,5.0,john von neumann,5.
 physics_008,informatica,5.0,scienza,4.0,informazioni ,4.0,lingua,4.0
 physics_009,informatica,3.0,elaborazione ,3.0,dati,3.0,calcolatori,4.0
 physics_010,informatica,3.0,programmazione,3.0,scientifica,4.0,,
+physics_011,informatica,3.0,ovunque,5.0,specialistica,3.0,semplificare,3.0
+physics_012,informatica,3.0,programmazione,2.0,interessante,4.0,tempistica,2.0
+physics_013,informatica,3.0,curiosita,4.0,passatempo,5.0,divertimento,5.0
+physics_014,informatica,3.0,alessandro,5.0,itt,3.0,buonarrotti,3.0
+physics_015,informatica,2.0,tecnica,1.0,associativa,3.0,desiderabile,4.0
+physics_016,informatica,3.0,lavoro ,3.0,computer,3.0,ada lovelace ,5.0
+physics_017,informatica,2.0,logica,2.0,difficoltà,1.0,razionalità ,2.0
 physics_001,sfida,2.0,aggressività,2.0,dimostrare,2.0,competizione,2.0
 physics_002,sfida,3.0,problema,2.0,intraprendenza,4.0,collaborazione,5.0
 physics_003,sfida,3.0,accettata,3.0,vittoria,3.0,dimostrare,2.0
@@ -13561,6 +13750,13 @@ physics_007,sfida,4.0,superamento,5.0,prova,4.0,opportunità,5.0
 physics_008,sfida,4.0,eccitante ,3.0,capriola,3.0,torre,4.0
 physics_009,sfida,5.0,tentativo,5.0,prova,5.0,confronto,4.0
 physics_010,sfida,3.0,difficile,2.0,tempo,2.0,coppie,1.0
+physics_011,sfida,5.0,quotidiana,5.0,stimolante ,3.0,ansia ,5.0
+physics_012,sfida,4.0,gara,2.0,impertinenza,1.0,competizione,3.0
+physics_013,sfida,4.0,motivazione,5.0,gioco,4.0,sorpresa,4.0
+physics_014,sfida,3.0,difficile,1.0,provare,4.0,,
+physics_015,sfida,5.0,impossibile,4.0,divertente,5.0,esilerante,5.0
+physics_016,sfida,4.0,tentativo,4.0,successo,4.0,fallimento,2.0
+physics_017,sfida,5.0,stimolo,5.0,coraggio,5.0,autostima,5.0
 physics_001,paura,2.0,stress,1.0,ignoto,3.0,cuore,4.0
 physics_002,paura,1.0,futuro,2.0,ansia ,2.0,,
 physics_003,paura,1.0,ansia,1.0,ragni,3.0,claustrofobia,1.0
@@ -13571,6 +13767,13 @@ physics_007,paura,2.0,crisi,1.0,dubbi,2.0,blocco,1.0
 physics_008,paura,2.0,nemico,2.0,schivare,5.0,allerta,4.0
 physics_009,paura,2.0,blocco,1.0,timore,2.0,ansia,2.0
 physics_010,paura,1.0,buio,1.0,bosco,4.0,,
+physics_011,paura,5.0,notte,2.0,società,5.0,futuro,5.0
+physics_012,paura,2.0,spavento,4.0,fallimento,3.0,buio,1.0
+physics_013,paura,1.0,futuro,2.0,fallimento,1.0,universita,2.0
+physics_014,paura,2.0,io,2.0,tanta,1.0,ragni,3.0
+physics_015,paura,3.0,sentimento,4.0,valore,4.0,colore,5.0
+physics_016,paura,2.0,timore,2.0,fallimento,2.0,performance,3.0
+physics_017,paura,1.0,ansia ,1.0,ignoto ,1.0,morte,1.0
 physics_001,genitori,4.0,amore,5.0,casa,4.0,focolare,4.0
 physics_002,genitori,3.0,,,,,,
 physics_003,genitori,3.0,1,3.0,2,3.0,giorgia meloni,1.0
@@ -13581,6 +13784,13 @@ physics_007,genitori,2.0,distacco,2.0,supporto,4.0,divorzio,5.0
 physics_008,genitori,3.0,alti,3.0,giudizio,2.0,persone,3.0
 physics_009,genitori,2.0,giudizio ,1.0,distacco,2.0,comunicazione ,2.0
 physics_010,genitori,4.0,separati,2.0,dolore,1.0,pianto,1.0
+physics_011,genitori,5.0,supporto,5.0,ansia ,2.0,guidizio,5.0
+physics_012,genitori,4.0,affetto,5.0,impegno,2.0,gratuità,5.0
+physics_013,genitori,3.0,delusione,1.0,paura,1.0,bugie,1.0
+physics_014,genitori,1.0,mamma,1.0,papa,1.0,giudizio,1.0
+physics_015,genitori,4.0,sani,4.0,saggi,5.0,noiosi,3.0
+physics_016,genitori,2.0,regole ,3.0,imposizioni,2.0,aspettative,2.0
+physics_017,genitori,4.0,amore ,4.0,aspettative ,2.0,sicurezza,5.0
 physics_001,dati,3.0,blocco,2.0,ordine,4.0,conti,3.0
 physics_002,dati,3.0,analisi,2.0,laboratorio,4.0,relazione,4.0
 physics_003,dati,3.0,statistica,3.0,misura,3.0,analisi,3.0
@@ -13591,6 +13801,13 @@ physics_007,dati,3.0,analisi,3.0,tabelle,3.0,programmazione,4.0
 physics_008,dati,3.0,informazioni,4.0,misura,4.0,realtà ,4.0
 physics_009,dati,3.0,numeri,4.0,analisi,4.0,grafico,4.0
 physics_010,dati,2.0,computer,3.0,excel,4.0,,
+physics_011,dati,3.0,laboratorio,4.0,statistica,4.0,analisi,4.0
+physics_012,dati,4.0,matlab,4.0,oscilloscopio,5.0,misure,4.0
+physics_013,dati,3.0,,,,,,
+physics_014,dati,3.0,,,,,,
+physics_015,dati,2.0,analisi,2.0,studio,1.0,fatica,1.0
+physics_016,dati,3.0,misure,3.0,analisi,3.0,esperimento,3.0
+physics_017,dati,5.0,informazioni,5.0,lettura,5.0,interpretazione,5.0
 physics_001,esperimento,4.0,pragmatismo,4.0,divertimento,5.0,affascinante,5.0
 physics_002,esperimento,4.0,laboratorio,4.0,analisi,2.0,misure,3.0
 physics_003,esperimento,3.0,relazione,2.0,scoperta,4.0,statistica,3.0
@@ -13601,6 +13818,13 @@ physics_007,esperimento,4.0,dati,3.0,relazione,2.0,laboratorio,2.0
 physics_008,esperimento,4.0,tentativo,4.0,verifica,4.0,scoperta,4.0
 physics_009,esperimento,3.0,analisi,3.0,tentativo,4.0,laboratorio ,3.0
 physics_010,esperimento,4.0,scientifico,4.0,laboratorio,3.0,,
+physics_011,esperimento,5.0,apprendimento,5.0,divertente ,5.0,scuola,3.0
+physics_012,esperimento,4.0,chimica,3.0,meccanica,4.0,laboratorio,5.0
+physics_013,esperimento,3.0,,,,,,
+physics_014,esperimento,4.0,scienziato,4.0,curiosità,4.0,esiti,4.0
+physics_015,esperimento,1.0,lungo,3.0,noioso,3.0,stancante,1.0
+physics_016,esperimento,3.0,laboratorio,3.0,dati,3.0,relazione,2.0
+physics_017,esperimento,4.0,prova ,2.0,sbaglio,1.0,verifica,3.0
 physics_001,stress,1.0,lavoro,3.0,studio,4.0,vita,3.0
 physics_002,stress,2.0,ansia,2.0,agitazione,2.0,,
 physics_003,stress,1.0,esami,2.0,sessione,2.0,tempo,3.0
@@ -13611,6 +13835,13 @@ physics_007,stress,1.0,peso,1.0,blocco,1.0,sopportare ,2.0
 physics_008,stress,3.0,risposta,4.0,ahia,3.0,movimento,4.0
 physics_009,stress,1.0,aiuto,5.0,isolamento ,1.0,disagio ,1.0
 physics_010,stress,2.0,arancione,2.0,vita,5.0,,
+physics_011,stress,5.0,sempre ,5.0,domande ,5.0,vita ,3.0
+physics_012,stress,2.0,esami,3.0,sessione,2.0,solitudine,3.0
+physics_013,stress,3.0,,,,,,
+physics_014,stress,1.0,ansia,1.0,forte,1.0,io,1.0
+physics_015,stress,1.0,scuola,2.0,studio,2.0,paura,3.0
+physics_016,stress,1.0,ansia,1.0,perfomance,2.0,agitazione,1.0
+physics_017,stress,1.0,claustrofobia,1.0,adrenalina,5.0,performance ,3.0
 physics_001,intelligenza_artificiale,3.0,connessioni neurali,4.0,machine learning,3.0,ingiusto,1.0
 physics_002,intelligenza_artificiale,3.0,bias,3.0,dati,3.0,reti neurali,4.0
 physics_003,intelligenza_artificiale,4.0,bro,4.0,psicologia,4.0,enciclopedia,4.0
@@ -13621,6 +13852,13 @@ physics_007,intelligenza_artificiale,2.0,machine learning,3.0,alan turing,5.0,al
 physics_008,intelligenza_artificiale,4.0,amico,5.0,compiacere,3.0,aiuto,3.0
 physics_009,intelligenza_artificiale,3.0,rete neurale,3.0,alan turing,5.0,regolamentazione ,5.0
 physics_010,intelligenza_artificiale,2.0,odio,1.0,,,,
+physics_011,intelligenza_artificiale,4.0,strumento ,4.0,semplificazione ,4.0,velocità,4.0
+physics_012,intelligenza_artificiale,3.0,chat gpt,3.0,sciocca,2.0,analisi 2,2.0
+physics_013,intelligenza_artificiale,5.0,aiuto,5.0,gemini,3.0,studio,2.0
+physics_014,intelligenza_artificiale,4.0,utile,4.0,interessante,4.0,non paurosa,3.0
+physics_015,intelligenza_artificiale,1.0,stupidità,2.0,paura,3.0,rimpianto,2.0
+physics_016,intelligenza_artificiale,3.0,alan turing,5.0,regolamentazione,4.0,etica,4.0
+physics_017,intelligenza_artificiale,1.0,inganno,1.0,solitudine,3.0,vuoto,3.0
 physics_001,regole,3.0,imposizione,2.0,società,4.0,rompere,3.0
 physics_002,regole,3.0,,,,,,
 physics_003,regole,2.0,no,2.0,anarchia,4.0,noia,2.0
@@ -13631,6 +13869,13 @@ physics_007,regole,4.0,teorema,4.0,enunciato,3.0,rigidità,3.0
 physics_008,regole,4.0,struttura,4.0,empatia,5.0,morale,3.0
 physics_009,regole,4.0,teoremi,4.0,imposizioni ,2.0,assiomi,3.0
 physics_010,regole,4.0,comportamento,3.0,elementari,5.0,,
+physics_011,regole,5.0,matematica,5.0,sociali,5.0,,
+physics_012,regole,2.0,leggi,1.0,divieti,2.0,imposizioni,1.0
+physics_013,regole,3.0,,,,,,
+physics_014,regole,3.0,stupide,2.0,banali,2.0,idiote,2.0
+physics_015,regole,1.0,rigide,1.0,inutili,2.0,limitanti,1.0
+physics_016,regole,3.0,rigide,2.0,memoria,2.0,teoremi,4.0
+physics_017,regole,3.0,scatola,3.0,procedure,3.0,gabbie ,2.0
 physics_001,scienziato,5.0,intelligenza,4.0,curiosità,4.0,coraggio,5.0
 physics_002,scienziato,5.0,ricerca,4.0,dati,4.0,laboratorio,4.0
 physics_003,scienziato,4.0,io,4.0,fisica,5.0,chimica,3.0
@@ -13641,6 +13886,13 @@ physics_007,scienziato,4.0,lavoro,4.0,accademia,2.0,ricerca,4.0
 physics_008,scienziato,3.0,occhiali,3.0,camice,3.0,capelli,3.0
 physics_009,scienziato,4.0,studioso,4.0,curioso,4.0,ricercatore,4.0
 physics_010,scienziato,5.0,camice,4.0,laboratorio,3.0,bianco,3.0
+physics_011,scienziato,4.0,ricerca,4.0,dedizione ,4.0,impegno,4.0
+physics_012,scienziato,2.0,laboratorio,4.0,esperimenti,3.0,astronauta,5.0
+physics_013,scienziato,3.0,,,,,,
+physics_014,scienziato,4.0,laboratorio,4.0,camice,4.0,esperimento,4.0
+physics_015,scienziato,,uomo,,sincero,,triste,
+physics_016,scienziato,4.0,persona,4.0,lavoro,4.0,dedizione,5.0
+physics_017,scienziato,4.0,genio,5.0,appassionato,5.0,determinato,5.0
 physics_001,scuola,3.0,routine,3.0,amici,4.0,studio,3.0
 physics_002,scuola,4.0,imparare,4.0,,,,
 physics_003,scuola,3.0,banco,3.0,interrogazione,2.0,compagni,4.0
@@ -13651,6 +13903,13 @@ physics_007,scuola,2.0,cultura,5.0,ambiente,2.0,voti,2.0
 physics_008,scuola,3.0,luogo,3.0,maestra,3.0,gesso,3.0
 physics_009,scuola,2.0,aula,2.0,studio,4.0,insegnanti,2.0
 physics_010,scuola,3.0,superiore,3.0,infanzia,5.0,percorso,5.0
+physics_011,scuola,4.0,formazione,4.0,relazioni,4.0,amici,5.0
+physics_012,scuola,5.0,superiori,5.0,corridoi,5.0,compagni,5.0
+physics_013,scuola,3.0,,,,,,
+physics_014,scuola,3.0,liceo,1.0,galilei,1.0,professori,1.0
+physics_015,scuola,,impegno,,fatica,,concentrazione,
+physics_016,scuola,2.0,lavoro,2.0,insegnanti,2.0,regole,3.0
+physics_017,scuola,3.0,studio,3.0,contatto ,4.0,ricordi,5.0
 physics_001,creatività,5.0,mezzo,4.0,scopo,4.0,tempo libero,2.0
 physics_002,creatività,4.0,immaginazione,5.0,fantasia,4.0,,
 physics_003,creatività,5.0,storie,5.0,arte,5.0,soluzioni,5.0
@@ -13661,6 +13920,13 @@ physics_007,creatività,5.0,pensiero,5.0,arte,5.0,originalità,5.0
 physics_008,creatività,4.0,colore,3.0,adattamento,4.0,magico,5.0
 physics_009,creatività,5.0,elaborazione ,5.0,astrazione ,5.0,pensiero,5.0
 physics_010,creatività,4.0,tavolozza,5.0,colori,5.0,parlare,4.0
+physics_011,creatività,5.0,bellissima ,3.0,fondamentale ,4.0,arte ,4.0
+physics_012,creatività,5.0,colori,3.0,pittura,2.0,musica,5.0
+physics_013,creatività,5.0,scarsa,2.0,informatica,3.0,app,3.0
+physics_014,creatività,3.0,non la ho,1.0,altri la hanno,1.0,incapacità,1.0
+physics_015,creatività,,ali,,volare,,amore,
+physics_016,creatività,4.0,impegno,4.0,dedizione,5.0,schemi,4.0
+physics_017,creatività,5.0,creare ,5.0,immaginare,5.0,plasmare,5.0
 physics_001,arte,5.0,anima,5.0,creatività,5.0,espressione,5.0
 physics_002,arte,4.0,espressione,4.0,colori,4.0,musica,5.0
 physics_003,arte,5.0,bella,5.0,emozione,4.0,settima,4.0
@@ -13671,6 +13937,13 @@ physics_007,arte,5.0,bellezza,5.0,sentimento,5.0,espressione,5.0
 physics_008,arte,4.0,chiazza,4.0,magia,4.0,saluto,4.0
 physics_009,arte,5.0,creatività ,5.0,elaborazione ,5.0,abilità ,5.0
 physics_010,arte,5.0,tavolozza,5.0,colori,5.0,pennelli,4.0
+physics_011,arte,5.0,passione,4.0,dipinti,4.0,creatività,5.0
+physics_012,arte,1.0,storia,2.0,bocciatura,1.0,studio,2.0
+physics_013,arte,5.0,gioconda,3.0,musica,4.0,curiosita,5.0
+physics_014,arte,4.0,prof di arte,4.0,materia,4.0,facile,5.0
+physics_015,arte,,libertà,,parola,,amore,
+physics_016,arte,5.0,creatività ,5.0,tecnica,4.0,immaginazione,5.0
+physics_017,arte,4.0,creatività,5.0,fantasia,5.0,rifugio,4.0
 physics_001,esame,2.0,ansia,1.0,preparazione,3.0,memoria,3.0
 physics_002,esame,1.0,ansia,2.0,studio,3.0,pressione,1.0
 physics_003,esame,3.0,ansia,2.0,voto,3.0,media,3.0
@@ -13681,6 +13954,13 @@ physics_007,esame,2.0,confronto,4.0,preparazione,4.0,voto,2.0
 physics_008,esame,3.0,verifica,3.0,ostacolo,2.0,paletto,2.0
 physics_009,esame,2.0,paura,1.0,blocco,1.0,abilità ,4.0
 physics_010,esame,2.0,ansia,1.0,sollievo,4.0,vomito,2.0
+physics_011,esame,5.0,sangue ,3.0,stress,5.0,giudizio,5.0
+physics_012,esame,2.0,valutazione,4.0,studio,2.0,fatica,3.0
+physics_013,esame,2.0,fallimento,1.0,voto,2.0,paura,1.0
+physics_014,esame,3.0,maturità,1.0,zencher,1.0,difficile,1.0
+physics_015,esame,,duro,,difficile,,entusiasmante,
+physics_016,esame,2.0,esito,3.0,voto,3.0,performance,3.0
+physics_017,esame,2.0,fatica ,2.0,ansia,2.0,blocco,1.0
 physics_001,futuro,2.0,preoccupazione,2.0,incertezza,1.0,disastro,1.0
 physics_002,futuro,2.0,aspettative,1.0,sconosciuto,2.0,paura,2.0
 physics_003,futuro,3.0,canzone psicologi,4.0,prossimo,3.0,anteriore,3.0
@@ -13691,6 +13971,13 @@ physics_007,futuro,3.0,progresso,2.0,etica,5.0,incertezza,3.0
 physics_008,futuro,2.0,dopo,4.0,lontano,5.0,astratto ,2.0
 physics_009,futuro,4.0,scelta,4.0,incertezza,2.0,decisioni,4.0
 physics_010,futuro,4.0,brescia,4.0,,,,
+physics_011,futuro,5.0,incerto,5.0,stipendio,5.0,vicino,3.0
+physics_012,futuro,2.0,lavoro,3.0,pensione,4.0,fatica,4.0
+physics_013,futuro,2.0,incerto,1.0,paura,1.0,fallimento,1.0
+physics_014,futuro,2.0,incerto,2.0,lontano,1.0,irraggiungibile,1.0
+physics_015,futuro,,incerto,,pauroso,,inidente,
+physics_016,futuro,4.0,incertezza ,4.0,obiettivi ,4.0,giorno,4.0
+physics_017,futuro,2.0,incertezza,1.0,ansia ,1.0,sfide ,3.0
 physics_001,vita,3.0,amore,5.0,natura,4.0,creatività,5.0
 physics_002,vita,4.0,percorso,4.0,cammino,4.0,viaggio,5.0
 physics_003,vita,3.0,morte,3.0,nascita,3.0,tempo,3.0
@@ -13701,6 +13988,13 @@ physics_007,vita,4.0,vocazione,5.0,possibilità,5.0,diritti,5.0
 physics_008,vita,3.0,lunga,2.0,pazza,4.0,pancia,3.0
 physics_009,vita,4.0,lavoro,3.0,interesse,5.0,tempo,2.0
 physics_010,vita,4.0,morte,2.0,colori,5.0,difficile,4.0
+physics_011,vita,5.0,breve ,5.0,incerta ,5.0,colorata ,5.0
+physics_012,vita,4.0,rilassata,5.0,barca a vela,5.0,montagna,5.0
+physics_013,vita,2.0,,,,,,
+physics_014,vita,2.0,brutta,1.0,irrealizzabile,1.0,fallimento,1.0
+physics_015,vita,,bella,,gioiosa,,saggia,
+physics_016,vita,4.0,passione,5.0,dedizione,5.0,equilibrio,5.0
+physics_017,vita,3.0,viaggio,4.0,sfida ,4.0,tempo,5.0
 high_school_001,scienza,3.0,,,,,,
 high_school_002,scienza,5.0,biologia,5.0,seppia,5.0,chimica,1.0
 high_school_003,scienza,3.0,interessante,4.0,complessa,2.0,ingegnosa,4.0

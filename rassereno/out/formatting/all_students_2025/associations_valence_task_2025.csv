@@ -58,9 +58,9 @@ liceo_lin_018,scienza,3,medicina,5,biologia,4,chimica,2
 fisica_007,scienza,5,fisica,5,chimica,3,psicologia,4
 fisica_010,scienza,4,lume,4,ricerca,4,studio,3
 liceo_sci_014,scienza,4,amore,2,zoologia,5,azzurro intenso,3
-fisica_stem_001,scienza,5,blu,4,provetta,4,scienziato,5
+fisica_stem_001_1,scienza,5,blu,4,provetta,4,scienziato,5
 fisica_012,scienza,4,curiosità ,5,superiori,2,persone,4
-fisica_stem_002,scienza,4,progresso,2,conoscenza,5,natura,5
+fisica_stem_002_1,scienza,4,progresso,2,conoscenza,5,natura,5
 liceo_sci_016,scienza,4,verde,3,boccette,3,libri,3
 liceo_sci_017,scienza,5,applicata ,5,atomo ,5,universo ,5
 liceo_sci_018,scienza,3,ricerche ,5,innovazione,5,,
@@ -89,11 +89,19 @@ liceo_sci_040,scienza,5,fondamentale,5,innovazione,5,scoperte,5
 liceo_sci_041,scienza,3,esperimenti,4,mondo,4,sapere,4
 liceo_sci_042,scienza,4,divertente,4,natura,4,utile,4
 liceo_sci_043,scienza,4,molteplicità,5,interesse,5,,
-fisica_stem_003,scienza,3,studio,3,scoperta,4,accorgimenti ,4
-fisica_015,scienza,4,ricerca,4,curiosità ,5,interesse,5
+fisica_stem_003_1,scienza,3,studio,3,scoperta,4,accorgimenti ,4
+fisica_stem_002_2,scienza,4,ricerca,4,curiosità ,5,interesse,5
 liceo_063,scienza,4,metodo,4,epistemologia,4,ricerca,4
 liceo_064,scienza,4,pesante,4,importante,4,spazio,4
-fisica_016,scienza,4,azzurro,5,provette,2,,
+fisica_stem_001_2,scienza,4,azzurro,5,provette,2,,
+fisica_stem_004_1,scienza,4,vita,4,,,,
+fisica_017,scienza,4,vita,5,ricerca ,5,progresso,5
+fisica_018,scienza,4,scoperta,5,chimica,2,verde,2
+fisica_020,scienza,3,merendine,2,chimica,4,fisica,4
+fisica_021,scienza,4,barbara,3,scula elementare,3,james watson,4
+fisica_022,scienza,2,strumento,2,matematica,2,rigidità,1
+fisica_stem_002_3,scienza,4,progresso,3,ricerca,4,eitca,5
+fisica_stem_005_1,scienza,5,invenzioni,4,natura,4,creatività ,5
 interfacce_001,statistica,3,matematica,3,difficile,3,,
 interfacce_002,statistica,3,numeri,3,percentuali,4,probabilita,4
 interfacce_003,statistica,2,numeri,4, calcolo,4,,
@@ -153,9 +161,9 @@ liceo_lin_018,statistica,3,sondaggio,4,risultato,4,,
 fisica_007,statistica,3,laboratorio,3,relazione,2,noia,2
 fisica_010,statistica,3,prof,3,laboratorio ,3,esame,3
 liceo_sci_014,statistica,4,matematica,2,percentuale,3,giallo,2
-fisica_stem_001,statistica,2,panico,2,pianto,3,non capire nulla,1
+fisica_stem_001_1,statistica,2,panico,2,pianto,3,non capire nulla,1
 fisica_012,statistica,3,dati ,4,verità ,5,,
-fisica_stem_002,statistica,2,distribuzioni,4,dati,3,elaborazione,3
+fisica_stem_002_1,statistica,2,distribuzioni,4,dati,3,elaborazione,3
 liceo_sci_016,statistica,3,numeri,3,grafici,3,colori,3
 liceo_sci_017,statistica,5,analisi ,5,critica ,3,media ,3
 liceo_sci_018,statistica,3,difficile,3, matematica,4,,
@@ -184,11 +192,19 @@ liceo_sci_040,statistica,4,numeri,3,grafici,3,studio,3
 liceo_sci_041,statistica,2,analisi,2,matematica,2,dati,3
 liceo_sci_042,statistica,4,calcoli,3,percentuali,3,utile,4
 liceo_sci_043,statistica,4,popolazione,4,numeri,4,grafici,4
-fisica_stem_003,statistica,3,percentuali ,3,realtà ,3,guadagnare,3
-fisica_015,statistica,3,analisi,3,grafici,3,numeri,3
+fisica_stem_003_1,statistica,3,percentuali ,3,realtà ,3,guadagnare,3
+fisica_stem_002_2,statistica,3,analisi,3,grafici,3,numeri,3
 liceo_063,statistica,4,popolazione ,4,parametri,4,inferenza,4
 liceo_064,statistica,4,noia,3,seria,4,tabella,4
-fisica_016,statistica,2,grafici,1,excel,4,paura,1
+fisica_stem_001_2,statistica,2,grafici,1,excel,4,paura,1
+fisica_stem_004_1,statistica,2,numeri,3,fallimento,1,,
+fisica_017,statistica,5,necessaria ,5,utile ,5,noiosa,2
+fisica_018,statistica,4,laboratorio 1,4,gaussiana,4,birra,5
+fisica_020,statistica,3,matematica,3,quantistica,5,,
+fisica_021,statistica,4,compagno di classe,2,matematica,3,precisione,4
+fisica_022,statistica,2,verità,5,accuratezza,3,sintesi,4
+fisica_stem_002_3,statistica,3,dati,3,matematica,3,teoremi,3
+fisica_stem_005_1,statistica,4,linguaggio,4,lettura,5,numeri,4
 interfacce_001,ipotesi,3,dubbio,3,incertezza,2,,
 interfacce_002,ipotesi,3,domanda,4,quesito,3,pensare,4
 interfacce_003,ipotesi,3,tesi,3,scienza,4,,
@@ -248,9 +264,9 @@ liceo_lin_018,ipotesi,3,incertezza,3,possibilità,4,,
 fisica_007,ipotesi,4,tesi,4,teoria,4,prova,3
 fisica_010,ipotesi,4,tesi,4,dimostrazione,3,analisi,3
 liceo_sci_014,ipotesi,4,filosofia,5,logica,4,azzurro,3
-fisica_stem_001,ipotesi,2,teorema,4,problema,4,,
+fisica_stem_001_1,ipotesi,2,teorema,4,problema,4,,
 fisica_012,ipotesi,4,inizio,4,geometria,4,personale ,3
-fisica_stem_002,ipotesi,3,tesi,3,teorema,4,dimostrazione,4
+fisica_stem_002_1,ipotesi,3,tesi,3,teorema,4,dimostrazione,4
 liceo_sci_016,ipotesi,3,quaderno,3,triangolo,3,scienze,4
 liceo_sci_017,ipotesi,4,studio,4,riflessioni,5,pensieri ,5
 liceo_sci_018,ipotesi,3,matematica,4,scoperta,5,,
@@ -279,11 +295,19 @@ liceo_sci_040,ipotesi,4,teoria,4,esperimento,4,verificabilità,4
 liceo_sci_041,ipotesi,3,domanda,3,esperimento,4,curiosità,5
 liceo_sci_042,ipotesi,3,domanda,3,risposta,4,non saper rispondere,2
 liceo_sci_043,ipotesi,4,idea,5,intraprendenza,5,,
-fisica_stem_003,ipotesi,4,idea,4,controllare,3,novità ,3
-fisica_015,ipotesi,3,teoria,4,tesi,3,dimostrazione ,4
+fisica_stem_003_1,ipotesi,4,idea,4,controllare,3,novità ,3
+fisica_stem_002_2,ipotesi,3,teoria,4,tesi,3,dimostrazione ,4
 liceo_063,ipotesi,4,premessa,4,logica,3,tesi,4
 liceo_064,ipotesi,4,calma,5,ragionevole,5,seria,5
-fisica_016,ipotesi,4,metodo scientifico,5,filosofia,1,dubbio,2
+fisica_stem_001_2,ipotesi,4,metodo scientifico,5,filosofia,1,dubbio,2
+fisica_stem_004_1,ipotesi,3,,,,,,
+fisica_017,ipotesi,5,possibilità ,5,progetto ,5,,
+fisica_018,ipotesi,3,tesi,3,verifica,2,dimostrazione,4
+fisica_020,ipotesi,3,antitesi,3,teorema,3,,
+fisica_021,ipotesi,3,esperimento,4,problema,3,me da piccolo,4
+fisica_022,ipotesi,3,interesse,5,detection,1,fallibilità,4
+fisica_stem_002_3,ipotesi,3,tesi,3,antitesi,3,conferma,3
+fisica_stem_005_1,ipotesi,3,idea,5,creatività,5,teoremi,3
 interfacce_001,ansia,2,agitazione,2,battiti,2,,
 interfacce_002,ansia,1,stress,1,paura,1,tempo,3
 interfacce_003,ansia,2,cuore,4,,,,
@@ -343,9 +367,9 @@ liceo_lin_018,ansia,1,frequente,1,scuola,2,voti,2
 fisica_007,ansia,1,analisi,3,esami,2,sessione,2
 fisica_010,ansia,2,universita,2,inadeguatezza,2,fallimento,2
 liceo_sci_014,ansia,1,comune,3,aiuto,1,blu,2
-fisica_stem_001,ansia,2,forte,3,imprigionante,1,terribile,1
+fisica_stem_001_1,ansia,2,forte,3,imprigionante,1,terribile,1
 fisica_012,ansia,2,inadeguatezza ,1,aspettative,1,,
-fisica_stem_002,ansia,1,paralisi,1,insuccesso,1,vergogna,1
+fisica_stem_002_1,ansia,1,paralisi,1,insuccesso,1,vergogna,1
 liceo_sci_016,ansia,1,io,2,rosa,3,canzone ,5
 liceo_sci_017,ansia,2,stress,1,preoccupazione,1,nero ,5
 liceo_sci_018,ansia,1,scuola,1,voti,1,università,1
@@ -374,11 +398,19 @@ liceo_sci_040,ansia,2,respiro,5,meditazione,5,battito cardiaco,3
 liceo_sci_041,ansia,1,paura,1,stress,1,insicurezza,1
 liceo_sci_042,ansia,1,scuola,2,interrogazioni,2,,
 liceo_sci_043,ansia,1,scuola,2,capelli,1,unghie,1
-fisica_stem_003,ansia,3,ahia,2,preparazione ,4,allerta,3
-fisica_015,ansia,2,paura,2,giudizio,2,paralisi ,1
+fisica_stem_003_1,ansia,3,ahia,2,preparazione ,4,allerta,3
+fisica_stem_002_2,ansia,2,paura,2,giudizio,2,paralisi ,1
 liceo_063,ansia,2,futuro ,3,aspettative,2,,
 liceo_064,ansia,3,paura,3,sempre,3,scuola,3
-fisica_016,ansia,1,stress,1,vomito,1,pianto,1
+fisica_stem_001_2,ansia,1,stress,1,vomito,1,pianto,1
+fisica_stem_004_1,ansia,2,matematica,1,,,,
+fisica_017,ansia,5,esami,5,vita,5,futuro,5
+fisica_018,ansia,1,stress,1,unghie,1,esame,3
+fisica_020,ansia,1,prestazione,3,esame,1,,
+fisica_021,ansia,1,io,1,tanta,1,infermabile,1
+fisica_022,ansia,4,dolore,4,preoccupazione,4,sfida,5
+fisica_stem_002_3,ansia,2,stress,2,prestazione,2,paralisi,1
+fisica_stem_005_1,ansia,1,mostro,1,perdita,1,dolore,1
 interfacce_001,benessere,5,fisico,4,mentale,4,economico,4
 interfacce_002,benessere,5,soldi,5,salute,5,felicita,5
 interfacce_003,benessere,5,sauna,4,,,,
@@ -438,9 +470,9 @@ liceo_lin_018,benessere,4,salute,5,mente,5,corpo,5
 fisica_007,benessere,5,denaro,4,famiglia,5,amore,5
 fisica_010,benessere,4,relax,4,mare,4,vacanza,5
 liceo_sci_014,benessere,4,raro,2,esiste?,1,rosa,2
-fisica_stem_001,benessere,5,amore,4,sicurezza,5,affetto,5
+fisica_stem_001_1,benessere,5,amore,4,sicurezza,5,affetto,5
 fisica_012,benessere,4,società ,4,equilibrio ,5,tempo,5
-fisica_stem_002,benessere,5,equilibrio,5,consapevolezza,5,supporto,5
+fisica_stem_002_1,benessere,5,equilibrio,5,consapevolezza,5,supporto,5
 liceo_sci_016,benessere,5,salute,5,spa,5,terme,5
 liceo_sci_017,benessere,5,sauna ,5,corpo ,5,mente ,5
 liceo_sci_018,benessere,5,serenità ,5,calma,5,,
@@ -469,11 +501,19 @@ liceo_sci_040,benessere,5,salute,5,mentale,5,fisico,5
 liceo_sci_041,benessere,5,relax,5,sport,5,vacanza,5
 liceo_sci_042,benessere,4,sociale,4,economico,4,,
 liceo_sci_043,benessere,5,sport,5,relax,5,amicizie e amore,5
-fisica_stem_003,benessere,4,verde,3,sole,3,acqua ,4
-fisica_015,benessere,4,salute,5,equilibrio ,5,consapevolezza ,5
+fisica_stem_003_1,benessere,4,verde,3,sole,3,acqua ,4
+fisica_stem_002_2,benessere,4,salute,5,equilibrio ,5,consapevolezza ,5
 liceo_063,benessere,4,realizzazione ,4,misura,4,felicità ,4
 liceo_064,benessere,4,fisico,4,sala,3,soldi,3
-fisica_016,benessere,5,terme,4,psicofisico,5,fiori,5
+fisica_stem_001_2,benessere,5,terme,4,psicofisico,5,fiori,5
+fisica_stem_004_1,benessere,3,,,,,,
+fisica_017,benessere,5,speranza,3,mentale ,5,fisico,5
+fisica_018,benessere,5,mentale,4,rottura,2,malattia,1
+fisica_020,benessere,3,relax,4,casa,3,mare,2
+fisica_021,benessere,3,,,,,,
+fisica_022,benessere,4,libertà,5,solidità,4,uguaglianza,5
+fisica_stem_002_3,benessere,4,mentale,5,fisico,5,equilibrio ,5
+fisica_stem_005_1,benessere,5,riposo,5,relazioni,5,passioni,5
 interfacce_001,equazione,2,lunga,3,,,,
 interfacce_002,equazione,3,matematica,3,numeri,3,equivale,3
 interfacce_003,equazione,4,numeri,4,lettere,3,calcolo,3
@@ -533,9 +573,9 @@ liceo_lin_018,equazione,3,matematica,4,numerica,3,,
 fisica_007,equazione,3,autovalori,3,schroedinger,3,grado,3
 fisica_010,equazione,3,matematica,4,fisica,4,numeri,3
 liceo_sci_014,equazione,1,matematica,1,stabile,1,ocra,1
-fisica_stem_001,equazione,4,affascinante,4,gesso,5,sfida,2
+fisica_stem_001_1,equazione,4,affascinante,4,gesso,5,sfida,2
 fisica_012,equazione,4,informazioni,4,,,,
-fisica_stem_002,equazione,3,algebra,3,legge,3,associazione,4
+fisica_stem_002_1,equazione,3,algebra,3,legge,3,associazione,4
 liceo_sci_016,equazione,3,numeri,3,grafico,3,quadretti,3
 liceo_sci_017,equazione,,differenziale,,logaritmica ,,esponenziale ,
 liceo_sci_018,equazione,3,matematica,3,,,,
@@ -564,11 +604,19 @@ liceo_sci_040,equazione,3,numeri,3,uguale,3,risultato,4
 liceo_sci_041,equazione,3,matematica,2,numeri,3,lettere,3
 liceo_sci_042,equazione,3,utile,4,matematica,3,prima superiore,3
 liceo_sci_043,equazione,3,numeri,3,risultato,2,matematica,4
-fisica_stem_003,equazione,3,più ,3,diviso,3,fratto,3
-fisica_015,equazione,3,somma,3,legge,3,calcolo,3
+fisica_stem_003_1,equazione,3,più ,3,diviso,3,fratto,3
+fisica_stem_002_2,equazione,3,somma,3,legge,3,calcolo,3
 liceo_063,equazione,4,differenziale,4,spazio,4,fisica,4
 liceo_064,equazione,4,bella,4,lunga,4,pulita,4
-fisica_016,equazione,4,medie,3,matematica,4,,
+fisica_stem_001_2,equazione,4,medie,3,matematica,4,,
+fisica_stem_004_1,equazione,3,ansia,2,errori,1,,
+fisica_017,equazione,5,matematica,5, legge,5,quotidianità,5
+fisica_018,equazione,4,x,4,risoluzione,5,differenziale,1
+fisica_020,equazione,3,,,,,,
+fisica_021,equazione,3,facile,4,x,3,'=,3
+fisica_022,equazione,4,uguale,3,massimo,2,satirico,2
+fisica_stem_002_3,equazione,3,calcolo,3,incognita ,3,algebra,3
+fisica_stem_005_1,equazione,3,soluzione,5,sfida,4,rappresentazione,4
 interfacce_001,fisica,3,difficile,2,,,,
 interfacce_002,fisica,1,quantistica,1,moto ,3,forze,3
 interfacce_003,fisica,2,volume,3,massa,3,gravità,3
@@ -628,9 +676,9 @@ liceo_lin_018,fisica,3,fenomeni,4,gravità,4,,
 fisica_007,fisica,5,bella,5,interessante,5,universale,5
 fisica_010,fisica,4,curiosita,5,problema ,3,scoprire,4
 liceo_sci_014,fisica,1,amore,2,volare,5,arancione,1
-fisica_stem_001,fisica,4,bella,4,interessante,3,esperimento,4
+fisica_stem_001_1,fisica,4,bella,4,interessante,3,esperimento,4
 fisica_012,fisica,4,scoperta,4,sforzo,4,insaziabile ,5
-fisica_stem_002,fisica,5,matematica,5,astronomia,5,particelle,5
+fisica_stem_002_1,fisica,5,matematica,5,astronomia,5,particelle,5
 liceo_sci_016,fisica,3,numeri,3,professore,2,maiuscola,3
 liceo_sci_017,fisica,,chiocchetti,,relativita ,,plank,
 liceo_sci_018,fisica,3,test,1,esperimenti,5,,
@@ -659,11 +707,19 @@ liceo_sci_040,fisica,4,realtà,4,concetti,4,matematica,3
 liceo_sci_041,fisica,2,universo,4,esperimenti,4,progressi,4
 liceo_sci_042,fisica,3,fantasia,4,non utile,2,,
 liceo_sci_043,fisica,3,incomprensione,3,difficoltà,2,interesse,5
-fisica_stem_003,fisica,3,pesi,4,scienza,4,realtà ,4
-fisica_015,fisica,4,legge,3,realtà ,4,formalizzazione ,4
+fisica_stem_003_1,fisica,3,pesi,4,scienza,4,realtà ,4
+fisica_stem_002_2,fisica,4,legge,3,realtà ,4,formalizzazione ,4
 liceo_063,fisica,4,campo,4,conservazione,4,modello,3
 liceo_064,fisica,4,bella,4,vita,4,pesante,4
-fisica_016,fisica,5,azzurro,4,pendolo,5,meccanica,3
+fisica_stem_001_2,fisica,5,azzurro,4,pendolo,5,meccanica,3
+fisica_stem_004_1,fisica,2,ansia,2,,,,
+fisica_017,fisica,5,ovunque ,4,natura ,5,curiosità,5
+fisica_018,fisica,4,elettrodinamica,3,orale,2,meccanica,5
+fisica_020,fisica,3,,,,,,
+fisica_021,fisica,5,oss,5,aula università,3,lim,3
+fisica_022,fisica,4,amore,5,vita,5,società,2
+fisica_stem_002_3,fisica,4,quantistica ,4,matematica,4,sperimentale,3
+fisica_stem_005_1,fisica,4,equazioni ,4,natura,3,problemi ,3
 interfacce_001,innovazione,5,cambiamento,4,miglioramento,5,,
 interfacce_002,innovazione,4,novità ,4,inventare,4,creare,4
 interfacce_003,innovazione,4,novità,4,nuovo,4,scoperta,4
@@ -723,9 +779,9 @@ liceo_lin_018,innovazione,5,tecnologia,4,scienza,4,,
 fisica_007,innovazione,5,nuovo,4,oggetti,3,scienza,5
 fisica_010,innovazione,5,novità ,5,scoprire,5,studio,3
 liceo_sci_014,innovazione,3,digitale,3,scoperta,4,azzurro,3
-fisica_stem_001,innovazione,3,tecnologia,2,verde,4,,
+fisica_stem_001_1,innovazione,3,tecnologia,2,verde,4,,
 fisica_012,innovazione,3,tecnologia,4,novità ,4,sconosciuto,3
-fisica_stem_002,innovazione,2,tecnologia,2,futuro,2,etica,5
+fisica_stem_002_1,innovazione,2,tecnologia,2,futuro,2,etica,5
 liceo_sci_016,innovazione,5,robot,5,tecnologia,5,futuro,5
 liceo_sci_017,innovazione,,futuro,,ignoto,,geniale ,
 liceo_sci_018,innovazione,5,progresso ,5,scoperte,5,,
@@ -754,11 +810,19 @@ liceo_sci_040,innovazione,5,scoperta,5,utilità,5,progresso,5
 liceo_sci_041,innovazione,4,tecnologia,3,progressi,4,futuro,3
 liceo_sci_042,innovazione,4,nuovo,4,risposte,4,critiche,3
 liceo_sci_043,innovazione,5,curiosità,5,intraprendenza,5,sopresa,5
-fisica_stem_003,innovazione,4,novità ,4,differenza ,4,prospettiva ,4
-fisica_015,innovazione,3,ricerca,4,novità ,4,regolamentazione ,5
+fisica_stem_003_1,innovazione,4,novità ,4,differenza ,4,prospettiva ,4
+fisica_stem_002_2,innovazione,3,ricerca,4,novità ,4,regolamentazione ,5
 liceo_063,innovazione,4,interessante,4,ponderare,3,perché ,3
 liceo_064,innovazione,3,tecnologica,3,noia,3,vestito,2
-fisica_016,innovazione,2,scienza,4,tecnologia,2,ricerca,4
+fisica_stem_001_2,innovazione,2,scienza,4,tecnologia,2,ricerca,4
+fisica_stem_004_1,innovazione,3,paura,2,,,,
+fisica_017,innovazione,5,scienza ,5,arte ,5,vita ,3
+fisica_018,innovazione,2,scienze,3,invenzione,4,ricerca,2
+fisica_020,innovazione,3,,,,,,
+fisica_021,innovazione,4,,,,,,
+fisica_022,innovazione,5,nuova,5,cambiamento,5,analisi,3
+fisica_stem_002_3,innovazione,3,tecnologia,3,progresso,3,etica,4
+fisica_stem_005_1,innovazione,3,genialità ,5,creatività,5,tecnica,5
 interfacce_001,panico,2,sbagliare,2,disagio,1,,
 interfacce_002,panico,1,paura,1,agitazione,1,grida,1
 interfacce_003,panico,2,ansia,2,preoccupazione,2,,
@@ -818,9 +882,9 @@ liceo_lin_018,panico,1,immotivato,1,repressione ,1,,
 fisica_007,panico,1,lazza,3,attacco,1,ansia,1
 fisica_010,panico,1,ansia,1,paura,1,attacco,1
 liceo_sci_014,panico,1,comune,1,aiuto ,1,viola scuro,1
-fisica_stem_001,panico,2,stomaco,1,formiche,2,vomito,1
+fisica_stem_001_1,panico,2,stomaco,1,formiche,2,vomito,1
 fisica_012,panico,2,neffa,4,soffocamento,1,inadeguatezza ,1
-fisica_stem_002,panico,1,paralisi,1,nebbia mentale,1,crisi,1
+fisica_stem_002_1,panico,1,paralisi,1,nebbia mentale,1,crisi,1
 liceo_sci_016,panico,1,ansia,1,aria,3,bianco,3
 liceo_sci_017,panico,,follia,,ansia ,,insicurezza ,
 liceo_sci_018,panico,1,futuro,4,voti,1,,
@@ -849,11 +913,19 @@ liceo_sci_040,panico,1,paura,2,perdita del controlloi,1,illogico,1
 liceo_sci_041,panico,1,confusione,2,no controllo,1,problema,2
 liceo_sci_042,panico,2,paura,3,punto di domanda,2,respiro affannoso,2
 liceo_sci_043,panico,1,attacchi,1,crisi,1,buco nero,1
-fisica_stem_003,panico,3,correre,4,scappare,2,difesa,2
-fisica_015,panico,1,paura,2,terrore,2,paralisi,1
+fisica_stem_003_1,panico,3,correre,4,scappare,2,difesa,2
+fisica_stem_002_2,panico,1,paura,2,terrore,2,paralisi,1
 liceo_063,panico,2,angoscia,2,improvviso,3,confusione ,3
 liceo_064,panico,2,scuola,3,strada,3,lontano,2
-fisica_016,panico,1,ansia,1,pianto,1,,
+fisica_stem_001_2,panico,1,ansia,1,pianto,1,,
+fisica_stem_004_1,panico,2,pressione,1,,,,
+fisica_017,panico,5,spesso,2,esami,5,futuro,5
+fisica_018,panico,1,urlo,2,paura,2,imbarazzo,2
+fisica_020,panico,3,,,,,,
+fisica_021,panico,2,forte,1,subuito,1,veloce,1
+fisica_022,panico,1,paura,1,tremore,4,inuguaglianza,2
+fisica_stem_002_3,panico,2,paralisi,1,blocco,2,nebbia,1
+fisica_stem_005_1,panico,1,vergogna,1,ansia ,1,paura,1
 interfacce_001,meditazione,4,rilassamento,5,respiro,5,,
 interfacce_002,meditazione,3,zen,3,yoga,3,solo,4
 interfacce_003,meditazione,4,yoga,4,calma,4,,
@@ -913,9 +985,9 @@ liceo_lin_018,meditazione,4,libera la mente,4,connessione con lo spazio,4,sciogl
 fisica_007,meditazione,3,yoga,3,zen,3,pace,4
 fisica_010,meditazione,4,riflettere,4,scoprire,4,pensare,4
 liceo_sci_014,meditazione,4,amo,5,calma,4,verde cobalto,4
-fisica_stem_001,meditazione,4,zen,2,monaco,2,,
+fisica_stem_001_1,meditazione,4,zen,2,monaco,2,,
 fisica_012,meditazione,5,buddismo ,3,calma,5,salute ,5
-fisica_stem_002,meditazione,5,isolamento,5,elaborazione,5,rilassamento,4
+fisica_stem_002_1,meditazione,5,isolamento,5,elaborazione,5,rilassamento,4
 liceo_sci_016,meditazione,4,india,3,calma,4,mente,4
 liceo_sci_017,meditazione,,riposo ,,anima,,buddismo ,
 liceo_sci_018,meditazione,1,inutile,1,,,,
@@ -944,11 +1016,19 @@ liceo_sci_040,meditazione,5,respirazione,5,visualizzazione,5,salute,5
 liceo_sci_041,meditazione,4,relax,5,introspezione,4,calma,4
 liceo_sci_042,meditazione,3,noioso,2,ansia,2,scappare,2
 liceo_sci_043,meditazione,5,relax,5,benessere,5,pace,5
-fisica_stem_003,meditazione,5,pausa,4,riflessione,4,grounding,5
-fisica_015,meditazione,4,ragionamento ,4,calma ,5,pace,5
+fisica_stem_003_1,meditazione,5,pausa,4,riflessione,4,grounding,5
+fisica_stem_002_2,meditazione,4,ragionamento ,4,calma ,5,pace,5
 liceo_063,meditazione,4,silenzio ,4,interiorità ,4,calma,4
 liceo_064,meditazione,3,yoga,3,silenzio,4,noia,4
-fisica_016,meditazione,4,zen,3,monaco,5,chiusura,3
+fisica_stem_001_2,meditazione,4,zen,3,monaco,5,chiusura,3
+fisica_stem_004_1,meditazione,3,inutile,3,,,,
+fisica_017,meditazione,5,servirebbe,3,lenta ,4,noiosa,4
+fisica_018,meditazione,3,cuffie,3,vento,4,silenzio,5
+fisica_020,meditazione,3,,,,,,
+fisica_021,meditazione,3,,,,,,
+fisica_022,meditazione,4,profonda,5,inutile,3,strad,3
+fisica_stem_002_3,meditazione,3,rilassamento,4,concentrazione,4,silenzio,5
+fisica_stem_005_1,meditazione,3,rilassamento ,5,riposo,5,cura,5
 interfacce_001,matematica,3,logica,3,concentrazione,4,,
 interfacce_002,matematica,3,numeri,3,addizioni,3,sottrazioni,3
 interfacce_003,matematica,4,numeri,4,calcoli,4,problemi,4
@@ -1008,9 +1088,9 @@ liceo_lin_018,matematica,4,comprendere,4,esercitare,4,apre la mente,4
 fisica_007,matematica,3,analisi,2,astratta,3,infinito,3
 fisica_010,matematica,4,numeri,3,analisi,3,prof,3
 liceo_sci_014,matematica,3,bella,3,odio,2,blu,2
-fisica_stem_001,matematica,4,numeri,5,algebra,4,ordine,4
+fisica_stem_001_1,matematica,4,numeri,5,algebra,4,ordine,4
 fisica_012,matematica,5,logica,5,conseguenza,3,umanità ,5
-fisica_stem_002,matematica,5,fisica,5,astrazione,5,ordine,5
+fisica_stem_002_1,matematica,5,fisica,5,astrazione,5,ordine,5
 liceo_sci_016,matematica,3,materia,2,importante,3,difficile,2
 liceo_sci_017,matematica,5,equazione,5,log ,5,derivata,5
 liceo_sci_018,matematica,3,test,1,soddisfacente ,4,,
@@ -1039,11 +1119,19 @@ liceo_sci_040,matematica,4,numeri,4,operazioni,4,ideale,3
 liceo_sci_041,matematica,2,calcoli,2,ragionamento,4,soluzioni,4
 liceo_sci_042,matematica,3,paura,2,interrogazioni,2,domande,3
 liceo_sci_043,matematica,4,razionalità,5,coerenza,5,linearità,5
-fisica_stem_003,matematica,3,numeri,2,squadra,2,base,5
-fisica_015,matematica,4,ragionamento ,5,astrazione ,5,rigore ,4
+fisica_stem_003_1,matematica,3,numeri,2,squadra,2,base,5
+fisica_stem_002_2,matematica,4,ragionamento ,5,astrazione ,5,rigore ,4
 liceo_063,matematica,5,ordine,4,definizione ,4,sorpresa,4
 liceo_064,matematica,4,scuola,4,ora,4,libr,4
-fisica_016,matematica,4,numeri,4,equazione,5,bellezza,5
+fisica_stem_001_2,matematica,4,numeri,4,equazione,5,bellezza,5
+fisica_stem_004_1,matematica,3,ansia,2,numeri,2,errori,1
+fisica_017,matematica,4,utile ,4,noiosa,2,strumento,4
+fisica_018,matematica,2,analisi,1,bocciatura,3,amarezza,2
+fisica_020,matematica,3,fisica,3,challenge,4,studio,
+fisica_021,matematica,4,professore universitario,4,analisi,4,geometria,3
+fisica_022,matematica,,pura,,applicata,,algebra,
+fisica_stem_002_3,matematica,4,logica,4,algebra,4,analisi,4
+fisica_stem_005_1,matematica,4,alfabeto,3,difficile ,2,bella,4
 interfacce_001,analisi,3,lunga,3,,,,
 interfacce_002,analisi,2,esame,2,igegneria,1,difficile,2
 interfacce_003,analisi,4,matematica,4,numeri,4,,
@@ -1103,9 +1191,9 @@ liceo_lin_018,analisi,3,grammaticale,2,critica,4,consapevole,5
 fisica_007,analisi,3,1,4,2,2,ansia,1
 fisica_010,analisi,4,matematic,4,1,4,2,2
 liceo_sci_014,analisi,3,dati,3,logica,4,blu,2
-fisica_stem_001,analisi,3,matematica,4,psicoanalitica,4,,
+fisica_stem_001_1,analisi,3,matematica,4,psicoanalitica,4,,
 fisica_012,analisi,4,integrali,3,dati,3,attenzione ,4
-fisica_stem_002,analisi,4,dati,2,matematica,4,calcolo,4
+fisica_stem_002_1,analisi,4,dati,2,matematica,4,calcolo,4
 liceo_sci_016,analisi,3,statistica,3,sangue,4,ago,4
 liceo_sci_017,analisi,3,dati ,3,esperimenti ,5,situazionale ,3
 liceo_sci_018,analisi,3,numeri,4,matematica,3,grafici,3
@@ -1134,11 +1222,19 @@ liceo_sci_040,analisi,4,dati,4,finanza,3,senso,5
 liceo_sci_041,analisi,3,matematica,2,dati,3,statistiche,3
 liceo_sci_042,analisi,3,matematica,3,scientifica,3,università,3
 liceo_sci_043,analisi,4,schemi,2,rigidità,2,accuratezza,5
-fisica_stem_003,analisi,3,controllo,3,pensiero,4,medico,5
-fisica_015,analisi,3,dati,3,funzione,4,limite,3
+fisica_stem_003_1,analisi,3,controllo,3,pensiero,4,medico,5
+fisica_stem_002_2,analisi,3,dati,3,funzione,4,limite,3
 liceo_063,analisi,4,variazione,4,r,4,fisica ,4
 liceo_064,analisi,3,sangue,2,esame,3,urine,2
-fisica_016,analisi,5,matematica,5,laboratorio,3,sangue,2
+fisica_stem_001_2,analisi,5,matematica,5,laboratorio,3,sangue,2
+fisica_stem_004_1,analisi,2,ansia,2,errori,3,,
+fisica_017,analisi,4,laboratorio ,5,quotidiane ,3,,
+fisica_018,analisi,2,bocciatura,4,rabbia,2,rassegnazione,1
+fisica_020,analisi,3,1,3,matematica,3,curiosita,5
+fisica_021,analisi,4,matematica,4,professore universitario,4,materia,3
+fisica_022,analisi,,profonda,,noiosa,,faticosa,
+fisica_stem_002_3,analisi,3,logica,4,dati,3,teoremi,3
+fisica_stem_005_1,analisi,2,vergogna,1,stanchezza ,2,autostima ,1
 interfacce_001,scoperta,5,positiva,5,bella,5,,
 interfacce_002,scoperta,3,nuovo,3,trovato,3,innovativo,4
 interfacce_003,scoperta,4,america,3,novità,3,,
@@ -1198,9 +1294,9 @@ liceo_lin_018,scoperta,4,scientifica,4,branche,3,,
 fisica_007,scoperta,5,scienza,5,ricerca,5,università ,4
 fisica_010,scoperta,5,scienza,5,laboratorio,3,novita,5
 liceo_sci_014,scoperta,4,america,1,scienza,3,giallo,2
-fisica_stem_001,scoperta,5,america,3,scientifica,4,emozioni,5
+fisica_stem_001_1,scoperta,5,america,3,scientifica,4,emozioni,5
 fisica_012,scoperta,5,entusiasmo ,5,fame,5,batticuore,5
-fisica_stem_002,scoperta,4,svolta,4,riconoscimento,4,prestigio,4
+fisica_stem_002_1,scoperta,4,svolta,4,riconoscimento,4,prestigio,4
 liceo_sci_016,scoperta,5,fossili,5,deserto,3,cappello,3
 liceo_sci_017,scoperta,5,nuova,5,affascinante ,5,culturale ,5
 liceo_sci_018,scoperta,5,scienziata,3,informazioni,5,,
@@ -1229,11 +1325,19 @@ liceo_sci_040,scoperta,5,sorpresa,5,utilità,5,eccitazione,5
 liceo_sci_041,scoperta,4,progresso,4,obiettivo,5,novità,4
 liceo_sci_042,scoperta,4,avventura,4,nuovo,4,divertente,4
 liceo_sci_043,scoperta,5,curiosità,5,stupore,5,,
-fisica_stem_003,scoperta,4,mago,4,pilastro,3,nuovo,3
-fisica_015,scoperta,4,rivoluzione ,4,riconoscimento ,4,prestigio,3
+fisica_stem_003_1,scoperta,4,mago,4,pilastro,3,nuovo,3
+fisica_stem_002_2,scoperta,4,rivoluzione ,4,riconoscimento ,4,prestigio,3
 liceo_063,scoperta,4,fascino,4,esaltazione ,3,indagine ,4
 liceo_064,scoperta,3,america,2,faccia,3,alla,4
-fisica_016,scoperta,5,esploratore,5,arancione,4,stupore,5
+fisica_stem_001_2,scoperta,5,esploratore,5,arancione,4,stupore,5
+fisica_stem_004_1,scoperta,5,gioia,5,,,,
+fisica_017,scoperta,5,scientifica ,5,invenzione ,5,meraviglia,5
+fisica_018,scoperta,2,articolo,2,pubblicazione,3,ricerca,1
+fisica_020,scoperta,4,scientifica,4,sorpresa,4,casualita,3
+fisica_021,scoperta,4,einstein,3,svolta,5,,
+fisica_022,scoperta,,entusiasmo,,vita,,miracolo,
+fisica_stem_002_3,scoperta,4,curiosità ,4,dedizione,5,svolta,4
+fisica_stem_005_1,scoperta,4,genialità ,5,immaginazione,5,fortuna ,4
 interfacce_001,scienziata,4,matta,4,,,,
 interfacce_002,scienziata,3,donna,3,scienza,4,laboratorio,3
 interfacce_003,scienziata,4,donna,4,,,,
@@ -1293,9 +1397,9 @@ liceo_lin_018,scienziata,4,studio,4,ricerca,4,applica,4
 fisica_007,scienziata,5,amica,4,fisica,5,ricerca,5
 fisica_010,scienziata,5,donna,5,scienza,5,laboratorio,4
 liceo_sci_014,scienziata,4,marie curie,4,meraviglia,4,blu,3
-fisica_stem_001,scienziata,4,brava,3,intelligente,4,tra le nuvole,4
+fisica_stem_001_1,scienziata,4,brava,3,intelligente,4,tra le nuvole,4
 fisica_012,scienziata,5,marie curie,4,difficoltà ,3,forza ,5
-fisica_stem_002,scienziata,5,diritti,5,lavoro,5,storia della scienza,5
+fisica_stem_002_1,scienziata,5,diritti,5,lavoro,5,storia della scienza,5
 liceo_sci_016,scienziata,4,camice ,3,provette,3,verde,4
 liceo_sci_017,scienziata,5,pazza,5,matta ,5,azzolini,5
 liceo_sci_018,scienziata,5,ricerche,5,novità,5,esperimenti,5
@@ -1324,11 +1428,19 @@ liceo_sci_040,scienziata,5,intuito,5,logica,5,curiosità,5
 liceo_sci_041,scienziata,3,biologia,4,esperimenti,4,studi,3
 liceo_sci_042,scienziata,3,bello,4,interessante,4,biologia,4
 liceo_sci_043,scienziata,3,camice,3,scienze,4,chimica,5
-fisica_stem_003,scienziata,3,capelli,3,occhiali,3,mantello,3
-fisica_015,scienziata,5,ricercatrice,5,curiosa,5,studiosa,4
+fisica_stem_003_1,scienziata,3,capelli,3,occhiali,3,mantello,3
+fisica_stem_002_2,scienziata,5,ricercatrice,5,curiosa,5,studiosa,4
 liceo_063,scienziata,4,ricercatrice,4,empirismo ,4,dati,4
 liceo_064,scienziata,3,donna,4,curie,,laboratorio,4
-fisica_016,scienziata,5,camice,4,pazza,2,cuore,4
+fisica_stem_001_2,scienziata,5,camice,4,pazza,2,cuore,4
+fisica_stem_004_1,scienziata,5,,,,,,
+fisica_017,scienziata,4,singolarità ,3,isolata,2,modello,4
+fisica_018,scienziata,3,ricerca,3,laboratorio,4,nobel,5
+fisica_020,scienziata,5,donna,4,curie,3,chimica,4
+fisica_021,scienziata,4,marie curie,5,camice,3,laboratorio,3
+fisica_022,scienziata,,bella,,debole,,onesta,
+fisica_stem_002_3,scienziata,4,lavoro ,4,equità ,5,discriminazione ,1
+fisica_stem_005_1,scienziata,5,stereotipi ,1,genialità ,5,equilibrio ,5
 interfacce_001,docente,4,severo,3,,,,
 interfacce_002,docente,3,prof,3,insegnante,3,spiegare,3
 interfacce_003,docente,3,professore,3,persona,3,scuola,2
@@ -1388,9 +1500,9 @@ liceo_lin_018,docente,3,comprensivo,5,inflessibile,2,indifferente,1
 fisica_007,docente,3,bravo,4,pessimo,1,svogliato,2
 fisica_010,docente,4,donna,5,insegnsnte,3,studenti,4
 liceo_sci_014,docente,2,odio,2,inaffidabile,1,ocra,2
-fisica_stem_001,docente,2,scuola,3,capo,3,distante,2
+fisica_stem_001_1,docente,2,scuola,3,capo,3,distante,2
 fisica_012,docente,5,ammirazione ,5,passione,5,ingegno,5
-fisica_stem_002,docente,2,insegnante,3,guida,5,responsabilità,2
+fisica_stem_002_1,docente,2,insegnante,3,guida,5,responsabilità,2
 liceo_sci_016,docente,3,,,,,,
 liceo_sci_017,docente,5,chiocchetti ,5,ghedina,5,palatela,5
 liceo_sci_018,docente,1,ansia,1,voti,1,,
@@ -1419,11 +1531,19 @@ liceo_sci_040,docente,4,guida,5,riferimento,5,cultura,5
 liceo_sci_041,docente,3,insegnante,3,affidabile,4,lavoratore,3
 liceo_sci_042,docente,2,esterno/lontano,2,verifiche,2,,
 liceo_sci_043,docente,4,scuola,1,lavagna,3,verifiche,1
-fisica_stem_003,docente,4,stressato,3,ascolto,3,parlare,3
-fisica_015,docente,3,insicurezza ,1,giudizio ,3,confronto ,4
+fisica_stem_003_1,docente,4,stressato,3,ascolto,3,parlare,3
+fisica_stem_002_2,docente,3,insicurezza ,1,giudizio ,3,confronto ,4
 liceo_063,docente,4,guida,4,umano ,4,esperienza ,4
 liceo_064,docente,4,insegnante,4,maestro,3,scuola,4
-fisica_016,docente,2,insegnante,3,università,3,distante,2
+fisica_stem_001_2,docente,2,insegnante,3,università,3,distante,2
+fisica_stem_004_1,docente,3,autoritario,4,,,,
+fisica_017,docente,5,umano,5,presente ,4,tramite ,5
+fisica_018,docente,4,insegnare,5,interessante,4,persona,5
+fisica_020,docente,3,ansia,1,occhi azzurri,3,,
+fisica_021,docente,3,cattivo,1,lontano,2,migliore di me,2
+fisica_022,docente,,noioso,,sistema,,casa,
+fisica_stem_002_3,docente,3,insegnante,3,voto,2,curiosità ,5
+fisica_stem_005_1,docente,4,insegna,4,vergogna,1,intelligenza ,5
 interfacce_001,programmazione,4,informatica,4,,,,
 interfacce_002,programmazione,4,java,3,html,4,c++,4
 interfacce_003,programmazione,4,informatica,3,ordine,4,,
@@ -1483,9 +1603,9 @@ liceo_lin_018,programmazione,2,difficile,4,rigida,3,,
 fisica_007,programmazione,2,scientifica,3,computer,4,python,3
 fisica_010,programmazione,4,computer,4,c,3,phyton,3
 liceo_sci_014,programmazione,4,informatica,3,divertente,4,verde,4
-fisica_stem_001,programmazione,3,scientifica,4,computer,3,,
+fisica_stem_001_1,programmazione,3,scientifica,4,computer,3,,
 fisica_012,programmazione,4,divertente,5,curiosità ,5,ingegno,5
-fisica_stem_002,programmazione,3,coding,3,linguaggio,5,interfaccia,3
+fisica_stem_002_1,programmazione,3,coding,3,linguaggio,5,interfaccia,3
 liceo_sci_016,programmazione,4,informatica,3,c++,3,cavo,3
 liceo_sci_017,programmazione,,tabella ,,schema ,,organizzazione,
 liceo_sci_018,programmazione,3,informatica,3,futuro,4,innovazione,4
@@ -1514,11 +1634,19 @@ liceo_sci_040,programmazione,4,orari,4,incastri,4,efficacia,5
 liceo_sci_041,programmazione,3,computer,3,tecnologia,3,programmi,3
 liceo_sci_042,programmazione,3,utile,4,,,,
 liceo_sci_043,programmazione,1,ansia,1,sicurezza,4,liste,1
-fisica_stem_003,programmazione,5,tentativo ,4,progetto,4,magia,4
-fisica_015,programmazione,4,coding,4,dati,3,funzioni,4
+fisica_stem_003_1,programmazione,5,tentativo ,4,progetto,4,magia,4
+fisica_stem_002_2,programmazione,4,coding,4,dati,3,funzioni,4
 liceo_063,programmazione,4,strumento ,4,organizzazione ,4,informatica,3
 liceo_064,programmazione,2,scupla,2,carte,2,risultati,2
-fisica_016,programmazione,4,scientifica,4,esame,2,calendario,3
+fisica_stem_001_2,programmazione,4,scientifica,4,esame,2,calendario,3
+fisica_stem_004_1,programmazione,1,ansia,2,,,,
+fisica_017,programmazione,5,organizzare,5,dead line ,5,ansia ,5
+fisica_018,programmazione,3,c,2,informatici,4,ingegneria,3
+fisica_020,programmazione,3,ubuntu,3,c++,3,passatempo,4
+fisica_021,programmazione,4,informatica,4,non so farla,3,altri invece si,2
+fisica_022,programmazione,2,futuro,2,mania,1,sensazione,3
+fisica_stem_002_3,programmazione,3,coding,4,computer,4,informatica,4
+fisica_stem_005_1,programmazione,3,codice ,3,pensiero,4,astrazione,5
 interfacce_001,laboratorio,3,prove,3,esperimenti,2,,
 interfacce_002,laboratorio,3,studiare,3,esperimento,3,prove,3
 interfacce_003,laboratorio,4,chimica,1,scienza,4,provette,3
@@ -1578,9 +1706,9 @@ liceo_lin_018,laboratorio,3,fisica,4,chimica,2,biologia,4
 fisica_007,laboratorio,3,relazione,2,smanettare,3,statistica ,2
 fisica_010,laboratorio,5,esperimento ,4,fisica,5,chimica,3
 liceo_sci_014,laboratorio,4,lezione,2,esperiemento,3,ocra,3
-fisica_stem_001,laboratorio,4,fisica,5,divertente,4,,
+fisica_stem_001_1,laboratorio,4,fisica,5,divertente,4,,
 fisica_012,laboratorio,4,divertente,4,fiero ,4,lungo,2
-fisica_stem_002,laboratorio,2,esperimento,4,dati,3,attrezzature,4
+fisica_stem_002_1,laboratorio,2,esperimento,4,dati,3,attrezzature,4
 liceo_sci_016,laboratorio,3,guanti,3,verde,4,provette,3
 liceo_sci_017,laboratorio,,scienza ,,fisica,,cescatti,
 liceo_sci_018,laboratorio,3,scienze,3,fisica,3,esperimenti,4
@@ -1609,11 +1737,19 @@ liceo_sci_040,laboratorio,4,chimica,4,esperimento,5,becker,3
 liceo_sci_041,laboratorio,4,esperimenti,4,scienza,4,scoperte,5
 liceo_sci_042,laboratorio,3,esperimenti,3,paura,2,scoperta,4
 liceo_sci_043,laboratorio,4,esperimenti,4,compagni,5,conoscenze,5
-fisica_stem_003,laboratorio,4,provette,3,esperimenti,5,lavoro,4
-fisica_015,laboratorio,3,analisi,3,matlab,2,strumentazione ,3
+fisica_stem_003_1,laboratorio,4,provette,3,esperimenti,5,lavoro,4
+fisica_stem_002_2,laboratorio,3,analisi,3,matlab,2,strumentazione ,3
 liceo_063,laboratorio,4,scoperta,4,lavoro ,3,investimenti,3
 liceo_064,laboratorio,4,scuola,4,bello,4,tempo,2
-fisica_016,laboratorio,4,fisica,5,scienza,4,terra,5
+fisica_stem_001_2,laboratorio,4,fisica,5,scienza,4,terra,5
+fisica_stem_004_1,laboratorio,5,libertà,5,,,,
+fisica_017,laboratorio,4,divertente,5,interattivo,5,pratico,5
+fisica_018,laboratorio,5,chimica,2,pericolo,3,elettronica,4
+fisica_020,laboratorio,4,fisica,4,cannone,3,compagni,3
+fisica_021,laboratorio,4,scienziato,4,camice,3,esperimento,4
+fisica_022,laboratorio,2,chiuso,1,buio,1,freddo,1
+fisica_stem_002_3,laboratorio,3,sessione,3,relazione,2,esperimento,3
+fisica_stem_005_1,laboratorio,3,prova,4,esperimento ,4,gioco ,5
 interfacce_001,conoscenza,5,cultura,5,aiuto,4,vita,5
 interfacce_002,conoscenza,4,sapere,4,libri,4,studio,3
 interfacce_003,conoscenza,4,sapere,4,,,,
@@ -1673,9 +1809,9 @@ liceo_lin_018,conoscenza,5,ampia,4,critica,4,dogmatica,1
 fisica_007,conoscenza,3,saggezza,3,informazioni,4,rappresentazione,4
 fisica_010,conoscenza,5,filosofia,5,studiare,5,cultura,5
 liceo_sci_014,conoscenza,5,sapere,5,intelligenza,5,trasparente,2
-fisica_stem_001,conoscenza,4,mela,3,,,,
+fisica_stem_001_1,conoscenza,4,mela,3,,,,
 fisica_012,conoscenza,5,sete,5,bere,5,volontà,4
-fisica_stem_002,conoscenza,5,libertà,5,cultura,5,potere,4
+fisica_stem_002_1,conoscenza,5,libertà,5,cultura,5,potere,4
 liceo_sci_016,conoscenza,5,,1,,,,
 liceo_sci_017,conoscenza,,totale,,teorica ,,pratica,
 liceo_sci_018,conoscenza,5,cultura,5,maturità,5,,
@@ -1704,11 +1840,19 @@ liceo_sci_040,conoscenza,5,libri,5,cultura,5,saggezza,5
 liceo_sci_041,conoscenza,5,sapere,5,curiosità,5,cultura,5
 liceo_sci_042,conoscenza,4,scientifica,4,sapere,4,risposte,4
 liceo_sci_043,conoscenza,5,cultura,5,interesse,5,scuola,2
-fisica_stem_003,conoscenza,4,apprendere,4,pensare,4,elaborate,4
-fisica_015,conoscenza,5,curiosità ,5,cultura,5,abilità ,5
+fisica_stem_003_1,conoscenza,4,apprendere,4,pensare,4,elaborate,4
+fisica_stem_002_2,conoscenza,5,curiosità ,5,cultura,5,abilità ,5
 liceo_063,conoscenza,4,oggettiva,3,ambizione ,3,ricerca,4
 liceo_064,conoscenza,4,piacere,4,enigma,3,immediata,3
-fisica_016,conoscenza,5,libri,4,saggezza,5,,
+fisica_stem_001_2,conoscenza,5,libri,4,saggezza,5,,
+fisica_stem_004_1,conoscenza,5,ansia,2,,,,
+fisica_017,conoscenza,5,cultura,5,indipendenza ,5,libertà,4
+fisica_018,conoscenza,4,studio,2,intelligenza,2,mentalità,4
+fisica_020,conoscenza,5,polivalente,5,versatilità,5,futuro,1
+fisica_021,conoscenza,3,tanta,4,importante,4,voglia di averne di più,5
+fisica_022,conoscenza,4,stupida,3,banale,2,inutile,2
+fisica_stem_002_3,conoscenza,5,sapere,5,saggezza,5,potere,5
+fisica_stem_005_1,conoscenza,5,stanchezza ,2,tentativi,2,disciplina,2
 interfacce_001,fallimento,1,caduta,2,,,,
 interfacce_002,fallimento,1,perdere,1,non farcela,1,demoralizzante,2
 interfacce_003,fallimento,1,vergogna,2,delusione,2,,
@@ -1768,9 +1912,9 @@ liceo_lin_018,fallimento,3,possibilità,3,caduta,2,ripartenza,5
 fisica_007,fallimento,1,fantapapa,3,fantasanremo,3,fantacalcio,1
 fisica_010,fallimento,1,esami ,3,bocciatura,1,universita,4
 liceo_sci_014,fallimento,1,io,1,disappunto,1,viola scuro,1
-fisica_stem_001,fallimento,2,caduta,2,suicidio,1,pianto,2
+fisica_stem_001_1,fallimento,2,caduta,2,suicidio,1,pianto,2
 fisica_012,fallimento,3,problemi,2,imparare,4,tempo,3
-fisica_stem_002,fallimento,1,reindirizzamento,4,errore,2,valore,2
+fisica_stem_002_1,fallimento,1,reindirizzamento,4,errore,2,valore,2
 liceo_sci_016,fallimento,1,delusione,1,tristezza,1,rabbia,1
 liceo_sci_017,fallimento,,personale,,calcistico,,lavorativo,
 liceo_sci_018,fallimento,1,incapacità,1,,,,
@@ -1799,11 +1943,19 @@ liceo_sci_040,fallimento,2,tristezza,2,denti stretti,5,lezione,4
 liceo_sci_041,fallimento,2,ripresa,5,coraggio,5,non motivato,2
 liceo_sci_042,fallimento,2,riprovare,4,esercitarsi,4,delusione,2
 liceo_sci_043,fallimento,1,delusione,1,pianto,1,vuoto,1
-fisica_stem_003,fallimento,3,sbaglio,3,tentativo,4,incoscienza ,4
-fisica_015,fallimento,2,paura,2,giudizio ,2,inadeguatezza ,1
+fisica_stem_003_1,fallimento,3,sbaglio,3,tentativo,4,incoscienza ,4
+fisica_stem_002_2,fallimento,2,paura,2,giudizio ,2,inadeguatezza ,1
 liceo_063,fallimento,4,opportunità ,4,naturale,4,insoddisfazione ,2
 liceo_064,fallimento,2,soldi,2,società,3,dolore,2
-fisica_016,fallimento,1,catastrofe,1,disastro,2,,
+fisica_stem_001_2,fallimento,1,catastrofe,1,disastro,2,,
+fisica_stem_004_1,fallimento,1,ansia,2,,,,
+fisica_017,fallimento,5,possibile ,4,delusione ,5,paura,5
+fisica_018,fallimento,1,bocciatura,1,imbarazzo,3,impegno,3
+fisica_020,fallimento,1,vita,1,università,2,famiglia,3
+fisica_021,fallimento,1,io,1,certo,1,irreversibile,1
+fisica_022,fallimento,2,scienza,2,nazione,2,paura,2
+fisica_stem_002_3,fallimento,1,sconfitta,1,errori,2,miglioramento,4
+fisica_stem_005_1,fallimento,1,buco,1,tristezza,1,vergogna,1
 interfacce_001,voto,3,giudizio,3,numero,3,,
 interfacce_002,voto,3,esame,2,positivo ,5,negativo,1
 interfacce_003,voto,2,numero,4,giudizio,2,,
@@ -1863,9 +2015,9 @@ liceo_lin_018,voto,1,ansia,1,numero,2,persona,1
 fisica_007,voto,3,26,4,30,5,media,3
 fisica_010,voto,2,basso,2,alto,4,sufficienza,3
 liceo_sci_014,voto,1,basso,2,insufficienza,1,rosso,1
-fisica_stem_001,voto,2,esame,3,media,3,,
+fisica_stem_001_1,voto,2,esame,3,media,3,,
 fisica_012,voto,3,partecipazione ,4,numero,3,insufficienza ,2
-fisica_stem_002,voto,2,numero,2,futuro,1,esame,3
+fisica_stem_002_1,voto,2,numero,2,futuro,1,esame,3
 liceo_sci_016,voto,3,paura,1,ansia,1,terrore,1
 liceo_sci_017,voto,,valutazione,,ansia ,,stress,
 liceo_sci_018,voto,2,numero,3,ansia,1,docente,1
@@ -1894,11 +2046,19 @@ liceo_sci_040,voto,3,numero,3,merito,4,soddisfazione,5
 liceo_sci_041,voto,3,scuola,3,etichetta,1,obiettivo,5
 liceo_sci_042,voto,2,numero,2,inutile,2,indifferente,2
 liceo_sci_043,voto,1,gratificazione,5,stress,1,fallimento,1
-fisica_stem_003,voto,3,misura,3,numero,2,arbitrario,2
-fisica_015,voto,3,numero,2,giudizio,2,valore ,2
+fisica_stem_003_1,voto,3,misura,3,numero,2,arbitrario,2
+fisica_stem_002_2,voto,3,numero,2,giudizio,2,valore ,2
 liceo_063,voto,3,numero,2,prestazione ,3,graduatoria,3
 liceo_064,voto,3,alto,3,elezioni,3,sufficiente,4
-fisica_016,voto,2,test,3,ansia,1,presentazione,4
+fisica_stem_001_2,voto,2,test,3,ansia,1,presentazione,4
+fisica_stem_004_1,voto,1,ansia,1,,,,
+fisica_017,voto,5,esame ,5,ansia,5,aspettative,5
+fisica_018,voto,2,alto,4,meritato,3,insoddisfatto,1
+fisica_020,voto,1,insufficienza,1,pigrizia,1,fallimento,1
+fisica_021,voto,3,basso,2,9,2,giudizio,1
+fisica_022,voto,1,alto,1,faticoso,1,leggero,4
+fisica_stem_002_3,voto,3,esito,3,giudizio,2,esame,3
+fisica_stem_005_1,voto,2,validazione,3,autostima ,2,invidia,1
 interfacce_001,numeri,3,quantità,4,,,,
 interfacce_002,numeri,3,matematica,3,algebra,3,funzioni,3
 interfacce_003,numeri,4,contare,4,tabelline,4,,
@@ -1958,9 +2118,9 @@ liceo_lin_018,numeri,3,matematica,4,telefono,4,ovunque,5
 fisica_007,numeri,3,primi,3,reali,3,complessi,2
 fisica_010,numeri,3,grandi,3,piccoli,3,analisi,3
 liceo_sci_014,numeri,3,matematica,3,telefonici,3,azzurro chiaro,3
-fisica_stem_001,numeri,5,casuali,2,interi,4,random,3
+fisica_stem_001_1,numeri,5,casuali,2,interi,4,random,3
 fisica_012,numeri,4,logica,4,concetto,5,relazioni,5
-fisica_stem_002,numeri,3,insiemi,4,reali,3,relazioni,4
+fisica_stem_002_1,numeri,3,insiemi,4,reali,3,relazioni,4
 liceo_sci_016,numeri,3,matematica,3,algebra,3,fisica,3
 liceo_sci_017,numeri,,9,,10,,11,
 liceo_sci_018,numeri,3,matematica,3,test,1,calcoli,3
@@ -1989,11 +2149,19 @@ liceo_sci_040,numeri,4,matematica,4,orari,5,quantizzazione,4
 liceo_sci_041,numeri,3,matematica,2,fisica,2,statistica,1
 liceo_sci_042,numeri,3,matematica,3,problemi,3,calcoli,3
 liceo_sci_043,numeri,3,sbaglio,1,calcolatrice,3,matematica,4
-fisica_stem_003,numeri,2,uno,3,dieci,3,ventisette,3
-fisica_015,numeri,3,algebra,3,primi,4,teoria,4
+fisica_stem_003_1,numeri,2,uno,3,dieci,3,ventisette,3
+fisica_stem_002_2,numeri,3,algebra,3,primi,4,teoria,4
 liceo_063,numeri,3,primi,3,successione,3,insiemistica,3
 liceo_064,numeri,4,tanti,5,avere,4,tabelline,4
-fisica_016,numeri,5,casuali,2,interi,3,pagine,4
+fisica_stem_001_2,numeri,5,casuali,2,interi,3,pagine,4
+fisica_stem_004_1,numeri,3,ansia,2,logica,1,algebra,1
+fisica_017,numeri,4,strumenti ,4,matematica ,4,fisica,4
+fisica_018,numeri,3,uno,2,analisi,3,dati,3
+fisica_020,numeri,3,algebra,3,insiemi numerici,3,,
+fisica_021,numeri,3,1,3,2,3,3,3
+fisica_022,numeri,,bellezza,,geometria,,limite,
+fisica_stem_002_3,numeri,3,calcoli,3,cifre,3,analisi,3
+fisica_stem_005_1,numeri,4,alfabeto,4,universo,5,scienze,5
 interfacce_001,logica,3,impegno,5,,,,
 interfacce_002,logica,3,ragionamento,4,problemsolving,5,adattarsi,4
 interfacce_003,logica,4,numeri,4,ragionamento,4,,
@@ -2053,9 +2221,9 @@ liceo_lin_018,logica,3,filosofia,2,ragionamento,3,,
 fisica_007,logica,3,aristotele,2,fallacia,4,cesare cremonini,3
 fisica_010,logica,3,analisi,3,ragionare,4,problema,3
 liceo_sci_014,logica,4,ragione,4,esistenza,4,giallo,2
-fisica_stem_001,logica,5,matematica,4,blu,5,,
+fisica_stem_001_1,logica,5,matematica,4,blu,5,,
 fisica_012,logica,5,analisi 1,3,aristotele,4,verità ,5
-fisica_stem_002,logica,5,matematica,4,paradossi,4,informatica,4
+fisica_stem_002_1,logica,5,matematica,4,paradossi,4,informatica,4
 liceo_sci_016,logica,2,letteratura,3,grammatica,2,matematica,3
 liceo_sci_017,logica,,ragionamento ,,intuizione,,scintilla,
 liceo_sci_018,logica,3,calcolo ,3,ragionamento,3,intuito ,5
@@ -2084,11 +2252,19 @@ liceo_sci_040,logica,5,ingegno,5,problem solving,5,novità,4
 liceo_sci_041,logica,4,cervello,5,ragionamenti,4,matematica,2
 liceo_sci_042,logica,3,problemi,3,risoluzioni,3,,
 liceo_sci_043,logica,4,schemi,2,coerenza,5,mente,4
-fisica_stem_003,logica,5,pensiero,4,realtà ,4,criticare,4
-fisica_015,logica,4,ragionamento ,4,matematica ,4,formalità ,4
+fisica_stem_003_1,logica,5,pensiero,4,realtà ,4,criticare,4
+fisica_stem_002_2,logica,4,ragionamento ,4,matematica ,4,formalità ,4
 liceo_063,logica,3,aristotele,3,sistema,3,assiomi,3
 liceo_064,logica,3,sempre,3,pedanteria,3,lentezza,4
-fisica_016,logica,4,matematica,4,libro,5,,
+fisica_stem_001_2,logica,4,matematica,4,libro,5,,
+fisica_stem_004_1,logica,1,,,,,,
+fisica_017,logica,5,sopravvivenza ,3,approccio,5,fisica ,5
+fisica_018,logica,5,programmazione,3,matematica,2,problem solving,5
+fisica_020,logica,5,,,,,,
+fisica_021,logica,4,filosofia,4,bravo,4,matematica,4
+fisica_022,logica,,ansia,,stress,,rifiuto,
+fisica_stem_002_3,logica,4,ragionamento,4,fallacia,2,analisi,4
+fisica_stem_005_1,logica,5,intelligenza ,5,utilità,5,spigliatezza,4
 interfacce_001,ricerca,4,scientifica,3,,,,
 interfacce_002,ricerca,3,studio,3,ricercatore,3,scienza,4
 interfacce_003,ricerca,4,scientifica,4,scienza,4,esperimento,4
@@ -2148,9 +2324,9 @@ liceo_lin_018,ricerca,4,studio,4,fenomeno/i,4,presentazione,4
 fisica_007,ricerca,5,fisica,5,spazio,5,fondi,4
 fisica_010,ricerca,5,fisica,4,scienza,5,laboratorio,4
 liceo_sci_014,ricerca,4,storia,4,compito,1,rosso chiaro,2
-fisica_stem_001,ricerca,4,scientifica,4,laboratorio,5,scienziati,4
+fisica_stem_001_1,ricerca,4,scientifica,4,laboratorio,5,scienziati,4
 fisica_012,ricerca,5,scientifica ,5,lavoro,4,assieme ,4
-fisica_stem_002,ricerca,5,dedizione,5,passione,5,esperienza,4
+fisica_stem_002_1,ricerca,5,dedizione,5,passione,5,esperienza,4
 liceo_sci_016,ricerca,5,scienze,5,fisica,3,farmaci,5
 liceo_sci_017,ricerca,,studio,,natura,,ignoto ,
 liceo_sci_018,ricerca,5,scienze,3,voti ,1,tranquillità,5
@@ -2179,11 +2355,19 @@ liceo_sci_040,ricerca,5,enciclopedia,5,google,4,insegnanti,5
 liceo_sci_041,ricerca,3,internet,3,informazioni,3,imparare,4
 liceo_sci_042,ricerca,4,scoperta,4,studio,4,,
 liceo_sci_043,ricerca,5,informazioni,5,impegno,4,interesse,5
-fisica_stem_003,ricerca,4,innovazione,5,scoperta,4,trovare,4
-fisica_015,ricerca,4,istituti ,4,studio,4,qualifiche ,3
+fisica_stem_003_1,ricerca,4,innovazione,5,scoperta,4,trovare,4
+fisica_stem_002_2,ricerca,4,istituti ,4,studio,4,qualifiche ,3
 liceo_063,ricerca,4,impegno,4,fatica,3,progresso,4
 liceo_064,ricerca,3,importante,3,scuola,4,casa,3
-fisica_016,ricerca,4,scientifica,4,laboratorio,2,persone,5
+fisica_stem_001_2,ricerca,4,scientifica,4,laboratorio,2,persone,5
+fisica_stem_004_1,ricerca,3,,,,,,
+fisica_017,ricerca,5,sottopagata,5,impegnativa ,5,creativa ,5
+fisica_018,ricerca,2,scientifica,4,laboratorio,5,complessa,2
+fisica_020,ricerca,4,futuro,1,obiettivo,3,,
+fisica_021,ricerca,5,scienziati ,5,laboratorio,3,ricercatori,5
+fisica_022,ricerca,,fatica,,impegno,,solidità,
+fisica_stem_002_3,ricerca,4,progresso,3,lavoro,3,assegno,3
+fisica_stem_005_1,ricerca,5,scoperta,4,studio,4,passione,5
 interfacce_001,imbarazzo,2,disagio,1,ansia,2,,
 interfacce_002,imbarazzo,1,figuracce,1,cadere,1,inciampare,1
 interfacce_003,imbarazzo,2,vergogna,2,ansia,2,,
@@ -2243,9 +2427,9 @@ liceo_lin_018,imbarazzo,2,esprimersi,3,confort-zone,4,estraneo,1
 fisica_007,imbarazzo,1,nudo,2,rosso,3,antonio dikele distefano,1
 fisica_010,imbarazzo,1,vergogna,1,rosso,4,paonazzo,2
 liceo_sci_014,imbarazzo,2,emozione,1,arrossire,2,rosa,2
-fisica_stem_001,imbarazzo,1,intimo,2,rossore,2,figuraccia,1
+fisica_stem_001_1,imbarazzo,1,intimo,2,rossore,2,figuraccia,1
 fisica_012,imbarazzo,2,inadeguatezza,1,altri,3,allenamento ,4
-fisica_stem_002,imbarazzo,2,umiliazione,1,vergogna,1,nascondersi,1
+fisica_stem_002_1,imbarazzo,2,umiliazione,1,vergogna,1,nascondersi,1
 liceo_sci_016,imbarazzo,1,rosso,3,sole,4,gonfio,3
 liceo_sci_017,imbarazzo,,ragazze ,,estranei ,,poco,
 liceo_sci_018,imbarazzo,1,essere al centro dell'attenzione,1,panico,1,,
@@ -2274,11 +2458,19 @@ liceo_sci_040,imbarazzo,2,arrossire,3,disagio,2,senso di rivalsa,5
 liceo_sci_041,imbarazzo,1,estraneazione,1,disagio,1,insicurezza,1
 liceo_sci_042,imbarazzo,2,rosso,2,punto di domanda,2,non sapere,2
 liceo_sci_043,imbarazzo,1,solitudine,1,stomaco,1,invisibilità,1
-fisica_stem_003,imbarazzo,4,ups,4,nascondere,2,errore,3
-fisica_015,imbarazzo,2,paura,2,giudizio,2,umiliazione ,1
+fisica_stem_003_1,imbarazzo,4,ups,4,nascondere,2,errore,3
+fisica_stem_002_2,imbarazzo,2,paura,2,giudizio,2,umiliazione ,1
 liceo_063,imbarazzo,3,vergogna ,2,pentimento ,2,superfluo ,3
 liceo_064,imbarazzo,2,tanto,2,rosso,2,cadere,2
-fisica_016,imbarazzo,3,intimo,2,disagio,1,pianto,1
+fisica_stem_001_2,imbarazzo,3,intimo,2,disagio,1,pianto,1
+fisica_stem_004_1,imbarazzo,1,errori,1,,,,
+fisica_017,imbarazzo,4,constante,3,figuraccia,5,presentazione,5
+fisica_018,imbarazzo,2,silenzio,1,sbagliare,2,fuori luogo,1
+fisica_020,imbarazzo,2,,,,,,
+fisica_021,imbarazzo,1,io,1,classe,1,genitori,1
+fisica_022,imbarazzo,,disillusione,,paura,,ansia,
+fisica_stem_002_3,imbarazzo,2,ansia,2,sguardo,2,performance,3
+fisica_stem_005_1,imbarazzo,1,sopravvalutarsi,1,autostima,1,vergogna ,1
 interfacce_001,compagni,5,carini,5,scuola,5,,
 interfacce_002,compagni,5,amici,5,ridere,5,parlare,5
 interfacce_003,compagni,4,amici,4,studenti,4,,
@@ -2338,9 +2530,9 @@ liceo_lin_018,compagni,4,gruppo,4,supporto,4,competizione,1
 fisica_007,compagni,5,bastardi,2,autismo,3,secchioni,3
 fisica_010,compagni,4,amici,5,pranzo,3,compagnia,4
 liceo_sci_014,compagni,1,odio,1,odio,1,grigio,1
-fisica_stem_001,compagni,3,classe,3,,,,
+fisica_stem_001_1,compagni,3,classe,3,,,,
 fisica_012,compagni,3,classe,2,noia,1,fastidio,1
-fisica_stem_002,compagni,3,differenze,4,disinteresse,2,distacco,2
+fisica_stem_002_1,compagni,3,differenze,4,disinteresse,2,distacco,2
 liceo_sci_016,compagni,5,sole,4,estate,5,scuola,1
 liceo_sci_017,compagni,,zucca ,,spagno,,bacca ,
 liceo_sci_018,compagni,5,serenità,4,divertimento,4,conforto,5
@@ -2369,11 +2561,19 @@ liceo_sci_040,compagni,5,compagnia,5,supporto,5,unità,5
 liceo_sci_041,compagni,4,amici,5,legame,5,armonia,5
 liceo_sci_042,compagni,3,persone,3,ore scolastiche ,3,,
 liceo_sci_043,compagni,5,felicità,5,esperienze,5,condivisione,5
-fisica_stem_003,compagni,3,amici,4,poveretti,3,pregiudizi ,2
-fisica_015,compagni,3,aiuto,4,confronto ,4,giudizio ,2
+fisica_stem_003_1,compagni,3,amici,4,poveretti,3,pregiudizi ,2
+fisica_stem_002_2,compagni,3,aiuto,4,confronto ,4,giudizio ,2
 liceo_063,compagni,4,interazione,4,divertente ,4,scambio ,4
 liceo_064,compagni,3,classe,3,antipatici,2,estranei,2
-fisica_016,compagni,4,vita,5,compagnia,4,,
+fisica_stem_001_2,compagni,4,vita,5,compagnia,4,,
+fisica_stem_004_1,compagni,1,isolamento,1,amici,5,aiuto,4
+fisica_017,compagni,5,supporto,5,amici ,5,relazioni,5
+fisica_018,compagni,4,cena,5,chiacchierare,4,studio,2
+fisica_020,compagni,3,,,,,,
+fisica_021,compagni,3,intelligenti,3,alessio,4,simpatici,3
+fisica_022,compagni,,maschi,,diversi,,bravi,
+fisica_stem_002_3,compagni,4,colleghi,4,lavoro,3,collaborazione ,4
+fisica_stem_005_1,compagni,3,confronto ,4,crescita,5,invidia,1
 interfacce_001,problema,2,soluzione,4,,,,
 interfacce_002,problema,2,risolvere,4,quesito,3,domanda,3
 interfacce_003,problema,4,matematica,4,difficoltà,2,ansia,2
@@ -2433,9 +2633,9 @@ liceo_lin_018,problema,3,,,,,,
 fisica_007,problema,3,sociale,2,risolvere,3,soluzione,3
 fisica_010,problema,4,soluzione,4,fisica,4,esame,3
 liceo_sci_014,problema,4,io,1,matematica,3,viola,1
-fisica_stem_001,problema,2,matematica,4,soluzione,5,ansia,2
+fisica_stem_001_1,problema,2,matematica,4,soluzione,5,ansia,2
 fisica_012,problema,3,elementari,3,pensare,4,sforzo,3
-fisica_stem_002,problema,4,soluzione,5,discussione,5,ostacolo,2
+fisica_stem_002_1,problema,4,soluzione,5,discussione,5,ostacolo,2
 liceo_sci_016,problema,1,solver,3,ansia,1,gestione,2
 liceo_sci_017,problema,3,risolvere ,5,matematico,5,chiocchetti ,5
 liceo_sci_018,problema,1,soluzione,5,,,,
@@ -2464,11 +2664,19 @@ liceo_sci_040,problema,3,sfida,5,soluzioni,5,tentativi,4
 liceo_sci_041,problema,2,riflessione,4,preoccupazione,2,consapevolezza,5
 liceo_sci_042,problema,3,matematica,3,domande,3,,
 liceo_sci_043,problema,2,problem solving,5,intraprendenza,5,frustrazione,1
-fisica_stem_003,problema,4,sfida,4,interessante ,4,peculiarità ,4
-fisica_015,problema,4,soluzione ,5,procedimento ,4,ragionamento ,5
+fisica_stem_003_1,problema,4,sfida,4,interessante ,4,peculiarità ,4
+fisica_stem_002_2,problema,4,soluzione ,5,procedimento ,4,ragionamento ,5
 liceo_063,problema,4,creatività ,4,opportunità ,4,difficile ,3
 liceo_064,problema,3,difficile,4,quaderno,4,scritto,4
-fisica_016,problema,4,matematica,5,rosso,3,elementari,4
+fisica_stem_001_2,problema,4,matematica,5,rosso,3,elementari,4
+fisica_stem_004_1,problema,2,matematica,1,numeri,1,esami,1
+fisica_017,problema,5,soluzione ,3,dati,4,studio,4
+fisica_018,problema,2,sbaglio,2,difficoltà,4,soluzione,5
+fisica_020,problema,3,matematica,3,fisica,3,soluzioni,4
+fisica_021,problema,3, matematica,3,famiglia,1,irrisolvibile,1
+fisica_022,problema,3,risolto,4,inutile,3,classico,1
+fisica_stem_002_3,problema,3,soluzione ,4,ragionamento ,4,procedimento ,4
+fisica_stem_005_1,problema,3,stanchezza,3,pigrizia,1,sfida,3
 interfacce_001,informatica,4,papà,5,esame,3,,
 interfacce_002,informatica,4,programmazione,4,pc,5,programmatore,2
 interfacce_003,informatica,4,calcolo,4,codice,4,c++,3
@@ -2528,9 +2736,9 @@ liceo_lin_018,informatica,4,,,,,,
 fisica_007,informatica,3,ciclo,3,programmare,3,computer,4
 fisica_010,informatica,4,computer,3,ingegnere,3,programmare,3
 liceo_sci_014,informatica,3,digitare,4,divertente,5,azzurra,3
-fisica_stem_001,informatica,3,dati,2,superiori,2,paura,2
+fisica_stem_001_1,informatica,3,dati,2,superiori,2,paura,2
 fisica_012,informatica,4,numeri,4,codice,4,logica ,4
-fisica_stem_002,informatica,4,alan turing,5,ada lovelace,5,john von neumann,5
+fisica_stem_002_1,informatica,4,alan turing,5,ada lovelace,5,john von neumann,5
 liceo_sci_016,informatica,4,futuro,5,verde,4,pc,3
 liceo_sci_017,informatica,5,futuro ,5,priolo ,5,computer ,5
 liceo_sci_018,informatica,3,laboratori ,3,programmazione,3,futuro,5
@@ -2559,11 +2767,19 @@ liceo_sci_040,informatica,3,computer,3,logica,4,programmi,4
 liceo_sci_041,informatica,2,computer,3,tecnologia,3,innovazione,4
 liceo_sci_042,informatica,3,noia,2,programmazione,3,studio,4
 liceo_sci_043,informatica,3,computer,3,programma,3,,
-fisica_stem_003,informatica,5,scienza,4,informazioni ,4,lingua,4
-fisica_015,informatica,3,elaborazione ,3,dati,3,calcolatori,4
+fisica_stem_003_1,informatica,5,scienza,4,informazioni ,4,lingua,4
+fisica_stem_002_2,informatica,3,elaborazione ,3,dati,3,calcolatori,4
 liceo_063,informatica,3,computer,3,calcolo,3,sintassi,3
 liceo_064,informatica,3,aula,3,asettica,3,,
-fisica_016,informatica,3,programmazione,3,scientifica,4,,
+fisica_stem_001_2,informatica,3,programmazione,3,scientifica,4,,
+fisica_stem_004_1,informatica,1,incomprensione,1,caos,1,,
+fisica_017,informatica,3,ovunque,5,specialistica,3,semplificare,3
+fisica_018,informatica,3,programmazione,2,interessante,4,tempistica,2
+fisica_020,informatica,3,curiosita,4,passatempo,5,divertimento,5
+fisica_021,informatica,3,alessandro,5,itt,3,buonarrotti,3
+fisica_022,informatica,2,tecnica,1,associativa,3,desiderabile,4
+fisica_stem_002_3,informatica,3,lavoro ,3,computer,3,ada lovelace ,5
+fisica_stem_005_1,informatica,2,logica,2,difficoltà,1,razionalità ,2
 interfacce_001,sfida,4,impossibile,1,,,,
 interfacce_002,sfida,2,difficile,2,facile,4,vincere,5
 interfacce_003,sfida,3,prova,2,,,,
@@ -2623,9 +2839,9 @@ liceo_lin_018,sfida,3,,,,,,
 fisica_007,sfida,3,accettata,3,vittoria,3,dimostrare,2
 fisica_010,sfida,3,esame,4,contro me stessa,4,gara,3
 liceo_sci_014,sfida,5,competizione,5,interessante,5,giallo ocra,2
-fisica_stem_001,sfida,2,esami,2,ansia,2,,
+fisica_stem_001_1,sfida,2,esami,2,ansia,2,,
 fisica_012,sfida,4,esercizio,3,frenesia,5,gioco,5
-fisica_stem_002,sfida,4,superamento,5,prova,4,opportunità,5
+fisica_stem_002_1,sfida,4,superamento,5,prova,4,opportunità,5
 liceo_sci_016,sfida,4,ansia,1,vittoria,5,rosso,3
 liceo_sci_017,sfida,5,vincere ,5,pessimismo,4,calcio,5
 liceo_sci_018,sfida,2,vincitrice,5,lotta ,3,,
@@ -2654,11 +2870,19 @@ liceo_sci_040,sfida,5,opportunità,5,stimolazione,5,lezione,4
 liceo_sci_041,sfida,4,adrenalina,4,coraggio,5,motivazione,5
 liceo_sci_042,sfida,4,bello,4,vincere,4,impegnarsi,4
 liceo_sci_043,sfida,1,gara,1,competizione,1,risultato,1
-fisica_stem_003,sfida,4,eccitante ,3,capriola,3,torre,4
-fisica_015,sfida,5,tentativo,5,prova,5,confronto,4
+fisica_stem_003_1,sfida,4,eccitante ,3,capriola,3,torre,4
+fisica_stem_002_2,sfida,5,tentativo,5,prova,5,confronto,4
 liceo_063,sfida,4,problema,4,cooperazione ,4,soluzione ,4
 liceo_064,sfida,2,pesante,2,battaglia,2,moda,3
-fisica_016,sfida,3,difficile,2,tempo,2,coppie,1
+fisica_stem_001_2,sfida,3,difficile,2,tempo,2,coppie,1
+fisica_stem_004_1,sfida,4,matematica,2,fisica,2,esami,2
+fisica_017,sfida,5,quotidiana,5,stimolante ,3,ansia ,5
+fisica_018,sfida,4,gara,2,impertinenza,1,competizione,3
+fisica_020,sfida,4,motivazione,5,gioco,4,sorpresa,4
+fisica_021,sfida,3,difficile,1,provare,4,,
+fisica_022,sfida,5,impossibile,4,divertente,5,esilerante,5
+fisica_stem_002_3,sfida,4,tentativo,4,successo,4,fallimento,2
+fisica_stem_005_1,sfida,5,stimolo,5,coraggio,5,autostima,5
 interfacce_001,paura,2,futuro,3,,,,
 interfacce_002,paura,1,spavento,1,urlo,1,cadere,1
 interfacce_003,paura,2,ansia,2,emozione,4,,
@@ -2718,9 +2942,9 @@ liceo_lin_018,paura,1,,,,,,
 fisica_007,paura,1,ansia,1,ragni,3,claustrofobia,1
 fisica_010,paura,2,ansia,2,buio,2,vuoto,2
 liceo_sci_014,paura,1,emozione,2,comune,4,viola scuro,2
-fisica_stem_001,paura,2,fallimento,1,cadere,1,pianto,1
+fisica_stem_001_1,paura,2,fallimento,1,cadere,1,pianto,1
 fisica_012,paura,2,viola,3,sconosciuto,2,,
-fisica_stem_002,paura,2,crisi,1,dubbi,2,blocco,1
+fisica_stem_002_1,paura,2,crisi,1,dubbi,2,blocco,1
 liceo_sci_016,paura,1,delirio,1,nero,2,buio,1
 liceo_sci_017,paura,1,monotonia,1,solitudine ,1,insoddisfazione,1
 liceo_sci_018,paura,1,esame ,1,futuro,4,,
@@ -2749,11 +2973,19 @@ liceo_sci_040,paura,3,istinto,4,spinta,5,necessaria,3
 liceo_sci_041,paura,2,buio,2,aghi,1,ragni,2
 liceo_sci_042,paura,2,ansia,1,forza,4,coraggio,4
 liceo_sci_043,paura,1,stress,1,isolamento,1,crisi,1
-fisica_stem_003,paura,2,nemico,2,schivare,5,allerta,4
-fisica_015,paura,2,blocco,1,timore,2,ansia,2
+fisica_stem_003_1,paura,2,nemico,2,schivare,5,allerta,4
+fisica_stem_002_2,paura,2,blocco,1,timore,2,ansia,2
 liceo_063,paura,2,tristezza ,3,morte,3,,
 liceo_064,paura,3,buio,3,solitudine,3,ansia,3
-fisica_016,paura,1,buio,1,bosco,4,,
+fisica_stem_001_2,paura,1,buio,1,bosco,4,,
+fisica_stem_004_1,paura,3,fallimento,1,,,,
+fisica_017,paura,5,notte,2,società,5,futuro,5
+fisica_018,paura,2,spavento,4,fallimento,3,buio,1
+fisica_020,paura,1,futuro,2,fallimento,1,universita,2
+fisica_021,paura,2,io,2,tanta,1,ragni,3
+fisica_022,paura,3,sentimento,4,valore,4,colore,5
+fisica_stem_002_3,paura,2,timore,2,fallimento,2,performance,3
+fisica_stem_005_1,paura,1,ansia ,1,ignoto ,1,morte,1
 interfacce_001,genitori,5,mamma,5,papà,5,casa,5
 interfacce_002,genitori,4,mamma,4,papà,4,parenti,3
 interfacce_003,genitori,5,mamma,5,papà,5,,
@@ -2813,9 +3045,9 @@ liceo_lin_018,genitori,5,,,,,,
 fisica_007,genitori,3,1,3,2,3,giorgia meloni,1
 fisica_010,genitori,5,mamma,5,papà ,5,amore,5
 liceo_sci_014,genitori,2,ansia,1,soggezione,1,viola scuro,2
-fisica_stem_001,genitori,3,litigi,2,amore,4,,
+fisica_stem_001_1,genitori,3,litigi,2,amore,4,,
 fisica_012,genitori,4,sacrificio,4,limiti,2,,
-fisica_stem_002,genitori,2,distacco,2,supporto,4,divorzio,5
+fisica_stem_002_1,genitori,2,distacco,2,supporto,4,divorzio,5
 liceo_sci_016,genitori,5,amore,5,felicità,5,casa,5
 liceo_sci_017,genitori,5,mamma,5,papa,5,nonni,5
 liceo_sci_018,genitori,5,vita,5,,,,
@@ -2844,11 +3076,19 @@ liceo_sci_040,genitori,4,supporto,5,esempio,5,ispirazione,5
 liceo_sci_041,genitori,4,affetto,5,famiglia,5,casa,5
 liceo_sci_042,genitori,4,mamma,5,papà,5,famiglia,5
 liceo_sci_043,genitori,3,preoccupazione,1,amore,5,influenza,3
-fisica_stem_003,genitori,3,alti,3,giudizio,2,persone,3
-fisica_015,genitori,2,giudizio ,1,distacco,2,comunicazione ,2
+fisica_stem_003_1,genitori,3,alti,3,giudizio,2,persone,3
+fisica_stem_002_2,genitori,2,giudizio ,1,distacco,2,comunicazione ,2
 liceo_063,genitori,4,accoglienza ,4,sostegno ,4,fondamento,4
 liceo_064,genitori,3,miei,4,vecchi,4,presenti,4
-fisica_016,genitori,4,separati,2,dolore,1,pianto,1
+fisica_stem_001_2,genitori,4,separati,2,dolore,1,pianto,1
+fisica_stem_004_1,genitori,3,pressione,2,comprensione,4,soluzioni,4
+fisica_017,genitori,5,supporto,5,ansia ,2,guidizio,5
+fisica_018,genitori,4,affetto,5,impegno,2,gratuità,5
+fisica_020,genitori,3,delusione,1,paura,1,bugie,1
+fisica_021,genitori,1,mamma,1,papa,1,giudizio,1
+fisica_022,genitori,4,sani,4,saggi,5,noiosi,3
+fisica_stem_002_3,genitori,2,regole ,3,imposizioni,2,aspettative,2
+fisica_stem_005_1,genitori,4,amore ,4,aspettative ,2,sicurezza,5
 interfacce_001,dati,3,statistica,3,numeri,3,percentuale,3
 interfacce_002,dati,3,database,3,numeri,3,contatti,4
 interfacce_003,dati,3,numeri,4,tabella,3,grafico,3
@@ -2908,9 +3148,9 @@ liceo_lin_018,dati,3,molti campi,4,indagine,,problema,
 fisica_007,dati,3,statistica,3,misura,3,analisi,3
 fisica_010,dati,3,raccolta,3,matlab,3,laboratorio ,4
 liceo_sci_014,dati,2,informatica,2,matematica,2,verdi,2
-fisica_stem_001,dati,2,statistica,1,matematica,4,informatica,3
+fisica_stem_001_1,dati,2,statistica,1,matematica,4,informatica,3
 fisica_012,dati,3,grafico,3,certezza,4,statostica,3
-fisica_stem_002,dati,3,analisi,3,tabelle,3,programmazione,4
+fisica_stem_002_1,dati,3,analisi,3,tabelle,3,programmazione,4
 liceo_sci_016,dati,3,sperimentali,3,problema ,3,eventi,3
 liceo_sci_017,dati,3,analitici ,4,sperimentali ,4,sbagliati ,2
 liceo_sci_018,dati,3,,,,,,
@@ -2939,11 +3179,19 @@ liceo_sci_040,dati,3,numeri,3,avvenimenti,4,analisi,4
 liceo_sci_041,dati,3,matematica,2,esperimenti,4,analisi,3
 liceo_sci_042,dati,3,test,3,problema,2,sondaggio,3
 liceo_sci_043,dati,3,tabella,3,ricerca,4,problema,3
-fisica_stem_003,dati,3,informazioni,4,misura,4,realtà ,4
-fisica_015,dati,3,numeri,4,analisi,4,grafico,4
+fisica_stem_003_1,dati,3,informazioni,4,misura,4,realtà ,4
+fisica_stem_002_2,dati,3,numeri,4,analisi,4,grafico,4
 liceo_063,dati,3,raccolta,3,analisi ,3,errore ,2
 liceo_064,dati,3,ordine,4,tabella,4,analisi,4
-fisica_016,dati,2,computer,3,excel,4,,
+fisica_stem_001_2,dati,2,computer,3,excel,4,,
+fisica_stem_004_1,dati,3,numeri,3,,,,
+fisica_017,dati,3,laboratorio,4,statistica,4,analisi,4
+fisica_018,dati,4,matlab,4,oscilloscopio,5,misure,4
+fisica_020,dati,3,,,,,,
+fisica_021,dati,3,,,,,,
+fisica_022,dati,2,analisi,2,studio,1,fatica,1
+fisica_stem_002_3,dati,3,misure,3,analisi,3,esperimento,3
+fisica_stem_005_1,dati,5,informazioni,5,lettura,5,interpretazione,5
 interfacce_001,esperimento,4,prova,3,ipotesi,3,teoria,4
 interfacce_002,esperimento,3,prove,3,ricerca,3,sperimentatore,3
 interfacce_003,esperimento,4,provette,3,scienza,4,dati,3
@@ -3003,9 +3251,9 @@ liceo_lin_018,esperimento,,pratica,,risoluzione,,tentativi,
 fisica_007,esperimento,3,relazione,2,scoperta,4,statistica,3
 fisica_010,esperimento,3,laboratorio,3,chimica,3,fisica,4
 liceo_sci_014,esperimento,4,chimica,3,esplode,5,giallo,3
-fisica_stem_001,esperimento,5,fisica,5,laboratorio,4,divertente,4
+fisica_stem_001_1,esperimento,5,fisica,5,laboratorio,4,divertente,4
 fisica_012,esperimento,4,prova ,4,galileo,5,,
-fisica_stem_002,esperimento,4,dati,3,relazione,2,laboratorio,2
+fisica_stem_002_1,esperimento,4,dati,3,relazione,2,laboratorio,2
 liceo_sci_016,esperimento,4,scvienze,4,camice,3,guanti,3
 liceo_sci_017,esperimento,5,esplosione ,2,analisi ,3,ipotesi,4
 liceo_sci_018,esperimento,4,scienze,3,fisica,3,scoperte,5
@@ -3034,11 +3282,19 @@ liceo_sci_040,esperimento,4,laboratorio,4,dati,3,diversi risultati,3
 liceo_sci_041,esperimento,4,matematica,2,fisica,2,prova,3
 liceo_sci_042,esperimento,3,biologia,4,fisica,3,scoperta,4
 liceo_sci_043,esperimento,4,curiosità,5,innovazione,5,laboratorio,3
-fisica_stem_003,esperimento,4,tentativo,4,verifica,4,scoperta,4
-fisica_015,esperimento,3,analisi,3,tentativo,4,laboratorio ,3
+fisica_stem_003_1,esperimento,4,tentativo,4,verifica,4,scoperta,4
+fisica_stem_002_2,esperimento,3,analisi,3,tentativo,4,laboratorio ,3
 liceo_063,esperimento,4,laboratorio,4,apparato,3,teoria ,3
 liceo_064,esperimento,4,difficile,2,bello,4,rischioso,3
-fisica_016,esperimento,4,scientifico,4,laboratorio,3,,
+fisica_stem_001_2,esperimento,4,scientifico,4,laboratorio,3,,
+fisica_stem_004_1,esperimento,5,innovazione,5,,,,
+fisica_017,esperimento,5,apprendimento,5,divertente ,5,scuola,3
+fisica_018,esperimento,4,chimica,3,meccanica,4,laboratorio,5
+fisica_020,esperimento,3,,,,,,
+fisica_021,esperimento,4,scienziato,4,curiosità,4,esiti,4
+fisica_022,esperimento,1,lungo,3,noioso,3,stancante,1
+fisica_stem_002_3,esperimento,3,laboratorio,3,dati,3,relazione,2
+fisica_stem_005_1,esperimento,4,prova ,2,sbaglio,1,verifica,3
 interfacce_001,stress,2,agitazione,2,nervoso,2,,
 interfacce_002,stress,1,esami,2,lavoro,3,traffico,1
 interfacce_003,stress,2,ansia,2,situazione,3,,
@@ -3098,9 +3354,9 @@ liceo_lin_018,stress,,abitudine,,tollerare,,risolvere,
 fisica_007,stress,1,esami,2,sessione,2,tempo,3
 fisica_010,stress,2,ansia,2,paura,2,tensione,1
 liceo_sci_014,stress,1,comune,1,erica,5,rosso siena,1
-fisica_stem_001,stress,4,scuola,3,nervi,2,rigidità,1
+fisica_stem_001_1,stress,4,scuola,3,nervi,2,rigidità,1
 fisica_012,stress,2,malattia,2,mal di testa ,2,malfunzionamento ,1
-fisica_stem_002,stress,1,peso,1,blocco,1,sopportare ,2
+fisica_stem_002_1,stress,1,peso,1,blocco,1,sopportare ,2
 liceo_sci_016,stress,1,vita,5,ansia,1,rosso,3
 liceo_sci_017,stress,1,ansia,1,paura,1,leo,5
 liceo_sci_018,stress,1,ansia,1,liceo ,1,futuro,2
@@ -3129,11 +3385,19 @@ liceo_sci_040,stress,2,respirazione,4,ragionare,4,stimolante,4
 liceo_sci_041,stress,1,insonnia,1,pensare,4,tremare,1
 liceo_sci_042,stress,1,scuola,2,verifiche,2,inutile,2
 liceo_sci_043,stress,1,palpitazioni,1,debolezza,1,esaurimento,1
-fisica_stem_003,stress,3,risposta,4,ahia,3,movimento,4
-fisica_015,stress,1,aiuto,5,isolamento ,1,disagio ,1
+fisica_stem_003_1,stress,3,risposta,4,ahia,3,movimento,4
+fisica_stem_002_2,stress,1,aiuto,5,isolamento ,1,disagio ,1
 liceo_063,stress,2,distruttivo ,2,sonno,3,improduttivo ,2
 liceo_064,stress,3,sempre,2,sotto,2,tirare,3
-fisica_016,stress,2,arancione,2,vita,5,,
+fisica_stem_001_2,stress,2,arancione,2,vita,5,,
+fisica_stem_004_1,stress,1,matematica,2,fallimento,1,,
+fisica_017,stress,5,sempre ,5,domande ,5,vita ,3
+fisica_018,stress,2,esami,3,sessione,2,solitudine,3
+fisica_020,stress,3,,,,,,
+fisica_021,stress,1,ansia,1,forte,1,io,1
+fisica_022,stress,1,scuola,2,studio,2,paura,3
+fisica_stem_002_3,stress,1,ansia,1,perfomance,2,agitazione,1
+fisica_stem_005_1,stress,1,claustrofobia,1,adrenalina,5,performance ,3
 interfacce_001,counselling,,,,,,,
 interfacce_002,counselling,3,,,,,,
 interfacce_003,counselling,3,,,,,,
@@ -3193,9 +3457,9 @@ liceo_lin_018,intelligenza_artificiale,,utile,,consapevolmente,,pericolosa,
 fisica_007,intelligenza_artificiale,4,bro,4,psicologia,4,enciclopedia,4
 fisica_010,intelligenza_artificiale,4,chatgpt,4,problem,4,aiuto ,4
 liceo_sci_014,intelligenza_artificiale,2,odio,1,interesse,2,azzurro chiaro,2
-fisica_stem_001,intelligenza_artificiale,2,schifo,1,nervosismo,2,paura,2
+fisica_stem_001_1,intelligenza_artificiale,2,schifo,1,nervosismo,2,paura,2
 fisica_012,intelligenza_artificiale,3,robot,3,asimov,3,,
-fisica_stem_002,intelligenza_artificiale,2,machine learning,3,alan turing,5,algoritmo,3
+fisica_stem_002_1,intelligenza_artificiale,2,machine learning,3,alan turing,5,algoritmo,3
 liceo_sci_016,intelligenza_artificiale,5,chatgpt,5,compiti,3,spiegazioni,4
 liceo_sci_017,intelligenza_artificiale,5,chatgpt ,5,scienze ,5,robot umanioide ,5
 liceo_sci_018,intelligenza_artificiale,2,innovazione,5,progresso,5,degrado,1
@@ -3224,11 +3488,19 @@ liceo_sci_040,intelligenza_artificiale,4,chatgpt,4,strumento utile,4,da verifica
 liceo_sci_041,intelligenza_artificiale,3,chat gpt,3,innovazione,4,novità,4
 liceo_sci_042,intelligenza_artificiale,4,chat gpt,3,ricerca,4,risposte,4
 liceo_sci_043,intelligenza_artificiale,4,telefono,4,chat gpt,4,studio,2
-fisica_stem_003,intelligenza_artificiale,4,amico,5,compiacere,3,aiuto,3
-fisica_015,intelligenza_artificiale,3,rete neurale,3,alan turing,5,regolamentazione ,5
+fisica_stem_003_1,intelligenza_artificiale,4,amico,5,compiacere,3,aiuto,3
+fisica_stem_002_2,intelligenza_artificiale,3,rete neurale,3,alan turing,5,regolamentazione ,5
 liceo_063,intelligenza_artificiale,3,computer ,3,matematica ,4,applicazioni ,4
 liceo_064,intelligenza_artificiale,2,chissà,3,estranea,3,strana,2
-fisica_016,intelligenza_artificiale,2,odio,1,,,,
+fisica_stem_001_2,intelligenza_artificiale,2,odio,1,,,,
+fisica_stem_004_1,intelligenza_artificiale,3,futuro,3,,,,
+fisica_017,intelligenza_artificiale,4,strumento ,4,semplificazione ,4,velocità,4
+fisica_018,intelligenza_artificiale,3,chat gpt,3,sciocca,2,analisi 2,2
+fisica_020,intelligenza_artificiale,5,aiuto,5,gemini,3,studio,2
+fisica_021,intelligenza_artificiale,4,utile,4,interessante,4,non paurosa,3
+fisica_022,intelligenza_artificiale,1,stupidità,2,paura,3,rimpianto,2
+fisica_stem_002_3,intelligenza_artificiale,3,alan turing,5,regolamentazione,4,etica,4
+fisica_stem_005_1,intelligenza_artificiale,1,inganno,1,solitudine,3,vuoto,3
 interfacce_001,regole,4,seguire,4,trasgredire,2,,
 interfacce_002,regole,3,rispettare,3,regolamento,3,seguire,3
 interfacce_003,regole,4,limiti,2,,,,
@@ -3288,9 +3560,9 @@ liceo_lin_018,regole,,rigide,,insensate,,utili,
 fisica_007,regole,2,no,2,anarchia,4,noia,2
 fisica_010,regole,4,leggi,3,norme,3,istruzioni,3
 liceo_sci_014,regole,1,odio,1,da rompere,5,rosso intenso,1
-fisica_stem_001,regole,3,scuola,3,gruppo,3,blocco,2
+fisica_stem_001_1,regole,3,scuola,3,gruppo,3,blocco,2
 fisica_012,regole,3,rap,3,lunghezza,3,,
-fisica_stem_002,regole,4,teorema,4,enunciato,3,rigidità,3
+fisica_stem_002_1,regole,4,teorema,4,enunciato,3,rigidità,3
 liceo_sci_016,regole,3,righello,3,legno,3,lavagna,2
 liceo_sci_017,regole,5,imbrogliare ,2,muntari,5,regolamento,5
 liceo_sci_018,regole,3,comportamento,5,maturità,5,,
@@ -3319,11 +3591,19 @@ liceo_sci_040,regole,4,legge,5,rispetto,4,società,5
 liceo_sci_041,regole,3,rispetto,5,comunità,5,ambienti,3
 liceo_sci_042,regole,4,geometriche,3,legge,4,,
 liceo_sci_043,regole,3,rigidità,1,razionalità,5,sicurezza,4
-fisica_stem_003,regole,4,struttura,4,empatia,5,morale,3
-fisica_015,regole,4,teoremi,4,imposizioni ,2,assiomi,3
+fisica_stem_003_1,regole,4,struttura,4,empatia,5,morale,3
+fisica_stem_002_2,regole,4,teoremi,4,imposizioni ,2,assiomi,3
 liceo_063,regole,3,noia ,2,limite,3,protocollo ,4
 liceo_064,regole,3,comportamento ,4,stress,3,matematica,4
-fisica_016,regole,4,comportamento,3,elementari,5,,
+fisica_stem_001_2,regole,4,comportamento,3,elementari,5,,
+fisica_stem_004_1,regole,5,sicurezza,4,,,,
+fisica_017,regole,5,matematica,5,sociali,5,,
+fisica_018,regole,2,leggi,1,divieti,2,imposizioni,1
+fisica_020,regole,3,,,,,,
+fisica_021,regole,3,stupide,2,banali,2,idiote,2
+fisica_022,regole,1,rigide,1,inutili,2,limitanti,1
+fisica_stem_002_3,regole,3,rigide,2,memoria,2,teoremi,4
+fisica_stem_005_1,regole,3,scatola,3,procedure,3,gabbie ,2
 interfacce_001,scienziato,4,laboratorio,3,esperimenti,3,fumo,2
 interfacce_002,scienziato,3,ricercatore,3,scienza,4,sperimentatore,3
 interfacce_003,scienziato,4,einstein,3,camice,2,,
@@ -3383,9 +3663,9 @@ liceo_lin_018,scienziato,3,studio,4,ricerca,3,applica,3
 fisica_007,scienziato,4,io,4,fisica,5,chimica,3
 fisica_010,scienziato,5,donna,5,provette ,3,laboratorio,4
 liceo_sci_014,scienziato,3,camice,3,provetta,3,grigio,3
-fisica_stem_001,scienziato,5,pazzo,4,camice,4,perso,3
+fisica_stem_001_1,scienziato,5,pazzo,4,camice,4,perso,3
 fisica_012,scienziato,4,camice,3,comunità ,4,entusiasmo,5
-fisica_stem_002,scienziato,4,lavoro,4,accademia,2,ricerca,4
+fisica_stem_002_1,scienziato,4,lavoro,4,accademia,2,ricerca,4
 liceo_sci_016,scienziato,4,einstein ,4,camice,3,laboratorio,3
 liceo_sci_017,scienziato,,matto ,,pazzo ,,einstein ,
 liceo_sci_018,scienziato,3,esperimenti,5,scoperte,5,,
@@ -3414,11 +3694,19 @@ liceo_sci_040,scienziato,5,logica,5,curiosità,5,intuito,5
 liceo_sci_041,scienziato,3,scienza,4,esperimenti,4,ricerca,4
 liceo_sci_042,scienziato,4,scoperta,4,biologia,4,,
 liceo_sci_043,scienziato,4,scienza,4,camice,3,esperimenti,4
-fisica_stem_003,scienziato,3,occhiali,3,camice,3,capelli,3
-fisica_015,scienziato,4,studioso,4,curioso,4,ricercatore,4
+fisica_stem_003_1,scienziato,3,occhiali,3,camice,3,capelli,3
+fisica_stem_002_2,scienziato,4,studioso,4,curioso,4,ricercatore,4
 liceo_063,scienziato,4,persona,4,metodo,4,fenomeni,3
 liceo_064,scienziato,3,uomo,3,strano,2,pedante,3
-fisica_016,scienziato,5,camice,4,laboratorio,3,bianco,3
+fisica_stem_001_2,scienziato,5,camice,4,laboratorio,3,bianco,3
+fisica_stem_004_1,scienziato,3,,,,,,
+fisica_017,scienziato,4,ricerca,4,dedizione ,4,impegno,4
+fisica_018,scienziato,2,laboratorio,4,esperimenti,3,astronauta,5
+fisica_020,scienziato,3,,,,,,
+fisica_021,scienziato,4,laboratorio,4,camice,4,esperimento,4
+fisica_022,scienziato,,uomo,,sincero,,triste,
+fisica_stem_002_3,scienziato,4,persona,4,lavoro,4,dedizione,5
+fisica_stem_005_1,scienziato,4,genio,5,appassionato,5,determinato,5
 interfacce_001,scuola,4,studio,4,compito,3,prof,4
 interfacce_002,scuola,4,lezioni,3,prof,3,compagni,5
 interfacce_003,scuola,2,ansia,2,interrogazione,1,verifica,2
@@ -3478,9 +3766,9 @@ liceo_lin_018,scuola,2,voti,1,studio,3,,
 fisica_007,scuola,3,banco,3,interrogazione,2,compagni,4
 fisica_010,scuola,4,amici,5,imparare,5,cultura,5
 liceo_sci_014,scuola,1,odio,1,amore,1,ocra,1
-fisica_stem_001,scuola,4,secondaria,3,superiore,4,,
+fisica_stem_001_1,scuola,4,secondaria,3,superiore,4,,
 fisica_012,scuola,3,elementare,3,libri,4,errori,2
-fisica_stem_002,scuola,2,cultura,5,ambiente,2,voti,2
+fisica_stem_002_1,scuola,2,cultura,5,ambiente,2,voti,2
 liceo_sci_016,scuola,1,ansia,1,istruzione,3,matematica,2
 liceo_sci_017,scuola,,rosmini,,fine,,sogno ,
 liceo_sci_018,scuola,1,ansia,1,test,1,voti,1
@@ -3509,11 +3797,19 @@ liceo_sci_040,scuola,4,istituto,4,opportunità,5,antica,2
 liceo_sci_041,scuola,3,studio,2,amici,5,crescita,5
 liceo_sci_042,scuola,2,struttura,3,verifiche,2,dovere,3
 liceo_sci_043,scuola,1,ansia,1,stress,1,frustrazione,1
-fisica_stem_003,scuola,3,luogo,3,maestra,3,gesso,3
-fisica_015,scuola,2,aula,2,studio,4,insegnanti,2
+fisica_stem_003_1,scuola,3,luogo,3,maestra,3,gesso,3
+fisica_stem_002_2,scuola,2,aula,2,studio,4,insegnanti,2
 liceo_063,scuola,4,caldo,2,sovraccarico ,2,relazioni,4
 liceo_064,scuola,4,mia,5,sempre,4,serale,3
-fisica_016,scuola,3,superiore,3,infanzia,5,percorso,5
+fisica_stem_001_2,scuola,3,superiore,3,infanzia,5,percorso,5
+fisica_stem_004_1,scuola,2,isolamento,1,studio,3,professori,3
+fisica_017,scuola,4,formazione,4,relazioni,4,amici,5
+fisica_018,scuola,5,superiori,5,corridoi,5,compagni,5
+fisica_020,scuola,3,,,,,,
+fisica_021,scuola,3,liceo,1,galilei,1,professori,1
+fisica_022,scuola,,impegno,,fatica,,concentrazione,
+fisica_stem_002_3,scuola,2,lavoro,2,insegnanti,2,regole,3
+fisica_stem_005_1,scuola,3,studio,3,contatto ,4,ricordi,5
 interfacce_001,creatività,5,sorpresa,5,soluzione,5,,
 interfacce_002,creatività,3,nuovo,4,pensiero,4,arte,4
 interfacce_003,creatività,4,arte,4,disegno,4,,
@@ -3573,9 +3869,9 @@ liceo_lin_018,creatività,4,innata,5,arte,4,,
 fisica_007,creatività,5,storie,5,arte,5,soluzioni,5
 fisica_010,creatività,5,arte,5,pittura,5,poesia,5
 liceo_sci_014,creatività,5,immaginazione,5,emozione,5,tutti i colori,5
-fisica_stem_001,creatività,5,tavolozza,5,colori,5,,
+fisica_stem_001_1,creatività,5,tavolozza,5,colori,5,,
 fisica_012,creatività,4,sguardo ampio,5,personale,4,mescolare,5
-fisica_stem_002,creatività,5,pensiero,5,arte,5,originalità,5
+fisica_stem_002_1,creatività,5,pensiero,5,arte,5,originalità,5
 liceo_sci_016,creatività,5,felicità,4,colori,3,entusiasmo,3
 liceo_sci_017,creatività,,soggettiva ,,personale ,,speciale ,
 liceo_sci_018,creatività,2,modellini,5,costruzioni ,4,schizzi,1
@@ -3604,11 +3900,19 @@ liceo_sci_040,creatività,5,arte,4,espressione,5,diversità,5
 liceo_sci_041,creatività,5,arte,5,musica,5,fantasia,5
 liceo_sci_042,creatività,4,arte,3,lego,3,mente,3
 liceo_sci_043,creatività,5,fantasia,5,colori,5,spensieratezza,5
-fisica_stem_003,creatività,4,colore,3,adattamento,4,magico,5
-fisica_015,creatività,5,elaborazione ,5,astrazione ,5,pensiero,5
+fisica_stem_003_1,creatività,4,colore,3,adattamento,4,magico,5
+fisica_stem_002_2,creatività,5,elaborazione ,5,astrazione ,5,pensiero,5
 liceo_063,creatività,4,arte,4,problem solving ,4,,
 liceo_064,creatività,4,mia,4,moda,3,idea,
-fisica_016,creatività,4,tavolozza,5,colori,5,parlare,4
+fisica_stem_001_2,creatività,4,tavolozza,5,colori,5,parlare,4
+fisica_stem_004_1,creatività,5,hobby,5,passioni,5,,
+fisica_017,creatività,5,bellissima ,3,fondamentale ,4,arte ,4
+fisica_018,creatività,5,colori,3,pittura,2,musica,5
+fisica_020,creatività,5,scarsa,2,informatica,3,app,3
+fisica_021,creatività,3,non la ho,1,altri la hanno,1,incapacità,1
+fisica_022,creatività,,ali,,volare,,amore,
+fisica_stem_002_3,creatività,4,impegno,4,dedizione,5,schemi,4
+fisica_stem_005_1,creatività,5,creare ,5,immaginare,5,plasmare,5
 interfacce_001,arte,5,creativa,5,bella,5,internazionale,5
 interfacce_002,arte,4,musica,5,disegno,3,sculture,3
 interfacce_003,arte,4,disegno,3,scultura,3,quadro,4
@@ -3668,9 +3972,9 @@ liceo_lin_018,arte,4,quadro,4,danza,5,musica,5
 fisica_007,arte,5,bella,5,emozione,4,settima,4
 fisica_010,arte,5,quadro,5,lettura,5,pittura,5
 liceo_sci_014,arte,5,espressione,5,emozionante,5,tutti i colori,5
-fisica_stem_001,arte,5,bello,5,canova,4,,
+fisica_stem_001_1,arte,5,bello,5,canova,4,,
 fisica_012,arte,4,quadro,4,espressione ,5,vago,4
-fisica_stem_002,arte,5,bellezza,5,sentimento,5,espressione,5
+fisica_stem_002_1,arte,5,bellezza,5,sentimento,5,espressione,5
 liceo_sci_016,arte,4,scultura,4,daphne,4,marmo,4
 liceo_sci_017,arte,,dali ,,michelangelo ,,picasso ,
 liceo_sci_018,arte,1,,,,,,
@@ -3699,11 +4003,19 @@ liceo_sci_040,arte,4,espressione,5,creatività,5,diversità,5
 liceo_sci_041,arte,5,creatività,5,fantasia,5,libertà,5
 liceo_sci_042,arte,3,bellezza,4,creatività,4,scoperta,4
 liceo_sci_043,arte,5,creatività,5,museo,4,colori,5
-fisica_stem_003,arte,4,chiazza,4,magia,4,saluto,4
-fisica_015,arte,5,creatività ,5,elaborazione ,5,abilità ,5
+fisica_stem_003_1,arte,4,chiazza,4,magia,4,saluto,4
+fisica_stem_002_2,arte,5,creatività ,5,elaborazione ,5,abilità ,5
 liceo_063,arte,4,musica ,4,genio,4,soggetto ,4
 liceo_064,arte,3,bella,4,disegno,4,musica,3
-fisica_016,arte,5,tavolozza,5,colori,5,pennelli,4
+fisica_stem_001_2,arte,5,tavolozza,5,colori,5,pennelli,4
+fisica_stem_004_1,arte,5,tempo libero,5,,,,
+fisica_017,arte,5,passione,4,dipinti,4,creatività,5
+fisica_018,arte,1,storia,2,bocciatura,1,studio,2
+fisica_020,arte,5,gioconda,3,musica,4,curiosita,5
+fisica_021,arte,4,prof di arte,4,materia,4,facile,5
+fisica_022,arte,,libertà,,parola,,amore,
+fisica_stem_002_3,arte,5,creatività ,5,tecnica,4,immaginazione,5
+fisica_stem_005_1,arte,4,creatività,5,fantasia,5,rifugio,4
 interfacce_001,esame,3,difficile,2,ansia,1,,
 interfacce_002,esame,2,difficile,1,facile,5,soddisfazione,5
 interfacce_003,esame,2,prova,2,università,4,verifica,2
@@ -3763,9 +4075,9 @@ liceo_lin_018,esame,2,,,,,,
 fisica_007,esame,3,ansia,2,voto,3,media,3
 fisica_010,esame,2,ansia,1,stress,1,studio,3
 liceo_sci_014,esame,1,maturità,1,odio,1,ocra chiaro,1
-fisica_stem_001,esame,3,paura,2,ansia,1,test,2
+fisica_stem_001_1,esame,3,paura,2,ansia,1,test,2
 fisica_012,esame,2,preparazione ,3,scommessa,3,fisica,3
-fisica_stem_002,esame,2,confronto,4,preparazione,4,voto,2
+fisica_stem_002_1,esame,2,confronto,4,preparazione,4,voto,2
 liceo_sci_016,esame,1,ansia,1,stress,1,paura,1
 liceo_sci_017,esame,3,maturità,2,università ,5,di stato ,3
 liceo_sci_018,esame,1,paura,1,stress,1,agitazione,1
@@ -3794,11 +4106,19 @@ liceo_sci_040,esame,3,impegno,5,sfida,4,duro lavoro,4
 liceo_sci_041,esame,2,ansia,1,studio,3,obiettivo,5
 liceo_sci_042,esame,3,risultato,3,impegno,4,,
 liceo_sci_043,esame,1,ansia,1,agitazione,1,studio,2
-fisica_stem_003,esame,3,verifica,3,ostacolo,2,paletto,2
-fisica_015,esame,2,paura,1,blocco,1,abilità ,4
+fisica_stem_003_1,esame,3,verifica,3,ostacolo,2,paletto,2
+fisica_stem_002_2,esame,2,paura,1,blocco,1,abilità ,4
 liceo_063,esame,2,noia ,3,studio,3,facile ,3
 liceo_064,esame,2,guida,3,aula,3,mattina,4
-fisica_016,esame,2,ansia,1,sollievo,4,vomito,2
+fisica_stem_001_2,esame,2,ansia,1,sollievo,4,vomito,2
+fisica_stem_004_1,esame,2,ansia,2,studio,4,stress,3
+fisica_017,esame,5,sangue ,3,stress,5,giudizio,5
+fisica_018,esame,2,valutazione,4,studio,2,fatica,3
+fisica_020,esame,2,fallimento,1,voto,2,paura,1
+fisica_021,esame,3,maturità,1,zencher,1,difficile,1
+fisica_022,esame,,duro,,difficile,,entusiasmante,
+fisica_stem_002_3,esame,2,esito,3,voto,3,performance,3
+fisica_stem_005_1,esame,2,fatica ,2,ansia,2,blocco,1
 interfacce_001,futuro,4,incerto,2,paura,2,,
 interfacce_002,futuro,3,famiglia,3,casa,3,lavoro,3
 interfacce_003,futuro,4,paura,2,incertezza,2,opportunità,4
@@ -3858,9 +4178,9 @@ liceo_lin_018,futuro,3,incerto,3,vicino,4,lontano,2
 fisica_007,futuro,3,canzone psicologi,4,prossimo,3,anteriore,3
 fisica_010,futuro,4,incerto,2,possibilita,4,ansia,1
 liceo_sci_014,futuro,2,incerto,1,sconosciuto,2,nero,1
-fisica_stem_001,futuro,3,incerto,2,paura,2,promesse,4
+fisica_stem_001_1,futuro,3,incerto,2,paura,2,promesse,4
 fisica_012,futuro,4,lontano,3,felice,4,sconosciuto ,3
-fisica_stem_002,futuro,3,progresso,2,etica,5,incertezza,3
+fisica_stem_002_1,futuro,3,progresso,2,etica,5,incertezza,3
 liceo_sci_016,futuro,5,paura,1,azzurro,3,sole,4
 liceo_sci_017,futuro,4,incerto ,2,curioso ,5,paura ,1
 liceo_sci_018,futuro,5,università,4,lavoro,5,famiglia,5
@@ -3889,11 +4209,19 @@ liceo_sci_040,futuro,5,brillante,5,impegno,5,soddisfazione,5
 liceo_sci_041,futuro,3,paura,2,curiosità,5,tristezza,2
 liceo_sci_042,futuro,4,bello,4,divertente,4,decisioni libere,5
 liceo_sci_043,futuro,4,imprevedibilità,3,ansia,1,voglia di mettersi in gioco,5
-fisica_stem_003,futuro,2,dopo,4,lontano,5,astratto ,2
-fisica_015,futuro,4,scelta,4,incertezza,2,decisioni,4
+fisica_stem_003_1,futuro,2,dopo,4,lontano,5,astratto ,2
+fisica_stem_002_2,futuro,4,scelta,4,incertezza,2,decisioni,4
 liceo_063,futuro,4,incertezza ,3,speranza,4,tempo,3
 liceo_064,futuro,3,radioso,3,tempo,3,mio,3
-fisica_016,futuro,4,brescia,4,,,,
+fisica_stem_001_2,futuro,4,brescia,4,,,,
+fisica_stem_004_1,futuro,3,ansia,2,,,,
+fisica_017,futuro,5,incerto,5,stipendio,5,vicino,3
+fisica_018,futuro,2,lavoro,3,pensione,4,fatica,4
+fisica_020,futuro,2,incerto,1,paura,1,fallimento,1
+fisica_021,futuro,2,incerto,2,lontano,1,irraggiungibile,1
+fisica_022,futuro,,incerto,,pauroso,,inidente,
+fisica_stem_002_3,futuro,4,incertezza ,4,obiettivi ,4,giorno,4
+fisica_stem_005_1,futuro,2,incertezza,1,ansia ,1,sfide ,3
 interfacce_001,vita,5,bella,5,opportunità,5,,
 interfacce_002,vita,4,vivere,4,piante,3,animali,5
 interfacce_003,vita,4,morte,1,,,,
@@ -3953,9 +4281,9 @@ liceo_lin_018,vita,5,lunga,5,corta,1,modellabile,5
 fisica_007,vita,3,morte,3,nascita,3,tempo,3
 fisica_010,vita,4,bella,4,avventura,4,imparare,4
 liceo_sci_014,vita,1,domande,3,libertà,5,verde,3
-fisica_stem_001,vita,4,albero,5,viva,5,,
+fisica_stem_001_1,vita,4,albero,5,viva,5,,
 fisica_012,vita,5,acqua ,4,piante,5,respiro,5
-fisica_stem_002,vita,4,vocazione,5,possibilità,5,diritti,5
+fisica_stem_002_1,vita,4,vocazione,5,possibilità,5,diritti,5
 liceo_sci_016,vita,5,rosa,3,natura,5,sole,4
 liceo_sci_017,vita,5,morte,1,nasci,5,muori,1
 liceo_sci_018,vita,4,spensierata,5,felice,4,,
@@ -3984,8 +4312,16 @@ liceo_sci_040,vita,5,gioia,5,salute,5,speranza,5
 liceo_sci_041,vita,4,solare,5,difficile,2,veloce,3
 liceo_sci_042,vita,4,bello,4,essere felici,5,impegnarsi,4
 liceo_sci_043,vita,5,difficoltà,2,emozioni,5,unicità,5
-fisica_stem_003,vita,3,lunga,2,pazza,4,pancia,3
-fisica_015,vita,4,lavoro,3,interesse,5,tempo,2
+fisica_stem_003_1,vita,3,lunga,2,pazza,4,pancia,3
+fisica_stem_002_2,vita,4,lavoro,3,interesse,5,tempo,2
 liceo_063,vita,4,bello,4,felicità ,4,sfida ,3
 liceo_064,vita,4,vissuta,4,mia,4,nostra,4
-fisica_016,vita,4,morte,2,colori,5,difficile,4
+fisica_stem_001_2,vita,4,morte,2,colori,5,difficile,4
+fisica_stem_004_1,vita,4,ansia,2,,,,
+fisica_017,vita,5,breve ,5,incerta ,5,colorata ,5
+fisica_018,vita,4,rilassata,5,barca a vela,5,montagna,5
+fisica_020,vita,2,,,,,,
+fisica_021,vita,2,brutta,1,irrealizzabile,1,fallimento,1
+fisica_022,vita,,bella,,gioiosa,,saggia,
+fisica_stem_002_3,vita,4,passione,5,dedizione,5,equilibrio,5
+fisica_stem_005_1,vita,3,viaggio,4,sfida ,4,tempo,5
