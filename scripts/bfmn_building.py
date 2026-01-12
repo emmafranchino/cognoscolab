@@ -236,6 +236,55 @@ def categorize_valence_multiple(df):
 
     return df
 
+def multiple_fmnt_features(G, fmn, keyword, file_path, percentage):
+    local_clustering_coeff = nx.clustering(G, keyword)
+
+    G_kw = nx.Graph()
+    G_kw.add_nodes_from(fmn.vertices)
+    G_kw.add_edges_from(fmn.edges)
+
+    # If the graph is disconnected, operate on the largest connected component
+    if not nx.is_connected(G_kw):
+        components = list(nx.connected_components(G_kw))
+        largest_component = max(components, key=len)
+        G_kw_sub = G_kw.subgraph(largest_component).copy()
+    else:
+        G_kw_sub = G_kw
+    
+    avg_shortest_path = nx.average_shortest_path_length(G_kw_sub)
+    diameter = nx.diameter(G_kw_sub)
+
+    deg_dict = dict(G_kw.degree(fmn.vertices))
+
+    # compute the degree threshold for the top 5%
+    degrees = np.array(list(deg_dict.values()))
+    threshold = np.percentile(degrees, percentage)
+
+    # all nodes whose degree is >= threshold
+    hubs = sorted([(f'{n} ({d})', d) for n, d in deg_dict.items() if d >= threshold], key=lambda x: x[1], reverse=True)
+    hubs = [h[0] for h in hubs]
+
+    rows = []
+    # append a dict with all features
+    rows.append({
+        "Sample": file_path,
+        "keyword": keyword,
+        "$N_v$": len(fmn.vertices),
+        "$N_e$": len(fmn.edges),
+        "$C_i$": local_clustering_coeff,
+        "$l_G$": avg_shortest_path,
+        "$d$": diameter,
+        "Hubs": hubs 
+    })
+
+    # build the dataframe
+    features_fmnt_df = pd.DataFrame(rows)
+
+    # optional: ensure top5_degree is stored as list (not expanded)
+    features_fmnt_df["Hubs"] = features_fmnt_df["Hubs"].apply(lambda x: list(x))
+
+    return features_fmnt_df
+
 def build_multiple_fmnt(df, keywords, folder_path, file_path, flower='yes', language="ita"):
     if language == 'ita':
         emo = EmoScores(language="italian", spacy_model='it_core_news_lg')
@@ -272,15 +321,13 @@ def build_multiple_fmnt(df, keywords, folder_path, file_path, flower='yes', lang
     # create a Formamentis object from the graph
     fmn = emo.nxgraph_to_formamentis(G)
     fmnts_keyword = []
-    rows = []
+
+    features_fmn = multiple_fmnt_features(G, fmn, None, file_path, 99).drop(columns=['keyword', '$C_i$'])
+
+    features = []
     # create a subgraph for each of the keywords we are intereseted in and calculate tehir features
     for keyword in keywords:
         try: 
-            local_clustering_coeff = nx.clustering(G, keyword)
-            print(f"Local clustering {keyword}: {local_clustering_coeff}")
-            degree = G.degree(keyword)
-            print(f"Degree {keyword}: {degree}")
-
             # plot bfmn
             fig, ax = plt.subplots(figsize=(9,9))
             ax.axis('off')       
@@ -293,61 +340,19 @@ def build_multiple_fmnt(df, keywords, folder_path, file_path, flower='yes', lang
                 ax=ax,
                 # alpha_syntactic=1.0, # contrast of edges
             )
-            
+            fmnts_keyword.append(fmnt_keyword)
             fig.savefig(f'{folder_path}/out/analysis/bfmn/{file_path}/{keyword}.png', bbox_inches="tight", pad_inches=0.1)
-        
-            # get all the vertices (words) of the subgraph
-            vertices = fmnt_keyword.vertices
-            # count the number of words in each category
-            count_pos = 0
-            count_neg = 0
-            count_neu = 0
-            for word in vertices:
-                if word in positive_words:
-                    count_pos += 1
-                elif word in negative_words:
-                    count_neg += 1
-                elif word in neutral_words:
-                    count_neu += 1
-            # create a dictionary to count the number of words in each category and find the mode
+
+            print(f"Local clustering {keyword}: {nx.clustering(G, keyword)}")
+            print(f"Degree {keyword}: {G.degree(keyword)}")
+
             counts = {
-                'positive': count_pos,
-                'negative': count_neg,
-                'neutral': count_neu
+                'positive': sum(1 for w in fmnt_keyword.vertices if w in positive_words),
+                'negative': sum(1 for w in fmnt_keyword.vertices if w in negative_words),
+                'neutral': sum(1 for w in fmnt_keyword.vertices if w in neutral_words)
             }
             print(f"Counts of '{keyword}' = {counts}")
             print(f"Mode of '{keyword}' = {max(counts, key=counts.get)}")
-            fmnts_keyword.append(fmnt_keyword)
-
-            G_kw = nx.Graph()
-            G_kw.add_nodes_from(fmnt_keyword.vertices)
-            G_kw.add_edges_from(fmnt_keyword.edges)
-
-            avg_shortest_path = nx.average_shortest_path_length(G_kw)
-            diameter = nx.diameter(G_kw)
-            
-            deg_dict = dict(G.degree(fmnt_keyword.vertices))
-            deg_dict_no_keyword = {n: d for n, d in deg_dict.items() if n != keyword}
-            top5 = sorted(deg_dict_no_keyword.items(), key=lambda kv: (-kv[1], kv[0]))[:5]
-            top5_nodes = [n for n, d in top5]
- 
-            # append a dict with all features
-            rows.append({
-                "Sample": file_path,
-                "keyword": keyword,
-                "$N$ nodes": len(fmnt_keyword.vertices),
-                "$N$ edges": len(fmnt_keyword.edges),
-                "$C_i$": local_clustering_coeff,
-                "$l_G$": avg_shortest_path,
-                "$d$": diameter,
-                "Top Nodes": top5_nodes
-            })
-
-            # build the dataframe
-            features_fmnt_df = pd.DataFrame(rows)
-
-            # optional: ensure top5_degree is stored as list (not expanded)
-            features_fmnt_df["Top Nodes"] = features_fmnt_df["Top Nodes"].apply(lambda x: list(x))
 
             ### !!! OPTIONAL: PLOT EMOTIONAL FLOWER !!!
             if flower == 'yes':
@@ -356,11 +361,15 @@ def build_multiple_fmnt(df, keywords, folder_path, file_path, flower='yes', lang
                 plt.savefig(f"{folder_path}/out/analysis/emo_flowers_bfmn/{file_path}/{keyword}", bbox_inches="tight", pad_inches=0.1)
                 plt.close('all')
             
+            features_fmnt_keyword = multiple_fmnt_features(G, fmnt_keyword, keyword, file_path, 95)
+            features.append(features_fmnt_keyword)
+            all_features_df = pd.concat(features, ignore_index=True).drop(columns=['$d$'])
+            
         except ValueError as e:
             if "min() arg is an empty sequence" in str(e):
                 print(f"⚠️ Skipping {keyword}: not enough data to build the network.")
 
-    return G, fmn, fmnts_keyword, features_fmnt_df
+    return fmnts_keyword, all_features_df, features_fmn
 
 
 # function to use on the data analysis of multiple partcipants

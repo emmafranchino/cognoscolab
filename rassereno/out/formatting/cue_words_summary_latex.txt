@@ -1,0 +1,17 @@
+\begin{table}[!hbpt]
+\scriptsize
+\centering
+\caption{Cue words for different samples.}
+\label{tab: cue words summary}
+\begin{tabular}{c|p{2.8cm}|p{3.2cm}|p{2.3cm}|p{3.2cm}|p{2.8cm}}
+\toprule
+N & STEM Disciplines & Academic Environment & Evaluation & Learning and Motivation & Mental Health \\
+\midrule
+ & Science, Physics, Mathematics, Chemistry, Biology, Statistics, Electricity, Computer, Evolution, Dna, Experiment, Cell, Derivative, Space, Graph, Theorem, Trigonometry, Integral, Model, Complex, Chaos, Solid, Number, Hub & University, School, Conference, Lab, Studies, Teaching, Student, Degree, Mathematician, Prisoner & Analysis, Game, Word, Loop, Market & Language, Person & Life, Brain, Water, Scientific, Cloud \\
+ & Algorithm, Biology, Calculation, Demonstration, Equation, Physics, Engineering, Mathematics, Mathematician, Numbers, Performance in mathematics, Statistics, Technology, Math test, Utility of mathematics & Class, Parent, Teacher, Student, Board, Concept map, Notes & Examination & Change of plans, Task, Concentration, Confusion, Curiosity, Distraction, Errors, Set a goal, I commit, Importance, Intelligence, Store, Motivation, Plan, Problem, Plan, Program, Review, Postpone, Expiration, Challenge, Effort, Solution, Study, Success, Keep track & Anxiety, Failure \\
+ & Biology, Equation, Physics, Informatics, Mathematics, Statistics, Science, Scientist, Innovation, Neuroscience & Teacher, Professor, University & Examination, Trial, Test, Average, Assessment & Creativity, Curiosity, Fun, Challenge, Model, Know, Development, Passion & Anxiety, Attachment, Well being, Cognition, Emotion, Mind, Personality, Psychology, Psychopathology, Psychotherapy, Therapist \\
+ & Biology, Equation, Physics, Mathematics, Numbers, Statistics, Technology, Graphic, Science, Discovery, Neuroscience & Teacher, Student, Professor, School, University & Examination, Exercise, Vote & Task, Knowledge, Creativity, Curiosity, Challenge, Future, Model, Relation & Anxiety, Well being, Cognition, Emotion, Frustration, Mind, Boredom, Personality, Psychology, Therapy, Stress \\
+ & Analyses, Equation, Physics, Informatics, Mathematics, Numbers, Statistics, Data, Hypothesis, Laboratory, Logic, Research, Science, Scientist, Scientist, Discovery, Experiment, Innovation & Companions, Teacher, Parents, School & Examination, Vote & Knowledge, Creativity, Problem, Programming, Challenge, Future, Rules & Anxiety, Art, Well being, Counselling, Failure, Embarrassment, Meditation, Panic, Fear, Stress \\
+\bottomrule
+\end{tabular}
+\end{table}
