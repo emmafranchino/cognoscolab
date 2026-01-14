@@ -18,36 +18,44 @@ def big_5(data):
     big_5_factors = [extraversion, agreeableness, conscientiousness, neuroticism, openness]
 
     factors_big_5 = factor_grouping(big_5_factors, big_5, 'big_5')
+    factors_big_5['pariticipant_id'] = data['participant_id']
+    factors_big_5.columns = ['pariticipant_id', 'extraversion', 'agreeableness', 'conscientiousness', 'neuroticism', 'openness']
+
     return factors_big_5
 
 def state_anxiety(data, start, end):
     state_anxiety = data[[f'state_anxiety_{i}' for i in range(start, end)]].copy()
     return state_anxiety
 
-def need_for_cognition(questionnaires):    
-# copy the part of the dictionary that includes the scores of this questionnaire
-    need_cognition = questionnaires[[f'need_cognition_{i}' for i in range(1, 19)]].copy()
+def cognitive_flexibility(data):    
+    # copy the part of the dictionary that includes the scores of this questionnaire
+    cfs_df = data[[f'cfs_{i}' for i in range(1, 13)]].copy()
 
     # reversed scores based on the english version: item 3, 4, 5, 7, 12, 16, 17 (which correspond to the italian version)
-    reversed_items = [3, 4, 5, 7, 12, 16, 17]
+    reversed_items = [2,3,5,10]
 
     # reverse the scores
     for i in reversed_items:
-        need_cognition[f'need_cognition_{i}'] = 6 - need_cognition[f'need_cognition_{i}']
-
-    # mean
-    need_cognition_mean = need_cognition.mean(axis=1)
+        cfs_df[f'cfs_{i}'] = 6 - cfs_df[f'cfs_{i}']
+    # sum
+    cfs_sum_df = pd.DataFrame()
+    cfs_sum_df['pariticipant_id'] = data['participant_id']
+    cfs_sum_df['cfs_total'] = cfs_df.sum(axis=1)
 
     # descriptive analysis
-    return need_cognition.describe()
+    return cfs_sum_df
 
-
-
-def factor_grouping(factors, questionnaire, name):
-        return pd.DataFrame({
-        f'{name}_factor_{i + 1}': questionnaire[[f'{name}_{j}' for j in factor]].sum(axis=1)
-        for i, factor in enumerate(factors)
-    })
+def factor_grouping(factors, questionnaire, name, sum=True):
+        if sum == True:
+            return pd.DataFrame({
+            f'{name}_factor_{i + 1}': questionnaire[[f'{name}_{j}' for j in factor]].sum(axis=1)
+            for i, factor in enumerate(factors)
+        })
+        else:
+            return pd.DataFrame({
+            f'{name}_factor_{i + 1}': questionnaire[[f'{name}_{j}' for j in factor]].values.tolist()
+            for i, factor in enumerate(factors)
+        })
 
 def mas_it_factor_grouping(data, sample, path):
 

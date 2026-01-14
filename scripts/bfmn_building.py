@@ -10,8 +10,6 @@ import nltk
 spacy.load('it_core_news_lg')
 spacy.load('en_core_web_lg')
 
-
-
 def text_cleaning(df):
     df = df.copy()
     # clean columns that have words inside
