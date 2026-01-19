@@ -129,7 +129,7 @@ def categorize_valence_single(df):
     
     return df
 
-def build_single_fmnt(df, keywords):
+def build_single_fmnt(df = pd.DataFrame(), keywords = list(), folder_path = str, file_path = str, p_id = str):
     emo = EmoScores(language="italian", spacy_model='it_core_news_lg')
     # initialize an empty undirected graph
     G = nx.Graph()
@@ -157,19 +157,26 @@ def build_single_fmnt(df, keywords):
 
     G.add_edges_from(edges)
     fmn = emo.nxgraph_to_formamentis(G)
+    
+    for keyword in keywords: 
+        try:  # plot bfmn
+            fig, ax = plt.subplots(figsize=(9,9))
+            ax.axis('off')       
+            fmnt_keyword = emo.extract_word_from_formamentis(fmn, keyword)
+            emo.draw_formamentis(
+                fmn=fmnt_keyword,
+                layout="edge_bundling",
+                # thickness=2, # thickness of edges
+                custom_valences=custom_valences, 
+                ax=ax,
+                # alpha_syntactic=1.0, # contrast of edges
+            )
+            fig.savefig(f'{folder_path}/analysis/bfmn/{file_path}/{p_id}_{keyword}.png', bbox_inches="tight", pad_inches=0.1)
+            
+        except ValueError as e:
+            if "min() arg is an empty sequence" in str(e):
+                print(f"⚠️ Skipping {keyword}: not enough data to build the network.")
 
-    for keyword in keywords:   # plot bfmn
-        fig, ax = plt.subplots(figsize=(9,9))
-        ax.axis('off')       
-        fmnt_keyword = emo.extract_word_from_formamentis(fmn, keyword)
-        emo.draw_formamentis(
-            fmn=fmnt_keyword,
-            layout="edge_bundling",
-            # thickness=2, # thickness of edges
-            custom_valences=custom_valences, 
-            ax=ax,
-            # alpha_syntactic=1.0, # contrast of edges
-        )
     # get the valence, degree and closeness centrality of the words of interest
     features_fmnt_dict = {}
     for word in ['ansia', 'matematica']:
@@ -385,11 +392,11 @@ def pipeline_df_building(df, filter = 'no'):
     final_df = categorize_valence_multiple(long_df)
     return final_df
 
-def pipeline_single_participant(df, keywords):
+def pipeline_single_participant(df, keywords, folder_path, file_path, p_id):
     clean_df = text_cleaning(df)
     long_df = build_association_df(clean_df)
     final_df = categorize_valence_single(long_df)
-    features_fmnt, valences  = build_single_fmnt(final_df, keywords)
+    features_fmnt, valences  = build_single_fmnt(final_df, keywords, folder_path, file_path, p_id)
     return final_df, features_fmnt, valences
 
 def run_pipeline_all_participants(df):

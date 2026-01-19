@@ -3,13 +3,13 @@ import pandas as pd
 def big_5(data):
     big_5 = data[[f'big_5_{i}' for i in range(1, 11)]].copy()
 
-    reversed_items = [1, 4, 7, 3, 5]
+    reversed_items = [1, 3, 4, 5, 7, 9]
 
     for item in reversed_items:
         big_5[f"big_5_{item}"] = 6 - big_5[f"big_5_{item}"]
 
     # BFI‐10 scales factors:
-    extraversion = [1, 5] 
+    extraversion = [1, 6] 
     agreeableness = [2, 7] 
     conscientiousness = [3, 8]
     neuroticism =  [4, 9]
@@ -17,45 +17,49 @@ def big_5(data):
 
     big_5_factors = [extraversion, agreeableness, conscientiousness, neuroticism, openness]
 
-    factors_big_5 = factor_grouping(big_5_factors, big_5, 'big_5')
-    factors_big_5['pariticipant_id'] = data['participant_id']
-    factors_big_5.columns = ['pariticipant_id', 'extraversion', 'agreeableness', 'conscientiousness', 'neuroticism', 'openness']
+    factors_big_5 = factor_grouping(big_5_factors, big_5, 'big_5', agg="mean")
+
+    factors_big_5.columns = ['extraversion', 'agreeableness', 'conscientiousness', 'neuroticism', 'openness']
+    factors_big_5.insert(0, 'participant_id', data['participant_id'])
 
     return factors_big_5
 
-def state_anxiety(data, start, end):
-    state_anxiety = data[[f'state_anxiety_{i}' for i in range(start, end)]].copy()
-    return state_anxiety
-
-def cognitive_flexibility(data):    
+def item_reversion_sum(data = pd.DataFrame(), questionnaire = str, start = int, end = int, reversed_items = list):
     # copy the part of the dictionary that includes the scores of this questionnaire
-    cfs_df = data[[f'cfs_{i}' for i in range(1, 13)]].copy()
-
-    # reversed scores based on the english version: item 3, 4, 5, 7, 12, 16, 17 (which correspond to the italian version)
-    reversed_items = [2,3,5,10]
+    df = data[[f'{questionnaire}_{i}' for i in range(start, end)]].copy()
 
     # reverse the scores
     for i in reversed_items:
-        cfs_df[f'cfs_{i}'] = 6 - cfs_df[f'cfs_{i}']
+        df[f'{questionnaire}_{i}'] = 6 - df[f'{questionnaire}_{i}']
     # sum
-    cfs_sum_df = pd.DataFrame()
-    cfs_sum_df['pariticipant_id'] = data['participant_id']
-    cfs_sum_df['cfs_total'] = cfs_df.sum(axis=1)
+    sum_df = pd.DataFrame()
+    sum_df['participant_id'] = data['participant_id']
+    sum_df[f'{questionnaire}_total'] = df.sum(axis=1)
 
-    # descriptive analysis
-    return cfs_sum_df
+    return sum_df
 
-def factor_grouping(factors, questionnaire, name, sum=True):
-        if sum == True:
-            return pd.DataFrame({
-            f'{name}_factor_{i + 1}': questionnaire[[f'{name}_{j}' for j in factor]].sum(axis=1)
-            for i, factor in enumerate(factors)
-        })
-        else:
-            return pd.DataFrame({
-            f'{name}_factor_{i + 1}': questionnaire[[f'{name}_{j}' for j in factor]].values.tolist()
-            for i, factor in enumerate(factors)
-        })
+def factor_grouping(factors, questionnaire, name, agg="sum"):
+    if isinstance(agg, str):
+        def apply_agg(df):
+            if agg == "sum":
+                return df.sum(axis=1)
+            elif agg == "mean":
+                return df.mean(axis=1)
+            elif agg == "list":
+                return df.values.tolist()
+            else:
+                raise ValueError(f"Unknown aggregation: {agg}")
+    else:
+        def apply_agg(df):
+            return agg(df)
+
+    return pd.DataFrame({
+        f'{name}_factor_{i + 1}': apply_agg(
+            questionnaire[[f'{name}_{j}' for j in factor]]
+        )
+        for i, factor in enumerate(factors)
+    })
+
 
 def mas_it_factor_grouping(data, sample, path):
 
