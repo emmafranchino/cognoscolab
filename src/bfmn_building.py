@@ -5,6 +5,7 @@ import pandas as pd
 import spacy
 from emoatlas import EmoScores
 from scipy import stats
+from pathlib import Path
 
 spacy.load("it_core_news_lg")
 spacy.load("en_core_web_lg")
@@ -79,7 +80,7 @@ def build_association_df(df, filter="no"):
     return df_long
 
 
-# function to plot valence categories distrubution
+# function to plot valence categories distribution
 def plot_valence_distribution(df):
     plt.figure(figsize=(6, 5))
 
@@ -254,7 +255,6 @@ def categorize_valence_multiple(df):
             stat, p_value = stats.kruskal(keyword_valence, all_valences)
             # if p >= 0.1 --> comparabile
             # if p < 0.1 --> not comparabile
-
             # mean of all the valences of keyword
             mean_keyword_valence = np.mean(keyword_valence)
             # mean of all the valences of the other words
@@ -375,13 +375,14 @@ def build_multiple_fmnt(
     # create a Formamentis object from the graph
     fmn = emo.nxgraph_to_formamentis(G)
     fmnts_keyword = []
+    all_features_df = pd.DataFrame()
 
     features_fmn = multiple_fmnt_features(G, fmn, None, file_path, 99).drop(
         columns=["keyword", "$C_i$"]
     )
 
     features = []
-    # create a subgraph for each of the keywords we are intereseted in and calculate tehir features
+    # create a subgraph for each of the keywords we are interested in and calculate their features
     for keyword in keywords:
         try:
             # plot bfmn
@@ -397,8 +398,11 @@ def build_multiple_fmnt(
                 # alpha_syntactic=1.0, # contrast of edges
             )
             fmnts_keyword.append(fmnt_keyword)
+
+            output_dir_fmn = Path(folder_path) / "out" / "analysis" / "bfmn" / file_path
+            output_dir_fmn.mkdir(parents=True, exist_ok=True)
             fig.savefig(
-                f"{folder_path}/out/analysis/bfmn/{file_path}/{keyword}.png",
+                output_dir_fmn / f"{keyword}.png",
                 bbox_inches="tight",
                 pad_inches=0.1,
             )
@@ -422,8 +426,17 @@ def build_multiple_fmnt(
             if flower == "yes":
                 zeta_scores = emo.zscores(fmnt_keyword)
                 emo.draw_plutchik(zeta_scores, reject_range=(-1.96, 1.96))
+
+                output_dir = (
+                    Path(folder_path)
+                    / "out"
+                    / "analysis"
+                    / "emo_flowers_bfmn"
+                    / file_path
+                )
+                output_dir.mkdir(parents=True, exist_ok=True)
                 plt.savefig(
-                    f"{folder_path}/out/analysis/emo_flowers_bfmn/{file_path}/{keyword}",
+                    output_dir / f"{keyword}.png",
                     bbox_inches="tight",
                     pad_inches=0.1,
                 )
@@ -438,13 +451,12 @@ def build_multiple_fmnt(
             )
 
         except ValueError as e:
-            if "min() arg is an empty sequence" in str(e):
-                print(f"⚠️ Skipping {keyword}: not enough data to build the network.")
+            print(f"⚠️ Skipping {keyword}:", e)
 
     return fmnts_keyword, all_features_df, features_fmn
 
 
-# function to use on the data analysis of multiple partcipants
+# function to use on the data analysis of multiple participants
 def pipeline_multiple_participants(df, keywords, folder_path, file_path, flower):
     clean_df = text_cleaning(df)
     long_df = build_association_df(clean_df)
