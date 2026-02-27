@@ -5,7 +5,6 @@ import pandas as pd
 import spacy
 from emoatlas import EmoScores
 from scipy import stats
-import nltk
 
 spacy.load("it_core_news_lg")
 spacy.load("en_core_web_lg")
