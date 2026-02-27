@@ -154,3 +154,92 @@ WORD_TO_CATEGORY = {
     "terapia": "Mental Health",
     "stress": "Mental Health",
 }
+
+
+# these are the fileds used in the loops in qualtrics
+field_1 = [
+    "Scienza",
+    "Equazione",
+    "Matematica",
+    "Programmazione",
+    "Numeri",
+    "Problema",
+    "Dati",
+]
+field_2 = [
+    "Statistica",
+    "Fisica",
+    "Analisi",
+    "Laboratorio",
+    "Logica",
+    "Informatica",
+    "Esperimento",
+]
+field_3 = [
+    "Ipotesi",
+    "Innovazione",
+    "Scoperta",
+    "Conoscenza",
+    "Ricerca",
+    "Sfida",
+    "Stress",
+]
+# Counselling é stata trasformata in Intellingenza_Artificiale dopo i primi 23 partecipanti
+field_4 = [
+    "Ansia",
+    "Panico",
+    "Scienziata",
+    "Fallimento",
+    "Imbarazzo",
+    "Paura",
+    "Intelligenza_Artificiale",
+]
+field_5 = ["Benessere", "ChatGPT", "Docente", "Voto", "Compagni", "Genitori", "Regole"]
+field_6 = ["Arte", "Vita", "Creatività", "Futuro", "Scuola", "Esame", "Scienziato"]
+
+QUALTRICS_WORDS_FIELDS = [field_1, field_2, field_3, field_4, field_5, field_6]
+
+WORDS_ORDER_VALENCE_TASK = [
+    "Scienza",
+    "Statistica",
+    "Ipotesi",
+    "Ansia",
+    "Benessere",
+    "Equazione",
+    "Fisica",
+    "Innovazione",
+    "Panico",
+    "ChatGPT",
+    "Matematica",
+    "Analisi",
+    "Scoperta",
+    "Scienziata",
+    "Docente",
+    "Programmazione",
+    "Laboratorio",
+    "Conoscenza",
+    "Fallimento",
+    "Voto",
+    "Numeri",
+    "Logica",
+    "Ricerca",
+    "Imbarazzo",
+    "Compagni",
+    "Problema",
+    "Informatica",
+    "Sfida",
+    "Paura",
+    "Genitori",
+    "Dati",
+    "Esperimento",
+    "Stress",
+    "Intelligenza_Artificiale",
+    "Regole",
+    "Scienziato",
+    "Scuola",
+    "Creatività",
+    "Arte",
+    "Esame",
+    "Futuro",
+    "Vita",
+]
