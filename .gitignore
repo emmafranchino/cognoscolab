@@ -1,6 +1,8 @@
-venv/
+venv
 .DS_Store
 .vscode/
+__init__.py
+cognoscolab.egg-info
 __pycache__
 rassereno/out/analysis/bfmn
 rassereno/out/analysis/comparison_plots
