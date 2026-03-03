@@ -29,7 +29,7 @@ def get_trimmed_df(raw_data, date, participant_label):
     # convert the progress values into integers
     progress = raw_data["Progress"].values.astype(int)
 
-    # keep only the participations with more than 65% progress
+    # keep only the participation with more than 65% progress
     raw_data = raw_data[(progress > 65) & (raw_data["QID3"] == "1")].reset_index(
         drop=True
     )
@@ -122,7 +122,7 @@ def get_valences(data_population):
     keys_valence = []
     values_valence = []
 
-    # extraction of all the questions IDs (keys) and the values based on the q_id and their indices (see expalanation above)
+    # extraction of all the questions IDs (keys) and the values based on the q_id and their indices (see explanation above)
     for key, value in data_population.items():
         for j in range(1, 10):
             for q_id in q_ids:
@@ -147,7 +147,7 @@ def get_valences(data_population):
     # create a dict with the list of all questions IDs (previously created) and the label associated to each of them
     id_to_label = dict(zip(keys_valence, labels))
 
-    # assign to the question IDs the question label so that i understand to what the scores are associeted
+    # assign to the question IDs the question label so that i understand to what the scores are associated
     labeled_scores = pd.DataFrame.from_dict(valence_dict, orient="index").T
     labeled_scores.rename(columns=id_to_label, inplace=True)
 
@@ -175,14 +175,14 @@ def get_valences(data_population):
         f"{col}_association_{i}" for col, i in valence_task_df.columns
     ]
 
-    # reset the index without reassing it to a new variable
+    # reset the index without reassign it to a new variable
     valence_task_df.reset_index(drop=True, inplace=True)
 
     return valence_task_df
 
 
 def associations_valences_df(associations_task_df, valence_task_df):
-    # concatenate the df with the labels for the valence task and the df of the association taks (previously created)
+    # concatenate the df with the labels for the valence task and the df of the association task (previously created)
     associations_valence_df = pd.concat([associations_task_df, valence_task_df], axis=1)
 
     columns_order = [
@@ -201,7 +201,7 @@ def associations_valences_df(associations_task_df, valence_task_df):
         "valence_association_3",
     ]
 
-    # redorder the df based on columns_order and remove the columns contaning the labels of the questions IDs in the valence task
+    # reorder the df based on columns_order and remove the columns containing the labels of the questions IDs in the valence task
     associations_valence_df = associations_valence_df[columns_order].drop(
         columns=[
             "key_association_0",
