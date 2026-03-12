@@ -29,7 +29,7 @@ def text_cleaning(df):
     return df
 
 
-def build_association_df(df, filter="no"):
+def build_association_df(df, filtering="no"):
 
     # preserve original cue word for later indexing (before being renamed)
     df["cue_word_original"] = df["cue_word"]
@@ -72,7 +72,7 @@ def build_association_df(df, filter="no"):
     df_long = df_long[(df_long["word"] != "nan") & (df_long["word"] != "")]
 
     ## !!! OPTIONAL: FILTERED !!! filter out words that were given by only one participant for each cue word ###
-    if filter == "yes":
+    if filtering == "yes":
         df_long = df_long.groupby(["cue_word", "word"]).filter(
             lambda g: g["participant_id"].nunique() > 1
         )
@@ -457,9 +457,11 @@ def build_multiple_fmnt(
 
 
 # function to use on the data analysis of multiple participants
-def pipeline_multiple_participants(df, keywords, folder_path, file_path, flower):
+def pipeline_multiple_participants(
+    df, keywords, folder_path, file_path, flower, filtering="no"
+):
     clean_df = text_cleaning(df)
-    long_df = build_association_df(clean_df)
+    long_df = build_association_df(clean_df, filtering=filtering)
     final_df = categorize_valence_multiple(long_df)
     G, fmn, features_fmnt_df = build_multiple_fmnt(
         final_df, keywords, folder_path, file_path, flower
