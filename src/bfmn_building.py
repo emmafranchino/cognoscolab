@@ -402,7 +402,7 @@ def build_multiple_fmnt(
             output_dir_fmn = Path(folder_path) / "out" / "analysis" / "bfmn" / file_path
             output_dir_fmn.mkdir(parents=True, exist_ok=True)
             fig.savefig(
-                output_dir_fmn / f"{keyword}.png",
+                output_dir_fmn / f"{keyword}.pdf",
                 bbox_inches="tight",
                 pad_inches=0.1,
             )
@@ -436,7 +436,7 @@ def build_multiple_fmnt(
                 )
                 output_dir.mkdir(parents=True, exist_ok=True)
                 plt.savefig(
-                    output_dir / f"{keyword}.png",
+                    output_dir / f"{keyword}.pdf",
                     bbox_inches="tight",
                     pad_inches=0.1,
                 )
