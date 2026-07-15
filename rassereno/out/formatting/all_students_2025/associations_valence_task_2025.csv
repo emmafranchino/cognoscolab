@@ -101,7 +101,43 @@ fisica_020,scienza,3,merendine,2,chimica,4,fisica,4
 fisica_021,scienza,4,barbara,3,scula elementare,3,james watson,4
 fisica_022,scienza,2,strumento,2,matematica,2,rigidità,1
 fisica_stem_002_3,scienza,4,progresso,3,ricerca,4,eitca,5
-fisica_stem_005_1,scienza,5,invenzioni,4,natura,4,creatività ,5
+teacher_001,scienza,5,invenzioni,4,natura,4,creatività ,5
+teacher_002,scienza,5,cum accusantium hic ,1,sunt provident fugi,2,irure officia quia v,4
+teacher_003,scienza,4,deleniti doloremque ,3,id duis molestiae c,3,possimus ut delectu,1
+teacher_005,scienza,5,novità,5,ricerca,5,opportunità,5
+teacher_006,scienza,5,futuro,5,progresso,5,esperimento,5
+teacher_007,scienza,5,interessante,4,importante,5,,
+teacher_008,scienza,4,scoperta,5,idee,5,domande,5
+teacher_009,scienza,3,scienziato,5,giusta,3,utilità,3
+teacher_010,scienza,5,interessante,5,universo,5,progresso,5
+teacher_011,scienza,5,chimica,5,animali ,5,piante ,5
+teacher_012,scienza,4,scoperte,4,innovazioni,4,futuro,4
+teacher_013,scienza,5,immaginazione,5,bellezza,5,interpretazione,5
+teacher_014,scienza,4,materia,4,umana,5,,
+teacher_015,scienza,3,spiegazione,3,studio,3,esperimenti,4
+teacher_016,scienza,4,matematica,3,ricerca,4,biologia,4
+teacher_017,scienza,5,espertimento,5,test,5,laboratorio,5
+teacher_018,scienza,4,scoperta,5,studio,4,laboratorio,5
+teacher_019,scienza,5,sapere,5,valore,5,curiosità,5
+teacher_020,scienza,4,natura,4,indagine,4,futuro,4
+teacher_021,scienza,5,scoperta,5,approccio,5,procedimenti,5
+teacher_023,scienza,4,materia,3,terra,4,libro,4
+altro dipartimento_065,scienza,4,innovazione,5,essenziale,5,,
+teacher_024,scienza,5,coscienza,4,dura,3,matematica,5
+altro dipartimento_067,scienza,4,fede,5,matematica ,4,biologia ,4
+fisica_unitn_002,scienza,5,natura,5,biologia ,5,oceano ,5
+fisica_unitn_003,scienza,3,verde,4,foglia,4,provette,3
+teacher_025,scienza,4,metodo,4,scienziato,4,,
+fisica_unitn_004,scienza,4,fisica,4,biologia,3,chimica,3
+teacher_026,scienza,4,applicata ,4,ricerca ,4,,
+teacher_027,scienza,4,fisi a,4,,,,
+altro dipartimento_068,scienza,4,umanità,5,inclusione,5,progresso,5
+fisica_unitn_005,scienza,5,fisica,5,ricerca,5,ipotesi,4
+fisica_unitn_006,scienza,4,spazio,5,futuro,4,tecnologia,5
+teacher_028,scienza,5,esperimento,5,predizione,4,verifica,4
+fisica_unitn_007,scienza,3,ingegneria,3,laurea,3,laura,3
+teacher_029,scienza,3,studio ,4,regole,4,conoscenza ,
+fisica_unitn_008,scienza,4,sviluppo,5,evoluzione ,5,dogmi,1
 interfacce_001,statistica,3,matematica,3,difficile,3,,
 interfacce_002,statistica,3,numeri,3,percentuali,4,probabilita,4
 interfacce_003,statistica,2,numeri,4, calcolo,4,,
@@ -204,7 +240,43 @@ fisica_020,statistica,3,matematica,3,quantistica,5,,
 fisica_021,statistica,4,compagno di classe,2,matematica,3,precisione,4
 fisica_022,statistica,2,verità,5,accuratezza,3,sintesi,4
 fisica_stem_002_3,statistica,3,dati,3,matematica,3,teoremi,3
-fisica_stem_005_1,statistica,4,linguaggio,4,lettura,5,numeri,4
+teacher_001,statistica,4,linguaggio,4,lettura,5,numeri,4
+teacher_002,statistica,1,adipisci dolores eos,2,nihil consectetur c,5,nemo labore ad aut i,2
+teacher_003,statistica,1,tempora officia mini,2,omnis et consequuntu,3,nihil nulla animi d,5
+teacher_005,statistica,5,misurazione,5,confronto,5,rapporti,5
+teacher_006,statistica,4,descrizione,5,sociologia,4,dati,5
+teacher_007,statistica,3,utile,4,difficile,2,programmi,4
+teacher_008,statistica,3,dati,3,analisi,4,test,3
+teacher_009,statistica,5,pura,5,scienza,5,dati,3
+teacher_010,statistica,3,difficile,3,utile,5,matematica,3
+teacher_011,statistica,4,numeri,5,dati ,5,analisi,5
+teacher_012,statistica,3,numerica,3,analisi dei dati,3,trend,3
+teacher_013,statistica,4,matematica,5,interpretazione,4,dati,5
+teacher_014,statistica,4,psicometrica,4,analisi,4,campione,4
+teacher_015,statistica,3,numeri,3,grafici,3,indagine,3
+teacher_016,statistica,3,istat,3,lavoro,5,risparmio,5
+teacher_017,statistica,5,numeri ,5,sorpresa,5,test,5
+teacher_018,statistica,4,numero,4,dato,4,fenomeno,4
+teacher_019,statistica,4,scienza,5,studio,4,dati,4
+teacher_020,statistica,4,gauss,4,dadi,4,carte,4
+teacher_021,statistica,4,analisi,5,dati,5,grafici,4
+teacher_023,statistica,4,esame,3,teorema,3,matematica ,5
+altro dipartimento_065,statistica,4,speranza,5,,,,
+teacher_024,statistica,5,fisica,5,matematica,5,istat,2
+altro dipartimento_067,statistica,4,normale ,4,gaussiana ,3,dati,3
+fisica_unitn_002,statistica,2,numeri ,3,,,,
+fisica_unitn_003,statistica,3,matematica,3,numeri,3,serie,3
+teacher_025,statistica,2,dati,2,percentuali,2,analisi,4
+fisica_unitn_004,statistica,4,analisi,4,fit,5,relazione,4
+teacher_026,statistica,4,meccanica ,3,bayes ,3,probabilità ,5
+teacher_027,statistica,4,  conti,4,chiquadro,4,,
+altro dipartimento_068,statistica,5,realtà,5,copule,5,stimare,5
+fisica_unitn_005,statistica,4,chi quadro,4,probabilità ,4,media,4
+fisica_unitn_006,statistica,4,bizzarra,4,interessante,4,,
+teacher_028,statistica,4,strumento,5,teoria,5,dati,4
+fisica_unitn_007,statistica,3,matematica,3,numeri,3,algebra,4
+teacher_029,statistica,3,probabilità ,5,campione ,4,distribuzione ,4
+fisica_unitn_008,statistica,4,legge,4,studio,5,,
 interfacce_001,ipotesi,3,dubbio,3,incertezza,2,,
 interfacce_002,ipotesi,3,domanda,4,quesito,3,pensare,4
 interfacce_003,ipotesi,3,tesi,3,scienza,4,,
@@ -307,7 +379,43 @@ fisica_020,ipotesi,3,antitesi,3,teorema,3,,
 fisica_021,ipotesi,3,esperimento,4,problema,3,me da piccolo,4
 fisica_022,ipotesi,3,interesse,5,detection,1,fallibilità,4
 fisica_stem_002_3,ipotesi,3,tesi,3,antitesi,3,conferma,3
-fisica_stem_005_1,ipotesi,3,idea,5,creatività,5,teoremi,3
+teacher_001,ipotesi,3,idea,5,creatività,5,teoremi,3
+teacher_002,ipotesi,3,minus modi ullam vol,4,qui voluptatum labor,4,suscipit facere fugi,5
+teacher_003,ipotesi,4,suscipit ipsam digni,1,voluptatem sit ut e,3,nisi tenetur amet q,4
+teacher_005,ipotesi,5,soluzioni,5,codici,5,innovare,5
+teacher_006,ipotesi,5,tesi,5,dimostrazione,5,ragionamento,5
+teacher_007,ipotesi,4,teoremi,4,problemi,4,,
+teacher_008,ipotesi,3,tesi,3,esperimento,5,laboratorio,4
+teacher_009,ipotesi,3,tesi,3,dimostrazione,4,antitesi,4
+teacher_010,ipotesi,5,strade,5,matematica,3,teoremi,3
+teacher_011,ipotesi,5,ragionamento,5,esperire,5,domande,5
+teacher_012,ipotesi,4,tesi,4,dimostrazione,4,procedimento,4
+teacher_013,ipotesi,5,tesi,5,dimostrazione,4,conoscenza,4
+teacher_014,ipotesi,4,di successo,5,,,,
+teacher_015,ipotesi,3,possibilità,4,immaginazione,4,astrazione,3
+teacher_016,ipotesi,3,domande,3,risposte,3,soluzioni,3
+teacher_017,ipotesi,5,forse ,5,incertezza,5,sorpresa,5
+teacher_018,ipotesi,4,possibilità,5,incertezza,4,forse,4
+teacher_019,ipotesi,5,dubbio,4,opportunità,5,saggezza,5
+teacher_020,ipotesi,4,intuito,4,idea,4,metodo,4
+teacher_021,ipotesi,4,ignoto,3,possibilità,4,,
+teacher_023,ipotesi,3,tesi,3,teorema,3,dimostrazione ,4
+altro dipartimento_065,ipotesi,5,tesi,5,antitesi,3,teorema,5
+teacher_024,ipotesi,5,tesi,5,teorema,5,corollario,5
+altro dipartimento_067,ipotesi,3,statistica ,4,problema ,3,dato,3
+fisica_unitn_002,ipotesi,3,quesito ,4,soluzione ,5,,
+fisica_unitn_003,ipotesi,3,dimostrazione,3,prova,3,test,3
+teacher_025,ipotesi,3,tesi,3,teorema,4,,
+fisica_unitn_004,ipotesi,4,dimostrazione,4,tesi,4,teoria,4
+teacher_026,ipotesi,4,teoria,4,dubbio,3,idea,4
+teacher_027,ipotesi,3,negazione ,3,,,,
+altro dipartimento_068,ipotesi,4,verità,4,controllo,4,falsa,2
+fisica_unitn_005,ipotesi,4,tesi,4,conferma,5,scienza,5
+fisica_unitn_006,ipotesi,4,tesi,3,trovare,4,esperimento,5
+teacher_028,ipotesi,,partenza,,limite,,idea,
+fisica_unitn_007,ipotesi,4,tesi,4,esperimento,4,metodo scientifico,4
+teacher_029,ipotesi,3,assunzione ,4,logica ,5,deduzione ,5
+fisica_unitn_008,ipotesi,4,intuizione,5,pensieri,4,costruzione ,5
 interfacce_001,ansia,2,agitazione,2,battiti,2,,
 interfacce_002,ansia,1,stress,1,paura,1,tempo,3
 interfacce_003,ansia,2,cuore,4,,,,
@@ -410,7 +518,43 @@ fisica_020,ansia,1,prestazione,3,esame,1,,
 fisica_021,ansia,1,io,1,tanta,1,infermabile,1
 fisica_022,ansia,4,dolore,4,preoccupazione,4,sfida,5
 fisica_stem_002_3,ansia,2,stress,2,prestazione,2,paralisi,1
-fisica_stem_005_1,ansia,1,mostro,1,perdita,1,dolore,1
+teacher_001,ansia,1,mostro,1,perdita,1,dolore,1
+teacher_002,ansia,4,qui amet inventore ,2,quidem rem aut excep,1,odio cupidatat rerum,1
+teacher_003,ansia,2,culpa velit proiden,5,quia magna dolorem d,4,quis quas est eum v,2
+teacher_005,ansia,4,da gestire,4,confronto con altri,5,finire progetti,5
+teacher_006,ansia,1,paura,1,blocco,2,male,1
+teacher_007,ansia,2,pubblico,4,discorsi,3,,
+teacher_008,ansia,3,confronto,4,paure,2,prestazione,2
+teacher_009,ansia,3,paura,3,gestione,2,respiro,5
+teacher_010,ansia,2,paura,1,esame,3,prestazione,3
+teacher_011,ansia,2,paura,2,errore,5,sbaglio,4
+teacher_012,ansia,3,da prestazione,2,emozione,4,accettazione,5
+teacher_013,ansia,2,personale,3,vita,5,gestione,5
+teacher_014,ansia,2,da prestazione,2,calcolata,4,inaspettata,4
+teacher_015,ansia,2,preoccupazione,2,paura,2,affanno,1
+teacher_016,ansia,1,io,3,figli,4,genitori,4
+teacher_017,ansia,5,paura,5,sudore,5,battito,5
+teacher_018,ansia,2,stress,2,paura,2,respiro,2
+teacher_019,ansia,1,problema,3,debolezza,2,limite,2
+teacher_020,ansia,2,paura,2,stress,2,sfida,4
+teacher_021,ansia,1,malessere,1,stress,2,paura,2
+teacher_023,ansia,1,tensione,1,stress,1,,
+altro dipartimento_065,ansia,3,prestazione,4,esame,3,,
+teacher_024,ansia,1,stress,1,panico,1,crisi,1
+altro dipartimento_067,ansia,4,paura,3,illusione,3,corpo,3
+fisica_unitn_002,ansia,1,esame ,3,fallimento ,1,,
+fisica_unitn_003,ansia,2,esame,3,stress,2,fiato,3
+teacher_025,ansia,2,preoccupazione,2,futuro,2,,
+fisica_unitn_004,ansia,2,panico ,1,timore,2,paura,2
+teacher_026,ansia,2,superare,5,agitazione ,2,,
+teacher_027,ansia,1,lavoro,2,,,,
+altro dipartimento_068,ansia,1,angoscia,1,nausea,1,malessere,1
+fisica_unitn_005,ansia,2,sudore,1,tremolio,1,paura,1
+fisica_unitn_006,ansia,3,futuro,4,fuori controllo,2,collasso,2
+teacher_028,ansia,2,futuro,4,preoccupazione,2,controllo,3
+fisica_unitn_007,ansia,4,sensazione,4,sentimento,4,emozione,4
+teacher_029,ansia,3,timore,4,incognito ,4,incertezze ,4
+fisica_unitn_008,ansia,2,irrazionalità,1,paura,3,debolezza,1
 interfacce_001,benessere,5,fisico,4,mentale,4,economico,4
 interfacce_002,benessere,5,soldi,5,salute,5,felicita,5
 interfacce_003,benessere,5,sauna,4,,,,
@@ -513,7 +657,43 @@ fisica_020,benessere,3,relax,4,casa,3,mare,2
 fisica_021,benessere,3,,,,,,
 fisica_022,benessere,4,libertà,5,solidità,4,uguaglianza,5
 fisica_stem_002_3,benessere,4,mentale,5,fisico,5,equilibrio ,5
-fisica_stem_005_1,benessere,5,riposo,5,relazioni,5,passioni,5
+teacher_001,benessere,5,riposo,5,relazioni,5,passioni,5
+teacher_002,benessere,1,et consequuntur sit ,4,non enim sed nulla i,1,voluptatem non duis ,2
+teacher_003,benessere,4,est libero eius eos,2,consequuntur cillum ,1,laboris eos mollit ,3
+teacher_005,benessere,5,interiore,5,del luogo di lavoro,5,collettivo,5
+teacher_006,benessere,5,calma,5,relax,5,gioia,5
+teacher_007,benessere,4,casa,4,amici,5,lavoro,4
+teacher_008,benessere,5,attività fisica,5,salute,5,alimentazione,5
+teacher_009,benessere,5,persona,5,corpo,5,mente,5
+teacher_010,benessere,5,famiglia,5,compagna,5,viaggiare,5
+teacher_011,benessere,5,necessario,5,felicità,5,tranquillità,5
+teacher_012,benessere,5,fisico,5,mentale,5,indispensabile,5
+teacher_013,benessere,5,libertà,5,felicità,5,serenità,5
+teacher_014,benessere,4,fisico,4,psichico ,4,economico,4
+teacher_015,benessere,4,serenità,5,autostima,5,autoefficacia,5
+teacher_016,benessere,4,spa,4,riposo,4,calma,5
+teacher_017,benessere,5,star bene,5,pace,5,tranquillità,5
+teacher_018,benessere,5,salute,4,mentale,5,relax,5
+teacher_019,benessere,5,valore,5,diritto,5,felicità,5
+teacher_020,benessere,5,compagnia,5,correttezza,4,insieme,4
+teacher_021,benessere,5,bene,5,tranquillità,5,sorriso,5
+teacher_023,benessere,5,centro,3,stato d'animo ,3,,
+altro dipartimento_065,benessere,5,staccare,5,divertirsi,5,amici,5
+teacher_024,benessere,3,salute,5,fisico,5,psicologico,5
+altro dipartimento_067,benessere,4,mentale ,4,fisico ,4,sport ,4
+fisica_unitn_002,benessere,5,tranquillità ,5,,,,
+fisica_unitn_003,benessere,4,relax,5,lento,3,calmo,3
+teacher_025,benessere,4,spa,4,felicita',4,rilassato,4
+fisica_unitn_004,benessere,4,mentale,4,serenità ,5,felicità ,5
+teacher_026,benessere,5,status,3,mentale,4,fisico ,4
+teacher_027,benessere,4,malessere,1,,,,
+altro dipartimento_068,benessere,5,economico,4,psicologico,4,fisico,4
+fisica_unitn_005,benessere,5,mentale ,5,fisico,5,spa,5
+fisica_unitn_006,benessere,4,ricchezza,4,foresta,5,lavoro,4
+teacher_028,benessere,4,salute,5,gioco,5,amicizia,5
+fisica_unitn_007,benessere,5,malessere,5,male,5,bene,5
+teacher_029,benessere,3,felicità ,5,salute,5,fiducia ,4
+fisica_unitn_008,benessere,4,leggerezza,3,mentale,5,positività ,5
 interfacce_001,equazione,2,lunga,3,,,,
 interfacce_002,equazione,3,matematica,3,numeri,3,equivale,3
 interfacce_003,equazione,4,numeri,4,lettere,3,calcolo,3
@@ -616,7 +796,43 @@ fisica_020,equazione,3,,,,,,
 fisica_021,equazione,3,facile,4,x,3,'=,3
 fisica_022,equazione,4,uguale,3,massimo,2,satirico,2
 fisica_stem_002_3,equazione,3,calcolo,3,incognita ,3,algebra,3
-fisica_stem_005_1,equazione,3,soluzione,5,sfida,4,rappresentazione,4
+teacher_001,equazione,3,soluzione,5,sfida,4,rappresentazione,4
+teacher_002,equazione,2,et quis obcaecati no,3,sit cupidatat modi v,1,elit autem in tenet,4
+teacher_003,equazione,4,consectetur eaque t,5,quae non voluptatem ,2,exercitation ad duis,3
+teacher_005,equazione,4,algebra,4,liceo,3,lavoro,5
+teacher_006,equazione,5,descrizione,5,soluzione,5,sfida,5
+teacher_007,equazione,4,emozione,4,matematica,4,verifica,3
+teacher_008,equazione,3,matematica,3,esercizio,4,gioco,5
+teacher_009,equazione,2,primo grado,3,giusta,4,difficile,5
+teacher_010,equazione,3,matematica,3,scuola,5,liceo,3
+teacher_011,equazione,4,matematica,5,fisica,4,chimica,4
+teacher_012,equazione,4,lineare,4,secondo grado,4,irrisolvibile,4
+teacher_013,equazione,4,incognita,4,ricerca,5,pratica,5
+teacher_014,equazione,3,retta,3,pratica,4,incognita,2
+teacher_015,equazione,3,numeri,3,lettere,3,risoluzione,4
+teacher_016,equazione,3,comprensione,4,studio ,4,soluzioni,4
+teacher_017,equazione,5,soluzione ,5,soddisfazione,5,sfida,5
+teacher_018,equazione,3,uguaglianza,3,calcolo,3,matematica,3
+teacher_019,equazione,4,calcolo,4,ragionamento,5,processo,5
+teacher_020,equazione,4,bilancia,4,mele,4,formule,4
+teacher_021,equazione,3,risoluzione,4,variabili,4,,
+teacher_023,equazione,5,matematica ,5,esercizio ,5,uguale,3
+altro dipartimento_065,equazione,4,d'onda,4,stato,3,schrodinger,3
+teacher_024,equazione,5,matematica,5,lineare,5,primo grado,5
+altro dipartimento_067,equazione,3,differenziale ,2,rapporti ,3,fisica ,4
+fisica_unitn_002,equazione,4,derivata ,4,matematica ,4,integrali ,4
+fisica_unitn_003,equazione,3,shockely,3,numeri,3,formula,3
+teacher_025,equazione,3,risoluzione,4,,,,
+fisica_unitn_004,equazione,3,numeri,3,simboli,3,interpretazione,4
+teacher_026,equazione,3,fisica,4,matematica ,5,numeri,5
+teacher_027,equazione,,soluzione,,,,,
+altro dipartimento_068,equazione,5,scuola,5,professore,5,ammirazione,5
+fisica_unitn_005,equazione,4,disequazione,4,uguaglianza,4,legge,4
+fisica_unitn_006,equazione,3,lagrange,3,legge,2,equilibrio,5
+teacher_028,equazione,5,esattezza,5,comprensione,5,soluzione,5
+fisica_unitn_007,equazione,3,algebra,4,geometria,4,topologia,4
+teacher_029,equazione,3,legge,4,ordine ,4,matematica ,4
+fisica_unitn_008,equazione,5,calcolo,5,risultato,4,associazione ,5
 interfacce_001,fisica,3,difficile,2,,,,
 interfacce_002,fisica,1,quantistica,1,moto ,3,forze,3
 interfacce_003,fisica,2,volume,3,massa,3,gravità,3
@@ -719,7 +935,43 @@ fisica_020,fisica,3,,,,,,
 fisica_021,fisica,5,oss,5,aula università,3,lim,3
 fisica_022,fisica,4,amore,5,vita,5,società,2
 fisica_stem_002_3,fisica,4,quantistica ,4,matematica,4,sperimentale,3
-fisica_stem_005_1,fisica,4,equazioni ,4,natura,3,problemi ,3
+teacher_001,fisica,4,equazioni ,4,natura,3,problemi ,3
+teacher_002,fisica,5,voluptatem voluptas,1,delectus amet cons,3,harum eu ut mollitia,2
+teacher_003,fisica,3,at dolorum repudiand,5,atque nihil eligendi,5,qui inventore repudi,2
+teacher_005,fisica,5,quantistica,5,chimica,4,spazio,4
+teacher_006,fisica,5,natura,5,scoperta,5,leggi,5
+teacher_007,fisica,3,educazione,4,fallimento,2,difficile,2
+teacher_008,fisica,3,scoperta,5,discussione,5,esperimenti,4
+teacher_009,fisica,2,scienza,3,disciplina,5,scuola,3
+teacher_010,fisica,3,liceo,3,difficile,2,interessante,5
+teacher_011,fisica,4,vita,5,forza,5,,
+teacher_012,fisica,4,quantistica,4,meccanica,4,termodinamica,4
+teacher_013,fisica,5,studio,4,scienza,5,modelli,5
+teacher_014,fisica,2,disciplina,2,attuale,3,comportamento,4
+teacher_015,fisica,3,calcoli,3,formule,2,numeri,3
+teacher_016,fisica,3,interesse,4,difficoltà,2,comprenione,4
+teacher_017,fisica,5,laboratorio ,5,forza,5,esperimento,5
+teacher_018,fisica,2,noia,1,esame,2,diciotto,4
+teacher_019,fisica,4,scienza,5,curiosità,5,conoscenza,5
+teacher_020,fisica,5,esercizi,4,velocità,4,scoperta,5
+teacher_021,fisica,4,esperimenti,5,formule,4,realtà,5
+teacher_023,fisica,3,esame ,3,studio,4,,
+altro dipartimento_065,fisica,2,quantistica,2,noiosa,3,affascinante,4
+teacher_024,fisica,5,matematica,5,statistica,5,complessità,5
+altro dipartimento_067,fisica,4,spazio ,4,piano,4,spin,4
+fisica_unitn_002,fisica,5,natura ,5,mistero ,5,conoscenza ,5
+fisica_unitn_003,fisica,4,verde,4,onde,4,materia,3
+teacher_025,fisica,4,scienza,4,,,,
+fisica_unitn_004,fisica,5,ricerca,4,dottorato,4,scienziato,4
+teacher_026,fisica,4,formula ,3,,,,
+teacher_027,fisica,,lavoro,,,,,
+altro dipartimento_068,fisica,3,natura,5,matematica,3,esperimenti,3
+fisica_unitn_005,fisica,5,quantistica ,5,statistica,4,sperimentale,3
+fisica_unitn_006,fisica,4,materia,4,sostanza,4,matematica,4
+teacher_028,fisica,5,esperimento,5,teoria,5,osservazione,5
+fisica_unitn_007,fisica,3,matematica,3,ia,4,tech,3
+teacher_029,fisica,4,scienza ,5,natura ,4,esperimento ,4
+fisica_unitn_008,fisica,5,natura,5,leggi,3,coscienza,5
 interfacce_001,innovazione,5,cambiamento,4,miglioramento,5,,
 interfacce_002,innovazione,4,novità ,4,inventare,4,creare,4
 interfacce_003,innovazione,4,novità,4,nuovo,4,scoperta,4
@@ -822,7 +1074,43 @@ fisica_020,innovazione,3,,,,,,
 fisica_021,innovazione,4,,,,,,
 fisica_022,innovazione,5,nuova,5,cambiamento,5,analisi,3
 fisica_stem_002_3,innovazione,3,tecnologia,3,progresso,3,etica,4
-fisica_stem_005_1,innovazione,3,genialità ,5,creatività,5,tecnica,5
+teacher_001,innovazione,3,genialità ,5,creatività,5,tecnica,5
+teacher_002,innovazione,3,autem tempora facili,1,velit dolore aliquip,4,doloremque nihil vel,4
+teacher_003,innovazione,4,eos ad dolor maxime,1,facere neque nulla n,5,deleniti voluptatibu,1
+teacher_005,innovazione,5,futuro,5,libro,5,miglioramento,5
+teacher_006,innovazione,5,futuro,5,ricerca,4,miglioramento,5
+teacher_007,innovazione,5,futuro,4,scoperte,4,,
+teacher_008,innovazione,5,voglia,5,sperimentazione,5,necessità,3
+teacher_009,innovazione,5,bene,3,nuovo,4,scuola,3
+teacher_010,innovazione,5,utile,5,progresso,5,società,5
+teacher_011,innovazione,5,opportunità,5,fluidità,4,futuro,5
+teacher_012,innovazione,4,aiuto,5,vantaggio,5,ricerca,5
+teacher_013,innovazione,5,tecnologia,5,studio,5,scienza,5
+teacher_014,innovazione,5,digitale,4,pensiero,4,creatività,5
+teacher_015,innovazione,4,informatica,5,digitale,5,novità,4
+teacher_016,innovazione,4,utile,4,lavoro,4,vita,3
+teacher_017,innovazione,5,utilità,5,progresso,5,benessere,5
+teacher_018,innovazione,5,futuro,5,possibilità,5,domani,5
+teacher_019,innovazione,4,impegno,5,sfida,4,coscienza,5
+teacher_020,innovazione,4,praticità,4,semplicità,4,produzione,4
+teacher_021,innovazione,5,nuovo,5,migliore,5,,
+teacher_023,innovazione,5,novità ,5,,,,
+altro dipartimento_065,innovazione,5,ai,4,,,,
+teacher_024,innovazione,5,tecnologia,4,futuro,2,lavoro,2
+altro dipartimento_067,innovazione,4,tecnologica ,4,nucleare ,5,idea ,3
+fisica_unitn_002,innovazione,4,tecnologia ,4,macchine ,3,,
+fisica_unitn_003,innovazione,3,tecnologia,3,scoperta,3,invenzione,4
+teacher_025,innovazione,4,futuro,2,,,,
+fisica_unitn_004,innovazione,4,tecnologia,4,informatica,3,universita,4
+teacher_026,innovazione,4,progetto ,4,idea,4,trasgressione ,5
+teacher_027,innovazione,,incertezza,,,,,
+altro dipartimento_068,innovazione,5,idea,5,scoperta,5,collaborazione,5
+fisica_unitn_005,innovazione,5,tecnologia ,5,ingegneria,5,fondi,5
+fisica_unitn_006,innovazione,5,futuro,4,ingegneria,4,scienza,4
+teacher_028,innovazione,5,idea,5,progetto,4,futuro,4
+fisica_unitn_007,innovazione,4,novità,4,nobita,3,doraemon,3
+teacher_029,innovazione,3,esperimento ,3,novità ,5,incognita ,4
+fisica_unitn_008,innovazione,3,tecnologia ,3,miglioria,5,cambiamento,4
 interfacce_001,panico,2,sbagliare,2,disagio,1,,
 interfacce_002,panico,1,paura,1,agitazione,1,grida,1
 interfacce_003,panico,2,ansia,2,preoccupazione,2,,
@@ -925,7 +1213,43 @@ fisica_020,panico,3,,,,,,
 fisica_021,panico,2,forte,1,subuito,1,veloce,1
 fisica_022,panico,1,paura,1,tremore,4,inuguaglianza,2
 fisica_stem_002_3,panico,2,paralisi,1,blocco,2,nebbia,1
-fisica_stem_005_1,panico,1,vergogna,1,ansia ,1,paura,1
+teacher_001,panico,1,vergogna,1,ansia ,1,paura,1
+teacher_002,panico,2,enim delectus a non,2,doloremque placeat ,1,commodi delectus qu,1
+teacher_003,panico,4,occaecat anim ex aut,2,qui natus quam aut i,3,mollit veniam odio ,1
+teacher_005,panico,3,no,3,gestione,5,soluzioni,5
+teacher_006,panico,1,ghiaccio,3,fermo,2,paura,1
+teacher_007,panico,2,ansia,2,problemi,2,,
+teacher_008,panico,3,paura,4,rigidità,2,irragionevolezza,2
+teacher_009,panico,2,paura,2,fine,2,respiro,3
+teacher_010,panico,1,paura,1,difficoltà,4,incontrollabile,1
+teacher_011,panico,1,paura,1,fuga,1,ansia,1
+teacher_012,panico,2,respiro,5,ansia,2,grounding,5
+teacher_013,panico,2,gestione,4,forza,5,sensazioni,5
+teacher_014,panico,2,improvviso,2,,,,
+teacher_015,panico,2,paura,2,ansia,2,preoccupazione,2
+teacher_016,panico,1,aiuto,4,solitudine,1,malattia,1
+teacher_017,panico,,paura ,5,disagio ,5,tristezza,5
+teacher_018,panico,2,crisi,2,ansia,3,gestione,5
+teacher_019,panico,2,paura,2,malessere,1,limnite,3
+teacher_020,panico,1,via,2,volo,4,perso,2
+teacher_021,panico,1,attacchi,1,,,,
+teacher_023,panico,1,paura,1,buio,3,blocco,1
+altro dipartimento_065,panico,1,male,1,,,,
+teacher_024,panico,1,paura,1,pena,1,ansia,1
+altro dipartimento_067,panico,2,attacco ,3,pan,4,natura ,4
+fisica_unitn_002,panico,1,aria ,3,viola ,2,,
+fisica_unitn_003,panico,2,ansia,2,scuola,3,mani,3
+teacher_025,panico,2,paura,2,stress,2,,
+fisica_unitn_004,panico,1,ansia,2,paura,2,cuore,3
+teacher_026,panico,2,ansia,2,agitazione ,2,dubbio,3
+teacher_027,panico,,paura,,fuga,,,
+altro dipartimento_068,panico,1,attacco,1,ansia,1,battito,1
+fisica_unitn_005,panico,1,paura ,1,ansia,1,fuga,3
+fisica_unitn_006,panico,1,incendio,2,acqua,3,tempo,3
+teacher_028,panico,2,ansia,2,paura,2,blocco,2
+fisica_unitn_007,panico,3,paura,3,ansia,4,amigdala,4
+teacher_029,panico,3,paura ,4,incertezze ,5,ansia,4
+fisica_unitn_008,panico,1,ansia,1,irrazionalità,1,paura,1
 interfacce_001,meditazione,4,rilassamento,5,respiro,5,,
 interfacce_002,meditazione,3,zen,3,yoga,3,solo,4
 interfacce_003,meditazione,4,yoga,4,calma,4,,
@@ -1028,7 +1352,43 @@ fisica_020,meditazione,3,,,,,,
 fisica_021,meditazione,3,,,,,,
 fisica_022,meditazione,4,profonda,5,inutile,3,strad,3
 fisica_stem_002_3,meditazione,3,rilassamento,4,concentrazione,4,silenzio,5
-fisica_stem_005_1,meditazione,3,rilassamento ,5,riposo,5,cura,5
+teacher_001,meditazione,3,rilassamento ,5,riposo,5,cura,5
+teacher_002,chatgpt,3,illo iusto quod repr,2,ullamco ut dignissim,1,saepe irure autem hi,5
+teacher_003,chatgpt,5,sed asperiores sit e,2,consequuntur non quo,2,similique beatae aut,2
+teacher_005,chatgpt,5,problema,5,etica,5,cautela,5
+teacher_006,chatgpt,4,strumento,5,interlocutore,5,supporto,5
+teacher_007,chatgpt,3,ia,3,compiti,4,immagini,4
+teacher_008,chatgpt,4,strumento,4,supporto,4,velocizzatore,4
+teacher_009,chatgpt,5,ia,5,utile,5,strumento,5
+teacher_010,chatgpt,3,utile,5,velocità,4,paura,1
+teacher_011,chatgpt,5,ia,5,semplicità,5,minacce,1
+teacher_012,chatgpt,3,ai,3,chatbot,3,aiuto,4
+teacher_013,chatgpt,4,strumento,5,ia,4,progresso,5
+teacher_014,chatgpt,4,aiuto,4,chiarimento,4,riflessione,5
+teacher_015,chatgpt,5,supporto,5,aiuto,5,collaborazione,5
+teacher_016,chatgpt,4,utile,4,lavoro ,4,sostegno,4
+teacher_017,chatgpt,5,aiuto ,5,prompt,4,ironia,5
+teacher_018,chatgpt,4,supporto,5,tempo,5,assistenza,5
+teacher_019,chatgpt,3,strumento,4,rischio,3,curiosità,5
+teacher_020,chatgpt,3,ciao,2,comodità,4,invadenza,2
+teacher_021,chatgpt,4,ia,4,supporto,4,,
+teacher_023,chatgpt,4,llm,4,intelligenza artificiale,4,,
+altro dipartimento_065,chatgpt,5,prezioso,4,innovazione,5,compagno,5
+teacher_024,chatgpt,4,gemini,4,deepseek,4,llm,4
+altro dipartimento_067,chatgpt,2,sam,3,bianco ,4,superato ,5
+fisica_unitn_002,chatgpt,3,aiuto ,4,,,,
+fisica_unitn_003,chatgpt,3,gemini,3,google,3,scuro,3
+teacher_025,chatgpt,4,ai,2,aiuto,4,informatica,3
+fisica_unitn_004,chatgpt,2,intelligenza artificiale ,3,informatica,3,llm,3
+teacher_026,chatgpt,4,utile,3,aiuto ,3,intelligenza ,3
+teacher_027,chatgpt,,aiuto,,,,,
+altro dipartimento_068,chatgpt,5,utile,5,energia,5,domande,5
+fisica_unitn_005,chatgpt,4,ai,4,reti neurali,4,llm,4
+fisica_unitn_006,chatgpt,2,inutile,2,furto,2,schermo,1
+teacher_028,chatgpt,2,algoritmo,5,informazioni,4,plagio,1
+fisica_unitn_007,chatgpt,3,llm,3,gemini,3,gemelli,3
+teacher_029,chatgpt,3,intelligenza ,4,informazioni ,5,dati,5
+fisica_unitn_008,chatgpt,1,male,2,aiuto,4,acqua,5
 interfacce_001,matematica,3,logica,3,concentrazione,4,,
 interfacce_002,matematica,3,numeri,3,addizioni,3,sottrazioni,3
 interfacce_003,matematica,4,numeri,4,calcoli,4,problemi,4
@@ -1131,7 +1491,43 @@ fisica_020,matematica,3,fisica,3,challenge,4,studio,
 fisica_021,matematica,4,professore universitario,4,analisi,4,geometria,3
 fisica_022,matematica,,pura,,applicata,,algebra,
 fisica_stem_002_3,matematica,4,logica,4,algebra,4,analisi,4
-fisica_stem_005_1,matematica,4,alfabeto,3,difficile ,2,bella,4
+teacher_001,matematica,4,alfabeto,3,difficile ,2,bella,4
+teacher_002,matematica,3,dolore ipsa sapient,3,nobis enim omnis cul,2,voluptate laboris na,4
+teacher_003,matematica,2,molestiae et est non,5,voluptatem dolorum q,1,nihil non et veniam,1
+teacher_005,matematica,5,curiosità,5,interdisciplinarietà,5,novità,5
+teacher_006,matematica,5,logica,5,pensiero,5,interessante,5
+teacher_007,matematica,4,scuola,4,compiti,4,bella,4
+teacher_008,matematica,3,creatività,4,fatica,4,educazione,4
+teacher_009,matematica,3,dura,2,astratta,5,ragionamento,4
+teacher_010,matematica,3,scuola,4,utile,5,difficile,3
+teacher_011,matematica,4,necessità,5,vita,5,quotidianità,4
+teacher_012,matematica,4,disciplina,4,studio,4,concentrazione,5
+teacher_013,matematica,5,applicazioni,4,modelli,5,studio,5
+teacher_014,matematica,2,scienza,3,risultati,5,creativa,5
+teacher_015,matematica,4,algebra,4,numeri,4,figure,5
+teacher_016,matematica,3,studio,4,soluzioni,4,difficoltà,2
+teacher_017,matematica,5,regole,5,esame,5,prevedibilità,5
+teacher_018,matematica,4,soluzioni,5,esattezza,4,numero,3
+teacher_019,matematica,3,scienza,4,complessità,4,sfida,4
+teacher_020,matematica,5,equazioni,4,giorgio,5,natura,5
+teacher_021,matematica,4,numeri,3,calcoli,3,disciplina,3
+teacher_023,matematica,5,università ,5,lavoro,4,esami,3
+altro dipartimento_065,matematica,5,fantastica,5,emozionante,5,infinita,3
+teacher_024,matematica,5,fisica,5,equazioni,5,teorema,5
+altro dipartimento_067,matematica,4,persona,4,mente ,3,spazio,4
+fisica_unitn_002,matematica,4,numeri ,3,equazioni ,4,integrali ,4
+fisica_unitn_003,matematica,3,blu,4,numeri,3,quaderno,3
+teacher_025,matematica,4,scienza,4,equazione,4,problema,2
+fisica_unitn_004,matematica,5,rigore,4,logica,4,numero,4
+teacher_026,matematica,4,fisica ,4,numeri ,4,infanzia ,5
+teacher_027,matematica,3,conti,3,algebra ,3,geometria,5
+altro dipartimento_068,matematica,4,collegamenti,4,rigore,4,logica,4
+fisica_unitn_005,matematica,4,statistica ,4,probabilità ,4,assiomi,4
+fisica_unitn_006,matematica,4,analisi,3,misura,4,linguaggio,4
+teacher_028,matematica,5,calcolo,5,guida,4,liberta',5
+fisica_unitn_007,matematica,5,fisica,5,materia,5,particelle,5
+teacher_029,matematica,4,ordine ,5,regole ,5,calcolo ,4
+fisica_unitn_008,matematica,5,natura,5,legami,4,numeri,4
 interfacce_001,analisi,3,lunga,3,,,,
 interfacce_002,analisi,2,esame,2,igegneria,1,difficile,2
 interfacce_003,analisi,4,matematica,4,numeri,4,,
@@ -1234,7 +1630,43 @@ fisica_020,analisi,3,1,3,matematica,3,curiosita,5
 fisica_021,analisi,4,matematica,4,professore universitario,4,materia,3
 fisica_022,analisi,,profonda,,noiosa,,faticosa,
 fisica_stem_002_3,analisi,3,logica,4,dati,3,teoremi,3
-fisica_stem_005_1,analisi,2,vergogna,1,stanchezza ,2,autostima ,1
+teacher_001,analisi,2,vergogna,1,stanchezza ,2,autostima ,1
+teacher_002,analisi,3,ea accusantium cumqu,5,commodo eveniet sed,4,inventore voluptate ,1
+teacher_003,analisi,1,ea ut voluptatem eni,2,sunt eum deleniti ab,1,enim laboriosam cum,5
+teacher_005,analisi,5,razionalità,5,controllo,5,disciplina,5
+teacher_006,analisi,5,matematica,5,funzioni,5,ragionamento,5
+teacher_007,analisi,4,esame,4,matematica,4,,
+teacher_008,analisi,3,matematica,4,dati,3,logica,4
+teacher_009,analisi,5,statistica,4,sangue,2,mondo,5
+teacher_010,analisi,3,utile,5,situazione,3,matematica,3
+teacher_011,analisi,5,statistica,4,dati,5,grafici,5
+teacher_012,analisi,4,ponderata,4,razionale,4,matematica,4
+teacher_013,analisi,4,matematica,5,studio,5,approfondimento,5
+teacher_014,analisi,3,medica,2,dei dati,4,report,4
+teacher_015,analisi,4,dati,4,osservazione,5,calcoli,5
+teacher_016,analisi,3,sangue,3,patrimonio,3,lavoro,4
+teacher_017,analisi,5,dati,5,studio,5,esperimento,5
+teacher_018,analisi,5,logica,5,condivisione,5,numero,3
+teacher_019,analisi,4,ricerca,4,dettaglio,5,fase,4
+teacher_020,analisi,4,parabola,4,uno,4,sonno,5
+teacher_021,analisi,5,indagine,5,capire,5,,
+teacher_023,analisi,3,esame,3,dati,3,docenti,4
+altro dipartimento_065,analisi,4,dati,5,sangue,4,matematica,5
+teacher_024,analisi,5,reale,4,funzionale,2,sangue,2
+altro dipartimento_067,analisi,4,matematica ,4,sangue ,2,nonna,5
+fisica_unitn_002,analisi,2,matematica ,3,dati ,3,,
+fisica_unitn_003,analisi,4,matematica,3,esame,3,due,3
+teacher_025,analisi,4,,,,,,
+fisica_unitn_004,analisi,4,matematica,4,dati,4,statistica,4
+teacher_026,analisi,4,dati,4,tecnica ,3,logica ,4
+teacher_027,analisi,2,sangue,1,risultati,1,glicemia,1
+altro dipartimento_068,analisi,4,funzioni,4,derivate,4,integrali,4
+fisica_unitn_005,analisi,4,matematica ,4,scientifica ,4,dati ,3
+fisica_unitn_006,analisi,3,noia,1,lungo,1,programma,4
+teacher_028,analisi,5,attenzione,5,scrupolo,5,lunghezza,4
+fisica_unitn_007,analisi,5,matematica,5,2,3,ii,3
+teacher_029,analisi,3,valutazione ,4,studio ,3,,
+fisica_unitn_008,analisi,4,logica,4,matematica ,5,indagine,5
 interfacce_001,scoperta,5,positiva,5,bella,5,,
 interfacce_002,scoperta,3,nuovo,3,trovato,3,innovativo,4
 interfacce_003,scoperta,4,america,3,novità,3,,
@@ -1337,7 +1769,43 @@ fisica_020,scoperta,4,scientifica,4,sorpresa,4,casualita,3
 fisica_021,scoperta,4,einstein,3,svolta,5,,
 fisica_022,scoperta,,entusiasmo,,vita,,miracolo,
 fisica_stem_002_3,scoperta,4,curiosità ,4,dedizione,5,svolta,4
-fisica_stem_005_1,scoperta,4,genialità ,5,immaginazione,5,fortuna ,4
+teacher_001,scoperta,4,genialità ,5,immaginazione,5,fortuna ,4
+teacher_002,scoperta,5,iste dolore aliqua ,3,dolor distinctio il,5,suscipit temporibus ,3
+teacher_003,scoperta,3,sed sapiente pariatu,4,eius non officia exp,1,et eum sit eiusmod ,4
+teacher_005,scoperta,5,esplorazione,5,avventura,5,innovazione,5
+teacher_006,scoperta,5,gioia,5,impegno,5,lavoro,4
+teacher_007,scoperta,5,entusiasmo,5,,,,
+teacher_008,scoperta,5,fisica,3,emozione,4,idea,5
+teacher_009,scoperta,5,fossili,4,marte,4,pozzo,1
+teacher_010,scoperta,5,progresso,5,america,2,modernità,5
+teacher_011,scoperta,5,laboratorio,5,apprendimento,5,innovazione,5
+teacher_012,scoperta,5,scienza,4,storia,4,medicina,5
+teacher_013,scoperta,5,ipotesi,5,lavoro,5,dedizione,5
+teacher_014,scoperta,5,inaspettata,5,calcolo,4,esperimento,5
+teacher_015,scoperta,5,emozione,5,felicità,5,autostima,4
+teacher_016,scoperta,4,scienze,4,archeologia,4,storia,4
+teacher_017,scoperta,5,gioia,5,serenità,5,sorpresa,5
+teacher_018,scoperta,5,eureka,5,stupore,5,novità,5
+teacher_019,scoperta,5,curiosità,5,opportunità,5,scelta,4
+teacher_020,scoperta,5,america,4,curiosità,5,lavoro,5
+teacher_021,scoperta,5,nuovo,5,,,,
+teacher_023,scoperta,5,novità ,5,soddisfazione ,5,,
+altro dipartimento_065,scoperta,5,innovazione,5,non coperta,3,,
+teacher_024,scoperta,3,fuoco,4,acqua calda,3,innovazione,4
+altro dipartimento_067,scoperta,4,scientifica ,4,nuova ,3,rivoluzione ,5
+fisica_unitn_002,scoperta,5,meraviglia ,5,novità ,5,,
+fisica_unitn_003,scoperta,3,matematica,3,verde,4,idea,4
+teacher_025,scoperta,4,rivoluzionatia,4,interessante,4,,
+fisica_unitn_004,scoperta,5,ricerca,5,nobel,5,importante,4
+teacher_026,scoperta,4,scientifica ,4,personale,4,svolta ,5
+teacher_027,scoperta,4,america ,2,quark,4,protone,4
+altro dipartimento_068,scoperta,4,sconvolgente,4,accademia,4,novità,5
+fisica_unitn_005,scoperta,4,scientifica ,4,esplorare,4,ricerca,4
+fisica_unitn_006,scoperta,5,caverna,2,mare,4,quark,4
+teacher_028,scoperta,5,contentezza,5,dubbio,5,sorpresa,4
+fisica_unitn_007,scoperta,5,eureka,5,greco,3,lingua,3
+teacher_029,scoperta,4,sorpresa ,4,novità ,5,,
+fisica_unitn_008,scoperta,5,invenzione,5,rivoluzione,5,conferma,5
 interfacce_001,scienziata,4,matta,4,,,,
 interfacce_002,scienziata,3,donna,3,scienza,4,laboratorio,3
 interfacce_003,scienziata,4,donna,4,,,,
@@ -1440,7 +1908,43 @@ fisica_020,scienziata,5,donna,4,curie,3,chimica,4
 fisica_021,scienziata,4,marie curie,5,camice,3,laboratorio,3
 fisica_022,scienziata,,bella,,debole,,onesta,
 fisica_stem_002_3,scienziata,4,lavoro ,4,equità ,5,discriminazione ,1
-fisica_stem_005_1,scienziata,5,stereotipi ,1,genialità ,5,equilibrio ,5
+teacher_001,scienziata,5,stereotipi ,1,genialità ,5,equilibrio ,5
+teacher_002,scienziata,3,nam distinctio ulla,5,enim in iusto conseq,4,dignissimos voluptas,4
+teacher_003,scienziata,4,explicabo debitis a,1,optio tempor eligen,4,itaque sit sint qua,2
+teacher_005,scienziata,5,equità,5,innovazione,5,nobel,5
+teacher_006,scienziata,5,innovatrice,5,lavoro,5,futuro,5
+teacher_007,scienziata,4,finalmente,4,futuro,5,,
+teacher_008,scienziata,3,sperimentazione,4,studio,4,dedizione,5
+teacher_009,scienziata,5,donna,5,forte,5,calcoli,4
+teacher_010,scienziata,5,raro,1,interessante,5,cultura,5
+teacher_011,scienziata,5,genere,3,astronauta ,5,samanta,5
+teacher_012,scienziata,5,divario di genere,2,occasione,5,ricerca,5
+teacher_013,scienziata,5,scienziato,5,donna,5,scoperta,5
+teacher_014,scienziata,4,capace,5,precisa,5,,
+teacher_015,scienziata,5,scienze,4,chimica,3,strumenti,4
+teacher_016,scienziata,5,innovatrice,5,coraggiosa,5,intelligente,5
+teacher_017,scienziata,5,scoperta,5,intelligenza,5,utilità,5
+teacher_018,scienziata,3,sperimentare,4,trovare,4,studiare,4
+teacher_019,scienziata,4,competenza ,5,studio,4,sapere,5
+teacher_020,scienziata,4,ricerca,4,università,3,studio,4
+teacher_021,scienziata,5,ricerca,5,scoperta,5,,
+teacher_023,scienziata,5,ricercatrice,5,curie,4,,
+altro dipartimento_065,scienziata,3,intelletto,4,,,,
+teacher_024,scienziata,5,curie,5,montalcini,5,hack,5
+altro dipartimento_067,scienziata,4,opportunità ,4,italia ,4,rosa,4
+fisica_unitn_002,scienziata,5,gioia ,5,ambizione ,5,intelligenza ,5
+fisica_unitn_003,scienziata,3,camice,3,donna,3,occhiali,3
+teacher_025,scienziata,4,laboratorio,2,fisica,4,,
+fisica_unitn_004,scienziata,4,donna,3,laboratorio,3,biologia,3
+teacher_026,scienziata,4,ricercatrice ,4,donna,3,,
+teacher_027,scienziata,4,fisico,4,geologo,4, himico,4
+altro dipartimento_068,scienziata,5,computer,5,università,4,nobel,5
+fisica_unitn_005,scienziata,4,hack,4,curie,4,wu,4
+fisica_unitn_006,scienziata,4,donna,5,ricercatrice,4,radioattività,4
+teacher_028,scienziata,5,laboratorio,5,libro,5,computer,5
+fisica_unitn_007,scienziata,4,scienziato,5,professione,4,partita iva,3
+teacher_029,scienziata,3,studiosa,4,sperimentazione ,4,,
+fisica_unitn_008,scienziata,5,forza,4,,,,
 interfacce_001,docente,4,severo,3,,,,
 interfacce_002,docente,3,prof,3,insegnante,3,spiegare,3
 interfacce_003,docente,3,professore,3,persona,3,scuola,2
@@ -1543,7 +2047,43 @@ fisica_020,docente,3,ansia,1,occhi azzurri,3,,
 fisica_021,docente,3,cattivo,1,lontano,2,migliore di me,2
 fisica_022,docente,,noioso,,sistema,,casa,
 fisica_stem_002_3,docente,3,insegnante,3,voto,2,curiosità ,5
-fisica_stem_005_1,docente,4,insegna,4,vergogna,1,intelligenza ,5
+teacher_001,docente,4,insegna,4,vergogna,1,intelligenza ,5
+teacher_002,docente,1,architecto quasi occ,3,nobis ut mollitia si,1,iure et in totam aut,1
+teacher_003,docente,2,ullam voluptates des,1,perferendis accusant,3,elit labore eveniet,4
+teacher_005,docente,2,smetterla,3,ruolo del passato,5,cambiare lavoro,5
+teacher_006,docente,5,guida,5,ispirazione,5,aiuto,5
+teacher_007,docente,4,fiducia,4,scuola,4,compiti,4
+teacher_008,docente,3,supporto,4,confronto,5,educazione,4
+teacher_009,docente,2,mente,2,cuore,5,competenza,5
+teacher_010,docente,4,mamma,5,cultura,5,lavoro,4
+teacher_011,docente,5,regista,5,mentore,5,coach,5
+teacher_012,docente,4,efficace,5,mentor,5,sostegno,5
+teacher_013,docente,5,passaggio,5,facilitatore,5,studenti,5
+teacher_014,docente,4,inclusivo,4,empatico ,4,capace,4
+teacher_015,docente,5,guida,5,riferimento,5,aiuto,5
+teacher_016,docente,4,empatia,4,autorevolezza ,4,disponibilità,4
+teacher_017,docente,5,guida,5,apprendimento ,5,cura,5
+teacher_018,docente,5,vocazione,5,mentore,5,guida,5
+teacher_019,docente,4,persona,5,sapere,5,relazione,5
+teacher_020,docente,4,classe,4,lavoro,5,educazione,5
+teacher_021,docente,5,insegnamento,5,supporto,5,valutazione,5
+teacher_023,docente,4,insegnante ,4,lezione,4,scuola,4
+altro dipartimento_065,docente,3,stress,2,pazienza,2,passione,4
+teacher_024,docente,5,università,4,scuola,4,guida,4
+altro dipartimento_067,docente,3,università ,4,latino ,2,scuola ,4
+fisica_unitn_002,docente,2,severo,2,,,,
+fisica_unitn_003,docente,3,lezione,3,lavagna,2,persona,4
+teacher_025,docente,4,matematica,4,fisica,4,lettere,3
+fisica_unitn_004,docente,3,severo,3,esigente,3,universitario ,3
+teacher_026,docente,4,matematica ,4,scuola,3,maestro,3
+teacher_027,docente,4,professore,4,insegnamento ,4,lettere,4
+altro dipartimento_068,docente,4,libri,4,scuola,4,riferimento,5
+fisica_unitn_005,docente,4,università ,4,analisi,4,scuola,4
+fisica_unitn_006,docente,2,insegnare,4,istruire,4,punizione,2
+teacher_028,docente,4,lavagna,5,alunni,4,domande,5
+fisica_unitn_007,docente,5,insegnante,4,studente,4,scuola,5
+teacher_029,docente,3,scuola ,4,insegnante guida ,5,,
+fisica_unitn_008,docente,3,conoscenza ,5,maestr*,4,insegnamento ,5
 interfacce_001,programmazione,4,informatica,4,,,,
 interfacce_002,programmazione,4,java,3,html,4,c++,4
 interfacce_003,programmazione,4,informatica,3,ordine,4,,
@@ -1646,7 +2186,43 @@ fisica_020,programmazione,3,ubuntu,3,c++,3,passatempo,4
 fisica_021,programmazione,4,informatica,4,non so farla,3,altri invece si,2
 fisica_022,programmazione,2,futuro,2,mania,1,sensazione,3
 fisica_stem_002_3,programmazione,3,coding,4,computer,4,informatica,4
-fisica_stem_005_1,programmazione,3,codice ,3,pensiero,4,astrazione,5
+teacher_001,programmazione,3,codice ,3,pensiero,4,astrazione,5
+teacher_002,programmazione,3,ipsa repudiandae ea,2,perferendis veritati,5,in ea quas minima eu,1
+teacher_003,programmazione,3,illum fuga enim re,3,in voluptates nisi q,3,eum provident error,4
+teacher_005,programmazione,5,organizzazione,5,verifica,5,futuro,5
+teacher_006,programmazione,4,strumento,4,logica,5,linguaggio,5
+teacher_007,programmazione,4,dati,4,compiti,4,,
+teacher_008,programmazione,3,tentativi,4,collaborazione,5,futuro,4
+teacher_009,programmazione,1,programma,1,decisioni,3,futuro,3
+teacher_010,programmazione,4,informatica,4,docenti,4,utile,5
+teacher_011,programmazione,4,rigidità,1,organizzazione ,4,ordinato,3
+teacher_012,programmazione,3,sconosciuta,3,particolare,3,precisione,4
+teacher_013,programmazione,4,preparazione,4,futuro,4,studio,5
+teacher_014,programmazione,4,vita,4,programma,3,didattica,4
+teacher_015,programmazione,4,organizzazione,4,rigore,4,obiettivi,4
+teacher_016,programmazione,4,lavoro,4,famiglia,4,viaggi,5
+teacher_017,programmazione,4,utile,5,necessaria,5,prevedibile,5
+teacher_018,programmazione,4,coding,4,scratch,4,logica,5
+teacher_019,programmazione,4,organizzazione,4,conoscenza ,4,risultato,5
+teacher_020,programmazione,4,pensiero,5,pianificazione,4,bug,4
+teacher_021,programmazione,5,codice,5,risoluzione,5,algoritmi,5
+teacher_023,programmazione,3,esame,3,informatica,4,linguaggio ,4
+altro dipartimento_065,programmazione,4,c,4,python,5,java,3
+teacher_024,programmazione,2,linguaggio,4,appuntamento,3,agenda,3
+altro dipartimento_067,programmazione,2,informatica ,3,noia,4,superata ,5
+fisica_unitn_002,programmazione,2,informatica ,2,verde,5,codice ,2
+fisica_unitn_003,programmazione,2,computer,3,informatica,3,esame,3
+teacher_025,programmazione,3,informatico,3,software,3,,
+fisica_unitn_004,programmazione,4,informatica,4,python,3,c++,3
+teacher_026,programmazione,4,computer ,3,task,3,ordine ,3
+teacher_027,programmazione,4,  computer,4,progetto,2,piano,2
+altro dipartimento_068,programmazione,3,linguaggio,4,codice,4,dati,4
+fisica_unitn_005,programmazione,4,c,4,python,4,coding,4
+fisica_unitn_006,programmazione,4,divertimento,5,hacker,5,computer,3
+teacher_028,programmazione,5,informatica,5,attivita',4,linguaggio,5
+fisica_unitn_007,programmazione,3,coding,5,inglese,5,anglosassone,5
+teacher_029,programmazione,3,informatica ,4,ordine,4,,
+fisica_unitn_008,programmazione,3,informatica,4,organizzazione ,5,scopo ,5
 interfacce_001,laboratorio,3,prove,3,esperimenti,2,,
 interfacce_002,laboratorio,3,studiare,3,esperimento,3,prove,3
 interfacce_003,laboratorio,4,chimica,1,scienza,4,provette,3
@@ -1749,7 +2325,43 @@ fisica_020,laboratorio,4,fisica,4,cannone,3,compagni,3
 fisica_021,laboratorio,4,scienziato,4,camice,3,esperimento,4
 fisica_022,laboratorio,2,chiuso,1,buio,1,freddo,1
 fisica_stem_002_3,laboratorio,3,sessione,3,relazione,2,esperimento,3
-fisica_stem_005_1,laboratorio,3,prova,4,esperimento ,4,gioco ,5
+teacher_001,laboratorio,3,prova,4,esperimento ,4,gioco ,5
+teacher_002,laboratorio,2,non deserunt sunt q,5,culpa quasi delectu,2,tenetur incididunt d,4
+teacher_003,laboratorio,3,corrupti molestiae ,5,facere ea laboriosam,2,sequi culpa ipsum u,1
+teacher_005,laboratorio,5,scienze,5,artistico,5,manuale,5
+teacher_006,laboratorio,5,esperimento,5,strumenti,5,tecnica,5
+teacher_007,laboratorio,3,,,,,,
+teacher_008,laboratorio,4,scoperta,5,idee,5,prove,5
+teacher_009,laboratorio,2,esperimkento,2,chimica,2,covid,1
+teacher_010,laboratorio,3,scuola,4,interessante,5,computer,3
+teacher_011,laboratorio,5,esperienza,5,apprendimento,5,evidenze ,4
+teacher_012,laboratorio,4,esperienza,4,scienza,4,divertimento,5
+teacher_013,laboratorio,4,test,4,chimica,3,studenti,5
+teacher_014,laboratorio,4,informatica,4,attività,4,esperimento,4
+teacher_015,laboratorio,3,scienza,3,sperimentazione,3,prove,4
+teacher_016,laboratorio,4,ricerca,4,scoperta ,4,soluzioni,4
+teacher_017,laboratorio,5,ewperimento,5,sorpresa,5,analisi,5
+teacher_018,laboratorio,4,fare,4,creare,5,confronto,3
+teacher_019,laboratorio,4,sperimentazione ,4,ricerca,5,curiosità,5
+teacher_020,laboratorio,4,strumenti,4,attrezzi,4,esperienze,5
+teacher_021,laboratorio,5,sperimentare,5,,,,
+teacher_023,laboratorio,5,università,5,provetta ,3,esperimento ,4
+altro dipartimento_065,laboratorio,5,ai,5,dati,5,esperimenti,5
+teacher_024,laboratorio,3,fisica,4,chimica,2,biologia,3
+altro dipartimento_067,laboratorio,4,scienza ,5,liquido ,3,vetro ,3
+fisica_unitn_002,laboratorio,5,provette ,5,microscopio ,5,scienze ,5
+fisica_unitn_003,laboratorio,3,camice,3,provetta,3,scienziato,3
+teacher_025,laboratorio,2,esperimento,2,,,,
+fisica_unitn_004,laboratorio,4,esperimento,4,dato,4,misura,3
+teacher_026,laboratorio,2,arte,3,informatica ,4,gruppo ,3
+teacher_027,laboratorio,4,misura,4,errore,2,risultato,3
+altro dipartimento_068,laboratorio,4,esperimento,4,provette,4,chimica,3
+fisica_unitn_005,laboratorio,4,esperimento ,4,pratica,4,verifica,4
+fisica_unitn_006,laboratorio,5,divertimento,5,relax,4,veloce,3
+teacher_028,laboratorio,5,strumento,5,spazio,4,esperimento,5
+fisica_unitn_007,laboratorio,5,ricerca,5,fisica,5,matematica,5
+teacher_029,laboratorio,3,esperimento ,4,misura ,5,,
+fisica_unitn_008,laboratorio,3,bianco,3,strumenti,5,camicie,4
 interfacce_001,conoscenza,5,cultura,5,aiuto,4,vita,5
 interfacce_002,conoscenza,4,sapere,4,libri,4,studio,3
 interfacce_003,conoscenza,4,sapere,4,,,,
@@ -1852,7 +2464,43 @@ fisica_020,conoscenza,5,polivalente,5,versatilità,5,futuro,1
 fisica_021,conoscenza,3,tanta,4,importante,4,voglia di averne di più,5
 fisica_022,conoscenza,4,stupida,3,banale,2,inutile,2
 fisica_stem_002_3,conoscenza,5,sapere,5,saggezza,5,potere,5
-fisica_stem_005_1,conoscenza,5,stanchezza ,2,tentativi,2,disciplina,2
+teacher_001,conoscenza,5,stanchezza ,2,tentativi,2,disciplina,2
+teacher_002,conoscenza,3,adipisci et vero mag,3,sed in porro id non,3,architecto reiciendi,2
+teacher_003,conoscenza,1,vel labore et vitae ,2,non fugit nostrum d,3,quia consequatur ev,2
+teacher_005,conoscenza,5,sfida,5,curiosità,5,impegno,5
+teacher_006,conoscenza,5,memoria,5,ragionamento,5,base,3
+teacher_007,conoscenza,4,importante,4,libri,5,studio,4
+teacher_008,conoscenza,5,dialogo,5,cultura,4,informazione,5
+teacher_009,conoscenza,5,esperta,4,mente,5,psicologia,5
+teacher_010,conoscenza,5,cultura,5,intelligenza,5,serietà,4
+teacher_011,conoscenza,5,memoria,4,comprensione ,5,competenza,5
+teacher_012,conoscenza,4,sapere,4,teoria,4,caratteristica,4
+teacher_013,conoscenza,5,futuro,4,sapere,5,passaggio,5
+teacher_014,conoscenza,4,sapere,4,disciplina,3,uomo,5
+teacher_015,conoscenza,3,apprendimento,4,strumento,3,libri,3
+teacher_016,conoscenza,4,studio,4,preparazione,5,libri,4
+teacher_017,conoscenza,5,creatività,5,speranza,5,innovazione,5
+teacher_018,conoscenza,4,sapere,4,cercare,5,nozione,2
+teacher_019,conoscenza,4,sicurezza,4,competenza,5,futuro,5
+teacher_020,conoscenza,5,biblioteca,5,storia,5,memoria,4
+teacher_021,conoscenza,5,sapere,5,studiare,5,,
+teacher_023,conoscenza,5,sapere,5,studio,4,,
+altro dipartimento_065,conoscenza,5,studio,4,comprensione,5,,
+teacher_024,conoscenza,5,cultura,5,competenza,5,abilità,5
+altro dipartimento_067,conoscenza,4,libera ,4,internet ,4,enciclopedia ,4
+fisica_unitn_002,conoscenza,4,libro ,3,fisica ,5,intellettuale ,5
+fisica_unitn_003,conoscenza,4,sapere,4,mente,4,apprendere,4
+teacher_025,conoscenza,4,studio,4,intelletto,4,,
+fisica_unitn_004,conoscenza,4,consapevolezza,4,competenza,4,cultura,5
+teacher_026,conoscenza,3,sapere,4,coscienza ,4,,
+teacher_027,conoscenza,4,ignoranza,2,,,,
+altro dipartimento_068,conoscenza,5,studio,4,persone,3,leggere,5
+fisica_unitn_005,conoscenza,4,studio,4,leggere,4,apprendere,4
+fisica_unitn_006,conoscenza,5,ascesi,5,trascendere,5,scopo,5
+teacher_028,conoscenza,,studio,,osservazione,,ascolto,
+fisica_unitn_007,conoscenza,3,epistemologia,5,nichilismo,4,nulla,4
+teacher_029,conoscenza,3,sapere,4,esperienza ,5,,
+fisica_unitn_008,conoscenza,5,verità ,5,ricerca,5,migliorarsi,5
 interfacce_001,fallimento,1,caduta,2,,,,
 interfacce_002,fallimento,1,perdere,1,non farcela,1,demoralizzante,2
 interfacce_003,fallimento,1,vergogna,2,delusione,2,,
@@ -1955,7 +2603,43 @@ fisica_020,fallimento,1,vita,1,università,2,famiglia,3
 fisica_021,fallimento,1,io,1,certo,1,irreversibile,1
 fisica_022,fallimento,2,scienza,2,nazione,2,paura,2
 fisica_stem_002_3,fallimento,1,sconfitta,1,errori,2,miglioramento,4
-fisica_stem_005_1,fallimento,1,buco,1,tristezza,1,vergogna,1
+teacher_001,fallimento,1,buco,1,tristezza,1,vergogna,1
+teacher_002,fallimento,1,enim eos ex exceptu,1,delectus at non qui,3,tempor porro explica,4
+teacher_003,fallimento,2,quidem et modi ratio,2,magni sit id et il,3,maiores velit repreh,4
+teacher_005,fallimento,5,rialzarsi,5,riprovare,5,non esiste,5
+teacher_006,fallimento,2,ripartenza,5,stimolo,5,miglioramento,5
+teacher_007,fallimento,1,,,,,,
+teacher_008,fallimento,4,possibilità,4,ansia,2,rialzarsi,5
+teacher_009,fallimento,4,bocciatura,3,fine,4,ripartenza,5
+teacher_010,fallimento,3,tristezza,1,difficoltà,4,coraggio,5
+teacher_011,fallimento,4,errore,5,apprendimento,5,necessità,5
+teacher_012,fallimento,3,crescita,5,sfida,4,fatica,2
+teacher_013,fallimento,1,prova,5,ricerca,5,vita,5
+teacher_014,fallimento,2,impensabile,3,,,,
+teacher_015,fallimento,2,dispiacere,2,errore,3,insegnamento,4
+teacher_016,fallimento,1,lavoro,5,famiglia,4,personale,3
+teacher_017,fallimento,5,errore,5,tristezza,5,ripresa,5
+teacher_018,fallimento,3,opportunità,5,cadere,4,rinascita,5
+teacher_019,fallimento,1,dispiacere,2,errore,2,sfida,4
+teacher_020,fallimento,2,ricominciare,4,imparare,5,accettazione,4
+teacher_021,fallimento,4,paura,2,accettazione,5,riprovare,5
+teacher_023,fallimento,1,tristezza ,1,stanchezza,2,,
+altro dipartimento_065,fallimento,2,paura,1,futuro,3,,
+teacher_024,fallimento,1,paura,1,fine,1,crisi,1
+altro dipartimento_067,fallimento,3,buio,2,base,3,crescita ,4
+fisica_unitn_002,fallimento,1,piangere ,1,esami ,3,giudizio ,1
+fisica_unitn_003,fallimento,1,brutto,2,pesante,2,demoralizzato,1
+teacher_025,fallimento,2,vergogna,2,frustazione,2,compito,2
+fisica_unitn_004,fallimento,2,dispiacere,1,sconforto,1,rivincita,4
+teacher_026,fallimento,3,miseria,1,dolore ,3,rabbia ,4
+teacher_027,fallimento,1,riprovare,4,poverta,2,elemosi a,2
+altro dipartimento_068,fallimento,1,risolvibile,3,riprovare,4,opportunità,4
+fisica_unitn_005,fallimento,1,insuccesso,1,tristezza,1,,
+fisica_unitn_006,fallimento,3,bancarotta,2,povertà,2,tristezza,3
+teacher_028,fallimento,2,amarezza,1,scoramento,1,coraggio,4
+fisica_unitn_007,fallimento,3,crescita,5,personale,4,ego,5
+teacher_029,fallimento,3,sfiducia ,4,riprovo ,5,,
+fisica_unitn_008,fallimento,1,successo ,5,rivalsa,5,possibilità ,5
 interfacce_001,voto,3,giudizio,3,numero,3,,
 interfacce_002,voto,3,esame,2,positivo ,5,negativo,1
 interfacce_003,voto,2,numero,4,giudizio,2,,
@@ -2058,7 +2742,43 @@ fisica_020,voto,1,insufficienza,1,pigrizia,1,fallimento,1
 fisica_021,voto,3,basso,2,9,2,giudizio,1
 fisica_022,voto,1,alto,1,faticoso,1,leggero,4
 fisica_stem_002_3,voto,3,esito,3,giudizio,2,esame,3
-fisica_stem_005_1,voto,2,validazione,3,autostima ,2,invidia,1
+teacher_001,voto,2,validazione,3,autostima ,2,invidia,1
+teacher_002,voto,3,aut veniam perspici,2,sit aperiam minim l,4,qui omnis est elit,4
+teacher_003,voto,1,dolorem cupiditate n,1,non enim nemo cupidi,4,rerum aut non error ,1
+teacher_005,voto,4,proposta,5,misura di un lavoro,5,opportunità,5
+teacher_006,voto,4,performance,4,valutazione,5,impegno,5
+teacher_007,voto,3,non serve,3,ansia,2,,
+teacher_008,voto,3,esame,3,autoanalisi,4,scuola,3
+teacher_009,voto,1,cinque,1,numero,3,limite,3
+teacher_010,voto,3,ansia,1,prestazione,4,impegno,5
+teacher_011,voto,2,gabbia,1,classifiche,1,,
+teacher_012,voto,3,valutazione,3,misura,3,feedbackj,5
+teacher_013,voto,4,situazione,4,paragone,5,studio,5
+teacher_014,voto,4,positivo,4,dubbio,5,valutazione,4
+teacher_015,voto,3,riscontro,4,preparazione,4,conclusione,3
+teacher_016,voto,3,buono ,3,ottimo,3,distinto,3
+teacher_017,voto,5,valutaszione,5,autovalutazione,5,giudizio,5
+teacher_018,voto,3,feedback,4,misura,3,numero,3
+teacher_019,voto,3,valore,4,limite,3,misura,4
+teacher_020,voto,3,nove,4,imperfetto,2,approssimazione,2
+teacher_021,voto,4,valutazione,4,livello,4,risultato,4
+teacher_023,voto,3,18,2,30,4,esame,3
+altro dipartimento_065,voto,1,ansia,1,stress,1,etichettatura,1
+teacher_024,voto,4,ottimo,4,discreto,3,buono,3
+altro dipartimento_067,voto,3,nove ,4,scuola ,3,genitori ,5
+fisica_unitn_002,voto,2,10,5,,,,
+fisica_unitn_003,voto,3,laurea,2,esame,3,dieci,4
+teacher_025,voto,2,sufficienza,4,prestazione,2,,
+fisica_unitn_004,voto,4,massimo,5,eccellenza,5,bravura,5
+teacher_026,voto,3,finale ,3,laurea ,3,verifica ,3
+teacher_027,voto,4,sufficienza,2,insufficienza,1,esame,2
+altro dipartimento_068,voto,2,stress,1,università,4,esame,2
+fisica_unitn_005,voto,4,alto,5,giudizio,4,elezioni,3
+fisica_unitn_006,voto,1,inutile,1,ansia,1,casa,3
+teacher_028,voto,3,problema,4,giustizia,5,oggettivo,5
+fisica_unitn_007,voto,4,alto,4,basso,4,quantità,5
+teacher_029,voto,3,elezione ,4,scuola,4,valutazione ,5
+fisica_unitn_008,voto,2,valutazione,2,criterio,5,,
 interfacce_001,numeri,3,quantità,4,,,,
 interfacce_002,numeri,3,matematica,3,algebra,3,funzioni,3
 interfacce_003,numeri,4,contare,4,tabelline,4,,
@@ -2161,7 +2881,43 @@ fisica_020,numeri,3,algebra,3,insiemi numerici,3,,
 fisica_021,numeri,3,1,3,2,3,3,3
 fisica_022,numeri,,bellezza,,geometria,,limite,
 fisica_stem_002_3,numeri,3,calcoli,3,cifre,3,analisi,3
-fisica_stem_005_1,numeri,4,alfabeto,4,universo,5,scienze,5
+teacher_001,numeri,4,alfabeto,4,universo,5,scienze,5
+teacher_002,numeri,2,natus amet do et ni,2,labore ut recusandae,1,velit quaerat totam,2
+teacher_003,numeri,4,quia provident est ,5,obcaecati eos maxim,1,laborum cumque dolor,3
+teacher_005,numeri,4,contare,4,misurare,4,confrontare,5
+teacher_006,numeri,5,infiniti,5,eleganti,5,utili,5
+teacher_007,numeri,4,primi,4,matematica,4,analisi,4
+teacher_008,numeri,4,matematica,4,gioco,5,stimolo,5
+teacher_009,numeri,1,matematica,3,scienza,3,decimali,4
+teacher_010,numeri,4,matematica,3,quotidianità,4,scuola,5
+teacher_011,numeri,4,vita,5,infinito,5,dio,5
+teacher_012,numeri,3,primi,3,interi,3,radicali,3
+teacher_013,numeri,5,operazioni,5,equazioni,5,incognite,5
+teacher_014,numeri,2,telefono,3,naturali,3,cardinali,4
+teacher_015,numeri,3,precisione,3,calcoli,3,matematica,3
+teacher_016,numeri,3,telefono,3,banca,3,studenti,3
+teacher_017,numeri,5,regole,5,teoremi,5,lotteria,5
+teacher_018,numeri,3,verità,4,interpretazione,5,dato,4
+teacher_019,numeri,4,matematica,3,dati,4,studio,4
+teacher_020,numeri,5,uno,4,primi,4,giochi,5
+teacher_021,numeri,3,valori,3,contare,3,matematica,3
+teacher_023,numeri,4,contare,4,operazione,4,libro,5
+altro dipartimento_065,numeri,5,pi greco,5,rendimento,3,sumeri,4
+teacher_024,numeri,5,lettere,5,cardinali,3,ordinali,3
+altro dipartimento_067,numeri,3,matematica ,4,scuola ,4,addizioni ,4
+fisica_unitn_002,numeri,3,calcolatrice ,4,lavagna ,4,fisica ,5
+fisica_unitn_003,numeri,3,uno,3,serie,3,sequenza,3
+teacher_025,numeri,3,primi,3,infiniti,4,calcolo,3
+fisica_unitn_004,numeri,5,aritmetica,4,geometria ,4,figure,3
+teacher_026,numeri,4,complessi,3,conteggio ,4,reali,3
+teacher_027,numeri,4, conti,3,pigreco,4,raggio,4
+altro dipartimento_068,numeri,3,equazioni,4,disequazioni,4,radici,4
+fisica_unitn_005,numeri,4,primi,4,trascendenti,5,razionali,4
+fisica_unitn_006,numeri,3,tabelline,4,uno,4,,
+teacher_028,numeri,5,strumenti,5,modello,5,operazioni,5
+fisica_unitn_007,numeri,3,5,5,10,5,15,5
+teacher_029,numeri,3,matematica ,4,calcolo ,4,ordine ,5
+fisica_unitn_008,numeri,5,natura,5,discreti,3,associazione ,4
 interfacce_001,logica,3,impegno,5,,,,
 interfacce_002,logica,3,ragionamento,4,problemsolving,5,adattarsi,4
 interfacce_003,logica,4,numeri,4,ragionamento,4,,
@@ -2264,7 +3020,43 @@ fisica_020,logica,5,,,,,,
 fisica_021,logica,4,filosofia,4,bravo,4,matematica,4
 fisica_022,logica,,ansia,,stress,,rifiuto,
 fisica_stem_002_3,logica,4,ragionamento,4,fallacia,2,analisi,4
-fisica_stem_005_1,logica,5,intelligenza ,5,utilità,5,spigliatezza,4
+teacher_001,logica,5,intelligenza ,5,utilità,5,spigliatezza,4
+teacher_002,logica,5,reprehenderit eum d,5,rerum veniam aspern,3,autem incidunt moll,5
+teacher_003,logica,3,est ex possimus ve,2,ipsum est nulla fugi,2,ea labore sit nihil ,4
+teacher_005,logica,5,razionalità,5,aiuto,5,contenimento,5
+teacher_006,logica,5,problemi,5,soluzioni,5,mente,5
+teacher_007,logica,4,complicata,3,importante,4,latino,4
+teacher_008,logica,4,matematica,4,gioco,5,associazione,4
+teacher_009,logica,5,filosofia,5,mentale,5,ragionamento,4
+teacher_010,logica,3,matematica,3,gioco,4,risultato,4
+teacher_011,logica,4,difficile,2,vita,5,poco presente,2
+teacher_012,logica,3,matematica,4,scientifica,4,filosofica,4
+teacher_013,logica,5,matematica,5,verità,5,tabella,5
+teacher_014,logica,4,matematica,3,sequenza,4,risultato,4
+teacher_015,logica,3,razionalità,3,numeri,3,soluzioni,3
+teacher_016,logica,4,utile,4,studio,4,comprensione,4
+teacher_017,logica,5,numeri ,5,regole ,5,soluzioni,5
+teacher_018,logica,5,ragionamento,4,pensiero,4,creatività,5
+teacher_019,logica,5,competenza,5,soluzione ,5,creatività,5
+teacher_020,logica,5,diagramma,4,insiemi,5,boole,4
+teacher_021,logica,3,matematica,3,informatica,4,pensiero,5
+teacher_023,logica,4,esame,3,associazione,3,,
+altro dipartimento_065,logica,5,bella,5,matematica,5,puzzle,5
+teacher_024,logica,4,numeri,4,proposizioni,3,implicazioni,2
+altro dipartimento_067,logica,4,matematica ,4,filosofia ,3,vita ,4
+fisica_unitn_002,logica,5,cervello ,5,velocità ,5,attenzione ,4
+fisica_unitn_003,logica,3,operazioni,4,successione,3,test,3
+teacher_025,logica,2,matematica,4,,,,
+fisica_unitn_004,logica,4,matematica,4,numeri,5,aritmetica ,5
+teacher_026,logica,4,matematica ,5,fisica ,4,pensiero ,4
+teacher_027,logica,4,raziocinio,4,algebra ,4,matematica ,4
+altro dipartimento_068,logica,5,pensiero,5,lineare,5,matematica,5
+fisica_unitn_005,logica,5,matematica ,5,popper,4,bias,2
+fisica_unitn_006,logica,4,razionalotà,4,sequenza,4,algoritmo,4
+teacher_028,logica,5,chiarezza,5,regole,4,universale,5
+fisica_unitn_007,logica,3,deduttiva,5,induttiva,5,abduttiva,5
+teacher_029,logica,3,deduzione ,4,ragionamento ,5,risultato ,4
+fisica_unitn_008,logica,5,matematica ,5,pensiero ,5,collegamenti,5
 interfacce_001,ricerca,4,scientifica,3,,,,
 interfacce_002,ricerca,3,studio,3,ricercatore,3,scienza,4
 interfacce_003,ricerca,4,scientifica,4,scienza,4,esperimento,4
@@ -2367,7 +3159,43 @@ fisica_020,ricerca,4,futuro,1,obiettivo,3,,
 fisica_021,ricerca,5,scienziati ,5,laboratorio,3,ricercatori,5
 fisica_022,ricerca,,fatica,,impegno,,solidità,
 fisica_stem_002_3,ricerca,4,progresso,3,lavoro,3,assegno,3
-fisica_stem_005_1,ricerca,5,scoperta,4,studio,4,passione,5
+teacher_001,ricerca,5,scoperta,4,studio,4,passione,5
+teacher_002,ricerca,5,dignissimos laborios,2,irure accusamus et p,5,et itaque eos et la,2
+teacher_003,ricerca,3,et ut deserunt esse ,3,dignissimos laborios,2,maiores quia labore ,5
+teacher_005,ricerca,5,interesse,5,burocrazia,1,opportunità,5
+teacher_006,ricerca,5,futuro,5,lavoro,5,scoperta,5
+teacher_007,ricerca,4,nobel,4,impegno,5,,
+teacher_008,ricerca,5,sviluppo,5,scienza,5,scoperte,5
+teacher_009,ricerca,5,scienza,5,laboratorio,5,continua,4
+teacher_010,ricerca,5,scienze,5,cultura,5,progresso,5
+teacher_011,ricerca,5,aria fresca,5,evoluzione,5,futuro,5
+teacher_012,ricerca,4,umana,5,scientifica,4,laboratoriale,4
+teacher_013,ricerca,5,sviluppo,4,curiosità,5,lavoro,5
+teacher_014,ricerca,4,argomento,4,possibilità,4,esperimento,5
+teacher_015,ricerca,3,informazioni,3,dati,3,scoperta,3
+teacher_016,ricerca,4,utile,4,coraggio,4,soluzioni,4
+teacher_017,ricerca,5,scoperta,5,sorpresa,5,creatività,5
+teacher_018,ricerca,4,scoperta,5,novità,5,risultato,3
+teacher_019,ricerca,5,scienza,5,crescita,5,scoperta,5
+teacher_020,ricerca,4,base,4,costi,3,innovazione,4
+teacher_021,ricerca,5,dati,4,studio,5,scoperta,5
+teacher_023,ricerca,4,lavoro,4,fondi,5,computer,4
+altro dipartimento_065,ricerca,4,matematica,5,intelligenza,5,impegno,3
+teacher_024,ricerca,3,università,2,futuro,2,istruzione,5
+altro dipartimento_067,ricerca,4,stimolante ,4,futuro,4,speranza ,4
+fisica_unitn_002,ricerca,5,ambizione ,5,scoperte ,5,meraviglia ,5
+fisica_unitn_003,ricerca,3,campo,3,scienziato,3,laboratorio,3
+teacher_025,ricerca,4,fisica,4,matematica,4,,
+fisica_unitn_004,ricerca,5,scienza ,4,fisica,4,dottorato,4
+teacher_026,ricerca,4,scientifica,4,sociale,4,trovare,3
+teacher_027,ricerca,4,universita,4,dipartimento,2,fisi a,4
+altro dipartimento_068,ricerca,5,esperimento,4,articoli,4,matematica,5
+fisica_unitn_005,ricerca,5,scientifica,5,phd,5,studio,5
+fisica_unitn_006,ricerca,4,binaria,4,interessante,4,scavare,4
+teacher_028,ricerca,5,studio,5,impegno,5,progetto,4
+fisica_unitn_007,ricerca,3,fisica,5,conoscenza,5,esistenza,5
+teacher_029,ricerca,3,studio ,4,sperimentazione ,4,conoscenza ,5
+fisica_unitn_008,ricerca,5,scienza ,5,scopo,5,speranza,5
 interfacce_001,imbarazzo,2,disagio,1,ansia,2,,
 interfacce_002,imbarazzo,1,figuracce,1,cadere,1,inciampare,1
 interfacce_003,imbarazzo,2,vergogna,2,ansia,2,,
@@ -2470,7 +3298,43 @@ fisica_020,imbarazzo,2,,,,,,
 fisica_021,imbarazzo,1,io,1,classe,1,genitori,1
 fisica_022,imbarazzo,,disillusione,,paura,,ansia,
 fisica_stem_002_3,imbarazzo,2,ansia,2,sguardo,2,performance,3
-fisica_stem_005_1,imbarazzo,1,sopravvalutarsi,1,autostima,1,vergogna ,1
+teacher_001,imbarazzo,1,sopravvalutarsi,1,autostima,1,vergogna ,1
+teacher_002,imbarazzo,1,cupidatat perspiciat,3,maiores in reprehend,5,quo dolores reprehen,3
+teacher_003,imbarazzo,3,sit molestias labor,5,inventore cillum in ,2,quis libero dolorem ,1
+teacher_005,imbarazzo,3,sensazione,3,altri,3,pubblico,3
+teacher_006,imbarazzo,2,incomprensione,2,difficoltà,2,vergogna,1
+teacher_007,imbarazzo,3,fidanzata,4,rosso,4,,
+teacher_008,imbarazzo,2,situazione,3,,,,
+teacher_009,imbarazzo,3,paura,3,spavento,3,aiuto,3
+teacher_010,imbarazzo,1,difficoltà,3,tristezza,3,scomparire,1
+teacher_011,imbarazzo,2,pudore,4,vergogna,2,introverso,3
+teacher_012,imbarazzo,4,piacevole,4,risata,5,sorriso,5
+teacher_013,imbarazzo,2,solo,2,reale,4,sensazione,3
+teacher_014,imbarazzo,2,emozione,4,istante,4,,
+teacher_015,imbarazzo,2,rosso,1,vergogna,1,inefficacia,1
+teacher_016,imbarazzo,2,vita,2,lavoro,4,amore,4
+teacher_017,imbarazzo,5,rossore,5,ansia,5,incertezza,5
+teacher_018,imbarazzo,2,rossore,3,vergogna,2,situazione,3
+teacher_019,imbarazzo,2,dubbio,4,errore,3,rischio,3
+teacher_020,imbarazzo,2,figura,3,rosso,2,vergogna,1
+teacher_021,imbarazzo,2,rossore,2,agitazione,2,risata,3
+teacher_023,imbarazzo,1,rossore,3,vergogna,2,angolo,1
+altro dipartimento_065,imbarazzo,2,ansia,1,rosso,3,scappare,2
+teacher_024,imbarazzo,1,ansia,1,rosso,1,silenzio,1
+altro dipartimento_067,imbarazzo,4,rosso,5,tavola,3,sconosciuti ,3
+fisica_unitn_002,imbarazzo,1,persone ,2,caldo ,1,rosso ,1
+fisica_unitn_003,imbarazzo,2,emozione,4,ansia,2,rosso,3
+teacher_025,imbarazzo,2,rosso,3,vergoghna,2,,
+fisica_unitn_004,imbarazzo,1,ansia,2,timidezza ,2,sociale,2
+teacher_026,imbarazzo,3,rossore,3,timidezza ,4,vergogna ,2
+teacher_027,imbarazzo,2,odore,2,puzza,1,igiene,3
+altro dipartimento_068,imbarazzo,1,rossore,1,battito,1,paura,2
+fisica_unitn_005,imbarazzo,2,vergogna,2,nascondersi,2,paura,2
+fisica_unitn_006,imbarazzo,2,eloquenza,4,sconfitta,2,,
+teacher_028,imbarazzo,3,sbaglio,2,vergogna,1,fretta,2
+fisica_unitn_007,imbarazzo,3,parlare in pubblico,5,teatro,5,sipario,5
+teacher_029,imbarazzo,3,vergogna ,4,rabbia ,4,inadeguato ,4
+fisica_unitn_008,imbarazzo,1,rabbia,4,ansia ,1,rossore,2
 interfacce_001,compagni,5,carini,5,scuola,5,,
 interfacce_002,compagni,5,amici,5,ridere,5,parlare,5
 interfacce_003,compagni,4,amici,4,studenti,4,,
@@ -2573,7 +3437,43 @@ fisica_020,compagni,3,,,,,,
 fisica_021,compagni,3,intelligenti,3,alessio,4,simpatici,3
 fisica_022,compagni,,maschi,,diversi,,bravi,
 fisica_stem_002_3,compagni,4,colleghi,4,lavoro,3,collaborazione ,4
-fisica_stem_005_1,compagni,3,confronto ,4,crescita,5,invidia,1
+teacher_001,compagni,3,confronto ,4,crescita,5,invidia,1
+teacher_002,compagni,3,veritatis enim aut q,2,in facilis saepe sit,1,porro quis sed porro,2
+teacher_003,compagni,3,rerum id mollit cons,5,dicta doloremque sun,2,similique quas conse,4
+teacher_005,compagni,5,socie,5,sostegno,5,dare,5
+teacher_006,compagni,5,gruppo,5,aiuto,5,supporto,5
+teacher_007,compagni,5,amici,5,fiducia,5,gruppo,5
+teacher_008,compagni,3,relazioni,4,emozioni,4,condivisione,5
+teacher_009,compagni,5,scuola,3,viaggio,5,di vita,5
+teacher_010,compagni,5,giochi,5,divertimento,5,gruppo,5
+teacher_011,compagni,5,gioia,5,sempre,5,verità,5
+teacher_012,compagni,4,viaggio,5,divertimento,5,vita,5
+teacher_013,compagni,5,scuola,5,amici,5,lavoro,5
+teacher_014,compagni,3,comportamento,2,comunione,4,scherzo,2
+teacher_015,compagni,4,supporto,4,incoraggiamento,4,aiuto,4
+teacher_016,compagni,4,affetto,4,presenza,4,studio,5
+teacher_017,compagni,5,amicizia,5,condivisione,5,umorismo,5
+teacher_018,compagni,5,avventura,5,crescita,5,confronto,5
+teacher_019,compagni,5,benessere,5,confronto,5,vita,5
+teacher_020,compagni,5,gioco,5,allegria,5,comunisti,3
+teacher_021,compagni,5,amicizia,5,confronto,5,condivisione,5
+teacher_023,compagni,4,classe,4,amici,5,scuola,4
+altro dipartimento_065,compagni,5,simpatici,5,divertenti,5,affidabili,4
+teacher_024,compagni,5,scuola,5,associazione,5,amicizia,5
+altro dipartimento_067,compagni,4,comunismo,5,scuola,3,lavoro,3
+fisica_unitn_002,compagni,3,disagio ,2,,,,
+fisica_unitn_003,compagni,4,scuola,3,univesità,4,gruppo,4
+teacher_025,compagni,4,scuola,2,merenda,4,,
+fisica_unitn_004,compagni,5,scuola,4,banco,3,ricreazione,4
+teacher_026,compagni,4,classe,3,scuola ,3,vita ,4
+teacher_027,compagni,4,amici,4, conoscenti,2,solitudine,2
+altro dipartimento_068,compagni,4,simpatici,5,socievoli,5,gentili,5
+fisica_unitn_005,compagni,4,classe,4,scuola,4,comunismo,3
+fisica_unitn_006,compagni,4,amici,4,spensieratezza,5,,
+teacher_028,compagni,4,divertimento,5,sostegno,5,aiuto,5
+fisica_unitn_007,compagni,3,banco,5,scuola,5,educazione,5
+teacher_029,compagni,3,coetanei ,3,affinità ,4,comunanza ,5
+fisica_unitn_008,compagni,4,comunismo,4,alleati,5,amicizia ,4
 interfacce_001,problema,2,soluzione,4,,,,
 interfacce_002,problema,2,risolvere,4,quesito,3,domanda,3
 interfacce_003,problema,4,matematica,4,difficoltà,2,ansia,2
@@ -2676,7 +3576,43 @@ fisica_020,problema,3,matematica,3,fisica,3,soluzioni,4
 fisica_021,problema,3, matematica,3,famiglia,1,irrisolvibile,1
 fisica_022,problema,3,risolto,4,inutile,3,classico,1
 fisica_stem_002_3,problema,3,soluzione ,4,ragionamento ,4,procedimento ,4
-fisica_stem_005_1,problema,3,stanchezza,3,pigrizia,1,sfida,3
+teacher_001,problema,3,stanchezza,3,pigrizia,1,sfida,3
+teacher_002,problema,4,commodo est animi l,5,harum anim quibusdam,5,non voluptas dicta l,5
+teacher_003,problema,2,dolor aut incididunt,4,ut facere ratione re,3,at eum praesentium n,3
+teacher_005,problema,5,progetto,5,risoluzione,5,sfida,5
+teacher_006,problema,5,sfida,5,pensiero,5,soluzione,5
+teacher_007,problema,4,gioco,4,matematica,4,problema,4
+teacher_008,problema,4,risposta,4,fatica,5,viaggio,5
+teacher_009,problema,5,complessità,5,soluzione,5,generale,4
+teacher_010,problema,3,scoglio,2,superare,5,difficile,3
+teacher_011,problema,4,opportunità,5,associazioni,5,logica,5
+teacher_012,problema,3,soluzione,4,tentativi,4,procedimento,4
+teacher_013,problema,4,soluzione,5,modello,5,dedizione,5
+teacher_014,problema,2,matematico,4,dilemma,2,soluzione,4
+teacher_015,problema,3,soluzione,4,calcoli,3,ragionamento,3
+teacher_016,problema,2,affrontare,4,risolvere,4,soluzione,4
+teacher_017,problema,,numeri ,5,soluzioni,5,gioco,5
+teacher_018,problema,4,soluzione,5,dati,3,analisi,4
+teacher_019,problema,4,sfida,4,soluzione,5,cambiamento,5
+teacher_020,problema,4,soluzione,4,matematica,4,guaio,2
+teacher_021,problema,4,domanda,4,soluzione,5,,
+teacher_023,problema,3,facile,5,geometria ,4,soluzione,5
+altro dipartimento_065,problema,2,soluzione,5,essenziale,4,,
+teacher_024,problema,,matematica,,soluzione,,reale,
+altro dipartimento_067,problema,3,matematica ,4,risolto ,4,soluzione ,4
+fisica_unitn_002,problema,4,incognita ,4,impegno ,4,matematica ,3
+fisica_unitn_003,problema,3,matematica,3,risolvere,3,quaderno,3
+teacher_025,problema,2,risoluzione,3,matematica,4,fatica,4
+fisica_unitn_004,problema,3,sfida,4,rassegnazione,2,fatica,2
+teacher_026,problema,4,task,4,soluzione ,5,dati,3
+teacher_027,problema,2,soluzione,4,aiuto,4,difficile,
+altro dipartimento_068,problema,5,risolvere,4,insieme,4,calma,4
+fisica_unitn_005,problema,3,matematico,4,vita,2,,
+fisica_unitn_006,problema,4,soluzione,4,ostacolo,4,,
+teacher_028,problema,5,interessante,5,soluzione,5,riflessione,5
+fisica_unitn_007,problema,4,fisica,4,meccanica,4,industriale,4
+teacher_029,problema,3,ragionamento ,5,incertezze ,4,soluzione ,5
+fisica_unitn_008,problema,2,soluzione ,5,ansia,1,pensiero ,5
 interfacce_001,informatica,4,papà,5,esame,3,,
 interfacce_002,informatica,4,programmazione,4,pc,5,programmatore,2
 interfacce_003,informatica,4,calcolo,4,codice,4,c++,3
@@ -2779,7 +3715,43 @@ fisica_020,informatica,3,curiosita,4,passatempo,5,divertimento,5
 fisica_021,informatica,3,alessandro,5,itt,3,buonarrotti,3
 fisica_022,informatica,2,tecnica,1,associativa,3,desiderabile,4
 fisica_stem_002_3,informatica,3,lavoro ,3,computer,3,ada lovelace ,5
-fisica_stem_005_1,informatica,2,logica,2,difficoltà,1,razionalità ,2
+teacher_001,informatica,2,logica,2,difficoltà,1,razionalità ,2
+teacher_002,informatica,1,et aut debitis eum t,3,quia quas ullam ut q,2,sunt eius mollit off,2
+teacher_003,informatica,1,non voluptatem praes,1,aliqua sequi aliqui,2,nisi culpa eum iste ,4
+teacher_005,informatica,5,astruso,5,interessante,5,impegnativa,4
+teacher_006,informatica,4,logica,5,strumento,4,velocità,4
+teacher_007,informatica,4,excell,4,divertimento,5,programmi,4
+teacher_008,informatica,4,necessità,3,aiuto,4,scoperta,5
+teacher_009,informatica,4,disciplina,3,media,3,utile,5
+teacher_010,informatica,3,difficile,3,positivo,5,aiuto,4
+teacher_011,informatica,5,algoritmi,5,vita,5,quotidinità,5
+teacher_012,informatica,3,computer,3,potenzialità,4,velocità,4
+teacher_013,informatica,5,computer,4,linguaggi,4,tecnologie,4
+teacher_014,informatica,5,programmazione,4,posta,5,ai,5
+teacher_015,informatica,3,digitale,3,automatico,3,veloce,3
+teacher_016,informatica,3,comprensione,4,difficoltà,2,utilità,4
+teacher_017,informatica,,calcoli ,5,computer,5,algoritmo,5
+teacher_018,informatica,4,logica,5,struttura,4,regola,3
+teacher_019,informatica,3,risorsa,5,competenza,5,complessità,4
+teacher_020,informatica,4,computer,3,programmi,4,ottimizzazione,3
+teacher_021,informatica,5,scienza,5,risoluzione problemi,5,computer,5
+teacher_023,informatica,4,esame,3,computer,4,algoritmo,4
+altro dipartimento_065,informatica,5,bella,4,coding,5,,
+teacher_024,informatica,5,computer,5,pc,5,codice,5
+altro dipartimento_067,informatica,3,noia,4,macchina ,3,teorica ,4
+fisica_unitn_002,informatica,3,codice,2,programmazione ,2,,
+fisica_unitn_003,informatica,3,numeri,3,computer,3,mouse,4
+teacher_025,informatica,2,programma,2,codice,2,algoritmo,2
+fisica_unitn_004,informatica,4,dati,4,computer,4,analis,4
+teacher_026,informatica,4,algoritmi ,5,codice ,3,tasti,3
+teacher_027,informatica,4, computer ,4,www,4,cern,4
+altro dipartimento_068,informatica,4,computer,4,dati,4,automazione,4
+fisica_unitn_005,informatica,4,programmazione ,4,computer,4,informazione,4
+fisica_unitn_006,informatica,4,codice,4,software,4,meccanismo,5
+teacher_028,informatica,5,algoritmo,5,computer,5,programmazione,5
+fisica_unitn_007,informatica,3,software,5,hardware,5,firmware,5
+teacher_029,informatica,3,codice ,4,logica,5,algoritmo ,5
+fisica_unitn_008,informatica,3,connessioni,5,algoritmo,5,natura,5
 interfacce_001,sfida,4,impossibile,1,,,,
 interfacce_002,sfida,2,difficile,2,facile,4,vincere,5
 interfacce_003,sfida,3,prova,2,,,,
@@ -2882,7 +3854,43 @@ fisica_020,sfida,4,motivazione,5,gioco,4,sorpresa,4
 fisica_021,sfida,3,difficile,1,provare,4,,
 fisica_022,sfida,5,impossibile,4,divertente,5,esilerante,5
 fisica_stem_002_3,sfida,4,tentativo,4,successo,4,fallimento,2
-fisica_stem_005_1,sfida,5,stimolo,5,coraggio,5,autostima,5
+teacher_001,sfida,5,stimolo,5,coraggio,5,autostima,5
+teacher_002,sfida,2,est dolor tenetur qu,2,sunt reprehenderit b,5,non culpa sit sint,2
+teacher_003,sfida,3,sunt ut mollitia su,3,blanditiis pariatur,3,ut velit minima eu ,5
+teacher_005,sfida,5,interesse,4,dedizione,5,tenacia,5
+teacher_006,sfida,4,problema,5,soluzione,5,soddisfazione,5
+teacher_007,sfida,4,gioco,4,impegno,5,fatica,5
+teacher_008,sfida,5,gioco,5,eccitazione,5,risposta,5
+teacher_009,sfida,5,probabilità,5,nemico,3,difficile,2
+teacher_010,sfida,4,interessante,5,difficile,3,positivo,5
+teacher_011,sfida,5,opportunità,5,apprendere,5,divertimento,5
+teacher_012,sfida,4,opportunità,4,crescita,4,talento,5
+teacher_013,sfida,4,superamento,4,cima,4,competizione,5
+teacher_014,sfida,4,con se stessi,4,attività,4,necessaria,4
+teacher_015,sfida,4,entusiasmo,4,stimolo,4,prova,4
+teacher_016,sfida,3,vita,3,lavoro,4,salute,4
+teacher_017,sfida,,gioco,5,impegno,5,gratificazione,5
+teacher_018,sfida,5,gara,4,vittoria,5,partecipazione,5
+teacher_019,sfida,4,opportunità,5,novità,5,rischio,3
+teacher_020,sfida,4,impegno,5,vittoria,3,gara,4
+teacher_021,sfida,4,confronto,4,,,,
+teacher_023,sfida,4,impegno,5,successo,5,fallimento,2
+altro dipartimento_065,sfida,4,impegno,4,occasione,5,,
+teacher_024,sfida,1,rap,1,battaglia,1,,
+altro dipartimento_067,sfida,4,eccitante ,4,ansia ,4,crescita ,5
+fisica_unitn_002,sfida,5,corsa ,3,,,,
+fisica_unitn_003,sfida,2,scoglio,3,scommessa,2,mettersi alla prova,3
+teacher_025,sfida,3,ansia,2,risultato,4,prova,2
+fisica_unitn_004,sfida,4,soluzione,4,testardaggine,4,rivincita,4
+teacher_026,sfida,5,rischio,5,motivazione ,4,accettare,4
+teacher_027,sfida,2,tenzone,2,cavaliere,4, avallo,3
+altro dipartimento_068,sfida,4,determinazione,4,superare,4,aiuto,4
+fisica_unitn_005,sfida,4,fisica ,5,mentale,4,esame,4
+fisica_unitn_006,sfida,5,interessante,3,emozionante,5,vincere,5
+teacher_028,sfida,4,bellezza,5,paura,2,impegno,5
+fisica_unitn_007,sfida,3,competizione,3,premio,4,maratona,3
+teacher_029,sfida,3,performance ,4,risultato ,5,fiducia ,4
+fisica_unitn_008,sfida,4,avventura,5,prontezza,5,selvaggio ,4
 interfacce_001,paura,2,futuro,3,,,,
 interfacce_002,paura,1,spavento,1,urlo,1,cadere,1
 interfacce_003,paura,2,ansia,2,emozione,4,,
@@ -2985,7 +3993,43 @@ fisica_020,paura,1,futuro,2,fallimento,1,universita,2
 fisica_021,paura,2,io,2,tanta,1,ragni,3
 fisica_022,paura,3,sentimento,4,valore,4,colore,5
 fisica_stem_002_3,paura,2,timore,2,fallimento,2,performance,3
-fisica_stem_005_1,paura,1,ansia ,1,ignoto ,1,morte,1
+teacher_001,paura,1,ansia ,1,ignoto ,1,morte,1
+teacher_002,paura,4,perspiciatis repreh,3,sunt error cillum la,2,est aliquam vel ab o,3
+teacher_003,paura,5,molestias hic sed ac,2,quis architecto eu d,1,voluptates laborum ,4
+teacher_005,paura,4,sensazioni,4,gestione,4,rilasciare,5
+teacher_006,paura,2,salute,3,figlio,5,incidente,1
+teacher_007,paura,2,poche,3,,,,
+teacher_008,paura,4,fase,3,superamento,4,rabbia,3
+teacher_009,paura,5,guerra,5,morte,4,fine,5
+teacher_010,paura,2,ansia,2,perdita,1,sbagliato,3
+teacher_011,paura,2,ansia ,1,errore,5,fallimento,2
+teacher_012,paura,3,ostacolo,2,respiro,5,calma,5
+teacher_013,paura,2,sensazione,5,ansia,2,carattere,2
+teacher_014,paura,2,futuro,4,persona,4,economica,3
+teacher_015,paura,2,preoccupazione,2,aspettative,3,preparazione,4
+teacher_016,paura,1,figli,4,guerra,1,povertà,1
+teacher_017,paura,,tristezza,5,ansia,5,,
+teacher_018,paura,3,buio,3,mostro,3,ansia,3
+teacher_019,paura,2,emozione,5,brivido,3,sfida,5
+teacher_020,paura,2,buio,1,urla,1,ansia,1
+teacher_021,paura,2,tremare,1,,,,
+teacher_023,paura,2,ansia,1,bambino,5,buio,3
+altro dipartimento_065,paura,2,futuro,3,,,,
+teacher_024,paura,1,buio,1,vuoto,1,ragni,1
+altro dipartimento_067,paura,3,insetti ,2,buio,3,film,4
+fisica_unitn_002,paura,1,fallimento ,1,,,,
+fisica_unitn_003,paura,2,viola,3,nube,3,confuso,2
+teacher_025,paura,2,buio,2,futuro,2,immayetiale,3
+fisica_unitn_004,paura,2,timore,2,ansia,2,tremore,2
+teacher_026,paura,2,rabbia ,4,motivazione ,4,repulsione ,1
+teacher_027,paura,2,fuga,2,aiuto,4,ambulanza,2
+altro dipartimento_068,paura,1,terrore,1,respiro,4,cuore,1
+fisica_unitn_005,paura,1,ansia,1,stress,1,incertezza ,1
+fisica_unitn_006,paura,2,ansia,2,futuro,2,,
+teacher_028,paura,2,rischio,4,dolore,1,futuro,4
+fisica_unitn_007,paura,4,imbarazzo,3,sentimento,5,emozione,5
+teacher_029,paura,3,ansia ,2,incognita ,4,buio,3
+fisica_unitn_008,paura,2,ansia,1,coraggio,5,lotta,4
 interfacce_001,genitori,5,mamma,5,papà,5,casa,5
 interfacce_002,genitori,4,mamma,4,papà,4,parenti,3
 interfacce_003,genitori,5,mamma,5,papà,5,,
@@ -3088,7 +4132,43 @@ fisica_020,genitori,3,delusione,1,paura,1,bugie,1
 fisica_021,genitori,1,mamma,1,papa,1,giudizio,1
 fisica_022,genitori,4,sani,4,saggi,5,noiosi,3
 fisica_stem_002_3,genitori,2,regole ,3,imposizioni,2,aspettative,2
-fisica_stem_005_1,genitori,4,amore ,4,aspettative ,2,sicurezza,5
+teacher_001,genitori,4,amore ,4,aspettative ,2,sicurezza,5
+teacher_002,genitori,3,accusantium earum ut,1,repellendus est et,4,aut vero quis qui do,4
+teacher_003,genitori,1,et eiusmod tempora o,1,aute fugiat excepte,4,inventore quos nobis,4
+teacher_005,genitori,3,morte,5,ansia,4,controllo,3
+teacher_006,genitori,4,aiuto,4,vicini,4,preoccupati,2
+teacher_007,genitori,4,fatica,4,2,3,figli,4
+teacher_008,genitori,3,supporto,4,scoglio,2,relazione,3
+teacher_009,genitori,2,due,2,uniti,4,difficoltà,4
+teacher_010,genitori,5,affetti,5,amore,5,casa,5
+teacher_011,genitori,5,sfida,5,possibilità,5,amore,5
+teacher_012,genitori,5,vicini,5,presenti,5,sostegno,5
+teacher_013,genitori,5,confronto,5,figli,5,crescita,5
+teacher_014,genitori,3,difficile,3,impreparati,2,stressati,1
+teacher_015,genitori,4,affetto,4,incoraggiamento,4,supporto,4
+teacher_016,genitori,4,distacco,2,morte,2,solitudine,2
+teacher_017,genitori,5,amore ,5,cura ,4,benessere,5
+teacher_018,genitori,5,cura,5,affetto,5,supporto,5
+teacher_019,genitori,3,famiglia,4,supporto,4,legami,2
+teacher_020,genitori,4,tifosi,2,voti,3,figli,4
+teacher_021,genitori,5,famiglia,5,guida,5,supporto,5
+teacher_023,genitori,5,mamma,5,papà,5,fratello,4
+altro dipartimento_065,genitori,2,assenti,1,lontani,1,bene,
+teacher_024,genitori,5,parenti,5,mamma,5,papà,5
+altro dipartimento_067,genitori,4,due ,3,mamma,4,papà,4
+fisica_unitn_002,genitori,5,amore ,5,famiglia ,5,felicità ,5
+fisica_unitn_003,genitori,3,mamma,4,seri,3,figure,4
+teacher_025,genitori,4,cari,4,figli,4,,
+fisica_unitn_004,genitori,4,madre,4,padre,4,figlio,4
+teacher_026,genitori,3,mamma,3,papà ,3,,
+teacher_027,genitori,4,padre,4,madre,4,figlio,4
+altro dipartimento_068,genitori,5,famiglia,5,riferimento,5,aspettative,3
+fisica_unitn_005,genitori,4,amore,5,stress,2,ansia,1
+fisica_unitn_006,genitori,3,sicurezza,4,incertezza,2,,
+teacher_028,genitori,5,amore,5,guida,4,controllo,3
+fisica_unitn_007,genitori,4,due,3,numero,3,matematica,4
+teacher_029,genitori,3,protezione ,5,fiducia ,4,guida,4
+fisica_unitn_008,genitori,3,famiglia ,3,amore,3,bene,5
 interfacce_001,dati,3,statistica,3,numeri,3,percentuale,3
 interfacce_002,dati,3,database,3,numeri,3,contatti,4
 interfacce_003,dati,3,numeri,4,tabella,3,grafico,3
@@ -3191,7 +4271,43 @@ fisica_020,dati,3,,,,,,
 fisica_021,dati,3,,,,,,
 fisica_022,dati,2,analisi,2,studio,1,fatica,1
 fisica_stem_002_3,dati,3,misure,3,analisi,3,esperimento,3
-fisica_stem_005_1,dati,5,informazioni,5,lettura,5,interpretazione,5
+teacher_001,dati,5,informazioni,5,lettura,5,interpretazione,5
+teacher_002,dati,1,natus sunt occaecat ,4,minima velit asperio,3,aut est dolorem duci,5
+teacher_003,dati,3,magni incidunt nihi,5,ad sed alias dolore ,5,cillum quis consequa,2
+teacher_005,dati,5,informazioni numeriche,5,opportunità,5,parte sinistra del cervello,5
+teacher_006,dati,3,analisi,4,statistica,5,descrizione,5
+teacher_007,dati,4,sensibili,3,programmi,4,,
+teacher_008,dati,3,statistica,3,analisi,4,elaborazione,5
+teacher_009,dati,3,numeri,2,utili,5,indagare,5
+teacher_010,dati,3,lavoro,5,ricerche,5,scuola,5
+teacher_011,dati,5,statistica,4,grafici,5,tabelle,5
+teacher_012,dati,3,oggettivi,3,soggettivi,4,analisi,3
+teacher_013,dati,3,indagine,4,sensibili,4,studio,4
+teacher_014,dati,4,medici,2,risultati,4,,
+teacher_015,dati,3,numeri,3,informazioni,3,grafici,3
+teacher_016,dati,3,importanti,3,numerosi ,3,grandi,3
+teacher_017,dati,5,numeri,5,risultati ,5,analisi,5
+teacher_018,dati,5,strumento,5,comprensione,5,fenomeno,3
+teacher_019,dati,3,valori,4,opportunità,5,specchio,4
+teacher_020,dati,4,memoria,4,statistica,4,analisi,4
+teacher_021,dati,5,valori,5,informazioni,5,elaborazione,
+teacher_023,dati,4,lavoro,4,analisi,3,,
+altro dipartimento_065,dati,5,scienza,5,dita,3,numerabili,3
+teacher_024,dati,3,mano,3,esperimento,3,numeri,5
+altro dipartimento_067,dati,3,computer ,3,macchina ,3,laboratorio ,4
+fisica_unitn_002,dati,2,root ,1,statistica,2,laboratorio ,5
+fisica_unitn_003,dati,3,fit,3,grafico,3,test,3
+teacher_025,dati,2,anslisi,4,statistica,2,errore,2
+fisica_unitn_004,dati,4,informatica,4,computer,4,tecnologia,4
+teacher_026,dati,4,empirici,3,set,3,,
+teacher_027,dati,3,  certezza,3,,,,
+altro dipartimento_068,dati,3,raccolta,3,insieme,3,simulazione,4
+fisica_unitn_005,dati,3,statistici,5,ricerca,4,esperimento ,4
+fisica_unitn_006,dati,2,analisi,4,matematica,4,informatica,4
+teacher_028,dati,5,numeri,5,analisi,5,grafici,5
+fisica_unitn_007,dati,3,informazione,5,shannon,5,teoria,5
+teacher_029,dati,4,numeri ,4,esperimento ,3,risultato ,5
+fisica_unitn_008,dati,3,esperimento ,4,statistiche,3,studio,5
 interfacce_001,esperimento,4,prova,3,ipotesi,3,teoria,4
 interfacce_002,esperimento,3,prove,3,ricerca,3,sperimentatore,3
 interfacce_003,esperimento,4,provette,3,scienza,4,dati,3
@@ -3294,7 +4410,43 @@ fisica_020,esperimento,3,,,,,,
 fisica_021,esperimento,4,scienziato,4,curiosità,4,esiti,4
 fisica_022,esperimento,1,lungo,3,noioso,3,stancante,1
 fisica_stem_002_3,esperimento,3,laboratorio,3,dati,3,relazione,2
-fisica_stem_005_1,esperimento,4,prova ,2,sbaglio,1,verifica,3
+teacher_001,esperimento,4,prova ,2,sbaglio,1,verifica,3
+teacher_002,esperimento,4,cupidatat officiis q,3,veniam ea modi odio,4,vel sint dolorem vol,3
+teacher_003,esperimento,4,dolores irure ut lab,1,ab quibusdam assumen,3,rerum voluptatum eum,1
+teacher_005,esperimento,5,curiosità,5,attenzione,5,bifocalità,5
+teacher_006,esperimento,5,scienza,5,pratica,5,conferme,4
+teacher_007,esperimento,5,chimica,4,scuola,4,,
+teacher_008,esperimento,5,laboratorio,5,scienza,5,eccitazione,5
+teacher_009,esperimento,5,dimostrazione,4,ipotesi,4,tesi,3
+teacher_010,esperimento,5,interessante,5,futuro,5,utile,5
+teacher_011,esperimento,5,apprendere,5,laboratorio,5,scuola,5
+teacher_012,esperimento,4,dimostrazione,4,fenomeno,4,errori,4
+teacher_013,esperimento,4,scienza,4,modello,4,dimostrazione,4
+teacher_014,esperimento,4,scientifico,4,laboratoriale,5,umano,5
+teacher_015,esperimento,3,prova,3,errori,3,dati,3
+teacher_016,esperimento,4,innovativo,4,soluzione,4,risultato,4
+teacher_017,esperimento,5,laboratorio,5,prova ,5,errore,5
+teacher_018,esperimento,5,laboratorio,5,prova,5,fallimento,3
+teacher_019,esperimento,5,tentativo,5,curiosità,5,osservazione,5
+teacher_020,esperimento,5,laboratorio,4,precisione,4,strumenti,4
+teacher_021,esperimento,5,pratica,5,scoperta,5,scienza,5
+teacher_023,esperimento,4,laboratorio ,4,provetta,3,scuola,4
+altro dipartimento_065,esperimento,5,ingegno,5,teoria,5,scienza,5
+teacher_024,esperimento,4,fisica,4,biologia,4,fallito,1
+altro dipartimento_067,esperimento,3,fallito ,2,successo ,5,tentativo ,4
+fisica_unitn_002,esperimento,5,laboratorio ,5,,,,
+fisica_unitn_003,esperimento,3,dati,3,grafico,3,laboratorio,3
+teacher_025,esperimento,3,laboratorio,2,scienziato,2,dsyi,2
+fisica_unitn_004,esperimento,4,fisica ,5,dati,4,misura,3
+teacher_026,esperimento,4,sociale,4,mentale,4,psicologico ,4
+teacher_027,esperimento,4,misura,4,,,,
+altro dipartimento_068,esperimento,3,laboratorio,3,obiettivo,5,metodo,5
+fisica_unitn_005,esperimento,4,scientifico ,4,quantistico,5,sociale,4
+fisica_unitn_006,esperimento,5,divertimento,5,dimostrare,5,amici,4
+teacher_028,esperimento,5,progetto,4,costruzione,4,controllo,4
+fisica_unitn_007,esperimento,3,mentale,5,metafisico,3,struttura,2
+teacher_029,esperimento,4,misura ,5,risultato ,5,interpretazione ,5
+fisica_unitn_008,esperimento,4,dati,4,indagine,4,speranza,5
 interfacce_001,stress,2,agitazione,2,nervoso,2,,
 interfacce_002,stress,1,esami,2,lavoro,3,traffico,1
 interfacce_003,stress,2,ansia,2,situazione,3,,
@@ -3397,7 +4549,43 @@ fisica_020,stress,3,,,,,,
 fisica_021,stress,1,ansia,1,forte,1,io,1
 fisica_022,stress,1,scuola,2,studio,2,paura,3
 fisica_stem_002_3,stress,1,ansia,1,perfomance,2,agitazione,1
-fisica_stem_005_1,stress,1,claustrofobia,1,adrenalina,5,performance ,3
+teacher_001,stress,1,claustrofobia,1,adrenalina,5,performance ,3
+teacher_002,stress,3,ducimus aspernatur ,2,voluptatem molestias,2,proident cumque lab,4
+teacher_003,stress,5,reprehenderit qui e,3,iste voluptates reru,2,minim sit ut ea mag,4
+teacher_005,stress,4,da gestire,4,da competizione,2,da incomprensione,2
+teacher_006,stress,1,scadenze,1,paura,1,figlio,5
+teacher_007,stress,2,stanchezza,2,stomaco,1,fatica,4
+teacher_008,stress,3,fumare,2,famiglia,3,relazioni,5
+teacher_009,stress,1,tedesco,1,test,1,casa,4
+teacher_010,stress,2,lavoro,5,brutto,2,fatica,4
+teacher_011,stress,1,cortisolo,1,ansia,1,lavoro,4
+teacher_012,stress,3,eustress,5,soglia di tolleranza,3,fatica,2
+teacher_013,stress,3,ansia,1,stanchezza,3,riposo,5
+teacher_014,stress,2,alto,2,tempo,2,amicizia,5
+teacher_015,stress,2,peso,1,impegni,2,preoccupazioni,2
+teacher_016,stress,1,pericoloso,1,continuo,1,aiuto,4
+teacher_017,stress,5,disagio,5,difficoltà,5,impegno,5
+teacher_018,stress,2,tensione,1,affanno,2,movimento,5
+teacher_019,stress,3,malessere,2,sfida,4,limite,3
+teacher_020,stress,2,ansia,2,crescita,5,fuga,2
+teacher_021,stress,2,stanchezza,2,agitazione,2,mal di testa,1
+teacher_023,stress,1,stanchezza,2,sonno,3,,
+altro dipartimento_065,stress,3,impegno,4,ansia,2,responsabilità,3
+teacher_024,stress,1,paura,1,ansia,1,sovraccarico,1
+altro dipartimento_067,stress,3,appetito ,3,sport ,4,pausa ,4
+fisica_unitn_002,stress,1,ansia ,1,,,,
+fisica_unitn_003,stress,2,ansia,2,esame,3,somatizzare,2
+teacher_025,stress,2,fatica,3,sostenere,4,,
+fisica_unitn_004,stress,2,ansia,2,esame ,3,fisica,4
+teacher_026,stress,2,lavoro ,3,stanchezza ,4,delusione ,4
+teacher_027,stress,2,ansia,2,,,,
+altro dipartimento_068,stress,1,sonno,3,angoscia,1,università,4
+fisica_unitn_005,stress,2,lavoro,3,ansia,2,,
+fisica_unitn_006,stress,3,ansia,2,elasticità,4,rompere,4
+teacher_028,stress,2,preoccupazioni,2,doveri,4,scadenze,2
+fisica_unitn_007,stress,3,ansia,4,pericolo,5,sensazione,5
+teacher_029,stress,2,gara,3,problema ,2,difficoltà ,3
+fisica_unitn_008,stress,2,pressione,1,battito,3,ansia,1
 interfacce_001,counselling,,,,,,,
 interfacce_002,counselling,3,,,,,,
 interfacce_003,counselling,3,,,,,,
@@ -3500,7 +4688,43 @@ fisica_020,intelligenza_artificiale,5,aiuto,5,gemini,3,studio,2
 fisica_021,intelligenza_artificiale,4,utile,4,interessante,4,non paurosa,3
 fisica_022,intelligenza_artificiale,1,stupidità,2,paura,3,rimpianto,2
 fisica_stem_002_3,intelligenza_artificiale,3,alan turing,5,regolamentazione,4,etica,4
-fisica_stem_005_1,intelligenza_artificiale,1,inganno,1,solitudine,3,vuoto,3
+teacher_001,intelligenza_artificiale,1,inganno,1,solitudine,3,vuoto,3
+teacher_002,intelligenza_artificiale,2,in et id voluptatem,3,dolore anim magna pr,3,sint rem amet asper,5
+teacher_003,intelligenza_artificiale,2,harum blanditiis cor,1,natus ea labore id ,3,ad consectetur quis,4
+teacher_005,intelligenza_artificiale,5,novità,5,opportunità,5,rischi,3
+teacher_006,intelligenza_artificiale,4,strumento,4,utile,4,interlocutore,4
+teacher_007,intelligenza_artificiale,3,preoccupato,2,ansia,2,futuro,
+teacher_008,intelligenza_artificiale,4,supporto,5,velocizzatore,4,necessità,4
+teacher_009,intelligenza_artificiale,5,novità,4,intelligente,4,opportunità,5
+teacher_010,intelligenza_artificiale,3,utile,5,velocità,3,progresso,5
+teacher_011,intelligenza_artificiale,5,opportunità,5,velocità,2,ragionamento,5
+teacher_012,intelligenza_artificiale,3,possibilità,4,supporto,4,attenzione,2
+teacher_013,intelligenza_artificiale,4,novità,5,tecnologia,5,confronto,4
+teacher_014,intelligenza_artificiale,4,chatgpt,4,utilizzo,5,etica,2
+teacher_015,intelligenza_artificiale,5,supporto,5,aiuto,5,collaborazione,5
+teacher_016,intelligenza_artificiale,4,utile,4,lavoro,4,sostegno,4
+teacher_017,intelligenza_artificiale,5,innovazione,5,razionalità,5,ansia,5
+teacher_018,intelligenza_artificiale,4,futuro,4,pianificazione,5,strumento,4
+teacher_019,intelligenza_artificiale,3,rischio,2,intelligenza,4,strumento,3
+teacher_020,intelligenza_artificiale,4,inquietudine,2,sfida,4,preparazione,4
+teacher_021,intelligenza_artificiale,4,supporto,5,computer,4,dubbi,2
+teacher_023,intelligenza_artificiale,4,dipartimento ,5,laurea,5,chatgpt,4
+altro dipartimento_065,intelligenza_artificiale,5,paura,2,sollecitazione,4,occasione,4
+teacher_024,intelligenza_artificiale,4,chatgpt,4,futuro,2,gemini,4
+altro dipartimento_067,intelligenza_artificiale,3,computer ,3,paura ,2,bolla,3
+fisica_unitn_002,intelligenza_artificiale,3,computer ,3,,,,
+fisica_unitn_003,intelligenza_artificiale,3,robot,3,reti neurali,3,gemini,3
+teacher_025,intelligenza_artificiale,2,paura,2,reti,3,connessione,3
+fisica_unitn_004,intelligenza_artificiale,3,rete neurale,3,cervello,3,neuroni,3
+teacher_026,intelligenza_artificiale,4,gemini,5,chat gpt ,3,futuro,4
+teacher_027,intelligenza_artificiale,4,ai,4,aiuto,4,,
+altro dipartimento_068,intelligenza_artificiale,4,gemini,4,reti,4,neuroni,4
+fisica_unitn_005,intelligenza_artificiale,4,gemini,4,chatgpt,4,llm,4
+fisica_unitn_006,intelligenza_artificiale,3,algoritmo,3,cieco,2,veloce,3
+teacher_028,intelligenza_artificiale,2,algoritmo,5,computer,5,processo,5
+fisica_unitn_007,intelligenza_artificiale,3,ia,5,robot,5,metallo,5
+teacher_029,intelligenza_artificiale,4,cervello ,4,deduzione ,5,informazioni ,5
+fisica_unitn_008,intelligenza_artificiale,4,pericolo,1,vita,5,umanoidi,2
 interfacce_001,regole,4,seguire,4,trasgredire,2,,
 interfacce_002,regole,3,rispettare,3,regolamento,3,seguire,3
 interfacce_003,regole,4,limiti,2,,,,
@@ -3603,7 +4827,43 @@ fisica_020,regole,3,,,,,,
 fisica_021,regole,3,stupide,2,banali,2,idiote,2
 fisica_022,regole,1,rigide,1,inutili,2,limitanti,1
 fisica_stem_002_3,regole,3,rigide,2,memoria,2,teoremi,4
-fisica_stem_005_1,regole,3,scatola,3,procedure,3,gabbie ,2
+teacher_001,regole,3,scatola,3,procedure,3,gabbie ,2
+teacher_002,regole,4,quia reiciendis anim,5,sit ad quo numquam e,2,laboriosam est cul,5
+teacher_003,regole,2,exercitation laborum,5,dolores aliquip fugi,2,cupiditate pariatur,3
+teacher_005,regole,3,opportunità,5,contenimento,5,parità,5
+teacher_006,regole,4,protocolli,4,lavoro,5,inquadramento,4
+teacher_007,regole,4,basi,4,matematica,4,disciplina,4
+teacher_008,regole,3,condivisione,5,discussione,5,accettazione,3
+teacher_009,regole,5,giuste,5,stradali,3,scolastiche,1
+teacher_010,regole,4,giuste,5,lavoro,5,società,5
+teacher_011,regole,3,necessarie,5,flessibilità,5,rigore,4
+teacher_012,regole,4,da seguire,4,da scardinare,4,di vita,4
+teacher_013,regole,5,imposte,5,teorie,4,logiche,5
+teacher_014,regole,4,da seguire,5,militare,2,non rispettate,2
+teacher_015,regole,4,rispetto,4,limiti,4,possibilità,5
+teacher_016,regole,5,rispetto,5,utili,5,caos,2
+teacher_017,regole,5,coerenza,5,razionalità ,5,organizzazione,5
+teacher_018,regole,3,condivise,5,comuni,4,flessibili,5
+teacher_019,regole,4,limiti,3,ragionevolezza,4,accordo,5
+teacher_020,regole,4,leggi,4,onestà,5,impegno,5
+teacher_021,regole,3,cosa fare,4,seguire,4,,
+teacher_023,regole,4,insieme,3,,,,
+altro dipartimento_065,regole,3,giuste,4,pilastri,4,mattoni,5
+teacher_024,regole,4,lista,4,rispetto,4,bravura,4
+altro dipartimento_067,regole,2,oro,5,religione ,4,ordine ,4
+fisica_unitn_002,regole,3,leggi ,2,,,,
+fisica_unitn_003,regole,3,quadrate,2,seguire,4,schema,3
+teacher_025,regole,4,rispettare,4,gioco,,,
+fisica_unitn_004,regole,3,rigore ,4,matematica,5,logica,4
+teacher_026,regole,4,disciplina,4,mindset,3,schema ,5
+teacher_027,regole,2,violazione,2,,,,
+altro dipartimento_068,regole,4,rispettare,4,tensione,4,società,4
+fisica_unitn_005,regole,4,legge,4,obbedienza,4,,
+fisica_unitn_006,regole,2,leggi,2,giudice,1,fisica,4
+teacher_028,regole,4,chiarezza,5,necessarie,4,sovvertire,4
+fisica_unitn_007,regole,3,struttura,5,vincoli,5,condizioni,5
+teacher_029,regole,4,legge,4,società ,5,matematica ,3
+fisica_unitn_008,regole,4,giustizia ,5,equilibrio ,5,rispetto ,5
 interfacce_001,scienziato,4,laboratorio,3,esperimenti,3,fumo,2
 interfacce_002,scienziato,3,ricercatore,3,scienza,4,sperimentatore,3
 interfacce_003,scienziato,4,einstein,3,camice,2,,
@@ -3706,7 +4966,43 @@ fisica_020,scienziato,3,,,,,,
 fisica_021,scienziato,4,laboratorio,4,camice,4,esperimento,4
 fisica_022,scienziato,,uomo,,sincero,,triste,
 fisica_stem_002_3,scienziato,4,persona,4,lavoro,4,dedizione,5
-fisica_stem_005_1,scienziato,4,genio,5,appassionato,5,determinato,5
+teacher_001,scienziato,4,genio,5,appassionato,5,determinato,5
+teacher_002,scienziato,5,vero sit eu quia exc,2,nesciunt labore vol,2,non duis est esse d,1
+teacher_003,scienziato,4,quis expedita in sin,4,repellendus sapient,2,et minus enim offici,2
+teacher_005,scienziato,5,innovatore,5,ricercatore,5,formulatore di ipotesi,5
+teacher_006,scienziato,5,sperimentatore,5,visionario,5,futuro,5
+teacher_007,scienziato,4,nobel,4,pazzo,2,lavoro,4
+teacher_008,scienziato,3,idee,4,laboratorio,3,scoperte,4
+teacher_009,scienziato,2,bravo,5,uomo,3,super dotato,3
+teacher_010,scienziato,5,interessante,5,affascinante,5,filosofia,5
+teacher_011,scienziato,5,pazzo,4,sperimentazione ,5,matematica,5
+teacher_012,scienziato,4,scoperta,4,studio,4,impegno,4
+teacher_013,scienziato,4,scoperta,5,lavoro,5,teorie,5
+teacher_014,scienziato,4,pazzo,3,,,,
+teacher_015,scienziato,3,lavoro,3,dati,3,esperimenti,3
+teacher_016,scienziato,5,importante,5,coraggioso,5,utile,5
+teacher_017,scienziato,5,scoperta ,5,impegno,5,studio,5
+teacher_018,scienziato,3,osservatore,3,pensiero critico,5,esperimento,4
+teacher_019,scienziato,4,studio,4,ricerca,5,curiosità,5
+teacher_020,scienziato,4,curiosità,5,intuito,5,onestà,5
+teacher_021,scienziato,5,studioso,5,curioso,5,scoperta,5
+teacher_023,scienziato,4,einstein,3,università,5,laboratorio,5
+altro dipartimento_065,scienziato,4,pazzo,3,strano,3,studioso,4
+teacher_024,scienziato,5,dexter,4,fisico,5,einstein,3
+altro dipartimento_067,scienziato,4,pazzo,5,precario ,3,italia ,3
+fisica_unitn_002,scienziato,5,intelligenza ,4,,,,
+fisica_unitn_003,scienziato,3,pazzo,5,camice,3,laboratorio,3
+teacher_025,scienziato,,fisica,,natura,,laboratorio,
+fisica_unitn_004,scienziato,4,svizzera ,3,einstein,3,heisenberg,3
+teacher_026,scienziato,4,pazzo,5,ricercatore ,3,,
+teacher_027,scienziato,4,lavoro,3,,,,
+altro dipartimento_068,scienziato,5,ricerca,5,laboratorio,5,scoperte,5
+fisica_unitn_005,scienziato,4,einstein,5,ricerca ,5,fermi,3
+fisica_unitn_006,scienziato,3,ricercatore,5,uomo,3,,
+teacher_028,scienziato,5,laboratorio,5,computer,5,lavagna,5
+fisica_unitn_007,scienziato,3,einstein,4,capelli bianchi,4,linguaccia,4
+teacher_029,scienziato,3,studio ,4,natura,5,esperimento ,5
+fisica_unitn_008,scienziato,4,cultura ,5,pensiero,5,legami,5
 interfacce_001,scuola,4,studio,4,compito,3,prof,4
 interfacce_002,scuola,4,lezioni,3,prof,3,compagni,5
 interfacce_003,scuola,2,ansia,2,interrogazione,1,verifica,2
@@ -3809,7 +5105,43 @@ fisica_020,scuola,3,,,,,,
 fisica_021,scuola,3,liceo,1,galilei,1,professori,1
 fisica_022,scuola,,impegno,,fatica,,concentrazione,
 fisica_stem_002_3,scuola,2,lavoro,2,insegnanti,2,regole,3
-fisica_stem_005_1,scuola,3,studio,3,contatto ,4,ricordi,5
+teacher_001,scuola,3,studio,3,contatto ,4,ricordi,5
+teacher_002,scuola,5,labore sed laudantiu,1,ex exercitationem pr,3,non tempora soluta l,2
+teacher_003,scuola,2,quos quidem sapiente,1,tempore eveniet te,1,ratione eu dolorum d,2
+teacher_005,scuola,3,cambiare,3,stress,3,burocrazia,1
+teacher_006,scuola,4,gruppo,5,studio,5,apprendimento,5
+teacher_007,scuola,4,comunità,4,benessere,4,compiti,4
+teacher_008,scuola,3,relazioni,4,crescita,5,educazione,5
+teacher_009,scuola,4,fine ,4,disastro,4,fallimento,5
+teacher_010,scuola,4,lavoro,4,casa,5,impegno,5
+teacher_011,scuola,5,centro,5,cultura,5,necessaria,5
+teacher_012,scuola,4,educazione,4,potenzialità,4,talenti,5
+teacher_013,scuola,5,vita,5,umano,5,ragazzi,5
+teacher_014,scuola,4,ordine,2,rispetto,2,scelta,3
+teacher_015,scuola,4,apprendimento,4,emozioni,5,ricordi,4
+teacher_016,scuola,4,riforma,4,studenti,4,insegnanti,4
+teacher_017,scuola,5,studio,5,scoperta,5,gioia,5
+teacher_018,scuola,4,comunità,5,crescita,5,confronto,4
+teacher_019,scuola,4,società,5,regole,4,sapere,5
+teacher_020,scuola,5,educare,5,fortuna,5,imparare,5
+teacher_021,scuola,4,apprendimento,5,persone,5,luogo,3
+teacher_023,scuola,4,classe,4,edificio,3,compiti,3
+altro dipartimento_065,scuola,2,impegno,3,stress,1,camminata,5
+teacher_024,scuola,5,università,5,media,3,superiore,4
+altro dipartimento_067,scuola,3,liceo,3,arte,4,divertimento ,4
+fisica_unitn_002,scuola,3,istruzione ,4,lavagna ,4,professori ,2
+fisica_unitn_003,scuola,4,edifcio,3,cancelli,3,aule,3
+teacher_025,scuola,,elementare,,istruzione,,uguaglianza,
+fisica_unitn_004,scuola,3,aula,3,classe,3,sezione,3
+teacher_026,scuola,3,lavoro,3,aula,3,lavagna ,2
+teacher_027,scuola,3,asilo,4,suore,1,elementare,2
+altro dipartimento_068,scuola,5,professori,4,alunni,4,materie,3
+fisica_unitn_005,scuola,3,classe,4,insegnante ,4,apprendimento ,5
+fisica_unitn_006,scuola,2,noia,1,fastidio,1,prospettive,2
+teacher_028,scuola,5,insegnamento,5,apprendimento,5,libri,5
+fisica_unitn_007,scuola,3,compagni,4,amici,4,gruppo,4
+teacher_029,scuola,3,studio ,5,società ,5,apprendimento ,5
+fisica_unitn_008,scuola,3,gabbia,1,falsità ,1,,
 interfacce_001,creatività,5,sorpresa,5,soluzione,5,,
 interfacce_002,creatività,3,nuovo,4,pensiero,4,arte,4
 interfacce_003,creatività,4,arte,4,disegno,4,,
@@ -3912,7 +5244,43 @@ fisica_020,creatività,5,scarsa,2,informatica,3,app,3
 fisica_021,creatività,3,non la ho,1,altri la hanno,1,incapacità,1
 fisica_022,creatività,,ali,,volare,,amore,
 fisica_stem_002_3,creatività,4,impegno,4,dedizione,5,schemi,4
-fisica_stem_005_1,creatività,5,creare ,5,immaginare,5,plasmare,5
+teacher_001,creatività,5,creare ,5,immaginare,5,plasmare,5
+teacher_002,creatività,2,mollit incidunt del,1,eum quo vel corporis,3,blanditiis optio se,1
+teacher_003,creatività,3,qui voluptatem sit ,2,sint ullamco harum n,2,mollitia dolore repr,3
+teacher_005,creatività,5,fotografia,5,film,5,quadri,5
+teacher_006,creatività,5,mente,5,genio,5,futuro,5
+teacher_007,creatività,5,importante,4,difficile,3,,
+teacher_008,creatività,4,arte,3,immaginazione,4,manualità,4
+teacher_009,creatività,5,cuore,5,fantasia,4,libertà,4
+teacher_010,creatività,5,mamma,5,arte,5,progresso,5
+teacher_011,creatività,5,emozioni,5,arte,5,matematica,5
+teacher_012,creatività,4,innovazione,5,scoperta,5,colore alla vita,5
+teacher_013,creatività,5,bellezza,5,immaginazione,5,voglia,5
+teacher_014,creatività,5,guilford,5,,,,
+teacher_015,creatività,4,fantasia,4,arte,3,bellezza,3
+teacher_016,creatività,4,innovazione,4,lavoro,4,viaggi,4
+teacher_017,creatività,,arte,5,serenità,5,positività,5
+teacher_018,creatività,5,indispensabile,4,divergente,5,diverso,4
+teacher_019,creatività,5,curiosità,5,emozione,5,espressione,5
+teacher_020,creatività,4,pittura,4,soluzioni,4,invenzioni,4
+teacher_021,creatività,5,espressione,5,nuovo,5,,
+teacher_023,creatività,5,invenzione ,5,colori,5,,
+altro dipartimento_065,creatività,4,essenziale,4,,,,
+teacher_024,creatività,4,mente,5,pensiero divergente,4,pensiero laterale,4
+altro dipartimento_067,creatività,4,arte,4,libertà,4,impresa ,4
+fisica_unitn_002,creatività,5,arte ,5,colori ,5,immaginazione ,5
+fisica_unitn_003,creatività,3,foglio,3,colori,4,forme,4
+teacher_025,creatività,,arte,,disegno,,fantasia,
+fisica_unitn_004,creatività,4,fantasia,4,immaginazione,4,cervello,
+teacher_026,creatività,4,estro,5,personalità ,5,coraggio ,4
+teacher_027,creatività,4,arte,4,pittura,5,scultura,5
+altro dipartimento_068,creatività,4,fotografia,5,problemi,4,scrivere,5
+fisica_unitn_005,creatività,4,arte,5,musica ,5,ingegno ,5
+fisica_unitn_006,creatività,5,sole,5,disegno,3,progetto,5
+teacher_028,creatività,5,idea,5,invenzione,5,immaginazione,5
+fisica_unitn_007,creatività,4,immaginazione,5,caratteristica,5,proprietà,5
+teacher_029,creatività,3,intelligenza ,4,immaginazione ,5,,
+fisica_unitn_008,creatività,5,arte,4,espressione,5,spettacolo ,4
 interfacce_001,arte,5,creativa,5,bella,5,internazionale,5
 interfacce_002,arte,4,musica,5,disegno,3,sculture,3
 interfacce_003,arte,4,disegno,3,scultura,3,quadro,4
@@ -4015,7 +5383,43 @@ fisica_020,arte,5,gioconda,3,musica,4,curiosita,5
 fisica_021,arte,4,prof di arte,4,materia,4,facile,5
 fisica_022,arte,,libertà,,parola,,amore,
 fisica_stem_002_3,arte,5,creatività ,5,tecnica,4,immaginazione,5
-fisica_stem_005_1,arte,4,creatività,5,fantasia,5,rifugio,4
+teacher_001,arte,4,creatività,5,fantasia,5,rifugio,4
+teacher_002,arte,2,veniam assumenda de,4,maxime commodi quis ,1,fugit unde repellen,2
+teacher_003,arte,1,iure ea rerum qui du,1,in lorem ad eum recu,5,deleniti eveniet ut,1
+teacher_005,arte,5,extra ordinaria,5,contemporanea,5,risolutiva,5
+teacher_006,arte,5,bellezza,5,sensazioni,5,stimolo,5
+teacher_007,arte,4,vedere,4,esplorare,5,,
+teacher_008,arte,4,immaginazione,4,cultura,4,manualità,4
+teacher_009,arte,5,musica,4,pittura,4,ballare,4
+teacher_010,arte,5,mamma,5,bellezza,5,viaggi,5
+teacher_011,arte,5,espressione,5,musica,5,benessere,5
+teacher_012,arte,5,bellezza,5,cultura,5,benessere,5
+teacher_013,arte,4,bellezza,4,tecnica,5,soggetti,4
+teacher_014,arte,5,quadro,4,sentimenti,4,astratto,4
+teacher_015,arte,4,bellezza,4,estetica,3,comunicazione,4
+teacher_016,arte,4,quadri,4,sculture,4,impressionismo,5
+teacher_017,arte,5,colore,5,disegno ,5,creatività,5
+teacher_018,arte,4,colore,5,teatro,5,laboratorio,4
+teacher_019,arte,5,curiosità,5,sapienza,4,creatività,5
+teacher_020,arte,4,disegno,4,musica,4,arrangiarsi,4
+teacher_021,arte,5,bellezza,5,creativita,5,rappresentazione,5
+teacher_023,arte,4,pittura,4,disegno,4,,
+altro dipartimento_065,arte,3,quadri,4,statue,4,,
+teacher_024,arte,5,bellezza,3,quadri,5,dipinti,5
+altro dipartimento_067,arte,4,disegno ,4,penna,4,virtuosismo ,5
+fisica_unitn_002,arte,5,colori ,5,bellezza,5,dipinto ,5
+fisica_unitn_003,arte,4,pennello,4,tavolozza,4,tela,4
+teacher_025,arte,,quadro,,pittore,,danza,
+fisica_unitn_004,arte,4,pittore,4,van ghog,3,girasoli,3
+teacher_026,arte,3,estro,4,espressione ,4,opera,3
+teacher_027,arte,4,musica,5,pittura,5,,
+altro dipartimento_068,arte,5,comunicare,5,dipinto,5,scultura,5
+fisica_unitn_005,arte,4,socialista,4,storia,4,brutalista,4
+fisica_unitn_006,arte,4,sculture,5,classico,5,,
+teacher_028,arte,3,bella,4,difficile,4,aperta,5
+fisica_unitn_007,arte,5,creatività,5,quadro,5,venere,5
+teacher_029,arte,3,espressione,4,mente,4,creatività ,5
+fisica_unitn_008,arte,4,espressione,5,musica,5,pensiero,5
 interfacce_001,esame,3,difficile,2,ansia,1,,
 interfacce_002,esame,2,difficile,1,facile,5,soddisfazione,5
 interfacce_003,esame,2,prova,2,università,4,verifica,2
@@ -4118,7 +5522,43 @@ fisica_020,esame,2,fallimento,1,voto,2,paura,1
 fisica_021,esame,3,maturità,1,zencher,1,difficile,1
 fisica_022,esame,,duro,,difficile,,entusiasmante,
 fisica_stem_002_3,esame,2,esito,3,voto,3,performance,3
-fisica_stem_005_1,esame,2,fatica ,2,ansia,2,blocco,1
+teacher_001,esame,2,fatica ,2,ansia,2,blocco,1
+teacher_002,esame,4,et dignissimos esse ,1,expedita ea dolor ul,4,harum et tempor reru,5
+teacher_003,esame,2,sint voluptatem qui,1,qui pariatur quia u,5,qui proident repell,4
+teacher_005,esame,5,ansia,5,prestazione,5,competizione,5
+teacher_006,esame,4,sfida,5,impegno,5,studio,5
+teacher_007,esame,2,ansia,2,difficile,2,studio,4
+teacher_008,esame,3,scuola,3,agitazione,2,valutazione,3
+teacher_009,esame,4,difficoltà,5,superamento,5,sfida,5
+teacher_010,esame,2,difficile,4,studio,4,fatica,4
+teacher_011,esame,3,ansia,1,passo avanti,5,stop,2
+teacher_012,esame,3,crescita,4,sfida,4,autovalutazione,5
+teacher_013,esame,4,test,4,superamento,4,studio,5
+teacher_014,esame,4,di vita,4,verifica,3,concorso,3
+teacher_015,esame,3,prova,4,studio,4,soddisfazione,5
+teacher_016,esame,2,risultato,2,concorso,2,riuscita,4
+teacher_017,esame,5,studio ,5,concentrazione,5,esito,5
+teacher_018,esame,4,successo,5,prova,4,soddisfazione,5
+teacher_019,esame,3,valutazione,2,riconoscimento,4,termine,4
+teacher_020,esame,4,studio,4,agitazione,3,professori,3
+teacher_021,esame,2,prova,3,risultato,4,ansia,1
+teacher_023,esame,3,voto,4,data,3,studio,5
+altro dipartimento_065,esame,3,ansia,2,occasione,4,,
+teacher_024,esame,2,patente,4,università,3,maturità,3
+altro dipartimento_067,esame,3,ansia,3,sole,4,sicurezza ,4
+fisica_unitn_002,esame,3,ansia ,1,,,,
+fisica_unitn_003,esame,3,difficile,3,giugno,1,sessione,2
+teacher_025,esame,,voto,,prestazione,,ansia,
+fisica_unitn_004,esame,4,ansia,2,voto,4,test,3
+teacher_026,esame,3,preparazione ,2,voto,3,sede,3
+teacher_027,esame,2,difficoltà ,2,sufficiente,2,mediocre,2
+altro dipartimento_068,esame,1,ansia,1,stress,1,performance,3
+fisica_unitn_005,esame,4,orale,4,scritto,4,voto,4
+fisica_unitn_006,esame,2,tempo,3,valutare,2,merito,4
+teacher_028,esame,4,obiettivo,5,risultato,5,difficolta',4
+fisica_unitn_007,esame,3,difficile,5,facile,5,intermedio,5
+teacher_029,esame,3,ansia ,4,incertezze ,4,esito ,5
+fisica_unitn_008,esame,2,ansia,1,paura,2,successo ,4
 interfacce_001,futuro,4,incerto,2,paura,2,,
 interfacce_002,futuro,3,famiglia,3,casa,3,lavoro,3
 interfacce_003,futuro,4,paura,2,incertezza,2,opportunità,4
@@ -4221,7 +5661,43 @@ fisica_020,futuro,2,incerto,1,paura,1,fallimento,1
 fisica_021,futuro,2,incerto,2,lontano,1,irraggiungibile,1
 fisica_022,futuro,,incerto,,pauroso,,inidente,
 fisica_stem_002_3,futuro,4,incertezza ,4,obiettivi ,4,giorno,4
-fisica_stem_005_1,futuro,2,incertezza,1,ansia ,1,sfide ,3
+teacher_001,futuro,2,incertezza,1,ansia ,1,sfide ,3
+teacher_002,futuro,3,quaerat est rerum a,5,sint earum veniam e,5,magnam ullam exceptu,5
+teacher_003,futuro,1,numquam inventore pr,5,id est nulla laudant,4,excepturi delectus ,1
+teacher_005,futuro,5,regia,5,fotografia,5,innovazione,5
+teacher_006,futuro,5,innovazione,5,ricerca,5,fantascienza,5
+teacher_007,futuro,4,bello,4,interessante,5,vecchio,2
+teacher_008,futuro,5,eccitazione,5,relazione,5,scoperta,5
+teacher_009,futuro,4,presente,3,passato,3,scelta,5
+teacher_010,futuro,5,incognita,3,speranza,5,bellezza,5
+teacher_011,futuro,5,giovani,5,opportunità,5,ia,4
+teacher_012,futuro,3,possibilità,4,inizio,4,ricerca,4
+teacher_013,futuro,5,gestione,4,famiglia,4,lavoro,5
+teacher_014,futuro,3,roseo,5,articolato,4,imprevisto,4
+teacher_015,futuro,4,domanda,3,speranza,4,digitale,4
+teacher_016,futuro,3,figli,4,lavoro,4,guerre,1
+teacher_017,futuro,5,crescita ,5,innovazione,5,scoperta,5
+teacher_018,futuro,4,incertezza,4,opportunità,5,sfida,5
+teacher_019,futuro,5,curiosità,5,sfida,4,entusiasmo,
+teacher_020,futuro,4,curiosità,5,sfida,4,vita,5
+teacher_021,futuro,3,paura,2,insicurezza,2,speranza,5
+teacher_023,futuro,4,punto interrogativo ,3,impegno,5,figli,5
+altro dipartimento_065,futuro,2,prossimo,3,incognita,2,,
+teacher_024,futuro,1,dubbio,2,paura,1,nuovo,2
+altro dipartimento_067,futuro,4,nazionale ,2,speranza ,4,scommessa ,4
+fisica_unitn_002,futuro,4,nave ,5,blu ,5,paura ,1
+fisica_unitn_003,futuro,2,nebbioso,2,dubbio,2,domani,3
+teacher_025,futuro,,incertezza,,persone,,,
+fisica_unitn_004,futuro,4,impazienza,2,studio,3,fisica,4
+teacher_026,futuro,4,boh ,3,agitazione ,2,dubbio ,3
+teacher_027,futuro,4,passato,4,presente,3,,
+altro dipartimento_068,futuro,4,ansia,1,aspettative,3,curiosità,5
+fisica_unitn_005,futuro,4,certo,4,incerto,1,tecnologia ,4
+fisica_unitn_006,futuro,4,incerto,2,paura,3,solitudine,2
+teacher_028,futuro,4,programmare,5,pensiero,5,predire,4
+fisica_unitn_007,futuro,3,passato,5,storia,5,geografia,4
+teacher_029,futuro,3,incognita ,4,fiducia ,4,sorpresa ,5
+fisica_unitn_008,futuro,4,incerto,2,tecnologia,4,barbarie,1
 interfacce_001,vita,5,bella,5,opportunità,5,,
 interfacce_002,vita,4,vivere,4,piante,3,animali,5
 interfacce_003,vita,4,morte,1,,,,
@@ -4324,4 +5800,40 @@ fisica_020,vita,2,,,,,,
 fisica_021,vita,2,brutta,1,irrealizzabile,1,fallimento,1
 fisica_022,vita,,bella,,gioiosa,,saggia,
 fisica_stem_002_3,vita,4,passione,5,dedizione,5,equilibrio,5
-fisica_stem_005_1,vita,3,viaggio,4,sfida ,4,tempo,5
+teacher_001,vita,3,viaggio,4,sfida ,4,tempo,5
+teacher_002,vita,1,eum cumque consectet,2,sit aperiam distinc,5,amet atque aut sequ,1
+teacher_003,vita,3,laborum obcaecati a,4,repellendus dolor i,4,qui dignissimos quos,4
+teacher_005,vita,5,felice,5,film,5,organizzare,5
+teacher_006,vita,5,scoperta,5,crescita,5,biologia,5
+teacher_007,vita,5,piena,5,lunga,4,divertente,5
+teacher_008,vita,5,relazioni,5,entusiasmo,5,scoperte,5
+teacher_009,vita,5,morte,5,sana,5,lunga,5
+teacher_010,vita,5,intensità,5,bella,5,felicità,5
+teacher_011,vita,5,matematica,5,fisica,5,chimica,5
+teacher_012,vita,4,esperienza,5,viaggio,5,possibilità,5
+teacher_013,vita,5,realtà,5,essenza,5,presente,5
+teacher_014,vita,4,sentimenti,4,amicizie,5,routine,5
+teacher_015,vita,5,scoperta,5,energia,5,emozioni,5
+teacher_016,vita,3,difficile,2,amore,4,figli,4
+teacher_017,vita,5,gioia ,5,amore,5,benessere,5
+teacher_018,vita,4,piena,5,soddisfazione,5,relazioni,4
+teacher_019,vita,5,sfida,4,opportunità,4,curiosità,5
+teacher_020,vita,5,insieme,5,fare posto,5,ora,5
+teacher_021,vita,4,essere vivente,5,esperienza,5,,
+teacher_023,vita,5,presente,4,attività ,4,,
+altro dipartimento_065,vita,3,morte,2,miracoli,2,giro,3
+teacher_024,vita,4,morte,2,tempo,2,anni,2
+altro dipartimento_067,vita,4,morte ,3,cellula ,4,dio ,5
+fisica_unitn_002,vita,5,pianta ,5,verde ,5,ossigeno ,5
+fisica_unitn_003,vita,3,morte,2,biologia,4,foglia,4
+teacher_025,vita,,futuro,,,,,
+fisica_unitn_004,vita,4,morte,1,croce,1,funerale,1
+teacher_026,vita,4,random,5,caos,5,caso,4
+teacher_027,vita,4,morte,1, vecchiaia,1,,
+altro dipartimento_068,vita,5,persone,4,felicità,5,serenità,5
+fisica_unitn_005,vita,4,monacale,2,morte,2,miracoli,4
+fisica_unitn_006,vita,3,biologia,4,lunga,3,replicare,4
+teacher_028,vita,4,biologia,3,natura,4,mistero,3
+fisica_unitn_007,vita,3,morte,5,inferno,4,dante,5
+teacher_029,vita,3,salute,4,esperienza,5,durata ,3
+fisica_unitn_008,vita,4,esperienza ,5,dati,4,morte,4
