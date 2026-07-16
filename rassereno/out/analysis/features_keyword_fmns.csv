@@ -15,11 +15,11 @@ experts_2019,university,48,93,0.0425531914893617,1.9175531914893618,"['universit
 experts_2019,wellbeing,11,12,0.044444444444444446,1.7818181818181817,['wellbeing (10)']
 liceo_2019,matematica,101,473,0.07535353535353535,1.9063366336633663,"['matematica (100)', 'fisica (32)', 'calcolo (25)', 'numeri (24)', 'matematicamente (22)', 'numero (22)']"
 liceo_2019,statistica,29,59,0.082010582010582,1.854679802955665,"['statistica (28)', 'matematica (12)']"
-liceo_2019,fisica,114,435,0.05088495575221239,1.9324639031206334,"['fisica (113)', 'matematica (32)', 'scienza (24)', 'fisico (18)', 'scuola (18)', 'elettrone (17)', 'forza (17)']"
-liceo_2019,scienza,64,242,0.09165386584741424,1.8799603174603174,"['scienza (63)', 'fisica (24)', 'biologia (18)', 'studio (17)', 'matematica (17)']"
+liceo_2019,fisica,114,435,0.05088495575221239,1.9324639031206334,"['fisica (113)', 'matematica (32)', 'scienza (24)', 'fisico (18)', 'scuola (18)', 'forza (17)', 'elettrone (17)']"
+liceo_2019,scienza,64,242,0.09165386584741424,1.8799603174603174,"['scienza (63)', 'fisica (24)', 'biologia (18)', 'matematica (17)', 'studio (17)']"
 liceo_2019,informatica,16,31,0.1523809523809524,1.7416666666666667,['informatica (15)']
 liceo_2019,ricerca,13,25,0.19696969696969696,1.6794871794871795,['ricerca (12)']
-liceo_2019,esame,41,83,0.05512820512820513,1.898780487804878,"['esame (40)', 'test (12)', 'studio (8)', 'voto (8)', 'laureato (8)']"
+liceo_2019,esame,41,83,0.05512820512820513,1.898780487804878,"['esame (40)', 'test (12)', 'studio (8)', 'laureato (8)', 'voto (8)']"
 liceo_2019,voto,35,78,0.0784313725490196,1.86890756302521,"['voto (34)', 'matematica (10)']"
 liceo_2019,professore,17,30,0.11666666666666667,1.7794117647058822,['professore (16)']
 liceo_2019,insegnante,62,159,0.053551912568306013,1.9159175039661556,"['insegnante (61)', 'scuola (23)', 'studente (16)', 'aula (12)']"
@@ -30,21 +30,21 @@ liceo_2019,ansia,24,55,0.12648221343873517,1.8007246376811594,"['ansia (23)', 'v
 liceo_2019,benessere,27,37,0.033846153846153845,1.8945868945868947,"['benessere (26)', 'salute (6)']"
 liceo_2025/high_anxiety,matematica,73,212,0.054773082942097026,1.9193302891933028,"['matematica (72)', 'fisica (20)', 'problema (17)', 'numeri (17)']"
 liceo_2025/high_anxiety,statistica,37,68,0.050793650793650794,1.897897897897898,"['statistica (36)', 'analisi (12)']"
-liceo_2025/high_anxiety,fisica,63,157,0.05023796932839767,1.919610855094726,"['fisica (62)', 'matematica (20)', 'laboratorio (13)', 'ricerca (12)', 'esperimento (12)']"
+liceo_2025/high_anxiety,fisica,63,157,0.05023796932839767,1.919610855094726,"['fisica (62)', 'matematica (20)', 'laboratorio (13)', 'esperimento (12)', 'ricerca (12)']"
 liceo_2025/high_anxiety,scienza,48,110,0.058279370952821465,1.9024822695035462,"['scienza (47)', 'scienziato (14)', 'scoperta (14)']"
-liceo_2025/high_anxiety,informatica,51,90,0.0326530612244898,1.9294117647058824,"['informatica (50)', 'programmazione (14)', 'futuro (8)', 'innovazione (8)']"
+liceo_2025/high_anxiety,informatica,51,90,0.0326530612244898,1.9294117647058824,"['informatica (50)', 'programmazione (14)', 'innovazione (8)', 'futuro (8)']"
 liceo_2025/high_anxiety,ricerca,65,168,0.051587301587301584,1.9192307692307693,"['ricerca (64)', 'scoperta (23)', 'scienziato (15)', 'laboratorio (13)']"
 liceo_2025/high_anxiety,esame,49,92,0.03900709219858156,1.9217687074829932,"['esame (48)', 'voto (13)', 'scuola (12)']"
 liceo_2025/high_anxiety,voto,59,110,0.03145795523290986,1.9357101110461719,"['voto (58)', 'ansia (14)', 'esame (13)']"
 liceo_2025/high_anxiety,professore,3,2,0.0,1.3333333333333333,['professore (2)']
 liceo_2025/high_anxiety,insegnante,2,1,0.0,1.0,"['insegnante (1)', 'docente (1)']"
-liceo_2025/high_anxiety,scienziato,43,130,0.10220673635307782,1.8560354374307864,"['scienziato (42)', 'laboratorio (17)', 'scienziata (17)']"
+liceo_2025/high_anxiety,scienziato,43,130,0.10220673635307782,1.8560354374307864,"['scienziato (42)', 'scienziata (17)', 'laboratorio (17)']"
 liceo_2025/high_anxiety,scienziata,37,96,0.09523809523809523,1.8558558558558558,"['scienziata (36)', 'scienziato (17)']"
-liceo_2025/high_anxiety,scuola,75,219,0.05368382080710848,1.921081081081081,"['scuola (74)', 'ansia (19)', 'matematica (14)', 'stress (14)']"
+liceo_2025/high_anxiety,scuola,75,219,0.05368382080710848,1.921081081081081,"['scuola (74)', 'ansia (19)', 'stress (14)', 'matematica (14)']"
 liceo_2025/high_anxiety,universita,8,14,0.3333333333333333,1.5,['universita (7)']
 liceo_2025/high_anxiety,ansia,75,218,0.053313587560162905,1.9214414414414414,"['ansia (74)', 'stress (23)', 'paura (21)', 'scuola (19)']"
-liceo_2025/high_anxiety,benessere,49,55,0.0062056737588652485,1.9532312925170068,"['benessere (48)', 'vita (8)', 'liberta (2)', 'famiglia (2)', 'felicita (2)', 'natura (2)', 'sole (2)', 'rosa (2)', 'amici (2)']"
-liceo_2025/low_anxiety,matematica,63,183,0.06398730830248546,1.9062980030721965,"['matematica (62)', 'fisica (18)', 'analisi (15)', 'dati (14)', 'numeri (14)']"
+liceo_2025/high_anxiety,benessere,49,55,0.0062056737588652485,1.9532312925170068,"['benessere (48)', 'vita (8)', 'liberta (2)', 'sole (2)', 'felicita (2)', 'natura (2)', 'famiglia (2)', 'rosa (2)', 'amici (2)']"
+liceo_2025/low_anxiety,matematica,63,183,0.06398730830248546,1.9062980030721965,"['matematica (62)', 'fisica (18)', 'analisi (15)', 'numeri (14)', 'dati (14)']"
 liceo_2025/low_anxiety,statistica,41,91,0.06538461538461539,1.8890243902439023,"['statistica (40)', 'analisi (14)', 'matematica (12)']"
 liceo_2025/low_anxiety,fisica,65,158,0.04662698412698413,1.9240384615384616,"['fisica (64)', 'matematica (18)', 'scienza (15)', 'ricerca (14)']"
 liceo_2025/low_anxiety,scienza,56,162,0.07205387205387205,1.8948051948051947,"['scienza (55)', 'ricerca (20)', 'scienziata (17)']"
@@ -52,57 +52,57 @@ liceo_2025/low_anxiety,informatica,45,83,0.0412262156448203,1.9161616161616162,"
 liceo_2025/low_anxiety,ricerca,60,189,0.07597895967270601,1.8932203389830509,"['ricerca (59)', 'scienza (20)', 'laboratorio (17)']"
 liceo_2025/low_anxiety,esame,46,93,0.048484848484848485,1.9101449275362319,"['esame (45)', 'matematica (10)', 'analisi (10)']"
 liceo_2025/low_anxiety,voto,47,68,0.021256038647342997,1.937095282146161,"['voto (46)', 'ansia (9)', 'futuro (8)']"
-liceo_2025/low_anxiety,professore,2,1,0.0,1.0,"['professore (1)', 'docente (1)']"
+liceo_2025/low_anxiety,professore,2,1,0.0,1.0,"['docente (1)', 'professore (1)']"
 liceo_2025/low_anxiety,insegnante,2,1,0.0,1.0,"['insegnante (1)', 'docente (1)']"
-liceo_2025/low_anxiety,scienziato,46,105,0.06060606060606061,1.8985507246376812,"['scienziato (45)', 'scienza (15)', 'laboratorio (14)', 'esperimento (14)']"
+liceo_2025/low_anxiety,scienziato,46,105,0.06060606060606061,1.8985507246376812,"['scienziato (45)', 'scienza (15)', 'esperimento (14)', 'laboratorio (14)']"
 liceo_2025/low_anxiety,scienziata,45,111,0.0708245243128964,1.887878787878788,"['scienziata (44)', 'scienza (17)', 'ricerca (16)']"
 liceo_2025/low_anxiety,scuola,62,128,0.0366120218579235,1.9323109465891062,"['scuola (61)', 'matematica (13)', 'docente (10)', 'ricerca (10)']"
 liceo_2025/low_anxiety,universita,10,23,0.3888888888888889,1.488888888888889,['universita (9)']
-liceo_2025/low_anxiety,ansia,51,110,0.04897959183673469,1.9137254901960785,"['ansia (50)', 'stress (18)', 'paura (11)', 'imbarazzo (11)']"
+liceo_2025/low_anxiety,ansia,51,110,0.04897959183673469,1.9137254901960785,"['ansia (50)', 'stress (18)', 'imbarazzo (11)', 'paura (11)']"
 liceo_2025/low_anxiety,benessere,49,74,0.02304964539007092,1.9370748299319729,"['benessere (48)', 'meditazione (12)', 'vita (8)']"
-gpt_oss_high_school/high_anxiety,matematica,26,39,0.04666666666666667,1.88,"['matematica (25)', 'equazione (10)']"
-gpt_oss_high_school/high_anxiety,statistica,17,19,0.025,1.8602941176470589,['statistica (16)']
-gpt_oss_high_school/high_anxiety,fisica,28,34,0.019943019943019943,1.91005291005291,"['fisica (27)', 'matematica (5)']"
-gpt_oss_high_school/high_anxiety,scienza,25,31,0.025362318840579712,1.8966666666666667,"['scienza (24)', 'fisica (4)']"
-gpt_oss_high_school/high_anxiety,informatica,21,20,0.0,1.9047619047619047,"['informatica (20)', 'creativita (1)', 'internet (1)', 'computer (1)', 'algoritmi (1)', 'rete (1)', 'codifica (1)', 'hardware (1)', 'app (1)', 'innovazione digitale (1)', 'software (1)', 'programmazione (1)', 'codice (1)', 'robotica (1)', 'gaming (1)', 'appunti (1)', 'network (1)', 'algoritmo (1)', 'tecnologia (1)', 'gioco (1)', 'puzzle (1)']"
-gpt_oss_high_school/high_anxiety,ricerca,11,11,0.022222222222222223,1.8,['ricerca (10)']
-gpt_oss_high_school/high_anxiety,esame,13,19,0.10606060606060606,1.7564102564102564,['esame (12)']
-gpt_oss_high_school/high_anxiety,professore,15,19,0.054945054945054944,1.819047619047619,['professore (14)']
-gpt_oss_high_school/high_anxiety,insegnante,33,37,0.010080645161290322,1.9299242424242424,"['insegnante (32)', 'professore (5)']"
-gpt_oss_high_school/high_anxiety,scienziato,27,29,0.009230769230769232,1.9173789173789173,"['scienziato (26)', 'curiosita (4)']"
-gpt_oss_high_school/high_anxiety,scuola,5,4,0.0,1.6,['scuola (4)']
-gpt_oss_high_school/high_anxiety,universita,25,32,0.028985507246376812,1.8933333333333333,"['universita (24)', 'laurea (8)']"
-gpt_oss_high_school/high_anxiety,ansia,13,15,0.045454545454545456,1.8076923076923077,['ansia (12)']
-gpt_oss_high_school/high_anxiety,benessere,18,18,0.007352941176470588,1.8823529411764706,['benessere (17)']
-gpt_oss_high_school/low_anxiety,matematica,21,28,0.042105263157894736,1.8666666666666667,"['matematica (20)', 'equazione (9)']"
-gpt_oss_high_school/low_anxiety,statistica,22,24,0.014285714285714285,1.896103896103896,"['statistica (21)', 'media (4)']"
-gpt_oss_high_school/low_anxiety,fisica,25,28,0.014492753623188406,1.9066666666666667,"['fisica (24)', 'equazione (4)']"
-gpt_oss_high_school/low_anxiety,scienza,23,32,0.04329004329004329,1.8735177865612649,"['scienza (22)', 'scienziato (8)']"
-gpt_oss_high_school/low_anxiety,informatica,23,24,0.008658008658008658,1.9051383399209487,"['informatica (22)', 'innovazione (3)']"
-gpt_oss_high_school/low_anxiety,ricerca,12,15,0.07272727272727272,1.7727272727272727,['ricerca (11)']
+gpt_oss_high_school/high_anxiety,matematica,25,33,0.03260869565217391,1.89,"['matematica (24)', 'equazione (8)']"
+gpt_oss_high_school/high_anxiety,statistica,15,16,0.02197802197802198,1.8476190476190477,['statistica (14)']
+gpt_oss_high_school/high_anxiety,fisica,25,28,0.014492753623188406,1.9066666666666667,"['fisica (24)', 'scienza (4)']"
+gpt_oss_high_school/high_anxiety,scienza,23,30,0.03463203463203463,1.8814229249011858,"['scienza (22)', 'universita (5)']"
+gpt_oss_high_school/high_anxiety,informatica,19,18,0.0,1.894736842105263,['informatica (18)']
+gpt_oss_high_school/high_anxiety,ricerca,11,13,0.06666666666666667,1.7636363636363637,['ricerca (10)']
+gpt_oss_high_school/high_anxiety,esame,15,21,0.07692307692307693,1.8,['esame (14)']
+gpt_oss_high_school/high_anxiety,professore,17,22,0.05,1.838235294117647,['professore (16)']
+gpt_oss_high_school/high_anxiety,insegnante,32,37,0.012903225806451613,1.9254032258064515,"['insegnante (31)', 'professore (6)']"
+gpt_oss_high_school/high_anxiety,scienziato,28,30,0.008547008547008548,1.9206349206349207,"['scienziato (27)', 'curiosita (4)']"
+gpt_oss_high_school/high_anxiety,scuola,3,2,0.0,1.3333333333333333,['scuola (2)']
+gpt_oss_high_school/high_anxiety,universita,25,35,0.03985507246376811,1.8833333333333333,"['universita (24)', 'laurea (8)']"
+gpt_oss_high_school/high_anxiety,ansia,14,17,0.05128205128205128,1.8131868131868132,['ansia (13)']
+gpt_oss_high_school/high_anxiety,benessere,18,19,0.014705882352941176,1.8758169934640523,['benessere (17)']
+gpt_oss_high_school/low_anxiety,matematica,19,25,0.0457516339869281,1.8538011695906433,['matematica (18)']
+gpt_oss_high_school/low_anxiety,statistica,23,25,0.012987012987012988,1.901185770750988,"['statistica (22)', 'media (4)']"
+gpt_oss_high_school/low_anxiety,fisica,23,23,0.004329004329004329,1.9090909090909092,"['fisica (22)', 'teoria (2)', 'scienza (2)']"
+gpt_oss_high_school/low_anxiety,scienza,22,24,0.014285714285714285,1.896103896103896,"['scienza (21)', 'innovazione (3)']"
+gpt_oss_high_school/low_anxiety,informatica,22,23,0.009523809523809525,1.9004329004329004,"['informatica (21)', 'innovazione (3)']"
+gpt_oss_high_school/low_anxiety,ricerca,12,14,0.05454545454545454,1.7878787878787878,['ricerca (11)']
 gpt_oss_high_school/low_anxiety,esame,14,20,0.08974358974358974,1.7802197802197801,['esame (13)']
-gpt_oss_high_school/low_anxiety,professore,15,17,0.03296703296703297,1.838095238095238,['professore (14)']
-gpt_oss_high_school/low_anxiety,insegnante,39,43,0.007112375533428165,1.941970310391363,"['insegnante (38)', 'professore (4)']"
-gpt_oss_high_school/low_anxiety,scienziato,30,41,0.029556650246305417,1.9057471264367816,"['scienziato (29)', 'scienza (8)']"
+gpt_oss_high_school/low_anxiety,professore,14,15,0.02564102564102564,1.835164835164835,['professore (13)']
+gpt_oss_high_school/low_anxiety,insegnante,36,40,0.008403361344537815,1.9365079365079365,"['insegnante (35)', 'curiosita (3)', 'professore (3)', 'conoscenza (3)']"
+gpt_oss_high_school/low_anxiety,scienziato,26,30,0.016666666666666666,1.9076923076923078,"['scienziato (25)', 'universita (4)']"
 gpt_oss_high_school/low_anxiety,scuola,2,1,0.0,1.0,"['scuola (1)', 'media (1)']"
-gpt_oss_high_school/low_anxiety,universita,21,28,0.042105263157894736,1.8666666666666667,"['universita (20)', 'laurea (6)']"
+gpt_oss_high_school/low_anxiety,universita,20,29,0.05847953216374269,1.8473684210526315,['universita (19)']
 gpt_oss_high_school/low_anxiety,ansia,12,13,0.03636363636363636,1.803030303030303,['ansia (11)']
-gpt_oss_high_school/low_anxiety,benessere,14,13,0.0,1.8571428571428572,['benessere (13)']
-physics_students_2025,matematica,52,128,0.0603921568627451,1.903469079939668,"['matematica (51)', 'fisica (16)', 'analisi (12)', 'statistica (12)', 'numeri (12)']"
+gpt_oss_high_school/low_anxiety,benessere,14,14,0.01282051282051282,1.8461538461538463,['benessere (13)']
+physics_students_2025,matematica,52,128,0.0603921568627451,1.903469079939668,"['matematica (51)', 'fisica (16)', 'statistica (12)', 'analisi (12)', 'numeri (12)']"
 physics_students_2025,statistica,49,96,0.0425531914893617,1.9183673469387754,"['statistica (48)', 'matematica (12)', 'dati (11)']"
 physics_students_2025,fisica,61,156,0.05423728813559322,1.9147540983606557,"['fisica (60)', 'matematica (16)', 'scienza (14)', 'ansia (11)', 'problema (11)', 'ricerca (11)']"
 physics_students_2025,scienza,52,126,0.058823529411764705,1.9049773755656108,"['scienza (51)', 'ricerca (15)', 'fisica (14)']"
 physics_students_2025,informatica,53,73,0.01583710407239819,1.9470246734397678,"['informatica (52)', 'programmazione (9)', 'dati (6)']"
-physics_students_2025,ricerca,49,106,0.051418439716312055,1.9098639455782314,"['ricerca (48)', 'scienza (15)', 'scoperta (11)', 'fisica (11)']"
-physics_students_2025,esame,46,99,0.05454545454545454,1.9043478260869566,"['esame (45)', 'ansia (14)', 'sfida (10)', 'fallimento (10)', 'stress (10)']"
+physics_students_2025,ricerca,49,106,0.051418439716312055,1.9098639455782314,"['ricerca (48)', 'scienza (15)', 'fisica (11)', 'scoperta (11)']"
+physics_students_2025,esame,46,99,0.05454545454545454,1.9043478260869566,"['esame (45)', 'ansia (14)', 'stress (10)', 'fallimento (10)', 'sfida (10)']"
 physics_students_2025,voto,40,60,0.02834008097165992,1.9230769230769231,"['voto (39)', 'esame (9)']"
-physics_students_2025,insegnante,3,3,1.0,1.0,"['insegnante (2)', 'scuola (2)', 'docente (2)']"
+physics_students_2025,insegnante,3,3,1.0,1.0,"['insegnante (2)', 'docente (2)', 'scuola (2)']"
 physics_students_2025,scienziato,43,81,0.04529616724738676,1.910299003322259,"['scienziato (42)', 'scienziata (14)', 'laboratorio (13)']"
 physics_students_2025,scienziata,47,77,0.02995169082125604,1.9287696577243294,"['scienziata (46)', 'scienziato (14)', 'laboratorio (9)', 'ricerca (9)']"
 physics_students_2025,scuola,52,71,0.01568627450980392,1.9464555052790347,"['scuola (51)', 'compagni (11)', 'stress (5)']"
 physics_students_2025,universita,7,12,0.4,1.4285714285714286,['universita (6)']
 physics_students_2025,ansia,59,170,0.0677555958862674,1.9006428988895383,"['ansia (58)', 'stress (17)', 'fallimento (16)', 'paura (16)']"
-physics_students_2025,benessere,47,46,0.0,1.9574468085106382,"['benessere (46)', 'vacanza (1)', 'ricchezza (1)', 'consapevolezza (1)', 'liberta (1)', 'famiglia (1)', 'calmo (1)', 'speranza (1)', 'presenza (1)', 'felicita (1)', 'casa (1)', 'denaro (1)', 'verde (1)', 'tempo (1)', 'lento (1)', 'calma (1)', 'bene (1)', 'fiori (1)', 'malattia (1)', 'sole (1)', 'salute (1)', 'malessere (1)', 'pace (1)', 'tranquillita (1)', 'equilibrio (1)', 'solidita (1)', 'fisico (1)', 'serenita (1)', 'relax (1)', 'amore (1)', 'sicurezza (1)', 'positivita (1)', 'psicofisico (1)', 'rottura (1)', 'affetto (1)', 'uguaglianza (1)', 'lavoro (1)', 'acqua (1)', 'foresta (1)', 'male (1)', 'terme (1)', 'mentale (1)', 'supporto (1)', 'spa (1)', 'societa (1)', 'mare (1)', 'leggerezza (1)']"
+physics_students_2025,benessere,47,46,0.0,1.9574468085106382,"['benessere (46)', 'mare (1)', 'calma (1)', 'liberta (1)', 'sole (1)', 'psicofisico (1)', 'rottura (1)', 'sicurezza (1)', 'calmo (1)', 'casa (1)', 'spa (1)', 'terme (1)', 'ricchezza (1)', 'tempo (1)', 'fiori (1)', 'felicita (1)', 'malessere (1)', 'lavoro (1)', 'denaro (1)', 'positivita (1)', 'relax (1)', 'pace (1)', 'leggerezza (1)', 'malattia (1)', 'solidita (1)', 'foresta (1)', 'bene (1)', 'serenita (1)', 'mentale (1)', 'consapevolezza (1)', 'fisico (1)', 'famiglia (1)', 'supporto (1)', 'male (1)', 'presenza (1)', 'affetto (1)', 'equilibrio (1)', 'societa (1)', 'acqua (1)', 'speranza (1)', 'vacanza (1)', 'uguaglianza (1)', 'amore (1)', 'lento (1)', 'salute (1)', 'verde (1)', 'tranquillita (1)']"
 gpt_oss_physics,matematica,22,23,0.009523809523809525,1.9004329004329004,"['matematica (21)', 'equazione (3)']"
 gpt_oss_physics,statistica,20,21,0.011695906432748537,1.8894736842105264,['statistica (19)']
 gpt_oss_physics,fisica,30,31,0.0049261083743842365,1.928735632183908,"['fisica (29)', 'scienza (3)']"
@@ -113,44 +113,44 @@ gpt_oss_physics,esame,21,24,0.021052631578947368,1.8857142857142857,"['esame (20
 gpt_oss_physics,professore,18,20,0.022058823529411766,1.869281045751634,['professore (17)']
 gpt_oss_physics,insegnante,35,37,0.0053475935828877,1.9378151260504202,"['insegnante (34)', 'professore (4)']"
 gpt_oss_physics,scienziato,27,30,0.012307692307692308,1.9145299145299146,"['scienziato (26)', 'passione (4)']"
-gpt_oss_physics,universita,24,23,0.0,1.9166666666666667,"['universita (23)', 'studenti (1)', 'studiare (1)', 'rivoluzione scientifica (1)', 'conoscenza (1)', 'educazione superiore (1)', 'studio (1)', 'ricerca avanzata (1)', 'studi (1)', 'comunita (1)', 'istituto (1)', 'facolta di fisica (1)', 'networking (1)', 'cultura (1)', 'apprendimento (1)', 'ricerca (1)', 'community (1)', 'network (1)', 'research (1)', 'ricerca scientifica (1)', 'istituzione (1)', 'fisica (1)', 'campus life (1)', 'campus (1)']"
+gpt_oss_physics,universita,24,23,0.0,1.9166666666666667,"['universita (23)', 'apprendimento (1)', 'studiare (1)', 'community (1)', 'studenti (1)', 'istituzione (1)', 'ricerca avanzata (1)', 'rivoluzione scientifica (1)', 'facolta di fisica (1)', 'research (1)', 'studi (1)', 'comunita (1)', 'conoscenza (1)', 'campus life (1)', 'istituto (1)', 'fisica (1)', 'cultura (1)', 'networking (1)', 'studio (1)', 'ricerca scientifica (1)', 'network (1)', 'ricerca (1)', 'campus (1)', 'educazione superiore (1)']"
 gpt_oss_physics,ansia,20,21,0.011695906432748537,1.8894736842105264,['ansia (19)']
 gpt_oss_physics,benessere,19,18,0.0,1.894736842105263,['benessere (18)']
-psychology_students_unfiltered/high_anxiety,matematica,180,1016,0.05253907475990208,1.9369335816263191,"['matematica (179)', 'numeri (57)', 'fisica (52)', 'equazione (52)', 'sfida (50)', 'statistica (48)', 'ansia (45)', 'scuola (44)', 'esame (41)']"
-psychology_students_unfiltered/high_anxiety,statistica,150,576,0.03872664610919645,1.9484563758389262,"['statistica (149)', 'matematica (48)', 'grafico (32)', 'numeri (32)', 'ansia (31)', 'sfida (31)', 'modello (28)', 'psicologia (26)', 'informatica (26)', 'universita (26)']"
-psychology_students_unfiltered/high_anxiety,fisica,183,655,0.028717139214376783,1.9606677475529934,"['fisica (182)', 'matematica (52)', 'scienza (45)', 'equazione (34)', 'ansia (33)', 'biologia (33)', 'numeri (32)', 'sfida (29)', 'scuola (28)', 'conoscenza (25)', 'insegnante (25)', 'studio (25)']"
-psychology_students_unfiltered/high_anxiety,scienza,146,741,0.057088122605363986,1.9299952763344355,"['scienza (145)', 'fisica (45)', 'biologia (44)', 'conoscenza (40)', 'psicologia (40)', 'matematica (37)', 'neuroscienze (37)', 'curiosita (34)']"
+psychology_students_unfiltered/high_anxiety,matematica,180,1016,0.05253907475990208,1.9369335816263191,"['matematica (179)', 'numeri (57)', 'equazione (52)', 'fisica (52)', 'sfida (50)', 'statistica (48)', 'ansia (45)', 'scuola (44)', 'esame (41)']"
+psychology_students_unfiltered/high_anxiety,statistica,150,576,0.03872664610919645,1.9484563758389262,"['statistica (149)', 'matematica (48)', 'grafico (32)', 'numeri (32)', 'ansia (31)', 'sfida (31)', 'modello (28)', 'universita (26)', 'psicologia (26)', 'informatica (26)']"
+psychology_students_unfiltered/high_anxiety,fisica,183,655,0.028717139214376783,1.9606677475529934,"['fisica (182)', 'matematica (52)', 'scienza (45)', 'equazione (34)', 'ansia (33)', 'biologia (33)', 'numeri (32)', 'sfida (29)', 'scuola (28)', 'studio (25)', 'insegnante (25)', 'conoscenza (25)']"
+psychology_students_unfiltered/high_anxiety,scienza,146,741,0.057088122605363986,1.9299952763344355,"['scienza (145)', 'fisica (45)', 'biologia (44)', 'psicologia (40)', 'conoscenza (40)', 'neuroscienze (37)', 'matematica (37)', 'curiosita (34)']"
 psychology_students_unfiltered/high_anxiety,informatica,65,270,0.10218253968253968,1.8701923076923077,"['informatica (64)', 'matematica (29)', 'statistica (26)', 'tecnologia (23)']"
 psychology_students_unfiltered/high_anxiety,ricerca,40,208,0.22807017543859648,1.7333333333333334,"['ricerca (39)', 'scienza (22)']"
-psychology_students_unfiltered/high_anxiety,esame,156,903,0.06267281105990784,1.9253101736972704,"['esame (155)', 'compito (52)', 'ansia (51)', 'sfida (49)', 'universita (47)', 'scuola (43)', 'lavoro (43)', 'matematica (41)']"
+psychology_students_unfiltered/high_anxiety,esame,156,903,0.06267281105990784,1.9253101736972704,"['esame (155)', 'compito (52)', 'ansia (51)', 'sfida (49)', 'universita (47)', 'lavoro (43)', 'scuola (43)', 'matematica (41)']"
 psychology_students_unfiltered/high_anxiety,voto,114,506,0.062104930467762325,1.9214407700667597,"['voto (113)', 'ansia (41)', 'esame (36)', 'compito (33)', 'scuola (29)', 'laurea (28)']"
-psychology_students_unfiltered/high_anxiety,professore,171,610,0.030630003480682212,1.958032335741314,"['professore (170)', 'insegnante (81)', 'scuola (41)', 'matematica (32)', 'esame (29)', 'ansia (28)', 'universita (27)', 'lavoro (27)', 'conoscenza (26)', 'psicologia (26)']"
+psychology_students_unfiltered/high_anxiety,professore,171,610,0.030630003480682212,1.958032335741314,"['professore (170)', 'insegnante (81)', 'scuola (41)', 'matematica (32)', 'esame (29)', 'ansia (28)', 'lavoro (27)', 'universita (27)', 'psicologia (26)', 'conoscenza (26)']"
 psychology_students_unfiltered/high_anxiety,insegnante,197,667,0.024646781789638934,1.9654511550813218,"['insegnante (196)', 'professore (81)', 'scuola (47)', 'matematica (32)', 'compito (31)', 'universita (31)', 'conoscenza (30)', 'ansia (29)', 'lavoro (29)', 'esame (26)']"
 psychology_students_unfiltered/high_anxiety,scienziato,66,157,0.04423076923076923,1.9268065268065269,"['scienziato (65)', 'scienza (21)', 'curiosita (14)', 'fisica (13)']"
 psychology_students_unfiltered/high_anxiety,scienziata,18,31,0.10294117647058823,1.7973856209150327,['scienziata (17)']
 psychology_students_unfiltered/high_anxiety,scuola,164,888,0.05491176247822464,1.933562771210534,"['scuola (163)', 'universita (51)', 'ansia (50)', 'insegnante (47)', 'matematica (44)', 'esame (43)', 'lavoro (43)', 'professore (41)', 'noia (38)', 'sfida (38)']"
-psychology_students_unfiltered/high_anxiety,universita,155,863,0.06018164841694253,1.927691663175534,"['universita (154)', 'scuola (51)', 'lavoro (51)', 'esame (47)', 'laurea (44)', 'ansia (40)', 'sfida (40)', 'psicologia (39)']"
-psychology_students_unfiltered/high_anxiety,ansia,253,1376,0.03554037816986024,1.9568354350963046,"['ansia (252)', 'stress (69)', 'lavoro (53)', 'noia (52)', 'esame (51)', 'scuola (50)', 'frustrazione (49)', 'sfida (46)', 'matematica (45)', 'studio (41)', 'voto (41)', 'compito (40)', 'universita (40)', 'emozione (40)']"
+psychology_students_unfiltered/high_anxiety,universita,155,863,0.06018164841694253,1.927691663175534,"['universita (154)', 'lavoro (51)', 'scuola (51)', 'esame (47)', 'laurea (44)', 'ansia (40)', 'sfida (40)', 'psicologia (39)']"
+psychology_students_unfiltered/high_anxiety,ansia,253,1376,0.03554037816986024,1.9568354350963046,"['ansia (252)', 'stress (69)', 'lavoro (53)', 'noia (52)', 'esame (51)', 'scuola (50)', 'frustrazione (49)', 'sfida (46)', 'matematica (45)', 'studio (41)', 'voto (41)', 'emozione (40)', 'compito (40)', 'universita (40)']"
 psychology_students_unfiltered/high_anxiety,benessere,141,337,0.02024665981500514,1.965856129685917,"['benessere (140)', 'emozione (28)', 'psicologia (23)', 'scoperta (20)', 'mente (20)', 'futuro (19)', 'divertimento (18)', 'passione (18)']"
-psychology_students_unfiltered/low_anxiety,matematica,195,909,0.03819240425190962,1.9519429024583663,"['matematica (194)', 'equazione (55)', 'fisica (54)', 'numeri (48)', 'statistica (48)', 'scienza (40)', 'scuola (36)', 'esame (36)', 'professore (35)', 'universita (34)']"
+psychology_students_unfiltered/low_anxiety,matematica,195,909,0.03819240425190962,1.9519429024583663,"['matematica (194)', 'equazione (55)', 'fisica (54)', 'statistica (48)', 'numeri (48)', 'scienza (40)', 'esame (36)', 'scuola (36)', 'professore (35)', 'universita (34)']"
 psychology_students_unfiltered/low_anxiety,statistica,154,469,0.02717578259373925,1.9601901366607248,"['statistica (153)', 'matematica (48)', 'fisica (33)', 'numeri (28)', 'grafico (27)', 'modello (24)', 'universita (24)', 'esame (23)']"
-psychology_students_unfiltered/low_anxiety,fisica,202,709,0.02527363184079602,1.9650756120388158,"['fisica (201)', 'matematica (54)', 'scienza (46)', 'statistica (33)', 'scuola (32)', 'equazione (31)', 'mente (30)', 'universita (28)', 'numeri (27)', 'ansia (27)', 'professore (27)']"
+psychology_students_unfiltered/low_anxiety,fisica,202,709,0.02527363184079602,1.9650756120388158,"['fisica (201)', 'matematica (54)', 'scienza (46)', 'statistica (33)', 'scuola (32)', 'equazione (31)', 'mente (30)', 'universita (28)', 'ansia (27)', 'numeri (27)', 'professore (27)']"
 psychology_students_unfiltered/low_anxiety,scienza,177,774,0.038831168831168834,1.9503081664098614,"['scienza (176)', 'fisica (46)', 'scoperta (42)', 'curiosita (41)', 'biologia (41)', 'matematica (40)', 'psicologia (39)', 'neuroscienze (33)', 'conoscenza (32)']"
 psychology_students_unfiltered/low_anxiety,informatica,69,241,0.07594381035996488,1.8972719522591646,"['informatica (68)', 'matematica (27)', 'statistica (22)', 'tecnologia (22)']"
 psychology_students_unfiltered/low_anxiety,ricerca,52,245,0.15215686274509804,1.815233785822021,"['ricerca (51)', 'scienza (25)', 'curiosita (22)', 'studio (22)']"
-psychology_students_unfiltered/low_anxiety,esame,157,832,0.05591397849462366,1.9320594479830149,"['esame (156)', 'universita (55)', 'compito (47)', 'ansia (47)', 'scuola (41)', 'sfida (41)', 'esercitazione (38)', 'lavoro (38)', 'voto (38)']"
+psychology_students_unfiltered/low_anxiety,esame,157,832,0.05591397849462366,1.9320594479830149,"['esame (156)', 'universita (55)', 'ansia (47)', 'compito (47)', 'sfida (41)', 'scuola (41)', 'lavoro (38)', 'voto (38)', 'esercitazione (38)']"
 psychology_students_unfiltered/low_anxiety,voto,125,464,0.044584316810910046,1.9401290322580644,"['voto (124)', 'esame (38)', 'sfida (33)', 'ansia (28)', 'universita (28)', 'esercitazione (27)', 'scuola (27)']"
-psychology_students_unfiltered/low_anxiety,professore,172,729,0.038390092879256967,1.9504283965728275,"['professore (171)', 'insegnante (90)', 'scuola (51)', 'universita (45)', 'lavoro (36)', 'matematica (35)', 'esame (35)', 'studente (32)', 'studio (30)']"
+psychology_students_unfiltered/low_anxiety,professore,172,729,0.038390092879256967,1.9504283965728275,"['professore (171)', 'insegnante (90)', 'scuola (51)', 'universita (45)', 'lavoro (36)', 'esame (35)', 'matematica (35)', 'studente (32)', 'studio (30)']"
 psychology_students_unfiltered/low_anxiety,insegnante,203,628,0.02098418797103591,1.9693703360483832,"['insegnante (202)', 'professore (90)', 'scuola (52)', 'universita (38)', 'esame (33)', 'conoscenza (32)', 'lavoro (31)', 'matematica (28)', 'laurea (25)', 'sapere (22)', 'studio (20)']"
 psychology_students_unfiltered/low_anxiety,scienziato,60,198,0.08123904149620105,1.888135593220339,"['scienziato (59)', 'scienza (26)', 'fisica (21)']"
 psychology_students_unfiltered/low_anxiety,scienziata,24,38,0.05928853754940711,1.8623188405797102,"['scienziata (23)', 'scienza (8)']"
-psychology_students_unfiltered/low_anxiety,scuola,161,865,0.055424528301886794,1.9328416149068324,"['scuola (160)', 'universita (61)', 'insegnante (52)', 'professore (51)', 'esame (41)', 'lavoro (41)', 'matematica (36)', 'ansia (36)', 'noia (33)']"
+psychology_students_unfiltered/low_anxiety,scuola,161,865,0.055424528301886794,1.9328416149068324,"['scuola (160)', 'universita (61)', 'insegnante (52)', 'professore (51)', 'esame (41)', 'lavoro (41)', 'ansia (36)', 'matematica (36)', 'noia (33)']"
 psychology_students_unfiltered/low_anxiety,universita,163,1026,0.06625258799171843,1.9222903885480573,"['universita (162)', 'scuola (61)', 'lavoro (60)', 'esame (55)', 'laurea (47)', 'professore (45)', 'ansia (44)', 'futuro (40)', 'studente (39)']"
-psychology_students_unfiltered/low_anxiety,ansia,223,944,0.0294321470792059,1.9618632084999799,"['ansia (222)', 'stress (63)', 'esame (47)', 'sfida (46)', 'universita (44)', 'lavoro (38)', 'scuola (36)', 'frustrazione (34)', 'compito (32)', 'noia (32)', 'psicologia (32)', 'futuro (32)', 'studio (32)']"
-psychology_students_unfiltered/low_anxiety,benessere,148,429,0.026279004752585967,1.9605626034197463,"['benessere (147)', 'lavoro (29)', 'futuro (27)', 'psicologia (26)', 'emozione (26)', 'stress (22)', 'mente (22)', 'vita (22)']"
+psychology_students_unfiltered/low_anxiety,ansia,223,944,0.0294321470792059,1.9618632084999799,"['ansia (222)', 'stress (63)', 'esame (47)', 'sfida (46)', 'universita (44)', 'lavoro (38)', 'scuola (36)', 'frustrazione (34)', 'studio (32)', 'noia (32)', 'compito (32)', 'psicologia (32)', 'futuro (32)']"
+psychology_students_unfiltered/low_anxiety,benessere,148,429,0.026279004752585967,1.9605626034197463,"['benessere (147)', 'lavoro (29)', 'futuro (27)', 'emozione (26)', 'psicologia (26)', 'mente (22)', 'stress (22)', 'vita (22)']"
 gpt_oss_psychology/high_anxiety,matematica,49,78,0.026595744680851064,1.933673469387755,"['matematica (48)', 'equazione (13)', 'fisica (10)']"
 gpt_oss_psychology/high_anxiety,statistica,48,68,0.01942645698427382,1.9397163120567376,"['statistica (47)', 'media (11)', 'matematica (6)']"
-gpt_oss_psychology/high_anxiety,fisica,62,95,0.018579234972677595,1.9497620306716024,"['fisica (61)', 'matematica (10)', 'scienza (7)', 'equazione (7)']"
+gpt_oss_psychology/high_anxiety,fisica,62,95,0.018579234972677595,1.9497620306716024,"['fisica (61)', 'matematica (10)', 'equazione (7)', 'scienza (7)']"
 gpt_oss_psychology/high_anxiety,scienza,43,70,0.032520325203252036,1.9224806201550388,"['scienza (42)', 'curiosita (9)', 'fisica (7)']"
 gpt_oss_psychology/high_anxiety,informatica,47,51,0.004830917874396135,1.9528214616096207,"['informatica (46)', 'innovazione (5)', 'creativita (3)']"
 gpt_oss_psychology/high_anxiety,ricerca,16,31,0.1523809523809524,1.7416666666666667,['ricerca (15)']
@@ -158,15 +158,15 @@ gpt_oss_psychology/high_anxiety,esame,38,91,0.08108108108108109,1.87055476529160
 gpt_oss_psychology/high_anxiety,professore,33,57,0.05040322580645161,1.8920454545454546,"['professore (32)', 'insegnante (17)']"
 gpt_oss_psychology/high_anxiety,insegnante,65,93,0.014384920634920634,1.9552884615384616,"['insegnante (64)', 'professore (17)', 'sviluppo (8)', 'psicologia (6)']"
 gpt_oss_psychology/high_anxiety,scienziato,57,76,0.012987012987012988,1.9523809523809523,"['scienziato (56)', 'psicologia (11)', 'universita (8)']"
-gpt_oss_psychology/high_anxiety,scuola,3,3,1.0,1.0,"['universita (2)', 'test (2)', 'scuola (2)']"
-gpt_oss_psychology/high_anxiety,universita,51,99,0.04,1.9223529411764706,"['universita (50)', 'psicologia (9)', 'esame (8)', 'scienziato (8)', 'sviluppo (8)']"
+gpt_oss_psychology/high_anxiety,scuola,3,3,1.0,1.0,"['universita (2)', 'scuola (2)', 'test (2)']"
+gpt_oss_psychology/high_anxiety,universita,51,99,0.04,1.9223529411764706,"['universita (50)', 'psicologia (9)', 'sviluppo (8)', 'esame (8)', 'scienziato (8)']"
 gpt_oss_psychology/high_anxiety,ansia,33,57,0.05040322580645161,1.8920454545454546,"['ansia (32)', 'stress (8)']"
 gpt_oss_psychology/high_anxiety,benessere,27,45,0.05846153846153846,1.8717948717948718,"['benessere (26)', 'emozione (7)']"
 gpt_oss_psychology/low_anxiety,matematica,51,77,0.022040816326530613,1.939607843137255,"['matematica (50)', 'equazione (18)', 'statistica (7)']"
 gpt_oss_psychology/low_anxiety,statistica,44,63,0.0221483942414175,1.9334038054968288,"['statistica (43)', 'media (12)', 'matematica (7)']"
-gpt_oss_psychology/low_anxiety,fisica,67,86,0.009324009324009324,1.9611035730438715,"['fisica (66)', 'scienza (9)', 'universita (5)', 'curiosita (5)', 'conoscenza (5)', 'equazione (5)']"
+gpt_oss_psychology/low_anxiety,fisica,67,86,0.009324009324009324,1.9611035730438715,"['fisica (66)', 'scienza (9)', 'curiosita (5)', 'equazione (5)', 'conoscenza (5)', 'universita (5)']"
 gpt_oss_psychology/low_anxiety,scienza,53,110,0.043740573152337855,1.9201741654571842,"['scienza (52)', 'scienziato (22)', 'prova (10)']"
-gpt_oss_psychology/low_anxiety,informatica,55,60,0.0041928721174004195,1.9595959595959596,"['informatica (54)', 'creativita (4)', 'innovazione (4)']"
+gpt_oss_psychology/low_anxiety,informatica,55,60,0.0041928721174004195,1.9595959595959596,"['informatica (54)', 'innovazione (4)', 'creativita (4)']"
 gpt_oss_psychology/low_anxiety,ricerca,18,33,0.11764705882352941,1.7843137254901962,['ricerca (17)']
 gpt_oss_psychology/low_anxiety,esame,41,88,0.06153846153846154,1.8926829268292682,"['esame (40)', 'test (18)', 'prova (16)']"
 gpt_oss_psychology/low_anxiety,professore,35,48,0.024955436720142603,1.919327731092437,"['professore (34)', 'insegnante (11)']"
@@ -174,5 +174,5 @@ gpt_oss_psychology/low_anxiety,insegnante,69,86,0.007901668129938543,1.963341858
 gpt_oss_psychology/low_anxiety,scienziato,71,105,0.014492753623188406,1.9577464788732395,"['scienziato (70)', 'scienza (22)', 'universita (9)', 'curiosita (6)']"
 gpt_oss_psychology/low_anxiety,scuola,4,3,0.0,1.5,['scuola (3)']
 gpt_oss_psychology/low_anxiety,universita,53,75,0.017345399698340876,1.9455732946298985,"['universita (52)', 'scienziato (9)', 'scienza (7)']"
-gpt_oss_psychology/low_anxiety,ansia,36,55,0.03361344537815126,1.9126984126984128,"['ansia (35)', 'test (6)', 'esame (6)', 'stress (6)']"
+gpt_oss_psychology/low_anxiety,ansia,36,55,0.03361344537815126,1.9126984126984128,"['ansia (35)', 'stress (6)', 'esame (6)', 'test (6)']"
 gpt_oss_psychology/low_anxiety,benessere,31,37,0.016091954022988506,1.9204301075268817,"['benessere (30)', 'sviluppo (5)']"
