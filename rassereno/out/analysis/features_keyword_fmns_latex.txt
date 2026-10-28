@@ -1,24 +1,303 @@
 \begin{table}[!hbpt]
 \footnotesize
 \centering
-\caption{Network features for the semantic frame of \textit{\textbf{Wellbeing}}. For each hub, its degree is reported in parentheses. The italicised hubs are part of the cue words.}
+\caption{Network features for the semantic frame of \textit{\textbf{Mathematics}}. For each hub, its degree is reported in parentheses. The italicised hubs are part of the cue words of that sample.}
+\label{tab:network_features_mathematics}
+\begin{tabular}{lccccp{9cm}}
+\toprule
+Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs (top 5\% of degree distribution) \\
+\midrule
+H-Anx H-S & 73 & 212 & 0.05 & 1.92 & \textit{matematica} (72), \textit{fisica} (20), \textit{numeri} (17), \textit{problema} (17) \\
+L-Anx H-S & 63 & 183 & 0.06 & 1.91 & \textit{matematica} (62), \textit{fisica} (18), \textit{analisi} (15), \textit{numeri} (14), \textit{dati} (14) \\
+H-Anx Phys & 78 & 260 & 0.06 & 1.91 & \textit{matematica} (77), \textit{fisica} (24), \textit{scienza} (22), \textit{numeri} (18), studio (18) \\
+L-Anx Phys & 55 & 127 & 0.05 & 1.91 & \textit{matematica} (54), \textit{analisi} (14), \textit{logica} (12) \\
+H-Anx Psy & 126 & 552 & 0.06 & 1.93 & \textit{matematica} (125), \textit{numeri} (41), \textit{equazione} (41), \textit{sfida} (34), \textit{fisica} (33), \textit{scuola} (33), \textit{compito} (31) \\
+L-Anx Psy & 128 & 457 & 0.04 & 1.94 & \textit{matematica} (127), \textit{numeri} (36), \textit{equazione} (35), \textit{fisica} (34), \textit{statistica} (31), \textit{scuola} (26), \textit{scienza} (24) \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[!hbpt]
+\footnotesize
+\centering
+\caption{Network features for the semantic frame of \textit{\textbf{Statistics}}. For each hub, its degree is reported in parentheses. The italicised hubs are part of the cue words of that sample.}
+\label{tab:network_features_statistics}
+\begin{tabular}{lccccp{9cm}}
+\toprule
+Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs (top 5\% of degree distribution) \\
+\midrule
+H-Anx H-S & 37 & 68 & 0.05 & 1.90 & \textit{statistica} (36), \textit{analisi} (12) \\
+L-Anx H-S & 41 & 91 & 0.07 & 1.89 & \textit{statistica} (40), \textit{analisi} (14), \textit{matematica} (12) \\
+H-Anx Phys & 61 & 110 & 0.03 & 1.94 & \textit{statistica} (60), \textit{dati} (14), \textit{matematica} (13), \textit{analisi} (11) \\
+L-Anx Phys & 52 & 97 & 0.04 & 1.93 & \textit{statistica} (51), \textit{dati} (15), \textit{analisi} (13) \\
+H-Anx Psy & 102 & 297 & 0.04 & 1.94 & \textit{statistica} (101), \textit{matematica} (28), \textit{grafico} (24), \textit{numeri} (23), \textit{psicologia} (19), \textit{ansia} (19) \\
+L-Anx Psy & 100 & 252 & 0.03 & 1.95 & \textit{statistica} (99), \textit{matematica} (31), \textit{numeri} (23), \textit{grafico} (22), studio (14), \textit{università} (14) \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[!hbpt]
+\footnotesize
+\centering
+\caption{Network features for the semantic frame of \textit{\textbf{Computer science}}. For each hub, its degree is reported in parentheses. The italicised hubs are part of the cue words of that sample.}
+\label{tab:network_features_computer science}
+\begin{tabular}{lccccp{9cm}}
+\toprule
+Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs (top 5\% of degree distribution) \\
+\midrule
+H-Anx H-S & 51 & 90 & 0.03 & 1.93 & \textit{informatica} (50), \textit{programmazione} (14), \textit{futuro} (8), \textit{innovazione} (8) \\
+L-Anx H-S & 45 & 83 & 0.04 & 1.92 & \textit{informatica} (44), \textit{programmazione} (12), \textit{laboratorio} (8) \\
+H-Anx Phys & 73 & 139 & 0.03 & 1.95 & \textit{informatica} (72), \textit{programmazione} (15), \textit{logica} (14), \textit{scienza} (11) \\
+L-Anx Phys & 53 & 109 & 0.04 & 1.92 & \textit{informatica} (52), \textit{programmazione} (18), \textit{intelligenza artificiale} (11) \\
+H-Anx Psy & 23 & 58 & 0.16 & 1.77 & \textit{informatica} (22), \textit{numeri} (10) \\
+L-Anx Psy & 27 & 62 & 0.11 & 1.82 & \textit{informatica} (26), \textit{matematica} (12) \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[!hbpt]
+\footnotesize
+\centering
+\caption{Network features for the semantic frame of \textit{\textbf{Physics}}. For each hub, its degree is reported in parentheses. The italicised hubs are part of the cue words of that sample.}
+\label{tab:network_features_physics}
+\begin{tabular}{lccccp{9cm}}
+\toprule
+Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs (top 5\% of degree distribution) \\
+\midrule
+H-Anx H-S & 63 & 157 & 0.05 & 1.92 & \textit{fisica} (62), \textit{matematica} (20), \textit{laboratorio} (13), \textit{esperimento} (12), \textit{ricerca} (12) \\
+L-Anx H-S & 65 & 158 & 0.05 & 1.92 & \textit{fisica} (64), \textit{matematica} (18), \textit{scienza} (15), \textit{ricerca} (14) \\
+H-Anx Phys & 77 & 257 & 0.06 & 1.91 & \textit{fisica} (76), \textit{matematica} (24), \textit{scienza} (21), \textit{scuola} (19) \\
+L-Anx Phys & 63 & 134 & 0.04 & 1.93 & \textit{fisica} (62), \textit{ricerca} (13), \textit{scienza} (11), studio (10), \textit{creatività} (10), \textit{laboratorio} (10), \textit{scoperta} (10) \\
+H-Anx Psy & 127 & 347 & 0.03 & 1.96 & \textit{fisica} (126), \textit{scienza} (34), \textit{matematica} (33), \textit{numeri} (21), \textit{biologia} (20), \textit{conoscenza} (20), \textit{sfida} (20) \\
+L-Anx Psy & 144 & 413 & 0.03 & 1.96 & \textit{fisica} (143), \textit{matematica} (34), \textit{scienza} (31), \textit{numeri} (24), \textit{scuola} (24), \textit{equazione} (22), \textit{mente} (21), \textit{scoperta} (20) \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[!hbpt]
+\footnotesize
+\centering
+\caption{Network features for the semantic frame of \textit{\textbf{Science}}. For each hub, its degree is reported in parentheses. The italicised hubs are part of the cue words of that sample.}
+\label{tab:network_features_science}
+\begin{tabular}{lccccp{9cm}}
+\toprule
+Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs (top 5\% of degree distribution) \\
+\midrule
+H-Anx H-S & 48 & 110 & 0.06 & 1.90 & \textit{scienza} (47), \textit{scienziato} (14), \textit{scoperta} (14) \\
+L-Anx H-S & 56 & 162 & 0.07 & 1.89 & \textit{scienza} (55), \textit{ricerca} (20), \textit{scienziata} (17) \\
+H-Anx Phys & 67 & 224 & 0.07 & 1.90 & \textit{scienza} (66), \textit{matematica} (22), \textit{fisica} (21), \textit{vita} (19) \\
+L-Anx Phys & 57 & 115 & 0.04 & 1.93 & \textit{scienza} (56), \textit{ricerca} (13), \textit{laboratorio} (13) \\
+H-Anx Psy & 126 & 536 & 0.05 & 1.93 & \textit{scienza} (125), \textit{conoscenza} (38), \textit{biologia} (35), \textit{fisica} (34), \textit{psicologia} (32), \textit{curiosità} (30), \textit{matematica} (28) \\
+L-Anx Psy & 135 & 455 & 0.04 & 1.95 & \textit{scienza} (134), \textit{scoperta} (34), \textit{biologia} (32), \textit{fisica} (31), \textit{curiosità} (29), \textit{psicologia} (27), \textit{conoscenza} (26) \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[!hbpt]
+\footnotesize
+\centering
+\caption{Network features for the semantic frame of \textit{\textbf{Research}}. For each hub, its degree is reported in parentheses. The italicised hubs are part of the cue words of that sample.}
+\label{tab:network_features_research}
+\begin{tabular}{lccccp{9cm}}
+\toprule
+Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs (top 5\% of degree distribution) \\
+\midrule
+H-Anx H-S & 65 & 168 & 0.05 & 1.92 & \textit{ricerca} (64), \textit{scoperta} (23), \textit{scienziato} (15), \textit{laboratorio} (13) \\
+L-Anx H-S & 60 & 189 & 0.08 & 1.89 & \textit{ricerca} (59), \textit{scienza} (20), \textit{laboratorio} (17) \\
+H-Anx Phys & 57 & 183 & 0.08 & 1.89 & \textit{ricerca} (56), \textit{fisica} (18), \textit{scienza} (18) \\
+L-Anx Phys & 59 & 202 & 0.09 & 1.88 & \textit{ricerca} (58), \textit{scoperta} (24), \textit{futuro} (17), \textit{scienziato} (17) \\
+H-Anx Psy & 38 & 186 & 0.22 & 1.74 & \textit{ricerca} (37), \textit{scienza} (21) \\
+L-Anx Psy & 36 & 129 & 0.16 & 1.80 & \textit{ricerca} (35), \textit{scienza} (16) \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[!hbpt]
+\footnotesize
+\centering
+\caption{Network features for the semantic frame of \textit{\textbf{Exam}}. For each hub, its degree is reported in parentheses. The italicised hubs are part of the cue words of that sample.}
+\label{tab:network_features_exam}
+\begin{tabular}{lccccp{9cm}}
+\toprule
+Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs (top 5\% of degree distribution) \\
+\midrule
+H-Anx H-S & 49 & 92 & 0.04 & 1.92 & \textit{esame} (48), \textit{voto} (13), \textit{scuola} (12) \\
+L-Anx H-S & 46 & 93 & 0.05 & 1.91 & \textit{esame} (45), \textit{matematica} (10), \textit{analisi} (10) \\
+H-Anx Phys & 56 & 128 & 0.05 & 1.92 & \textit{esame} (55), \textit{stress} (15), \textit{ansia} (13) \\
+L-Anx Phys & 45 & 91 & 0.05 & 1.91 & \textit{esame} (44), \textit{voto} (13), \textit{sfida} (10), \textit{ansia} (10) \\
+H-Anx Psy & 106 & 434 & 0.06 & 1.92 & \textit{esame} (105), \textit{compito} (33), \textit{università} (32), \textit{sfida} (32), \textit{voto} (30), \textit{scuola} (30) \\
+L-Anx Psy & 112 & 426 & 0.05 & 1.93 & \textit{esame} (111), \textit{compito} (39), \textit{università} (33), \textit{voto} (32), \textit{sfida} (30), \textit{esercitazione} (29), \textit{ansia} (29), \textit{scuola} (29) \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[!hbpt]
+\footnotesize
+\centering
+\caption{Network features for the semantic frame of \textit{\textbf{Grade}}. For each hub, its degree is reported in parentheses. The italicised hubs are part of the cue words of that sample.}
+\label{tab:network_features_grade}
+\begin{tabular}{lccccp{9cm}}
+\toprule
+Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs (top 5\% of degree distribution) \\
+\midrule
+H-Anx H-S & 59 & 110 & 0.03 & 1.94 & \textit{voto} (58), \textit{ansia} (14), \textit{esame} (13) \\
+L-Anx H-S & 47 & 68 & 0.02 & 1.94 & \textit{voto} (46), \textit{ansia} (9), \textit{futuro} (8) \\
+H-Anx Phys & 60 & 93 & 0.02 & 1.95 & \textit{voto} (59), \textit{esame} (12), \textit{fallimento} (11) \\
+L-Anx Phys & 56 & 82 & 0.02 & 1.95 & \textit{voto} (55), \textit{esame} (13), \textit{scuola} (9) \\
+H-Anx Psy & 117 & 331 & 0.03 & 1.95 & \textit{voto} (116), \textit{esame} (30), \textit{ansia} (27), \textit{compito} (25), \textit{stress} (23), \textit{scuola} (23) \\
+L-Anx Psy & 117 & 325 & 0.03 & 1.95 & \textit{voto} (116), \textit{esame} (32), \textit{esercitazione} (23), \textit{sfida} (23), \textit{scuola} (22), \textit{compito} (21) \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[!hbpt]
+\footnotesize
+\centering
+\caption{Network features for the semantic frame of \textit{\textbf{Professor}}. For each hub, its degree is reported in parentheses. The italicised hubs are part of the cue words of that sample.}
+\label{tab:network_features_professor}
+\begin{tabular}{lccccp{9cm}}
+\toprule
+Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs (top 5\% of degree distribution) \\
+\midrule
+H-Anx H-S & 3 & 2 & 0.00 & 1.33 & professore (2) \\
+L-Anx H-S & 2 & 1 & 0.00 & 1.00 & \textit{docente} (1), professore (1) \\
+H-Anx Phys & 7 & 11 & 0.33 & 1.48 & professore (6) \\
+L-Anx Phys & 3 & 2 & 0.00 & 1.33 & professore (2) \\
+H-Anx Psy & 137 & 395 & 0.03 & 1.96 & \textit{professore} (136), \textit{insegnante} (57), \textit{scuola} (33), \textit{matematica} (23), \textit{studente} (21), \textit{lavoro} (21), \textit{università} (21) \\
+L-Anx Psy & 129 & 391 & 0.03 & 1.95 & \textit{professore} (128), \textit{insegnante} (63), \textit{scuola} (40), \textit{università} (29), \textit{studente} (27), \textit{esame} (23), \textit{laurea} (22) \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[!hbpt]
+\footnotesize
+\centering
+\caption{Network features for the semantic frame of \textit{\textbf{Teacher}}. For each hub, its degree is reported in parentheses. The italicised hubs are part of the cue words of that sample.}
+\label{tab:network_features_teacher}
+\begin{tabular}{lccccp{9cm}}
+\toprule
+Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs (top 5\% of degree distribution) \\
+\midrule
+H-Anx H-S & 2 & 1 & 0.00 & 1.00 & \textit{docente} (1), insegnante (1) \\
+L-Anx H-S & 2 & 1 & 0.00 & 1.00 & \textit{docente} (1), insegnante (1) \\
+H-Anx Phys & 3 & 3 & 1.00 & 1.00 & \textit{docente} (2), insegnante (2), \textit{futuro} (2) \\
+L-Anx Phys & 4 & 6 & 1.00 & 1.00 & \textit{docente} (3), insegnante (3), \textit{voto} (3), \textit{scuola} (3) \\
+H-Anx Psy & 135 & 355 & 0.02 & 1.96 & \textit{insegnante} (134), \textit{professore} (57), \textit{scuola} (33), \textit{compito} (22), \textit{conoscenza} (20), \textit{matematica} (18), \textit{studente} (18) \\
+L-Anx Psy & 139 & 342 & 0.02 & 1.96 & \textit{insegnante} (138), \textit{professore} (63), \textit{scuola} (37), \textit{università} (25), \textit{conoscenza} (20), \textit{laurea} (17), \textit{lavoro} (17) \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[!hbpt]
+\footnotesize
+\centering
+\caption{Network features for the semantic frame of \textit{\textbf{Scientist (male)}}. For each hub, its degree is reported in parentheses. The italicised hubs are part of the cue words of that sample.}
+\label{tab:network_features_scientist (male)}
+\begin{tabular}{lccccp{9cm}}
+\toprule
+Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs (top 5\% of degree distribution) \\
+\midrule
+H-Anx H-S & 43 & 130 & 0.10 & 1.86 & \textit{scienziato} (42), \textit{scienziata} (17), \textit{laboratorio} (17) \\
+L-Anx H-S & 46 & 105 & 0.06 & 1.90 & \textit{scienziato} (45), \textit{scienza} (15), \textit{esperimento} (14), \textit{laboratorio} (14) \\
+H-Anx Phys & 54 & 113 & 0.04 & 1.92 & \textit{scienziato} (53), \textit{esperimento} (14), \textit{laboratorio} (14) \\
+L-Anx Phys & 56 & 123 & 0.05 & 1.92 & \textit{scienziato} (55), \textit{ricerca} (17), \textit{scienziata} (15) \\
+H-Anx Psy & 23 & 61 & 0.17 & 1.76 & \textit{scienziato} (22), \textit{scienza} (13) \\
+L-Anx Psy & 20 & 45 & 0.15 & 1.76 & \textit{scienziato} (19) \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[!hbpt]
+\footnotesize
+\centering
+\caption{Network features for the semantic frame of \textit{\textbf{Scientist (female)}}. For each hub, its degree is reported in parentheses. The italicised hubs are part of the cue words of that sample.}
+\label{tab:network_features_scientist (female)}
+\begin{tabular}{lccccp{9cm}}
+\toprule
+Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs (top 5\% of degree distribution) \\
+\midrule
+H-Anx H-S & 37 & 96 & 0.10 & 1.86 & \textit{scienziata} (36), \textit{scienziato} (17) \\
+L-Anx H-S & 45 & 111 & 0.07 & 1.89 & \textit{scienziata} (44), \textit{scienza} (17), \textit{ricerca} (16) \\
+H-Anx Phys & 63 & 108 & 0.02 & 1.94 & \textit{scienziata} (62), \textit{fisica} (13), \textit{scienza} (12), \textit{ricerca} (12) \\
+L-Anx Phys & 49 & 109 & 0.05 & 1.91 & \textit{scienziata} (48), \textit{scienziato} (15), \textit{ricerca} (15) \\
+H-Anx Psy & 21 & 36 & 0.08 & 1.83 & \textit{scienziata} (20), \textit{scienza} (8) \\
+L-Anx Psy & 20 & 31 & 0.07 & 1.84 & \textit{scienziata} (19) \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[!hbpt]
+\footnotesize
+\centering
+\caption{Network features for the semantic frame of \textit{\textbf{School}}. For each hub, its degree is reported in parentheses. The italicised hubs are part of the cue words of that sample.}
+\label{tab:network_features_school}
+\begin{tabular}{lccccp{9cm}}
+\toprule
+Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs (top 5\% of degree distribution) \\
+\midrule
+H-Anx H-S & 75 & 219 & 0.05 & 1.92 & \textit{scuola} (74), \textit{ansia} (19), \textit{matematica} (14), \textit{stress} (14) \\
+L-Anx H-S & 62 & 128 & 0.04 & 1.93 & \textit{scuola} (61), \textit{matematica} (13), \textit{docente} (10), \textit{ricerca} (10) \\
+H-Anx Phys & 74 & 220 & 0.06 & 1.92 & \textit{scuola} (73), \textit{fisica} (19), \textit{futuro} (16), lavoro (16) \\
+L-Anx Phys & 70 & 152 & 0.04 & 1.94 & \textit{scuola} (69), \textit{docente} (13), studio (12), \textit{vita} (12) \\
+H-Anx Psy & 153 & 634 & 0.04 & 1.95 & \textit{scuola} (152), \textit{università} (47), \textit{ansia} (38), \textit{noia} (36), \textit{matematica} (33), \textit{professore} (33), \textit{lavoro} (33), \textit{insegnante} (33) \\
+L-Anx Psy & 145 & 599 & 0.04 & 1.94 & \textit{scuola} (144), \textit{università} (44), \textit{professore} (40), \textit{insegnante} (37), \textit{lavoro} (31), \textit{esame} (29), \textit{compito} (28), \textit{noia} (27), \textit{studente} (27) \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[!hbpt]
+\footnotesize
+\centering
+\caption{Network features for the semantic frame of \textit{\textbf{University}}. For each hub, its degree is reported in parentheses. The italicised hubs are part of the cue words of that sample.}
+\label{tab:network_features_university}
+\begin{tabular}{lccccp{9cm}}
+\toprule
+Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs (top 5\% of degree distribution) \\
+\midrule
+H-Anx H-S & 8 & 14 & 0.33 & 1.50 & università (7) \\
+L-Anx H-S & 10 & 23 & 0.39 & 1.49 & università (9) \\
+H-Anx Phys & 9 & 23 & 0.54 & 1.36 & università (8) \\
+L-Anx Phys & 8 & 16 & 0.43 & 1.43 & università (7) \\
+H-Anx Psy & 125 & 575 & 0.06 & 1.93 & \textit{università} (124), \textit{scuola} (47), \textit{lavoro} (34), \textit{esame} (32), \textit{conoscenza} (32), \textit{psicologia} (31), \textit{laurea} (31), \textit{sfida} (31) \\
+L-Anx Psy & 120 & 574 & 0.06 & 1.92 & \textit{università} (119), \textit{scuola} (44), \textit{lavoro} (41), \textit{laurea} (34), \textit{esame} (33), \textit{conoscenza} (32) \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[!hbpt]
+\footnotesize
+\centering
+\caption{Network features for the semantic frame of \textit{\textbf{Anxiety}}. For each hub, its degree is reported in parentheses. The italicised hubs are part of the cue words of that sample.}
+\label{tab:network_features_anxiety}
+\begin{tabular}{lccccp{9cm}}
+\toprule
+Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs (top 5\% of degree distribution) \\
+\midrule
+H-Anx H-S & 75 & 218 & 0.05 & 1.92 & \textit{ansia} (74), \textit{stress} (23), \textit{paura} (21), \textit{scuola} (19) \\
+L-Anx H-S & 51 & 110 & 0.05 & 1.91 & \textit{ansia} (50), \textit{stress} (18), \textit{paura} (11), \textit{imbarazzo} (11) \\
+H-Anx Phys & 70 & 201 & 0.06 & 1.92 & \textit{ansia} (69), \textit{paura} (24), \textit{fallimento} (20), \textit{stress} (20) \\
+L-Anx Phys & 55 & 116 & 0.04 & 1.92 & \textit{ansia} (54), \textit{stress} (19), \textit{paura} (11) \\
+H-Anx Psy & 167 & 678 & 0.04 & 1.95 & \textit{ansia} (166), \textit{stress} (52), \textit{noia} (44), \textit{scuola} (38), \textit{frustrazione} (37), \textit{paura} (30), \textit{lavoro} (29), \textit{matematica} (28), \textit{università} (28) \\
+L-Anx Psy & 148 & 516 & 0.03 & 1.95 & \textit{ansia} (147), \textit{stress} (51), \textit{esame} (29), \textit{frustrazione} (28), \textit{lavoro} (28), \textit{sfida} (28), \textit{futuro} (26), \textit{università} (26) \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[!hbpt]
+\footnotesize
+\centering
+\caption{Network features for the semantic frame of \textit{\textbf{Wellbeing}}. For each hub, its degree is reported in parentheses. The italicised hubs are part of the cue words of that sample.}
 \label{tab:network_features_wellbeing}
 \begin{tabular}{lccccp{9cm}}
 \toprule
 Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs (top 5\% of degree distribution) \\
 \midrule
-Experts & 11 & 12 & 0.04 & 1.78 & Wellbeing (10) \\
-H-S South & 27 & 37 & 0.03 & 1.89 & Wellbeing (26), Health (6) \\
-H-Anx H-S & 49 & 55 & 0.01 & 1.95 & \textit{Wellbeing} (48), \textit{Life} (8), Freedom (2), Sun (2), Happiness (2), Nature (2), Family (2), Pink (2), Friends (2) \\
-L-Anx H-S & 49 & 74 & 0.02 & 1.94 & \textit{Wellbeing} (48), \textit{Meditation} (12), \textit{Life} (8) \\
-GPT H-Anx H-S & 18 & 19 & 0.01 & 1.88 & \textit{Wellbeing} (17) \\
-GPT L-Anx H-S & 14 & 14 & 0.01 & 1.85 & \textit{Wellbeing} (13) \\
-Physics & 47 & 46 & 0.00 & 1.96 & \textit{Wellbeing} (46), Sea (1), Calm down (1), Freedom (1), Sun (1), Psychophysical (1), Breakup (1), Security (1), Calm (1), Home (1), Spa (1), Spa (1), Wealth (1), Time (1), Flowers (1), Happiness (1), Malaise (1), Work (1), Money (1), Positivity (1), Relax (1), Peace (1), Lightness (1), Illness (1), Solidity (1), Forest (1), Good (1), Serenity (1), Mental (1), Awareness (1), Physical (1), Family (1), Support (1), Bad (1), Presence (1), Affection (1), Balance (1), Society (1), Water (1), Hope (1), Holiday (1), Equality (1), Love (1), Slow (1), Health (1), Green (1), Tranquility (1) \\
-GPT Physics & 19 & 18 & 0.00 & 1.89 & \textit{Wellbeing} (18) \\
-H-Anx Psy & 141 & 337 & 0.02 & 1.97 & \textit{Wellbeing} (140), \textit{Emotion} (28), \textit{Psychology} (23), \textit{Discovery} (20), \textit{Mind} (20), \textit{Future} (19), \textit{Fun} (18), \textit{Passion} (18) \\
-L-Anx Psy & 148 & 429 & 0.03 & 1.96 & \textit{Wellbeing} (147), \textit{Work} (29), \textit{Future} (27), \textit{Emotion} (26), \textit{Psychology} (26), \textit{Mind} (22), \textit{Stress} (22), \textit{Life} (22) \\
-GPT H-Anx Psy & 27 & 45 & 0.06 & 1.87 & \textit{Wellbeing} (26), \textit{Emotion} (7) \\
-GPT L-Anx Psy & 31 & 37 & 0.02 & 1.92 & \textit{Wellbeing} (30), \textit{Development} (5) \\
+H-Anx H-S & 49 & 55 & 0.01 & 1.95 & \textit{benessere} (48), \textit{vita} (8), libertà (2), felicità (2), rosa (2), natura (2), famiglia (2), sole (2), amici (2) \\
+L-Anx H-S & 49 & 74 & 0.02 & 1.94 & \textit{benessere} (48), \textit{meditazione} (12), \textit{vita} (8) \\
+H-Anx Phys & 68 & 81 & 0.01 & 1.96 & \textit{benessere} (67), \textit{vita} (10), \textit{compagni} (7), amore (2), passioni (2), felicità (2), natura (2), difficile (2), affetto (2), supporto (2), acqua (2), relazioni (2), amici (2), casa (2), presenza (2), tempo (2) \\
+L-Anx Phys & 55 & 66 & 0.01 & 1.96 & \textit{benessere} (54), \textit{vita} (6), \textit{scuola} (5), \textit{genitori} (5) \\
+H-Anx Psy & 124 & 239 & 0.02 & 1.97 & \textit{benessere} (123), \textit{emozione} (21), \textit{futuro} (18), \textit{scoperta} (17), \textit{psicologia} (14), \textit{lavoro} (14), \textit{mente} (13), \textit{terapia} (13), \textit{vita} (13), \textit{meditazione} (13) \\
+L-Anx Psy & 120 & 259 & 0.02 & 1.96 & \textit{benessere} (119), \textit{stress} (19), \textit{psicologia} (18), \textit{lavoro} (18), \textit{vita} (17), \textit{conoscenza} (17) \\
 \bottomrule
 \end{tabular}
 \end{table}

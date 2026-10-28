@@ -1,127 +1,127 @@
 participant_id,cue_word,valence_cue_word,association_1,valence_association_1,association_2,valence_association_2,association_3,valence_association_3
-altro dipartimento_065,scienza,4.0,innovazione,5.0,essenziale,5.0,,
-altro dipartimento_067,scienza,4.0,fede,5.0,matematica ,4.0,biologia ,4.0
-altro dipartimento_068,scienza,4.0,umanità,5.0,inclusione,5.0,progresso,5.0
-altro dipartimento_065,statistica,4.0,speranza,5.0,,,,
-altro dipartimento_067,statistica,4.0,normale ,4.0,gaussiana ,3.0,dati,3.0
-altro dipartimento_068,statistica,5.0,realtà,5.0,copule,5.0,stimare,5.0
-altro dipartimento_065,ipotesi,5.0,tesi,5.0,antitesi,3.0,teorema,5.0
-altro dipartimento_067,ipotesi,3.0,statistica ,4.0,problema ,3.0,dato,3.0
-altro dipartimento_068,ipotesi,4.0,verità,4.0,controllo,4.0,falsa,2.0
-altro dipartimento_065,ansia,3.0,prestazione,4.0,esame,3.0,,
-altro dipartimento_067,ansia,4.0,paura,3.0,illusione,3.0,corpo,3.0
-altro dipartimento_068,ansia,1.0,angoscia,1.0,nausea,1.0,malessere,1.0
-altro dipartimento_065,benessere,5.0,staccare,5.0,divertirsi,5.0,amici,5.0
-altro dipartimento_067,benessere,4.0,mentale ,4.0,fisico ,4.0,sport ,4.0
-altro dipartimento_068,benessere,5.0,economico,4.0,psicologico,4.0,fisico,4.0
-altro dipartimento_065,equazione,4.0,d'onda,4.0,stato,3.0,schrodinger,3.0
-altro dipartimento_067,equazione,3.0,differenziale ,2.0,rapporti ,3.0,fisica ,4.0
-altro dipartimento_068,equazione,5.0,scuola,5.0,professore,5.0,ammirazione,5.0
-altro dipartimento_065,fisica,2.0,quantistica,2.0,noiosa,3.0,affascinante,4.0
-altro dipartimento_067,fisica,4.0,spazio ,4.0,piano,4.0,spin,4.0
-altro dipartimento_068,fisica,3.0,natura,5.0,matematica,3.0,esperimenti,3.0
-altro dipartimento_065,innovazione,5.0,ai,4.0,,,,
-altro dipartimento_067,innovazione,4.0,tecnologica ,4.0,nucleare ,5.0,idea ,3.0
-altro dipartimento_068,innovazione,5.0,idea,5.0,scoperta,5.0,collaborazione,5.0
-altro dipartimento_065,panico,1.0,male,1.0,,,,
-altro dipartimento_067,panico,2.0,attacco ,3.0,pan,4.0,natura ,4.0
-altro dipartimento_068,panico,1.0,attacco,1.0,ansia,1.0,battito,1.0
-altro dipartimento_065,chatgpt,5.0,prezioso,4.0,innovazione,5.0,compagno,5.0
-altro dipartimento_067,chatgpt,2.0,sam,3.0,bianco ,4.0,superato ,5.0
-altro dipartimento_068,chatgpt,5.0,utile,5.0,energia,5.0,domande,5.0
-altro dipartimento_065,matematica,5.0,fantastica,5.0,emozionante,5.0,infinita,3.0
-altro dipartimento_067,matematica,4.0,persona,4.0,mente ,3.0,spazio,4.0
-altro dipartimento_068,matematica,4.0,collegamenti,4.0,rigore,4.0,logica,4.0
-altro dipartimento_065,analisi,4.0,dati,5.0,sangue,4.0,matematica,5.0
-altro dipartimento_067,analisi,4.0,matematica ,4.0,sangue ,2.0,nonna,5.0
-altro dipartimento_068,analisi,4.0,funzioni,4.0,derivate,4.0,integrali,4.0
-altro dipartimento_065,scoperta,5.0,innovazione,5.0,non coperta,3.0,,
-altro dipartimento_067,scoperta,4.0,scientifica ,4.0,nuova ,3.0,rivoluzione ,5.0
-altro dipartimento_068,scoperta,4.0,sconvolgente,4.0,accademia,4.0,novità,5.0
-altro dipartimento_065,scienziata,3.0,intelletto,4.0,,,,
-altro dipartimento_067,scienziata,4.0,opportunità ,4.0,italia ,4.0,rosa,4.0
-altro dipartimento_068,scienziata,5.0,computer,5.0,università,4.0,nobel,5.0
-altro dipartimento_065,docente,3.0,stress,2.0,pazienza,2.0,passione,4.0
-altro dipartimento_067,docente,3.0,università ,4.0,latino ,2.0,scuola ,4.0
-altro dipartimento_068,docente,4.0,libri,4.0,scuola,4.0,riferimento,5.0
-altro dipartimento_065,programmazione,4.0,c,4.0,python,5.0,java,3.0
-altro dipartimento_067,programmazione,2.0,informatica ,3.0,noia,4.0,superata ,5.0
-altro dipartimento_068,programmazione,3.0,linguaggio,4.0,codice,4.0,dati,4.0
-altro dipartimento_065,laboratorio,5.0,ai,5.0,dati,5.0,esperimenti,5.0
-altro dipartimento_067,laboratorio,4.0,scienza ,5.0,liquido ,3.0,vetro ,3.0
-altro dipartimento_068,laboratorio,4.0,esperimento,4.0,provette,4.0,chimica,3.0
-altro dipartimento_065,conoscenza,5.0,studio,4.0,comprensione,5.0,,
-altro dipartimento_067,conoscenza,4.0,libera ,4.0,internet ,4.0,enciclopedia ,4.0
-altro dipartimento_068,conoscenza,5.0,studio,4.0,persone,3.0,leggere,5.0
-altro dipartimento_065,fallimento,2.0,paura,1.0,futuro,3.0,,
-altro dipartimento_067,fallimento,3.0,buio,2.0,base,3.0,crescita ,4.0
-altro dipartimento_068,fallimento,1.0,risolvibile,3.0,riprovare,4.0,opportunità,4.0
-altro dipartimento_065,voto,1.0,ansia,1.0,stress,1.0,etichettatura,1.0
-altro dipartimento_067,voto,3.0,nove ,4.0,scuola ,3.0,genitori ,5.0
-altro dipartimento_068,voto,2.0,stress,1.0,università,4.0,esame,2.0
-altro dipartimento_065,numeri,5.0,pi greco,5.0,rendimento,3.0,sumeri,4.0
-altro dipartimento_067,numeri,3.0,matematica ,4.0,scuola ,4.0,addizioni ,4.0
-altro dipartimento_068,numeri,3.0,equazioni,4.0,disequazioni,4.0,radici,4.0
-altro dipartimento_065,logica,5.0,bella,5.0,matematica,5.0,puzzle,5.0
-altro dipartimento_067,logica,4.0,matematica ,4.0,filosofia ,3.0,vita ,4.0
-altro dipartimento_068,logica,5.0,pensiero,5.0,lineare,5.0,matematica,5.0
-altro dipartimento_065,ricerca,4.0,matematica,5.0,intelligenza,5.0,impegno,3.0
-altro dipartimento_067,ricerca,4.0,stimolante ,4.0,futuro,4.0,speranza ,4.0
-altro dipartimento_068,ricerca,5.0,esperimento,4.0,articoli,4.0,matematica,5.0
-altro dipartimento_065,imbarazzo,2.0,ansia,1.0,rosso,3.0,scappare,2.0
-altro dipartimento_067,imbarazzo,4.0,rosso,5.0,tavola,3.0,sconosciuti ,3.0
-altro dipartimento_068,imbarazzo,1.0,rossore,1.0,battito,1.0,paura,2.0
-altro dipartimento_065,compagni,5.0,simpatici,5.0,divertenti,5.0,affidabili,4.0
-altro dipartimento_067,compagni,4.0,comunismo,5.0,scuola,3.0,lavoro,3.0
-altro dipartimento_068,compagni,4.0,simpatici,5.0,socievoli,5.0,gentili,5.0
-altro dipartimento_065,problema,2.0,soluzione,5.0,essenziale,4.0,,
-altro dipartimento_067,problema,3.0,matematica ,4.0,risolto ,4.0,soluzione ,4.0
-altro dipartimento_068,problema,5.0,risolvere,4.0,insieme,4.0,calma,4.0
-altro dipartimento_065,informatica,5.0,bella,4.0,coding,5.0,,
-altro dipartimento_067,informatica,3.0,noia,4.0,macchina ,3.0,teorica ,4.0
-altro dipartimento_068,informatica,4.0,computer,4.0,dati,4.0,automazione,4.0
-altro dipartimento_065,sfida,4.0,impegno,4.0,occasione,5.0,,
-altro dipartimento_067,sfida,4.0,eccitante ,4.0,ansia ,4.0,crescita ,5.0
-altro dipartimento_068,sfida,4.0,determinazione,4.0,superare,4.0,aiuto,4.0
-altro dipartimento_065,paura,2.0,futuro,3.0,,,,
-altro dipartimento_067,paura,3.0,insetti ,2.0,buio,3.0,film,4.0
-altro dipartimento_068,paura,1.0,terrore,1.0,respiro,4.0,cuore,1.0
-altro dipartimento_065,genitori,2.0,assenti,1.0,lontani,1.0,bene,
-altro dipartimento_067,genitori,4.0,due ,3.0,mamma,4.0,papà,4.0
-altro dipartimento_068,genitori,5.0,famiglia,5.0,riferimento,5.0,aspettative,3.0
-altro dipartimento_065,dati,5.0,scienza,5.0,dita,3.0,numerabili,3.0
-altro dipartimento_067,dati,3.0,computer ,3.0,macchina ,3.0,laboratorio ,4.0
-altro dipartimento_068,dati,3.0,raccolta,3.0,insieme,3.0,simulazione,4.0
-altro dipartimento_065,esperimento,5.0,ingegno,5.0,teoria,5.0,scienza,5.0
-altro dipartimento_067,esperimento,3.0,fallito ,2.0,successo ,5.0,tentativo ,4.0
-altro dipartimento_068,esperimento,3.0,laboratorio,3.0,obiettivo,5.0,metodo,5.0
-altro dipartimento_065,stress,3.0,impegno,4.0,ansia,2.0,responsabilità,3.0
-altro dipartimento_067,stress,3.0,appetito ,3.0,sport ,4.0,pausa ,4.0
-altro dipartimento_068,stress,1.0,sonno,3.0,angoscia,1.0,università,4.0
-altro dipartimento_065,intelligenza_artificiale,5.0,paura,2.0,sollecitazione,4.0,occasione,4.0
-altro dipartimento_067,intelligenza_artificiale,3.0,computer ,3.0,paura ,2.0,bolla,3.0
-altro dipartimento_068,intelligenza_artificiale,4.0,gemini,4.0,reti,4.0,neuroni,4.0
-altro dipartimento_065,regole,3.0,giuste,4.0,pilastri,4.0,mattoni,5.0
-altro dipartimento_067,regole,2.0,oro,5.0,religione ,4.0,ordine ,4.0
-altro dipartimento_068,regole,4.0,rispettare,4.0,tensione,4.0,società,4.0
-altro dipartimento_065,scienziato,4.0,pazzo,3.0,strano,3.0,studioso,4.0
-altro dipartimento_067,scienziato,4.0,pazzo,5.0,precario ,3.0,italia ,3.0
-altro dipartimento_068,scienziato,5.0,ricerca,5.0,laboratorio,5.0,scoperte,5.0
-altro dipartimento_065,scuola,2.0,impegno,3.0,stress,1.0,camminata,5.0
-altro dipartimento_067,scuola,3.0,liceo,3.0,arte,4.0,divertimento ,4.0
-altro dipartimento_068,scuola,5.0,professori,4.0,alunni,4.0,materie,3.0
-altro dipartimento_065,creatività,4.0,essenziale,4.0,,,,
-altro dipartimento_067,creatività,4.0,arte,4.0,libertà,4.0,impresa ,4.0
-altro dipartimento_068,creatività,4.0,fotografia,5.0,problemi,4.0,scrivere,5.0
-altro dipartimento_065,arte,3.0,quadri,4.0,statue,4.0,,
-altro dipartimento_067,arte,4.0,disegno ,4.0,penna,4.0,virtuosismo ,5.0
-altro dipartimento_068,arte,5.0,comunicare,5.0,dipinto,5.0,scultura,5.0
-altro dipartimento_065,esame,3.0,ansia,2.0,occasione,4.0,,
-altro dipartimento_067,esame,3.0,ansia,3.0,sole,4.0,sicurezza ,4.0
-altro dipartimento_068,esame,1.0,ansia,1.0,stress,1.0,performance,3.0
-altro dipartimento_065,futuro,2.0,prossimo,3.0,incognita,2.0,,
-altro dipartimento_067,futuro,4.0,nazionale ,2.0,speranza ,4.0,scommessa ,4.0
-altro dipartimento_068,futuro,4.0,ansia,1.0,aspettative,3.0,curiosità,5.0
-altro dipartimento_065,vita,3.0,morte,2.0,miracoli,2.0,giro,3.0
-altro dipartimento_067,vita,4.0,morte ,3.0,cellula ,4.0,dio ,5.0
-altro dipartimento_068,vita,5.0,persone,4.0,felicità,5.0,serenità,5.0
+altro dipartimento_001,scienza,4.0,innovazione,5.0,essenziale,5.0,,
+altro dipartimento_003,scienza,4.0,fede,5.0,matematica ,4.0,biologia ,4.0
+altro dipartimento_004,scienza,4.0,umanità,5.0,inclusione,5.0,progresso,5.0
+altro dipartimento_001,statistica,4.0,speranza,5.0,,,,
+altro dipartimento_003,statistica,4.0,normale ,4.0,gaussiana ,3.0,dati,3.0
+altro dipartimento_004,statistica,5.0,realtà,5.0,copule,5.0,stimare,5.0
+altro dipartimento_001,ipotesi,5.0,tesi,5.0,antitesi,3.0,teorema,5.0
+altro dipartimento_003,ipotesi,3.0,statistica ,4.0,problema ,3.0,dato,3.0
+altro dipartimento_004,ipotesi,4.0,verità,4.0,controllo,4.0,falsa,2.0
+altro dipartimento_001,ansia,3.0,prestazione,4.0,esame,3.0,,
+altro dipartimento_003,ansia,4.0,paura,3.0,illusione,3.0,corpo,3.0
+altro dipartimento_004,ansia,1.0,angoscia,1.0,nausea,1.0,malessere,1.0
+altro dipartimento_001,benessere,5.0,staccare,5.0,divertirsi,5.0,amici,5.0
+altro dipartimento_003,benessere,4.0,mentale ,4.0,fisico ,4.0,sport ,4.0
+altro dipartimento_004,benessere,5.0,economico,4.0,psicologico,4.0,fisico,4.0
+altro dipartimento_001,equazione,4.0,d'onda,4.0,stato,3.0,schrodinger,3.0
+altro dipartimento_003,equazione,3.0,differenziale ,2.0,rapporti ,3.0,fisica ,4.0
+altro dipartimento_004,equazione,5.0,scuola,5.0,professore,5.0,ammirazione,5.0
+altro dipartimento_001,fisica,2.0,quantistica,2.0,noiosa,3.0,affascinante,4.0
+altro dipartimento_003,fisica,4.0,spazio ,4.0,piano,4.0,spin,4.0
+altro dipartimento_004,fisica,3.0,natura,5.0,matematica,3.0,esperimenti,3.0
+altro dipartimento_001,innovazione,5.0,ai,4.0,,,,
+altro dipartimento_003,innovazione,4.0,tecnologica ,4.0,nucleare ,5.0,idea ,3.0
+altro dipartimento_004,innovazione,5.0,idea,5.0,scoperta,5.0,collaborazione,5.0
+altro dipartimento_001,panico,1.0,male,1.0,,,,
+altro dipartimento_003,panico,2.0,attacco ,3.0,pan,4.0,natura ,4.0
+altro dipartimento_004,panico,1.0,attacco,1.0,ansia,1.0,battito,1.0
+altro dipartimento_001,chatgpt,5.0,prezioso,4.0,innovazione,5.0,compagno,5.0
+altro dipartimento_003,chatgpt,2.0,sam,3.0,bianco ,4.0,superato ,5.0
+altro dipartimento_004,chatgpt,5.0,utile,5.0,energia,5.0,domande,5.0
+altro dipartimento_001,matematica,5.0,fantastica,5.0,emozionante,5.0,infinita,3.0
+altro dipartimento_003,matematica,4.0,persona,4.0,mente ,3.0,spazio,4.0
+altro dipartimento_004,matematica,4.0,collegamenti,4.0,rigore,4.0,logica,4.0
+altro dipartimento_001,analisi,4.0,dati,5.0,sangue,4.0,matematica,5.0
+altro dipartimento_003,analisi,4.0,matematica ,4.0,sangue ,2.0,nonna,5.0
+altro dipartimento_004,analisi,4.0,funzioni,4.0,derivate,4.0,integrali,4.0
+altro dipartimento_001,scoperta,5.0,innovazione,5.0,non coperta,3.0,,
+altro dipartimento_003,scoperta,4.0,scientifica ,4.0,nuova ,3.0,rivoluzione ,5.0
+altro dipartimento_004,scoperta,4.0,sconvolgente,4.0,accademia,4.0,novità,5.0
+altro dipartimento_001,scienziata,3.0,intelletto,4.0,,,,
+altro dipartimento_003,scienziata,4.0,opportunità ,4.0,italia ,4.0,rosa,4.0
+altro dipartimento_004,scienziata,5.0,computer,5.0,università,4.0,nobel,5.0
+altro dipartimento_001,docente,3.0,stress,2.0,pazienza,2.0,passione,4.0
+altro dipartimento_003,docente,3.0,università ,4.0,latino ,2.0,scuola ,4.0
+altro dipartimento_004,docente,4.0,libri,4.0,scuola,4.0,riferimento,5.0
+altro dipartimento_001,programmazione,4.0,c,4.0,python,5.0,java,3.0
+altro dipartimento_003,programmazione,2.0,informatica ,3.0,noia,4.0,superata ,5.0
+altro dipartimento_004,programmazione,3.0,linguaggio,4.0,codice,4.0,dati,4.0
+altro dipartimento_001,laboratorio,5.0,ai,5.0,dati,5.0,esperimenti,5.0
+altro dipartimento_003,laboratorio,4.0,scienza ,5.0,liquido ,3.0,vetro ,3.0
+altro dipartimento_004,laboratorio,4.0,esperimento,4.0,provette,4.0,chimica,3.0
+altro dipartimento_001,conoscenza,5.0,studio,4.0,comprensione,5.0,,
+altro dipartimento_003,conoscenza,4.0,libera ,4.0,internet ,4.0,enciclopedia ,4.0
+altro dipartimento_004,conoscenza,5.0,studio,4.0,persone,3.0,leggere,5.0
+altro dipartimento_001,fallimento,2.0,paura,1.0,futuro,3.0,,
+altro dipartimento_003,fallimento,3.0,buio,2.0,base,3.0,crescita ,4.0
+altro dipartimento_004,fallimento,1.0,risolvibile,3.0,riprovare,4.0,opportunità,4.0
+altro dipartimento_001,voto,1.0,ansia,1.0,stress,1.0,etichettatura,1.0
+altro dipartimento_003,voto,3.0,nove ,4.0,scuola ,3.0,genitori ,5.0
+altro dipartimento_004,voto,2.0,stress,1.0,università,4.0,esame,2.0
+altro dipartimento_001,numeri,5.0,pi greco,5.0,rendimento,3.0,sumeri,4.0
+altro dipartimento_003,numeri,3.0,matematica ,4.0,scuola ,4.0,addizioni ,4.0
+altro dipartimento_004,numeri,3.0,equazioni,4.0,disequazioni,4.0,radici,4.0
+altro dipartimento_001,logica,5.0,bella,5.0,matematica,5.0,puzzle,5.0
+altro dipartimento_003,logica,4.0,matematica ,4.0,filosofia ,3.0,vita ,4.0
+altro dipartimento_004,logica,5.0,pensiero,5.0,lineare,5.0,matematica,5.0
+altro dipartimento_001,ricerca,4.0,matematica,5.0,intelligenza,5.0,impegno,3.0
+altro dipartimento_003,ricerca,4.0,stimolante ,4.0,futuro,4.0,speranza ,4.0
+altro dipartimento_004,ricerca,5.0,esperimento,4.0,articoli,4.0,matematica,5.0
+altro dipartimento_001,imbarazzo,2.0,ansia,1.0,rosso,3.0,scappare,2.0
+altro dipartimento_003,imbarazzo,4.0,rosso,5.0,tavola,3.0,sconosciuti ,3.0
+altro dipartimento_004,imbarazzo,1.0,rossore,1.0,battito,1.0,paura,2.0
+altro dipartimento_001,compagni,5.0,simpatici,5.0,divertenti,5.0,affidabili,4.0
+altro dipartimento_003,compagni,4.0,comunismo,5.0,scuola,3.0,lavoro,3.0
+altro dipartimento_004,compagni,4.0,simpatici,5.0,socievoli,5.0,gentili,5.0
+altro dipartimento_001,problema,2.0,soluzione,5.0,essenziale,4.0,,
+altro dipartimento_003,problema,3.0,matematica ,4.0,risolto ,4.0,soluzione ,4.0
+altro dipartimento_004,problema,5.0,risolvere,4.0,insieme,4.0,calma,4.0
+altro dipartimento_001,informatica,5.0,bella,4.0,coding,5.0,,
+altro dipartimento_003,informatica,3.0,noia,4.0,macchina ,3.0,teorica ,4.0
+altro dipartimento_004,informatica,4.0,computer,4.0,dati,4.0,automazione,4.0
+altro dipartimento_001,sfida,4.0,impegno,4.0,occasione,5.0,,
+altro dipartimento_003,sfida,4.0,eccitante ,4.0,ansia ,4.0,crescita ,5.0
+altro dipartimento_004,sfida,4.0,determinazione,4.0,superare,4.0,aiuto,4.0
+altro dipartimento_001,paura,2.0,futuro,3.0,,,,
+altro dipartimento_003,paura,3.0,insetti ,2.0,buio,3.0,film,4.0
+altro dipartimento_004,paura,1.0,terrore,1.0,respiro,4.0,cuore,1.0
+altro dipartimento_001,genitori,2.0,assenti,1.0,lontani,1.0,bene,
+altro dipartimento_003,genitori,4.0,due ,3.0,mamma,4.0,papà,4.0
+altro dipartimento_004,genitori,5.0,famiglia,5.0,riferimento,5.0,aspettative,3.0
+altro dipartimento_001,dati,5.0,scienza,5.0,dita,3.0,numerabili,3.0
+altro dipartimento_003,dati,3.0,computer ,3.0,macchina ,3.0,laboratorio ,4.0
+altro dipartimento_004,dati,3.0,raccolta,3.0,insieme,3.0,simulazione,4.0
+altro dipartimento_001,esperimento,5.0,ingegno,5.0,teoria,5.0,scienza,5.0
+altro dipartimento_003,esperimento,3.0,fallito ,2.0,successo ,5.0,tentativo ,4.0
+altro dipartimento_004,esperimento,3.0,laboratorio,3.0,obiettivo,5.0,metodo,5.0
+altro dipartimento_001,stress,3.0,impegno,4.0,ansia,2.0,responsabilità,3.0
+altro dipartimento_003,stress,3.0,appetito ,3.0,sport ,4.0,pausa ,4.0
+altro dipartimento_004,stress,1.0,sonno,3.0,angoscia,1.0,università,4.0
+altro dipartimento_001,intelligenza_artificiale,5.0,paura,2.0,sollecitazione,4.0,occasione,4.0
+altro dipartimento_003,intelligenza_artificiale,3.0,computer ,3.0,paura ,2.0,bolla,3.0
+altro dipartimento_004,intelligenza_artificiale,4.0,gemini,4.0,reti,4.0,neuroni,4.0
+altro dipartimento_001,regole,3.0,giuste,4.0,pilastri,4.0,mattoni,5.0
+altro dipartimento_003,regole,2.0,oro,5.0,religione ,4.0,ordine ,4.0
+altro dipartimento_004,regole,4.0,rispettare,4.0,tensione,4.0,società,4.0
+altro dipartimento_001,scienziato,4.0,pazzo,3.0,strano,3.0,studioso,4.0
+altro dipartimento_003,scienziato,4.0,pazzo,5.0,precario ,3.0,italia ,3.0
+altro dipartimento_004,scienziato,5.0,ricerca,5.0,laboratorio,5.0,scoperte,5.0
+altro dipartimento_001,scuola,2.0,impegno,3.0,stress,1.0,camminata,5.0
+altro dipartimento_003,scuola,3.0,liceo,3.0,arte,4.0,divertimento ,4.0
+altro dipartimento_004,scuola,5.0,professori,4.0,alunni,4.0,materie,3.0
+altro dipartimento_001,creatività,4.0,essenziale,4.0,,,,
+altro dipartimento_003,creatività,4.0,arte,4.0,libertà,4.0,impresa ,4.0
+altro dipartimento_004,creatività,4.0,fotografia,5.0,problemi,4.0,scrivere,5.0
+altro dipartimento_001,arte,3.0,quadri,4.0,statue,4.0,,
+altro dipartimento_003,arte,4.0,disegno ,4.0,penna,4.0,virtuosismo ,5.0
+altro dipartimento_004,arte,5.0,comunicare,5.0,dipinto,5.0,scultura,5.0
+altro dipartimento_001,esame,3.0,ansia,2.0,occasione,4.0,,
+altro dipartimento_003,esame,3.0,ansia,3.0,sole,4.0,sicurezza ,4.0
+altro dipartimento_004,esame,1.0,ansia,1.0,stress,1.0,performance,3.0
+altro dipartimento_001,futuro,2.0,prossimo,3.0,incognita,2.0,,
+altro dipartimento_003,futuro,4.0,nazionale ,2.0,speranza ,4.0,scommessa ,4.0
+altro dipartimento_004,futuro,4.0,ansia,1.0,aspettative,3.0,curiosità,5.0
+altro dipartimento_001,vita,3.0,morte,2.0,miracoli,2.0,giro,3.0
+altro dipartimento_003,vita,4.0,morte ,3.0,cellula ,4.0,dio ,5.0
+altro dipartimento_004,vita,5.0,persone,4.0,felicità,5.0,serenità,5.0
