@@ -1,0 +1,1009 @@
+participant_id,cue_word,valence_cue_word,association_1,valence_association_1,association_2,valence_association_2,association_3,valence_association_3
+fisica_003,scienza,5.0,scoperte,4.0,magia,4.0,rigoroso,4.0
+fisica_005,scienza,5.0,conoscenza,4.0,ricerca,4.0,scoperta,4.0
+fisica_007,scienza,5.0,fisica,5.0,chimica,3.0,psicologia,4.0
+fisica_010,scienza,4.0,lume,4.0,ricerca,4.0,studio,3.0
+fisica_stem_001_1,scienza,5.0,blu,4.0,provetta,4.0,scienziato,5.0
+fisica_012,scienza,4.0,curiosità ,5.0,superiori,2.0,persone,4.0
+fisica_stem_002_1,scienza,4.0,progresso,2.0,conoscenza,5.0,natura,5.0
+fisica_stem_003_1,scienza,3.0,studio,3.0,scoperta,4.0,accorgimenti ,4.0
+fisica_017,scienza,4.0,vita,5.0,ricerca ,5.0,progresso,5.0
+fisica_018,scienza,4.0,scoperta,5.0,chimica,2.0,verde,2.0
+fisica_020,scienza,3.0,merendine,2.0,chimica,4.0,fisica,4.0
+fisica_021,scienza,4.0,barbara,3.0,scula elementare,3.0,james watson,4.0
+fisica_022,scienza,2.0,strumento,2.0,matematica,2.0,rigidità,1.0
+fisica_stem_005_1,scienza,5.0,invenzioni,4.0,natura,4.0,creatività ,5.0
+fisica_unitn_009,scienza,4.0,innovazione,5.0,essenziale,5.0,,
+fisica_unitn_011,scienza,4.0,fede,5.0,matematica ,4.0,biologia ,4.0
+fisica_unitn_002,scienza,5.0,natura,5.0,biologia ,5.0,oceano ,5.0
+fisica_unitn_003,scienza,3.0,verde,4.0,foglia,4.0,provette,3.0
+fisica_unitn_004,scienza,4.0,fisica,4.0,biologia,3.0,chimica,3.0
+fisica_unitn_012,scienza,4.0,umanità,5.0,inclusione,5.0,progresso,5.0
+fisica_unitn_005,scienza,5.0,fisica,5.0,ricerca,5.0,ipotesi,4.0
+fisica_unitn_006,scienza,4.0,spazio,5.0,futuro,4.0,tecnologia,5.0
+fisica_unitn_007,scienza,3.0,ingegneria,3.0,laurea,3.0,laura,3.0
+fisica_unitn_008,scienza,4.0,sviluppo,5.0,evoluzione ,5.0,dogmi,1.0
+fisica_003,statistica,3.0,dati,3.0,numero,3.0,media,3.0
+fisica_005,statistica,3.0,probabilità ,3.0,evento,3.0,casualità ,3.0
+fisica_007,statistica,3.0,laboratorio,3.0,relazione,2.0,noia,2.0
+fisica_010,statistica,3.0,prof,3.0,laboratorio ,3.0,esame,3.0
+fisica_stem_001_1,statistica,2.0,panico,2.0,pianto,3.0,non capire nulla,1.0
+fisica_012,statistica,3.0,dati ,4.0,verità ,5.0,,
+fisica_stem_002_1,statistica,2.0,distribuzioni,4.0,dati,3.0,elaborazione,3.0
+fisica_stem_003_1,statistica,3.0,percentuali ,3.0,realtà ,3.0,guadagnare,3.0
+fisica_017,statistica,5.0,necessaria ,5.0,utile ,5.0,noiosa,2.0
+fisica_018,statistica,4.0,laboratorio 1,4.0,gaussiana,4.0,birra,5.0
+fisica_020,statistica,3.0,matematica,3.0,quantistica,5.0,,
+fisica_021,statistica,4.0,compagno di classe,2.0,matematica,3.0,precisione,4.0
+fisica_022,statistica,2.0,verità,5.0,accuratezza,3.0,sintesi,4.0
+fisica_stem_005_1,statistica,4.0,linguaggio,4.0,lettura,5.0,numeri,4.0
+fisica_unitn_009,statistica,4.0,speranza,5.0,,,,
+fisica_unitn_011,statistica,4.0,normale ,4.0,gaussiana ,3.0,dati,3.0
+fisica_unitn_002,statistica,2.0,numeri ,3.0,,,,
+fisica_unitn_003,statistica,3.0,matematica,3.0,numeri,3.0,serie,3.0
+fisica_unitn_004,statistica,4.0,analisi,4.0,fit,5.0,relazione,4.0
+fisica_unitn_012,statistica,5.0,realtà,5.0,copule,5.0,stimare,5.0
+fisica_unitn_005,statistica,4.0,chi quadro,4.0,probabilità ,4.0,media,4.0
+fisica_unitn_006,statistica,4.0,bizzarra,4.0,interessante,4.0,,
+fisica_unitn_007,statistica,3.0,matematica,3.0,numeri,3.0,algebra,4.0
+fisica_unitn_008,statistica,4.0,legge,4.0,studio,5.0,,
+fisica_003,ipotesi,3.0,induttiva,3.0,idea,4.0,falsa,2.0
+fisica_005,ipotesi,3.0,tesi,3.0,dimostrazione,3.0,teorema,3.0
+fisica_007,ipotesi,4.0,tesi,4.0,teoria,4.0,prova,3.0
+fisica_010,ipotesi,4.0,tesi,4.0,dimostrazione,3.0,analisi,3.0
+fisica_stem_001_1,ipotesi,2.0,teorema,4.0,problema,4.0,,
+fisica_012,ipotesi,4.0,inizio,4.0,geometria,4.0,personale ,3.0
+fisica_stem_002_1,ipotesi,3.0,tesi,3.0,teorema,4.0,dimostrazione,4.0
+fisica_stem_003_1,ipotesi,4.0,idea,4.0,controllare,3.0,novità ,3.0
+fisica_017,ipotesi,5.0,possibilità ,5.0,progetto ,5.0,,
+fisica_018,ipotesi,3.0,tesi,3.0,verifica,2.0,dimostrazione,4.0
+fisica_020,ipotesi,3.0,antitesi,3.0,teorema,3.0,,
+fisica_021,ipotesi,3.0,esperimento,4.0,problema,3.0,me da piccolo,4.0
+fisica_022,ipotesi,3.0,interesse,5.0,detection,1.0,fallibilità,4.0
+fisica_stem_005_1,ipotesi,3.0,idea,5.0,creatività,5.0,teoremi,3.0
+fisica_unitn_009,ipotesi,5.0,tesi,5.0,antitesi,3.0,teorema,5.0
+fisica_unitn_011,ipotesi,3.0,statistica ,4.0,problema ,3.0,dato,3.0
+fisica_unitn_002,ipotesi,3.0,quesito ,4.0,soluzione ,5.0,,
+fisica_unitn_003,ipotesi,3.0,dimostrazione,3.0,prova,3.0,test,3.0
+fisica_unitn_004,ipotesi,4.0,dimostrazione,4.0,tesi,4.0,teoria,4.0
+fisica_unitn_012,ipotesi,4.0,verità,4.0,controllo,4.0,falsa,2.0
+fisica_unitn_005,ipotesi,4.0,tesi,4.0,conferma,5.0,scienza,5.0
+fisica_unitn_006,ipotesi,4.0,tesi,3.0,trovare,4.0,esperimento,5.0
+fisica_unitn_007,ipotesi,4.0,tesi,4.0,esperimento,4.0,metodo scientifico,4.0
+fisica_unitn_008,ipotesi,4.0,intuizione,5.0,pensieri,4.0,costruzione ,5.0
+fisica_003,ansia,1.0,preoccupazioni,2.0,futuro,3.0,lavoro,3.0
+fisica_005,ansia,2.0,paura,2.0,panico,2.0,agitazione,2.0
+fisica_007,ansia,1.0,analisi,3.0,esami,2.0,sessione,2.0
+fisica_010,ansia,2.0,universita,2.0,inadeguatezza,2.0,fallimento,2.0
+fisica_stem_001_1,ansia,2.0,forte,3.0,imprigionante,1.0,terribile,1.0
+fisica_012,ansia,2.0,inadeguatezza ,1.0,aspettative,1.0,,
+fisica_stem_002_1,ansia,1.0,paralisi,1.0,insuccesso,1.0,vergogna,1.0
+fisica_stem_003_1,ansia,3.0,ahia,2.0,preparazione ,4.0,allerta,3.0
+fisica_017,ansia,5.0,esami,5.0,vita,5.0,futuro,5.0
+fisica_018,ansia,1.0,stress,1.0,unghie,1.0,esame,3.0
+fisica_020,ansia,1.0,prestazione,3.0,esame,1.0,,
+fisica_021,ansia,1.0,io,1.0,tanta,1.0,infermabile,1.0
+fisica_022,ansia,4.0,dolore,4.0,preoccupazione,4.0,sfida,5.0
+fisica_stem_005_1,ansia,1.0,mostro,1.0,perdita,1.0,dolore,1.0
+fisica_unitn_009,ansia,3.0,prestazione,4.0,esame,3.0,,
+fisica_unitn_011,ansia,4.0,paura,3.0,illusione,3.0,corpo,3.0
+fisica_unitn_002,ansia,1.0,esame ,3.0,fallimento ,1.0,,
+fisica_unitn_003,ansia,2.0,esame,3.0,stress,2.0,fiato,3.0
+fisica_unitn_004,ansia,2.0,panico ,1.0,timore,2.0,paura,2.0
+fisica_unitn_012,ansia,1.0,angoscia,1.0,nausea,1.0,malessere,1.0
+fisica_unitn_005,ansia,2.0,sudore,1.0,tremolio,1.0,paura,1.0
+fisica_unitn_006,ansia,3.0,futuro,4.0,fuori controllo,2.0,collasso,2.0
+fisica_unitn_007,ansia,4.0,sensazione,4.0,sentimento,4.0,emozione,4.0
+fisica_unitn_008,ansia,2.0,irrazionalità,1.0,paura,3.0,debolezza,1.0
+fisica_003,benessere,5.0,calma,5.0,tempo,4.0,presenza,5.0
+fisica_005,benessere,4.0,tranquillità ,5.0,pace,5.0,serenità ,5.0
+fisica_007,benessere,5.0,denaro,4.0,famiglia,5.0,amore,5.0
+fisica_010,benessere,4.0,relax,4.0,mare,4.0,vacanza,5.0
+fisica_stem_001_1,benessere,5.0,amore,4.0,sicurezza,5.0,affetto,5.0
+fisica_012,benessere,4.0,società ,4.0,equilibrio ,5.0,tempo,5.0
+fisica_stem_002_1,benessere,5.0,equilibrio,5.0,consapevolezza,5.0,supporto,5.0
+fisica_stem_003_1,benessere,4.0,verde,3.0,sole,3.0,acqua ,4.0
+fisica_017,benessere,5.0,speranza,3.0,mentale ,5.0,fisico,5.0
+fisica_018,benessere,5.0,mentale,4.0,rottura,2.0,malattia,1.0
+fisica_020,benessere,3.0,relax,4.0,casa,3.0,mare,2.0
+fisica_021,benessere,3.0,,,,,,
+fisica_022,benessere,4.0,libertà,5.0,solidità,4.0,uguaglianza,5.0
+fisica_stem_005_1,benessere,5.0,riposo,5.0,relazioni,5.0,passioni,5.0
+fisica_unitn_009,benessere,5.0,staccare,5.0,divertirsi,5.0,amici,5.0
+fisica_unitn_011,benessere,4.0,mentale ,4.0,fisico ,4.0,sport ,4.0
+fisica_unitn_002,benessere,5.0,tranquillità ,5.0,,,,
+fisica_unitn_003,benessere,4.0,relax,5.0,lento,3.0,calmo,3.0
+fisica_unitn_004,benessere,4.0,mentale,4.0,serenità ,5.0,felicità ,5.0
+fisica_unitn_012,benessere,5.0,economico,4.0,psicologico,4.0,fisico,4.0
+fisica_unitn_005,benessere,5.0,mentale ,5.0,fisico,5.0,spa,5.0
+fisica_unitn_006,benessere,4.0,ricchezza,4.0,foresta,5.0,lavoro,4.0
+fisica_unitn_007,benessere,5.0,malessere,5.0,male,5.0,bene,5.0
+fisica_unitn_008,benessere,4.0,leggerezza,3.0,mentale,5.0,positività ,5.0
+fisica_003,equazione,3.0,calcoli,3.0,matematica,3.0,soluzione,4.0
+fisica_005,equazione,3.0,variabile,3.0,soluzione,3.0,incognita,4.0
+fisica_007,equazione,3.0,autovalori,3.0,schroedinger,3.0,grado,3.0
+fisica_010,equazione,3.0,matematica,4.0,fisica,4.0,numeri,3.0
+fisica_stem_001_1,equazione,4.0,affascinante,4.0,gesso,5.0,sfida,2.0
+fisica_012,equazione,4.0,informazioni,4.0,,,,
+fisica_stem_002_1,equazione,3.0,algebra,3.0,legge,3.0,associazione,4.0
+fisica_stem_003_1,equazione,3.0,più ,3.0,diviso,3.0,fratto,3.0
+fisica_017,equazione,5.0,matematica,5.0, legge,5.0,quotidianità,5.0
+fisica_018,equazione,4.0,x,4.0,risoluzione,5.0,differenziale,1.0
+fisica_020,equazione,3.0,,,,,,
+fisica_021,equazione,3.0,facile,4.0,x,3.0,'=,3.0
+fisica_022,equazione,4.0,uguale,3.0,massimo,2.0,satirico,2.0
+fisica_stem_005_1,equazione,3.0,soluzione,5.0,sfida,4.0,rappresentazione,4.0
+fisica_unitn_009,equazione,4.0,d'onda,4.0,stato,3.0,schrodinger,3.0
+fisica_unitn_011,equazione,3.0,differenziale ,2.0,rapporti ,3.0,fisica ,4.0
+fisica_unitn_002,equazione,4.0,derivata ,4.0,matematica ,4.0,integrali ,4.0
+fisica_unitn_003,equazione,3.0,shockely,3.0,numeri,3.0,formula,3.0
+fisica_unitn_004,equazione,3.0,numeri,3.0,simboli,3.0,interpretazione,4.0
+fisica_unitn_012,equazione,5.0,scuola,5.0,professore,5.0,ammirazione,5.0
+fisica_unitn_005,equazione,4.0,disequazione,4.0,uguaglianza,4.0,legge,4.0
+fisica_unitn_006,equazione,3.0,lagrange,3.0,legge,2.0,equilibrio,5.0
+fisica_unitn_007,equazione,3.0,algebra,4.0,geometria,4.0,topologia,4.0
+fisica_unitn_008,equazione,5.0,calcolo,5.0,risultato,4.0,associazione ,5.0
+fisica_003,fisica,5.0,scoperta,5.0,mondo,5.0,universo,5.0
+fisica_005,fisica,5.0,curiosità ,5.0,conoscenza,5.0,ricerca,4.0
+fisica_007,fisica,5.0,bella,5.0,interessante,5.0,universale,5.0
+fisica_010,fisica,4.0,curiosita,5.0,problema ,3.0,scoprire,4.0
+fisica_stem_001_1,fisica,4.0,bella,4.0,interessante,3.0,esperimento,4.0
+fisica_012,fisica,4.0,scoperta,4.0,sforzo,4.0,insaziabile ,5.0
+fisica_stem_002_1,fisica,5.0,matematica,5.0,astronomia,5.0,particelle,5.0
+fisica_stem_003_1,fisica,3.0,pesi,4.0,scienza,4.0,realtà ,4.0
+fisica_017,fisica,5.0,ovunque ,4.0,natura ,5.0,curiosità,5.0
+fisica_018,fisica,4.0,elettrodinamica,3.0,orale,2.0,meccanica,5.0
+fisica_020,fisica,3.0,,,,,,
+fisica_021,fisica,5.0,oss,5.0,aula università,3.0,lim,3.0
+fisica_022,fisica,4.0,amore,5.0,vita,5.0,società,2.0
+fisica_stem_005_1,fisica,4.0,equazioni ,4.0,natura,3.0,problemi ,3.0
+fisica_unitn_009,fisica,2.0,quantistica,2.0,noiosa,3.0,affascinante,4.0
+fisica_unitn_011,fisica,4.0,spazio ,4.0,piano,4.0,spin,4.0
+fisica_unitn_002,fisica,5.0,natura ,5.0,mistero ,5.0,conoscenza ,5.0
+fisica_unitn_003,fisica,4.0,verde,4.0,onde,4.0,materia,3.0
+fisica_unitn_004,fisica,5.0,ricerca,4.0,dottorato,4.0,scienziato,4.0
+fisica_unitn_012,fisica,3.0,natura,5.0,matematica,3.0,esperimenti,3.0
+fisica_unitn_005,fisica,5.0,quantistica ,5.0,statistica,4.0,sperimentale,3.0
+fisica_unitn_006,fisica,4.0,materia,4.0,sostanza,4.0,matematica,4.0
+fisica_unitn_007,fisica,3.0,matematica,3.0,ia,4.0,tech,3.0
+fisica_unitn_008,fisica,5.0,natura,5.0,leggi,3.0,coscienza,5.0
+fisica_003,innovazione,4.0,energia,4.0,ambiente,5.0,tecnologie,3.0
+fisica_005,innovazione,4.0,scoperta,4.0,progresso,4.0,ricerca,4.0
+fisica_007,innovazione,5.0,nuovo,4.0,oggetti,3.0,scienza,5.0
+fisica_010,innovazione,5.0,novità ,5.0,scoprire,5.0,studio,3.0
+fisica_stem_001_1,innovazione,3.0,tecnologia,2.0,verde,4.0,,
+fisica_012,innovazione,3.0,tecnologia,4.0,novità ,4.0,sconosciuto,3.0
+fisica_stem_002_1,innovazione,2.0,tecnologia,2.0,futuro,2.0,etica,5.0
+fisica_stem_003_1,innovazione,4.0,novità ,4.0,differenza ,4.0,prospettiva ,4.0
+fisica_017,innovazione,5.0,scienza ,5.0,arte ,5.0,vita ,3.0
+fisica_018,innovazione,2.0,scienze,3.0,invenzione,4.0,ricerca,2.0
+fisica_020,innovazione,3.0,,,,,,
+fisica_021,innovazione,4.0,,,,,,
+fisica_022,innovazione,5.0,nuova,5.0,cambiamento,5.0,analisi,3.0
+fisica_stem_005_1,innovazione,3.0,genialità ,5.0,creatività,5.0,tecnica,5.0
+fisica_unitn_009,innovazione,5.0,ai,4.0,,,,
+fisica_unitn_011,innovazione,4.0,tecnologica ,4.0,nucleare ,5.0,idea ,3.0
+fisica_unitn_002,innovazione,4.0,tecnologia ,4.0,macchine ,3.0,,
+fisica_unitn_003,innovazione,3.0,tecnologia,3.0,scoperta,3.0,invenzione,4.0
+fisica_unitn_004,innovazione,4.0,tecnologia,4.0,informatica,3.0,universita,4.0
+fisica_unitn_012,innovazione,5.0,idea,5.0,scoperta,5.0,collaborazione,5.0
+fisica_unitn_005,innovazione,5.0,tecnologia ,5.0,ingegneria,5.0,fondi,5.0
+fisica_unitn_006,innovazione,5.0,futuro,4.0,ingegneria,4.0,scienza,4.0
+fisica_unitn_007,innovazione,4.0,novità,4.0,nobita,3.0,doraemon,3.0
+fisica_unitn_008,innovazione,3.0,tecnologia ,3.0,miglioria,5.0,cambiamento,4.0
+fisica_003,panico,1.0,crisi,2.0,battito,2.0,tremore,1.0
+fisica_005,panico,2.0,paura,1.0,ansia,2.0,stress,2.0
+fisica_007,panico,1.0,lazza,3.0,attacco,1.0,ansia,1.0
+fisica_010,panico,1.0,ansia,1.0,paura,1.0,attacco,1.0
+fisica_stem_001_1,panico,2.0,stomaco,1.0,formiche,2.0,vomito,1.0
+fisica_012,panico,2.0,neffa,4.0,soffocamento,1.0,inadeguatezza ,1.0
+fisica_stem_002_1,panico,1.0,paralisi,1.0,nebbia mentale,1.0,crisi,1.0
+fisica_stem_003_1,panico,3.0,correre,4.0,scappare,2.0,difesa,2.0
+fisica_017,panico,5.0,spesso,2.0,esami,5.0,futuro,5.0
+fisica_018,panico,1.0,urlo,2.0,paura,2.0,imbarazzo,2.0
+fisica_020,panico,3.0,,,,,,
+fisica_021,panico,2.0,forte,1.0,subuito,1.0,veloce,1.0
+fisica_022,panico,1.0,paura,1.0,tremore,4.0,inuguaglianza,2.0
+fisica_stem_005_1,panico,1.0,vergogna,1.0,ansia ,1.0,paura,1.0
+fisica_unitn_009,panico,1.0,male,1.0,,,,
+fisica_unitn_011,panico,2.0,attacco ,3.0,pan,4.0,natura ,4.0
+fisica_unitn_002,panico,1.0,aria ,3.0,viola ,2.0,,
+fisica_unitn_003,panico,2.0,ansia,2.0,scuola,3.0,mani,3.0
+fisica_unitn_004,panico,1.0,ansia,2.0,paura,2.0,cuore,3.0
+fisica_unitn_012,panico,1.0,attacco,1.0,ansia,1.0,battito,1.0
+fisica_unitn_005,panico,1.0,paura ,1.0,ansia,1.0,fuga,3.0
+fisica_unitn_006,panico,1.0,incendio,2.0,acqua,3.0,tempo,3.0
+fisica_unitn_007,panico,3.0,paura,3.0,ansia,4.0,amigdala,4.0
+fisica_unitn_008,panico,1.0,ansia,1.0,irrazionalità,1.0,paura,1.0
+fisica_003,meditazione,5.0,calma,5.0,libertà,5.0,pulizia,4.0
+fisica_005,meditazione,4.0,pace,5.0,silenzio,5.0,connessione,4.0
+fisica_007,meditazione,3.0,yoga,3.0,zen,3.0,pace,4.0
+fisica_010,meditazione,4.0,riflettere,4.0,scoprire,4.0,pensare,4.0
+fisica_stem_001_1,meditazione,4.0,zen,2.0,monaco,2.0,,
+fisica_012,meditazione,5.0,buddismo ,3.0,calma,5.0,salute ,5.0
+fisica_stem_002_1,meditazione,5.0,isolamento,5.0,elaborazione,5.0,rilassamento,4.0
+fisica_stem_003_1,meditazione,5.0,pausa,4.0,riflessione,4.0,grounding,5.0
+fisica_017,meditazione,5.0,servirebbe,3.0,lenta ,4.0,noiosa,4.0
+fisica_018,meditazione,3.0,cuffie,3.0,vento,4.0,silenzio,5.0
+fisica_020,meditazione,3.0,,,,,,
+fisica_021,meditazione,3.0,,,,,,
+fisica_022,meditazione,4.0,profonda,5.0,inutile,3.0,strad,3.0
+fisica_stem_005_1,meditazione,3.0,rilassamento ,5.0,riposo,5.0,cura,5.0
+fisica_unitn_009,chatgpt,5.0,prezioso,4.0,innovazione,5.0,compagno,5.0
+fisica_unitn_011,chatgpt,2.0,sam,3.0,bianco ,4.0,superato ,5.0
+fisica_unitn_002,chatgpt,3.0,aiuto ,4.0,,,,
+fisica_unitn_003,chatgpt,3.0,gemini,3.0,google,3.0,scuro,3.0
+fisica_unitn_004,chatgpt,2.0,intelligenza artificiale ,3.0,informatica,3.0,llm,3.0
+fisica_unitn_012,chatgpt,5.0,utile,5.0,energia,5.0,domande,5.0
+fisica_unitn_005,chatgpt,4.0,ai,4.0,reti neurali,4.0,llm,4.0
+fisica_unitn_006,chatgpt,2.0,inutile,2.0,furto,2.0,schermo,1.0
+fisica_unitn_007,chatgpt,3.0,llm,3.0,gemini,3.0,gemelli,3.0
+fisica_unitn_008,chatgpt,1.0,male,2.0,aiuto,4.0,acqua,5.0
+fisica_003,matematica,4.0,strumento,3.0,natura,5.0,linguaggio,3.0
+fisica_005,matematica,4.0,dati,3.0,analisi,3.0,statistica,3.0
+fisica_007,matematica,3.0,analisi,2.0,astratta,3.0,infinito,3.0
+fisica_010,matematica,4.0,numeri,3.0,analisi,3.0,prof,3.0
+fisica_stem_001_1,matematica,4.0,numeri,5.0,algebra,4.0,ordine,4.0
+fisica_012,matematica,5.0,logica,5.0,conseguenza,3.0,umanità ,5.0
+fisica_stem_002_1,matematica,5.0,fisica,5.0,astrazione,5.0,ordine,5.0
+fisica_stem_003_1,matematica,3.0,numeri,2.0,squadra,2.0,base,5.0
+fisica_017,matematica,4.0,utile ,4.0,noiosa,2.0,strumento,4.0
+fisica_018,matematica,2.0,analisi,1.0,bocciatura,3.0,amarezza,2.0
+fisica_020,matematica,3.0,fisica,3.0,challenge,4.0,studio,
+fisica_021,matematica,4.0,professore universitario,4.0,analisi,4.0,geometria,3.0
+fisica_022,matematica,,pura,,applicata,,algebra,
+fisica_stem_005_1,matematica,4.0,alfabeto,3.0,difficile ,2.0,bella,4.0
+fisica_unitn_009,matematica,5.0,fantastica,5.0,emozionante,5.0,infinita,3.0
+fisica_unitn_011,matematica,4.0,persona,4.0,mente ,3.0,spazio,4.0
+fisica_unitn_002,matematica,4.0,numeri ,3.0,equazioni ,4.0,integrali ,4.0
+fisica_unitn_003,matematica,3.0,blu,4.0,numeri,3.0,quaderno,3.0
+fisica_unitn_004,matematica,5.0,rigore,4.0,logica,4.0,numero,4.0
+fisica_unitn_012,matematica,4.0,collegamenti,4.0,rigore,4.0,logica,4.0
+fisica_unitn_005,matematica,4.0,statistica ,4.0,probabilità ,4.0,assiomi,4.0
+fisica_unitn_006,matematica,4.0,analisi,3.0,misura,4.0,linguaggio,4.0
+fisica_unitn_007,matematica,5.0,fisica,5.0,materia,5.0,particelle,5.0
+fisica_unitn_008,matematica,5.0,natura,5.0,legami,4.0,numeri,4.0
+fisica_003,analisi,3.0,matematica,3.0,psicologica,4.0,introspettiva,4.0
+fisica_005,analisi,3.0,dati,3.0,matematica,3.0,computer ,4.0
+fisica_007,analisi,3.0,1,4.0,2,2.0,ansia,1.0
+fisica_010,analisi,4.0,matematic,4.0,1,4.0,2,2.0
+fisica_stem_001_1,analisi,3.0,matematica,4.0,psicoanalitica,4.0,,
+fisica_012,analisi,4.0,integrali,3.0,dati,3.0,attenzione ,4.0
+fisica_stem_002_1,analisi,4.0,dati,2.0,matematica,4.0,calcolo,4.0
+fisica_stem_003_1,analisi,3.0,controllo,3.0,pensiero,4.0,medico,5.0
+fisica_017,analisi,4.0,laboratorio ,5.0,quotidiane ,3.0,,
+fisica_018,analisi,2.0,bocciatura,4.0,rabbia,2.0,rassegnazione,1.0
+fisica_020,analisi,3.0,1,3.0,matematica,3.0,curiosita,5.0
+fisica_021,analisi,4.0,matematica,4.0,professore universitario,4.0,materia,3.0
+fisica_022,analisi,,profonda,,noiosa,,faticosa,
+fisica_stem_005_1,analisi,2.0,vergogna,1.0,stanchezza ,2.0,autostima ,1.0
+fisica_unitn_009,analisi,4.0,dati,5.0,sangue,4.0,matematica,5.0
+fisica_unitn_011,analisi,4.0,matematica ,4.0,sangue ,2.0,nonna,5.0
+fisica_unitn_002,analisi,2.0,matematica ,3.0,dati ,3.0,,
+fisica_unitn_003,analisi,4.0,matematica,3.0,esame,3.0,due,3.0
+fisica_unitn_004,analisi,4.0,matematica,4.0,dati,4.0,statistica,4.0
+fisica_unitn_012,analisi,4.0,funzioni,4.0,derivate,4.0,integrali,4.0
+fisica_unitn_005,analisi,4.0,matematica ,4.0,scientifica ,4.0,dati ,3.0
+fisica_unitn_006,analisi,3.0,noia,1.0,lungo,1.0,programma,4.0
+fisica_unitn_007,analisi,5.0,matematica,5.0,2,3.0,ii,3.0
+fisica_unitn_008,analisi,4.0,logica,4.0,matematica ,5.0,indagine,5.0
+fisica_003,scoperta,5.0,stupore,5.0,importanza,4.0,natura,5.0
+fisica_005,scoperta,4.0,collaborazione,5.0,progresso,4.0,ricerca,4.0
+fisica_007,scoperta,5.0,scienza,5.0,ricerca,5.0,università ,4.0
+fisica_010,scoperta,5.0,scienza,5.0,laboratorio,3.0,novita,5.0
+fisica_stem_001_1,scoperta,5.0,america,3.0,scientifica,4.0,emozioni,5.0
+fisica_012,scoperta,5.0,entusiasmo ,5.0,fame,5.0,batticuore,5.0
+fisica_stem_002_1,scoperta,4.0,svolta,4.0,riconoscimento,4.0,prestigio,4.0
+fisica_stem_003_1,scoperta,4.0,mago,4.0,pilastro,3.0,nuovo,3.0
+fisica_017,scoperta,5.0,scientifica ,5.0,invenzione ,5.0,meraviglia,5.0
+fisica_018,scoperta,2.0,articolo,2.0,pubblicazione,3.0,ricerca,1.0
+fisica_020,scoperta,4.0,scientifica,4.0,sorpresa,4.0,casualita,3.0
+fisica_021,scoperta,4.0,einstein,3.0,svolta,5.0,,
+fisica_022,scoperta,,entusiasmo,,vita,,miracolo,
+fisica_stem_005_1,scoperta,4.0,genialità ,5.0,immaginazione,5.0,fortuna ,4.0
+fisica_unitn_009,scoperta,5.0,innovazione,5.0,non coperta,3.0,,
+fisica_unitn_011,scoperta,4.0,scientifica ,4.0,nuova ,3.0,rivoluzione ,5.0
+fisica_unitn_002,scoperta,5.0,meraviglia ,5.0,novità ,5.0,,
+fisica_unitn_003,scoperta,3.0,matematica,3.0,verde,4.0,idea,4.0
+fisica_unitn_004,scoperta,5.0,ricerca,5.0,nobel,5.0,importante,4.0
+fisica_unitn_012,scoperta,4.0,sconvolgente,4.0,accademia,4.0,novità,5.0
+fisica_unitn_005,scoperta,4.0,scientifica ,4.0,esplorare,4.0,ricerca,4.0
+fisica_unitn_006,scoperta,5.0,caverna,2.0,mare,4.0,quark,4.0
+fisica_unitn_007,scoperta,5.0,eureka,5.0,greco,3.0,lingua,3.0
+fisica_unitn_008,scoperta,5.0,invenzione,5.0,rivoluzione,5.0,conferma,5.0
+fisica_003,scienziata,5.0,curiosità,5.0,saggezza,5.0,lavoro rubato (dai colleghi uomini),2.0
+fisica_005,scienziata,5.0,ricerca,4.0,laboratorio,4.0,dati,3.0
+fisica_007,scienziata,5.0,amica,4.0,fisica,5.0,ricerca,5.0
+fisica_010,scienziata,5.0,donna,5.0,scienza,5.0,laboratorio,4.0
+fisica_stem_001_1,scienziata,4.0,brava,3.0,intelligente,4.0,tra le nuvole,4.0
+fisica_012,scienziata,5.0,marie curie,4.0,difficoltà ,3.0,forza ,5.0
+fisica_stem_002_1,scienziata,5.0,diritti,5.0,lavoro,5.0,storia della scienza,5.0
+fisica_stem_003_1,scienziata,3.0,capelli,3.0,occhiali,3.0,mantello,3.0
+fisica_017,scienziata,4.0,singolarità ,3.0,isolata,2.0,modello,4.0
+fisica_018,scienziata,3.0,ricerca,3.0,laboratorio,4.0,nobel,5.0
+fisica_020,scienziata,5.0,donna,4.0,curie,3.0,chimica,4.0
+fisica_021,scienziata,4.0,marie curie,5.0,camice,3.0,laboratorio,3.0
+fisica_022,scienziata,,bella,,debole,,onesta,
+fisica_stem_005_1,scienziata,5.0,stereotipi ,1.0,genialità ,5.0,equilibrio ,5.0
+fisica_unitn_009,scienziata,3.0,intelletto,4.0,,,,
+fisica_unitn_011,scienziata,4.0,opportunità ,4.0,italia ,4.0,rosa,4.0
+fisica_unitn_002,scienziata,5.0,gioia ,5.0,ambizione ,5.0,intelligenza ,5.0
+fisica_unitn_003,scienziata,3.0,camice,3.0,donna,3.0,occhiali,3.0
+fisica_unitn_004,scienziata,4.0,donna,3.0,laboratorio,3.0,biologia,3.0
+fisica_unitn_012,scienziata,5.0,computer,5.0,università,4.0,nobel,5.0
+fisica_unitn_005,scienziata,4.0,hack,4.0,curie,4.0,wu,4.0
+fisica_unitn_006,scienziata,4.0,donna,5.0,ricercatrice,4.0,radioattività,4.0
+fisica_unitn_007,scienziata,4.0,scienziato,5.0,professione,4.0,partita iva,3.0
+fisica_unitn_008,scienziata,5.0,forza,4.0,,,,
+fisica_003,docente,3.0,guida,3.0,mentore,4.0,valutazione,2.0
+fisica_005,docente,3.0,condivisione,4.0,conoscenza,4.0,,
+fisica_007,docente,3.0,bravo,4.0,pessimo,1.0,svogliato,2.0
+fisica_010,docente,4.0,donna,5.0,insegnsnte,3.0,studenti,4.0
+fisica_stem_001_1,docente,2.0,scuola,3.0,capo,3.0,distante,2.0
+fisica_012,docente,5.0,ammirazione ,5.0,passione,5.0,ingegno,5.0
+fisica_stem_002_1,docente,2.0,insegnante,3.0,guida,5.0,responsabilità,2.0
+fisica_stem_003_1,docente,4.0,stressato,3.0,ascolto,3.0,parlare,3.0
+fisica_017,docente,5.0,umano,5.0,presente ,4.0,tramite ,5.0
+fisica_018,docente,4.0,insegnare,5.0,interessante,4.0,persona,5.0
+fisica_020,docente,3.0,ansia,1.0,occhi azzurri,3.0,,
+fisica_021,docente,3.0,cattivo,1.0,lontano,2.0,migliore di me,2.0
+fisica_022,docente,,noioso,,sistema,,casa,
+fisica_stem_005_1,docente,4.0,insegna,4.0,vergogna,1.0,intelligenza ,5.0
+fisica_unitn_009,docente,3.0,stress,2.0,pazienza,2.0,passione,4.0
+fisica_unitn_011,docente,3.0,università ,4.0,latino ,2.0,scuola ,4.0
+fisica_unitn_002,docente,2.0,severo,2.0,,,,
+fisica_unitn_003,docente,3.0,lezione,3.0,lavagna,2.0,persona,4.0
+fisica_unitn_004,docente,3.0,severo,3.0,esigente,3.0,universitario ,3.0
+fisica_unitn_012,docente,4.0,libri,4.0,scuola,4.0,riferimento,5.0
+fisica_unitn_005,docente,4.0,università ,4.0,analisi,4.0,scuola,4.0
+fisica_unitn_006,docente,2.0,insegnare,4.0,istruire,4.0,punizione,2.0
+fisica_unitn_007,docente,5.0,insegnante,4.0,studente,4.0,scuola,5.0
+fisica_unitn_008,docente,3.0,conoscenza ,5.0,maestr*,4.0,insegnamento ,5.0
+fisica_003,programmazione,4.0,organizzazione,5.0,creazione,4.0,setting,3.0
+fisica_005,programmazione,2.0,informatica,3.0,linguaggio,3.0,codice,2.0
+fisica_007,programmazione,2.0,scientifica,3.0,computer,4.0,python,3.0
+fisica_010,programmazione,4.0,computer,4.0,c,3.0,phyton,3.0
+fisica_stem_001_1,programmazione,3.0,scientifica,4.0,computer,3.0,,
+fisica_012,programmazione,4.0,divertente,5.0,curiosità ,5.0,ingegno,5.0
+fisica_stem_002_1,programmazione,3.0,coding,3.0,linguaggio,5.0,interfaccia,3.0
+fisica_stem_003_1,programmazione,5.0,tentativo ,4.0,progetto,4.0,magia,4.0
+fisica_017,programmazione,5.0,organizzare,5.0,dead line ,5.0,ansia ,5.0
+fisica_018,programmazione,3.0,c,2.0,informatici,4.0,ingegneria,3.0
+fisica_020,programmazione,3.0,ubuntu,3.0,c++,3.0,passatempo,4.0
+fisica_021,programmazione,4.0,informatica,4.0,non so farla,3.0,altri invece si,2.0
+fisica_022,programmazione,2.0,futuro,2.0,mania,1.0,sensazione,3.0
+fisica_stem_005_1,programmazione,3.0,codice ,3.0,pensiero,4.0,astrazione,5.0
+fisica_unitn_009,programmazione,4.0,c,4.0,python,5.0,java,3.0
+fisica_unitn_011,programmazione,2.0,informatica ,3.0,noia,4.0,superata ,5.0
+fisica_unitn_002,programmazione,2.0,informatica ,2.0,verde,5.0,codice ,2.0
+fisica_unitn_003,programmazione,2.0,computer,3.0,informatica,3.0,esame,3.0
+fisica_unitn_004,programmazione,4.0,informatica,4.0,python,3.0,c++,3.0
+fisica_unitn_012,programmazione,3.0,linguaggio,4.0,codice,4.0,dati,4.0
+fisica_unitn_005,programmazione,4.0,c,4.0,python,4.0,coding,4.0
+fisica_unitn_006,programmazione,4.0,divertimento,5.0,hacker,5.0,computer,3.0
+fisica_unitn_007,programmazione,3.0,coding,5.0,inglese,5.0,anglosassone,5.0
+fisica_unitn_008,programmazione,3.0,informatica,4.0,organizzazione ,5.0,scopo ,5.0
+fisica_003,laboratorio,4.0,attività,4.0,manualità,5.0,pratica,4.0
+fisica_005,laboratorio,4.0,dati,3.0,misure,3.0,gruppo,4.0
+fisica_007,laboratorio,3.0,relazione,2.0,smanettare,3.0,statistica ,2.0
+fisica_010,laboratorio,5.0,esperimento ,4.0,fisica,5.0,chimica,3.0
+fisica_stem_001_1,laboratorio,4.0,fisica,5.0,divertente,4.0,,
+fisica_012,laboratorio,4.0,divertente,4.0,fiero ,4.0,lungo,2.0
+fisica_stem_002_1,laboratorio,2.0,esperimento,4.0,dati,3.0,attrezzature,4.0
+fisica_stem_003_1,laboratorio,4.0,provette,3.0,esperimenti,5.0,lavoro,4.0
+fisica_017,laboratorio,4.0,divertente,5.0,interattivo,5.0,pratico,5.0
+fisica_018,laboratorio,5.0,chimica,2.0,pericolo,3.0,elettronica,4.0
+fisica_020,laboratorio,4.0,fisica,4.0,cannone,3.0,compagni,3.0
+fisica_021,laboratorio,4.0,scienziato,4.0,camice,3.0,esperimento,4.0
+fisica_022,laboratorio,2.0,chiuso,1.0,buio,1.0,freddo,1.0
+fisica_stem_005_1,laboratorio,3.0,prova,4.0,esperimento ,4.0,gioco ,5.0
+fisica_unitn_009,laboratorio,5.0,ai,5.0,dati,5.0,esperimenti,5.0
+fisica_unitn_011,laboratorio,4.0,scienza ,5.0,liquido ,3.0,vetro ,3.0
+fisica_unitn_002,laboratorio,5.0,provette ,5.0,microscopio ,5.0,scienze ,5.0
+fisica_unitn_003,laboratorio,3.0,camice,3.0,provetta,3.0,scienziato,3.0
+fisica_unitn_004,laboratorio,4.0,esperimento,4.0,dato,4.0,misura,3.0
+fisica_unitn_012,laboratorio,4.0,esperimento,4.0,provette,4.0,chimica,3.0
+fisica_unitn_005,laboratorio,4.0,esperimento ,4.0,pratica,4.0,verifica,4.0
+fisica_unitn_006,laboratorio,5.0,divertimento,5.0,relax,4.0,veloce,3.0
+fisica_unitn_007,laboratorio,5.0,ricerca,5.0,fisica,5.0,matematica,5.0
+fisica_unitn_008,laboratorio,3.0,bianco,3.0,strumenti,5.0,camicie,4.0
+fisica_003,conoscenza,4.0,novità,4.0,competenza,3.0,meraviglia,5.0
+fisica_005,conoscenza,4.0,ricerca,4.0,curiosità ,5.0,approfondire,5.0
+fisica_007,conoscenza,3.0,saggezza,3.0,informazioni,4.0,rappresentazione,4.0
+fisica_010,conoscenza,5.0,filosofia,5.0,studiare,5.0,cultura,5.0
+fisica_stem_001_1,conoscenza,4.0,mela,3.0,,,,
+fisica_012,conoscenza,5.0,sete,5.0,bere,5.0,volontà,4.0
+fisica_stem_002_1,conoscenza,5.0,libertà,5.0,cultura,5.0,potere,4.0
+fisica_stem_003_1,conoscenza,4.0,apprendere,4.0,pensare,4.0,elaborate,4.0
+fisica_017,conoscenza,5.0,cultura,5.0,indipendenza ,5.0,libertà,4.0
+fisica_018,conoscenza,4.0,studio,2.0,intelligenza,2.0,mentalità,4.0
+fisica_020,conoscenza,5.0,polivalente,5.0,versatilità,5.0,futuro,1.0
+fisica_021,conoscenza,3.0,tanta,4.0,importante,4.0,voglia di averne di più,5.0
+fisica_022,conoscenza,4.0,stupida,3.0,banale,2.0,inutile,2.0
+fisica_stem_005_1,conoscenza,5.0,stanchezza ,2.0,tentativi,2.0,disciplina,2.0
+fisica_unitn_009,conoscenza,5.0,studio,4.0,comprensione,5.0,,
+fisica_unitn_011,conoscenza,4.0,libera ,4.0,internet ,4.0,enciclopedia ,4.0
+fisica_unitn_002,conoscenza,4.0,libro ,3.0,fisica ,5.0,intellettuale ,5.0
+fisica_unitn_003,conoscenza,4.0,sapere,4.0,mente,4.0,apprendere,4.0
+fisica_unitn_004,conoscenza,4.0,consapevolezza,4.0,competenza,4.0,cultura,5.0
+fisica_unitn_012,conoscenza,5.0,studio,4.0,persone,3.0,leggere,5.0
+fisica_unitn_005,conoscenza,4.0,studio,4.0,leggere,4.0,apprendere,4.0
+fisica_unitn_006,conoscenza,5.0,ascesi,5.0,trascendere,5.0,scopo,5.0
+fisica_unitn_007,conoscenza,3.0,epistemologia,5.0,nichilismo,4.0,nulla,4.0
+fisica_unitn_008,conoscenza,5.0,verità ,5.0,ricerca,5.0,migliorarsi,5.0
+fisica_003,fallimento,2.0,insegnamento,4.0,tristezza,2.0,rialzarsi,4.0
+fisica_005,fallimento,1.0,delusione,1.0,paura,2.0,,
+fisica_007,fallimento,1.0,fantapapa,3.0,fantasanremo,3.0,fantacalcio,1.0
+fisica_010,fallimento,1.0,esami ,3.0,bocciatura,1.0,universita,4.0
+fisica_stem_001_1,fallimento,2.0,caduta,2.0,suicidio,1.0,pianto,2.0
+fisica_012,fallimento,3.0,problemi,2.0,imparare,4.0,tempo,3.0
+fisica_stem_002_1,fallimento,1.0,reindirizzamento,4.0,errore,2.0,valore,2.0
+fisica_stem_003_1,fallimento,3.0,sbaglio,3.0,tentativo,4.0,incoscienza ,4.0
+fisica_017,fallimento,5.0,possibile ,4.0,delusione ,5.0,paura,5.0
+fisica_018,fallimento,1.0,bocciatura,1.0,imbarazzo,3.0,impegno,3.0
+fisica_020,fallimento,1.0,vita,1.0,università,2.0,famiglia,3.0
+fisica_021,fallimento,1.0,io,1.0,certo,1.0,irreversibile,1.0
+fisica_022,fallimento,2.0,scienza,2.0,nazione,2.0,paura,2.0
+fisica_stem_005_1,fallimento,1.0,buco,1.0,tristezza,1.0,vergogna,1.0
+fisica_unitn_009,fallimento,2.0,paura,1.0,futuro,3.0,,
+fisica_unitn_011,fallimento,3.0,buio,2.0,base,3.0,crescita ,4.0
+fisica_unitn_002,fallimento,1.0,piangere ,1.0,esami ,3.0,giudizio ,1.0
+fisica_unitn_003,fallimento,1.0,brutto,2.0,pesante,2.0,demoralizzato,1.0
+fisica_unitn_004,fallimento,2.0,dispiacere,1.0,sconforto,1.0,rivincita,4.0
+fisica_unitn_012,fallimento,1.0,risolvibile,3.0,riprovare,4.0,opportunità,4.0
+fisica_unitn_005,fallimento,1.0,insuccesso,1.0,tristezza,1.0,,
+fisica_unitn_006,fallimento,3.0,bancarotta,2.0,povertà,2.0,tristezza,3.0
+fisica_unitn_007,fallimento,3.0,crescita,5.0,personale,4.0,ego,5.0
+fisica_unitn_008,fallimento,1.0,successo ,5.0,rivalsa,5.0,possibilità ,5.0
+fisica_003,voto,3.0,valutazione,3.0,insegnamento,4.0,ansia,1.0
+fisica_005,voto,1.0,pressione,1.0,comparazione,1.0,aspettative,1.0
+fisica_007,voto,3.0,26,4.0,30,5.0,media,3.0
+fisica_010,voto,2.0,basso,2.0,alto,4.0,sufficienza,3.0
+fisica_stem_001_1,voto,2.0,esame,3.0,media,3.0,,
+fisica_012,voto,3.0,partecipazione ,4.0,numero,3.0,insufficienza ,2.0
+fisica_stem_002_1,voto,2.0,numero,2.0,futuro,1.0,esame,3.0
+fisica_stem_003_1,voto,3.0,misura,3.0,numero,2.0,arbitrario,2.0
+fisica_017,voto,5.0,esame ,5.0,ansia,5.0,aspettative,5.0
+fisica_018,voto,2.0,alto,4.0,meritato,3.0,insoddisfatto,1.0
+fisica_020,voto,1.0,insufficienza,1.0,pigrizia,1.0,fallimento,1.0
+fisica_021,voto,3.0,basso,2.0,9,2.0,giudizio,1.0
+fisica_022,voto,1.0,alto,1.0,faticoso,1.0,leggero,4.0
+fisica_stem_005_1,voto,2.0,validazione,3.0,autostima ,2.0,invidia,1.0
+fisica_unitn_009,voto,1.0,ansia,1.0,stress,1.0,etichettatura,1.0
+fisica_unitn_011,voto,3.0,nove ,4.0,scuola ,3.0,genitori ,5.0
+fisica_unitn_002,voto,2.0,10,5.0,,,,
+fisica_unitn_003,voto,3.0,laurea,2.0,esame,3.0,dieci,4.0
+fisica_unitn_004,voto,4.0,massimo,5.0,eccellenza,5.0,bravura,5.0
+fisica_unitn_012,voto,2.0,stress,1.0,università,4.0,esame,2.0
+fisica_unitn_005,voto,4.0,alto,5.0,giudizio,4.0,elezioni,3.0
+fisica_unitn_006,voto,1.0,inutile,1.0,ansia,1.0,casa,3.0
+fisica_unitn_007,voto,4.0,alto,4.0,basso,4.0,quantità,5.0
+fisica_unitn_008,voto,2.0,valutazione,2.0,criterio,5.0,,
+fisica_003,numeri,3.0,conti,3.0,matematica,4.0,lettere,3.0
+fisica_005,numeri,3.0,analisi,3.0,dati,3.0,matematica,4.0
+fisica_007,numeri,3.0,primi,3.0,reali,3.0,complessi,2.0
+fisica_010,numeri,3.0,grandi,3.0,piccoli,3.0,analisi,3.0
+fisica_stem_001_1,numeri,5.0,casuali,2.0,interi,4.0,random,3.0
+fisica_012,numeri,4.0,logica,4.0,concetto,5.0,relazioni,5.0
+fisica_stem_002_1,numeri,3.0,insiemi,4.0,reali,3.0,relazioni,4.0
+fisica_stem_003_1,numeri,2.0,uno,3.0,dieci,3.0,ventisette,3.0
+fisica_017,numeri,4.0,strumenti ,4.0,matematica ,4.0,fisica,4.0
+fisica_018,numeri,3.0,uno,2.0,analisi,3.0,dati,3.0
+fisica_020,numeri,3.0,algebra,3.0,insiemi numerici,3.0,,
+fisica_021,numeri,3.0,1,3.0,2,3.0,3,3.0
+fisica_022,numeri,,bellezza,,geometria,,limite,
+fisica_stem_005_1,numeri,4.0,alfabeto,4.0,universo,5.0,scienze,5.0
+fisica_unitn_009,numeri,5.0,pi greco,5.0,rendimento,3.0,sumeri,4.0
+fisica_unitn_011,numeri,3.0,matematica ,4.0,scuola ,4.0,addizioni ,4.0
+fisica_unitn_002,numeri,3.0,calcolatrice ,4.0,lavagna ,4.0,fisica ,5.0
+fisica_unitn_003,numeri,3.0,uno,3.0,serie,3.0,sequenza,3.0
+fisica_unitn_004,numeri,5.0,aritmetica,4.0,geometria ,4.0,figure,3.0
+fisica_unitn_012,numeri,3.0,equazioni,4.0,disequazioni,4.0,radici,4.0
+fisica_unitn_005,numeri,4.0,primi,4.0,trascendenti,5.0,razionali,4.0
+fisica_unitn_006,numeri,3.0,tabelline,4.0,uno,4.0,,
+fisica_unitn_007,numeri,3.0,5,5.0,10,5.0,15,5.0
+fisica_unitn_008,numeri,5.0,natura,5.0,discreti,3.0,associazione ,4.0
+fisica_003,logica,4.0,pensiero,4.0,razionalità,4.0,matematica,3.0
+fisica_005,logica,4.0,,,,,,
+fisica_007,logica,3.0,aristotele,2.0,fallacia,4.0,cesare cremonini,3.0
+fisica_010,logica,3.0,analisi,3.0,ragionare,4.0,problema,3.0
+fisica_stem_001_1,logica,5.0,matematica,4.0,blu,5.0,,
+fisica_012,logica,5.0,analisi 1,3.0,aristotele,4.0,verità ,5.0
+fisica_stem_002_1,logica,5.0,matematica,4.0,paradossi,4.0,informatica,4.0
+fisica_stem_003_1,logica,5.0,pensiero,4.0,realtà ,4.0,criticare,4.0
+fisica_017,logica,5.0,sopravvivenza ,3.0,approccio,5.0,fisica ,5.0
+fisica_018,logica,5.0,programmazione,3.0,matematica,2.0,problem solving,5.0
+fisica_020,logica,5.0,,,,,,
+fisica_021,logica,4.0,filosofia,4.0,bravo,4.0,matematica,4.0
+fisica_022,logica,,ansia,,stress,,rifiuto,
+fisica_stem_005_1,logica,5.0,intelligenza ,5.0,utilità,5.0,spigliatezza,4.0
+fisica_unitn_009,logica,5.0,bella,5.0,matematica,5.0,puzzle,5.0
+fisica_unitn_011,logica,4.0,matematica ,4.0,filosofia ,3.0,vita ,4.0
+fisica_unitn_002,logica,5.0,cervello ,5.0,velocità ,5.0,attenzione ,4.0
+fisica_unitn_003,logica,3.0,operazioni,4.0,successione,3.0,test,3.0
+fisica_unitn_004,logica,4.0,matematica,4.0,numeri,5.0,aritmetica ,5.0
+fisica_unitn_012,logica,5.0,pensiero,5.0,lineare,5.0,matematica,5.0
+fisica_unitn_005,logica,5.0,matematica ,5.0,popper,4.0,bias,2.0
+fisica_unitn_006,logica,4.0,razionalotà,4.0,sequenza,4.0,algoritmo,4.0
+fisica_unitn_007,logica,3.0,deduttiva,5.0,induttiva,5.0,abduttiva,5.0
+fisica_unitn_008,logica,5.0,matematica ,5.0,pensiero ,5.0,collegamenti,5.0
+fisica_003,ricerca,4.0,brillante,4.0,divertimento,5.0,curiosità,5.0
+fisica_005,ricerca,4.0,scoperta,4.0,collaborazione,5.0,curiosità ,5.0
+fisica_007,ricerca,5.0,fisica,5.0,spazio,5.0,fondi,4.0
+fisica_010,ricerca,5.0,fisica,4.0,scienza,5.0,laboratorio,4.0
+fisica_stem_001_1,ricerca,4.0,scientifica,4.0,laboratorio,5.0,scienziati,4.0
+fisica_012,ricerca,5.0,scientifica ,5.0,lavoro,4.0,assieme ,4.0
+fisica_stem_002_1,ricerca,5.0,dedizione,5.0,passione,5.0,esperienza,4.0
+fisica_stem_003_1,ricerca,4.0,innovazione,5.0,scoperta,4.0,trovare,4.0
+fisica_017,ricerca,5.0,sottopagata,5.0,impegnativa ,5.0,creativa ,5.0
+fisica_018,ricerca,2.0,scientifica,4.0,laboratorio,5.0,complessa,2.0
+fisica_020,ricerca,4.0,futuro,1.0,obiettivo,3.0,,
+fisica_021,ricerca,5.0,scienziati ,5.0,laboratorio,3.0,ricercatori,5.0
+fisica_022,ricerca,,fatica,,impegno,,solidità,
+fisica_stem_005_1,ricerca,5.0,scoperta,4.0,studio,4.0,passione,5.0
+fisica_unitn_009,ricerca,4.0,matematica,5.0,intelligenza,5.0,impegno,3.0
+fisica_unitn_011,ricerca,4.0,stimolante ,4.0,futuro,4.0,speranza ,4.0
+fisica_unitn_002,ricerca,5.0,ambizione ,5.0,scoperte ,5.0,meraviglia ,5.0
+fisica_unitn_003,ricerca,3.0,campo,3.0,scienziato,3.0,laboratorio,3.0
+fisica_unitn_004,ricerca,5.0,scienza ,4.0,fisica,4.0,dottorato,4.0
+fisica_unitn_012,ricerca,5.0,esperimento,4.0,articoli,4.0,matematica,5.0
+fisica_unitn_005,ricerca,5.0,scientifica,5.0,phd,5.0,studio,5.0
+fisica_unitn_006,ricerca,4.0,binaria,4.0,interessante,4.0,scavare,4.0
+fisica_unitn_007,ricerca,3.0,fisica,5.0,conoscenza,5.0,esistenza,5.0
+fisica_unitn_008,ricerca,5.0,scienza ,5.0,scopo,5.0,speranza,5.0
+fisica_003,imbarazzo,1.0,rossore,2.0,vergogna,1.0,nascondiglio,2.0
+fisica_005,imbarazzo,1.0,agitazione,2.0,,,,
+fisica_007,imbarazzo,1.0,nudo,2.0,rosso,3.0,antonio dikele distefano,1.0
+fisica_010,imbarazzo,1.0,vergogna,1.0,rosso,4.0,paonazzo,2.0
+fisica_stem_001_1,imbarazzo,1.0,intimo,2.0,rossore,2.0,figuraccia,1.0
+fisica_012,imbarazzo,2.0,inadeguatezza,1.0,altri,3.0,allenamento ,4.0
+fisica_stem_002_1,imbarazzo,2.0,umiliazione,1.0,vergogna,1.0,nascondersi,1.0
+fisica_stem_003_1,imbarazzo,4.0,ups,4.0,nascondere,2.0,errore,3.0
+fisica_017,imbarazzo,4.0,constante,3.0,figuraccia,5.0,presentazione,5.0
+fisica_018,imbarazzo,2.0,silenzio,1.0,sbagliare,2.0,fuori luogo,1.0
+fisica_020,imbarazzo,2.0,,,,,,
+fisica_021,imbarazzo,1.0,io,1.0,classe,1.0,genitori,1.0
+fisica_022,imbarazzo,,disillusione,,paura,,ansia,
+fisica_stem_005_1,imbarazzo,1.0,sopravvalutarsi,1.0,autostima,1.0,vergogna ,1.0
+fisica_unitn_009,imbarazzo,2.0,ansia,1.0,rosso,3.0,scappare,2.0
+fisica_unitn_011,imbarazzo,4.0,rosso,5.0,tavola,3.0,sconosciuti ,3.0
+fisica_unitn_002,imbarazzo,1.0,persone ,2.0,caldo ,1.0,rosso ,1.0
+fisica_unitn_003,imbarazzo,2.0,emozione,4.0,ansia,2.0,rosso,3.0
+fisica_unitn_004,imbarazzo,1.0,ansia,2.0,timidezza ,2.0,sociale,2.0
+fisica_unitn_012,imbarazzo,1.0,rossore,1.0,battito,1.0,paura,2.0
+fisica_unitn_005,imbarazzo,2.0,vergogna,2.0,nascondersi,2.0,paura,2.0
+fisica_unitn_006,imbarazzo,2.0,eloquenza,4.0,sconfitta,2.0,,
+fisica_unitn_007,imbarazzo,3.0,parlare in pubblico,5.0,teatro,5.0,sipario,5.0
+fisica_unitn_008,imbarazzo,1.0,rabbia,4.0,ansia ,1.0,rossore,2.0
+fisica_003,compagni,4.0,amici,5.0,viaggio,5.0,team,3.0
+fisica_005,compagni,4.0,gruppo,3.0,,,,
+fisica_007,compagni,5.0,bastardi,2.0,autismo,3.0,secchioni,3.0
+fisica_010,compagni,4.0,amici,5.0,pranzo,3.0,compagnia,4.0
+fisica_stem_001_1,compagni,3.0,classe,3.0,,,,
+fisica_012,compagni,3.0,classe,2.0,noia,1.0,fastidio,1.0
+fisica_stem_002_1,compagni,3.0,differenze,4.0,disinteresse,2.0,distacco,2.0
+fisica_stem_003_1,compagni,3.0,amici,4.0,poveretti,3.0,pregiudizi ,2.0
+fisica_017,compagni,5.0,supporto,5.0,amici ,5.0,relazioni,5.0
+fisica_018,compagni,4.0,cena,5.0,chiacchierare,4.0,studio,2.0
+fisica_020,compagni,3.0,,,,,,
+fisica_021,compagni,3.0,intelligenti,3.0,alessio,4.0,simpatici,3.0
+fisica_022,compagni,,maschi,,diversi,,bravi,
+fisica_stem_005_1,compagni,3.0,confronto ,4.0,crescita,5.0,invidia,1.0
+fisica_unitn_009,compagni,5.0,simpatici,5.0,divertenti,5.0,affidabili,4.0
+fisica_unitn_011,compagni,4.0,comunismo,5.0,scuola,3.0,lavoro,3.0
+fisica_unitn_002,compagni,3.0,disagio ,2.0,,,,
+fisica_unitn_003,compagni,4.0,scuola,3.0,univesità,4.0,gruppo,4.0
+fisica_unitn_004,compagni,5.0,scuola,4.0,banco,3.0,ricreazione,4.0
+fisica_unitn_012,compagni,4.0,simpatici,5.0,socievoli,5.0,gentili,5.0
+fisica_unitn_005,compagni,4.0,classe,4.0,scuola,4.0,comunismo,3.0
+fisica_unitn_006,compagni,4.0,amici,4.0,spensieratezza,5.0,,
+fisica_unitn_007,compagni,3.0,banco,5.0,scuola,5.0,educazione,5.0
+fisica_unitn_008,compagni,4.0,comunismo,4.0,alleati,5.0,amicizia ,4.0
+fisica_003,problema,2.0,risolvere,4.0,ragionamento,4.0,idee,4.0
+fisica_005,problema,3.0,soluzione,4.0,,,,
+fisica_007,problema,3.0,sociale,2.0,risolvere,3.0,soluzione,3.0
+fisica_010,problema,4.0,soluzione,4.0,fisica,4.0,esame,3.0
+fisica_stem_001_1,problema,2.0,matematica,4.0,soluzione,5.0,ansia,2.0
+fisica_012,problema,3.0,elementari,3.0,pensare,4.0,sforzo,3.0
+fisica_stem_002_1,problema,4.0,soluzione,5.0,discussione,5.0,ostacolo,2.0
+fisica_stem_003_1,problema,4.0,sfida,4.0,interessante ,4.0,peculiarità ,4.0
+fisica_017,problema,5.0,soluzione ,3.0,dati,4.0,studio,4.0
+fisica_018,problema,2.0,sbaglio,2.0,difficoltà,4.0,soluzione,5.0
+fisica_020,problema,3.0,matematica,3.0,fisica,3.0,soluzioni,4.0
+fisica_021,problema,3.0, matematica,3.0,famiglia,1.0,irrisolvibile,1.0
+fisica_022,problema,3.0,risolto,4.0,inutile,3.0,classico,1.0
+fisica_stem_005_1,problema,3.0,stanchezza,3.0,pigrizia,1.0,sfida,3.0
+fisica_unitn_009,problema,2.0,soluzione,5.0,essenziale,4.0,,
+fisica_unitn_011,problema,3.0,matematica ,4.0,risolto ,4.0,soluzione ,4.0
+fisica_unitn_002,problema,4.0,incognita ,4.0,impegno ,4.0,matematica ,3.0
+fisica_unitn_003,problema,3.0,matematica,3.0,risolvere,3.0,quaderno,3.0
+fisica_unitn_004,problema,3.0,sfida,4.0,rassegnazione,2.0,fatica,2.0
+fisica_unitn_012,problema,5.0,risolvere,4.0,insieme,4.0,calma,4.0
+fisica_unitn_005,problema,3.0,matematico,4.0,vita,2.0,,
+fisica_unitn_006,problema,4.0,soluzione,4.0,ostacolo,4.0,,
+fisica_unitn_007,problema,4.0,fisica,4.0,meccanica,4.0,industriale,4.0
+fisica_unitn_008,problema,2.0,soluzione ,5.0,ansia,1.0,pensiero ,5.0
+fisica_003,informatica,4.0,computer,3.0,programmazione,4.0,computazione,3.0
+fisica_005,informatica,3.0,programmazione,2.0,codice,2.0,analisi dati ,3.0
+fisica_007,informatica,3.0,ciclo,3.0,programmare,3.0,computer,4.0
+fisica_010,informatica,4.0,computer,3.0,ingegnere,3.0,programmare,3.0
+fisica_stem_001_1,informatica,3.0,dati,2.0,superiori,2.0,paura,2.0
+fisica_012,informatica,4.0,numeri,4.0,codice,4.0,logica ,4.0
+fisica_stem_002_1,informatica,4.0,alan turing,5.0,ada lovelace,5.0,john von neumann,5.0
+fisica_stem_003_1,informatica,5.0,scienza,4.0,informazioni ,4.0,lingua,4.0
+fisica_017,informatica,3.0,ovunque,5.0,specialistica,3.0,semplificare,3.0
+fisica_018,informatica,3.0,programmazione,2.0,interessante,4.0,tempistica,2.0
+fisica_020,informatica,3.0,curiosita,4.0,passatempo,5.0,divertimento,5.0
+fisica_021,informatica,3.0,alessandro,5.0,itt,3.0,buonarrotti,3.0
+fisica_022,informatica,2.0,tecnica,1.0,associativa,3.0,desiderabile,4.0
+fisica_stem_005_1,informatica,2.0,logica,2.0,difficoltà,1.0,razionalità ,2.0
+fisica_unitn_009,informatica,5.0,bella,4.0,coding,5.0,,
+fisica_unitn_011,informatica,3.0,noia,4.0,macchina ,3.0,teorica ,4.0
+fisica_unitn_002,informatica,3.0,codice,2.0,programmazione ,2.0,,
+fisica_unitn_003,informatica,3.0,numeri,3.0,computer,3.0,mouse,4.0
+fisica_unitn_004,informatica,4.0,dati,4.0,computer,4.0,analis,4.0
+fisica_unitn_012,informatica,4.0,computer,4.0,dati,4.0,automazione,4.0
+fisica_unitn_005,informatica,4.0,programmazione ,4.0,computer,4.0,informazione,4.0
+fisica_unitn_006,informatica,4.0,codice,4.0,software,4.0,meccanismo,5.0
+fisica_unitn_007,informatica,3.0,software,5.0,hardware,5.0,firmware,5.0
+fisica_unitn_008,informatica,3.0,connessioni,5.0,algoritmo,5.0,natura,5.0
+fisica_003,sfida,2.0,aggressività,2.0,dimostrare,2.0,competizione,2.0
+fisica_005,sfida,3.0,problema,2.0,intraprendenza,4.0,collaborazione,5.0
+fisica_007,sfida,3.0,accettata,3.0,vittoria,3.0,dimostrare,2.0
+fisica_010,sfida,3.0,esame,4.0,contro me stessa,4.0,gara,3.0
+fisica_stem_001_1,sfida,2.0,esami,2.0,ansia,2.0,,
+fisica_012,sfida,4.0,esercizio,3.0,frenesia,5.0,gioco,5.0
+fisica_stem_002_1,sfida,4.0,superamento,5.0,prova,4.0,opportunità,5.0
+fisica_stem_003_1,sfida,4.0,eccitante ,3.0,capriola,3.0,torre,4.0
+fisica_017,sfida,5.0,quotidiana,5.0,stimolante ,3.0,ansia ,5.0
+fisica_018,sfida,4.0,gara,2.0,impertinenza,1.0,competizione,3.0
+fisica_020,sfida,4.0,motivazione,5.0,gioco,4.0,sorpresa,4.0
+fisica_021,sfida,3.0,difficile,1.0,provare,4.0,,
+fisica_022,sfida,5.0,impossibile,4.0,divertente,5.0,esilerante,5.0
+fisica_stem_005_1,sfida,5.0,stimolo,5.0,coraggio,5.0,autostima,5.0
+fisica_unitn_009,sfida,4.0,impegno,4.0,occasione,5.0,,
+fisica_unitn_011,sfida,4.0,eccitante ,4.0,ansia ,4.0,crescita ,5.0
+fisica_unitn_002,sfida,5.0,corsa ,3.0,,,,
+fisica_unitn_003,sfida,2.0,scoglio,3.0,scommessa,2.0,mettersi alla prova,3.0
+fisica_unitn_004,sfida,4.0,soluzione,4.0,testardaggine,4.0,rivincita,4.0
+fisica_unitn_012,sfida,4.0,determinazione,4.0,superare,4.0,aiuto,4.0
+fisica_unitn_005,sfida,4.0,fisica ,5.0,mentale,4.0,esame,4.0
+fisica_unitn_006,sfida,5.0,interessante,3.0,emozionante,5.0,vincere,5.0
+fisica_unitn_007,sfida,3.0,competizione,3.0,premio,4.0,maratona,3.0
+fisica_unitn_008,sfida,4.0,avventura,5.0,prontezza,5.0,selvaggio ,4.0
+fisica_003,paura,2.0,stress,1.0,ignoto,3.0,cuore,4.0
+fisica_005,paura,1.0,futuro,2.0,ansia ,2.0,,
+fisica_007,paura,1.0,ansia,1.0,ragni,3.0,claustrofobia,1.0
+fisica_010,paura,2.0,ansia,2.0,buio,2.0,vuoto,2.0
+fisica_stem_001_1,paura,2.0,fallimento,1.0,cadere,1.0,pianto,1.0
+fisica_012,paura,2.0,viola,3.0,sconosciuto,2.0,,
+fisica_stem_002_1,paura,2.0,crisi,1.0,dubbi,2.0,blocco,1.0
+fisica_stem_003_1,paura,2.0,nemico,2.0,schivare,5.0,allerta,4.0
+fisica_017,paura,5.0,notte,2.0,società,5.0,futuro,5.0
+fisica_018,paura,2.0,spavento,4.0,fallimento,3.0,buio,1.0
+fisica_020,paura,1.0,futuro,2.0,fallimento,1.0,universita,2.0
+fisica_021,paura,2.0,io,2.0,tanta,1.0,ragni,3.0
+fisica_022,paura,3.0,sentimento,4.0,valore,4.0,colore,5.0
+fisica_stem_005_1,paura,1.0,ansia ,1.0,ignoto ,1.0,morte,1.0
+fisica_unitn_009,paura,2.0,futuro,3.0,,,,
+fisica_unitn_011,paura,3.0,insetti ,2.0,buio,3.0,film,4.0
+fisica_unitn_002,paura,1.0,fallimento ,1.0,,,,
+fisica_unitn_003,paura,2.0,viola,3.0,nube,3.0,confuso,2.0
+fisica_unitn_004,paura,2.0,timore,2.0,ansia,2.0,tremore,2.0
+fisica_unitn_012,paura,1.0,terrore,1.0,respiro,4.0,cuore,1.0
+fisica_unitn_005,paura,1.0,ansia,1.0,stress,1.0,incertezza ,1.0
+fisica_unitn_006,paura,2.0,ansia,2.0,futuro,2.0,,
+fisica_unitn_007,paura,4.0,imbarazzo,3.0,sentimento,5.0,emozione,5.0
+fisica_unitn_008,paura,2.0,ansia,1.0,coraggio,5.0,lotta,4.0
+fisica_003,genitori,4.0,amore,5.0,casa,4.0,focolare,4.0
+fisica_005,genitori,3.0,,,,,,
+fisica_007,genitori,3.0,1,3.0,2,3.0,giorgia meloni,1.0
+fisica_010,genitori,5.0,mamma,5.0,papà ,5.0,amore,5.0
+fisica_stem_001_1,genitori,3.0,litigi,2.0,amore,4.0,,
+fisica_012,genitori,4.0,sacrificio,4.0,limiti,2.0,,
+fisica_stem_002_1,genitori,2.0,distacco,2.0,supporto,4.0,divorzio,5.0
+fisica_stem_003_1,genitori,3.0,alti,3.0,giudizio,2.0,persone,3.0
+fisica_017,genitori,5.0,supporto,5.0,ansia ,2.0,guidizio,5.0
+fisica_018,genitori,4.0,affetto,5.0,impegno,2.0,gratuità,5.0
+fisica_020,genitori,3.0,delusione,1.0,paura,1.0,bugie,1.0
+fisica_021,genitori,1.0,mamma,1.0,papa,1.0,giudizio,1.0
+fisica_022,genitori,4.0,sani,4.0,saggi,5.0,noiosi,3.0
+fisica_stem_005_1,genitori,4.0,amore ,4.0,aspettative ,2.0,sicurezza,5.0
+fisica_unitn_009,genitori,2.0,assenti,1.0,lontani,1.0,bene,
+fisica_unitn_011,genitori,4.0,due ,3.0,mamma,4.0,papà,4.0
+fisica_unitn_002,genitori,5.0,amore ,5.0,famiglia ,5.0,felicità ,5.0
+fisica_unitn_003,genitori,3.0,mamma,4.0,seri,3.0,figure,4.0
+fisica_unitn_004,genitori,4.0,madre,4.0,padre,4.0,figlio,4.0
+fisica_unitn_012,genitori,5.0,famiglia,5.0,riferimento,5.0,aspettative,3.0
+fisica_unitn_005,genitori,4.0,amore,5.0,stress,2.0,ansia,1.0
+fisica_unitn_006,genitori,3.0,sicurezza,4.0,incertezza,2.0,,
+fisica_unitn_007,genitori,4.0,due,3.0,numero,3.0,matematica,4.0
+fisica_unitn_008,genitori,3.0,famiglia ,3.0,amore,3.0,bene,5.0
+fisica_003,dati,3.0,blocco,2.0,ordine,4.0,conti,3.0
+fisica_005,dati,3.0,analisi,2.0,laboratorio,4.0,relazione,4.0
+fisica_007,dati,3.0,statistica,3.0,misura,3.0,analisi,3.0
+fisica_010,dati,3.0,raccolta,3.0,matlab,3.0,laboratorio ,4.0
+fisica_stem_001_1,dati,2.0,statistica,1.0,matematica,4.0,informatica,3.0
+fisica_012,dati,3.0,grafico,3.0,certezza,4.0,statostica,3.0
+fisica_stem_002_1,dati,3.0,analisi,3.0,tabelle,3.0,programmazione,4.0
+fisica_stem_003_1,dati,3.0,informazioni,4.0,misura,4.0,realtà ,4.0
+fisica_017,dati,3.0,laboratorio,4.0,statistica,4.0,analisi,4.0
+fisica_018,dati,4.0,matlab,4.0,oscilloscopio,5.0,misure,4.0
+fisica_020,dati,3.0,,,,,,
+fisica_021,dati,3.0,,,,,,
+fisica_022,dati,2.0,analisi,2.0,studio,1.0,fatica,1.0
+fisica_stem_005_1,dati,5.0,informazioni,5.0,lettura,5.0,interpretazione,5.0
+fisica_unitn_009,dati,5.0,scienza,5.0,dita,3.0,numerabili,3.0
+fisica_unitn_011,dati,3.0,computer ,3.0,macchina ,3.0,laboratorio ,4.0
+fisica_unitn_002,dati,2.0,root ,1.0,statistica,2.0,laboratorio ,5.0
+fisica_unitn_003,dati,3.0,fit,3.0,grafico,3.0,test,3.0
+fisica_unitn_004,dati,4.0,informatica,4.0,computer,4.0,tecnologia,4.0
+fisica_unitn_012,dati,3.0,raccolta,3.0,insieme,3.0,simulazione,4.0
+fisica_unitn_005,dati,3.0,statistici,5.0,ricerca,4.0,esperimento ,4.0
+fisica_unitn_006,dati,2.0,analisi,4.0,matematica,4.0,informatica,4.0
+fisica_unitn_007,dati,3.0,informazione,5.0,shannon,5.0,teoria,5.0
+fisica_unitn_008,dati,3.0,esperimento ,4.0,statistiche,3.0,studio,5.0
+fisica_003,esperimento,4.0,pragmatismo,4.0,divertimento,5.0,affascinante,5.0
+fisica_005,esperimento,4.0,laboratorio,4.0,analisi,2.0,misure,3.0
+fisica_007,esperimento,3.0,relazione,2.0,scoperta,4.0,statistica,3.0
+fisica_010,esperimento,3.0,laboratorio,3.0,chimica,3.0,fisica,4.0
+fisica_stem_001_1,esperimento,5.0,fisica,5.0,laboratorio,4.0,divertente,4.0
+fisica_012,esperimento,4.0,prova ,4.0,galileo,5.0,,
+fisica_stem_002_1,esperimento,4.0,dati,3.0,relazione,2.0,laboratorio,2.0
+fisica_stem_003_1,esperimento,4.0,tentativo,4.0,verifica,4.0,scoperta,4.0
+fisica_017,esperimento,5.0,apprendimento,5.0,divertente ,5.0,scuola,3.0
+fisica_018,esperimento,4.0,chimica,3.0,meccanica,4.0,laboratorio,5.0
+fisica_020,esperimento,3.0,,,,,,
+fisica_021,esperimento,4.0,scienziato,4.0,curiosità,4.0,esiti,4.0
+fisica_022,esperimento,1.0,lungo,3.0,noioso,3.0,stancante,1.0
+fisica_stem_005_1,esperimento,4.0,prova ,2.0,sbaglio,1.0,verifica,3.0
+fisica_unitn_009,esperimento,5.0,ingegno,5.0,teoria,5.0,scienza,5.0
+fisica_unitn_011,esperimento,3.0,fallito ,2.0,successo ,5.0,tentativo ,4.0
+fisica_unitn_002,esperimento,5.0,laboratorio ,5.0,,,,
+fisica_unitn_003,esperimento,3.0,dati,3.0,grafico,3.0,laboratorio,3.0
+fisica_unitn_004,esperimento,4.0,fisica ,5.0,dati,4.0,misura,3.0
+fisica_unitn_012,esperimento,3.0,laboratorio,3.0,obiettivo,5.0,metodo,5.0
+fisica_unitn_005,esperimento,4.0,scientifico ,4.0,quantistico,5.0,sociale,4.0
+fisica_unitn_006,esperimento,5.0,divertimento,5.0,dimostrare,5.0,amici,4.0
+fisica_unitn_007,esperimento,3.0,mentale,5.0,metafisico,3.0,struttura,2.0
+fisica_unitn_008,esperimento,4.0,dati,4.0,indagine,4.0,speranza,5.0
+fisica_003,stress,1.0,lavoro,3.0,studio,4.0,vita,3.0
+fisica_005,stress,2.0,ansia,2.0,agitazione,2.0,,
+fisica_007,stress,1.0,esami,2.0,sessione,2.0,tempo,3.0
+fisica_010,stress,2.0,ansia,2.0,paura,2.0,tensione,1.0
+fisica_stem_001_1,stress,4.0,scuola,3.0,nervi,2.0,rigidità,1.0
+fisica_012,stress,2.0,malattia,2.0,mal di testa ,2.0,malfunzionamento ,1.0
+fisica_stem_002_1,stress,1.0,peso,1.0,blocco,1.0,sopportare ,2.0
+fisica_stem_003_1,stress,3.0,risposta,4.0,ahia,3.0,movimento,4.0
+fisica_017,stress,5.0,sempre ,5.0,domande ,5.0,vita ,3.0
+fisica_018,stress,2.0,esami,3.0,sessione,2.0,solitudine,3.0
+fisica_020,stress,3.0,,,,,,
+fisica_021,stress,1.0,ansia,1.0,forte,1.0,io,1.0
+fisica_022,stress,1.0,scuola,2.0,studio,2.0,paura,3.0
+fisica_stem_005_1,stress,1.0,claustrofobia,1.0,adrenalina,5.0,performance ,3.0
+fisica_unitn_009,stress,3.0,impegno,4.0,ansia,2.0,responsabilità,3.0
+fisica_unitn_011,stress,3.0,appetito ,3.0,sport ,4.0,pausa ,4.0
+fisica_unitn_002,stress,1.0,ansia ,1.0,,,,
+fisica_unitn_003,stress,2.0,ansia,2.0,esame,3.0,somatizzare,2.0
+fisica_unitn_004,stress,2.0,ansia,2.0,esame ,3.0,fisica,4.0
+fisica_unitn_012,stress,1.0,sonno,3.0,angoscia,1.0,università,4.0
+fisica_unitn_005,stress,2.0,lavoro,3.0,ansia,2.0,,
+fisica_unitn_006,stress,3.0,ansia,2.0,elasticità,4.0,rompere,4.0
+fisica_unitn_007,stress,3.0,ansia,4.0,pericolo,5.0,sensazione,5.0
+fisica_unitn_008,stress,2.0,pressione,1.0,battito,3.0,ansia,1.0
+fisica_003,intelligenza_artificiale,3.0,connessioni neurali,4.0,machine learning,3.0,ingiusto,1.0
+fisica_005,intelligenza_artificiale,3.0,bias,3.0,dati,3.0,reti neurali,4.0
+fisica_007,intelligenza_artificiale,4.0,bro,4.0,psicologia,4.0,enciclopedia,4.0
+fisica_010,intelligenza_artificiale,4.0,chatgpt,4.0,problem,4.0,aiuto ,4.0
+fisica_stem_001_1,intelligenza_artificiale,2.0,schifo,1.0,nervosismo,2.0,paura,2.0
+fisica_012,intelligenza_artificiale,3.0,robot,3.0,asimov,3.0,,
+fisica_stem_002_1,intelligenza_artificiale,2.0,machine learning,3.0,alan turing,5.0,algoritmo,3.0
+fisica_stem_003_1,intelligenza_artificiale,4.0,amico,5.0,compiacere,3.0,aiuto,3.0
+fisica_017,intelligenza_artificiale,4.0,strumento ,4.0,semplificazione ,4.0,velocità,4.0
+fisica_018,intelligenza_artificiale,3.0,chat gpt,3.0,sciocca,2.0,analisi 2,2.0
+fisica_020,intelligenza_artificiale,5.0,aiuto,5.0,gemini,3.0,studio,2.0
+fisica_021,intelligenza_artificiale,4.0,utile,4.0,interessante,4.0,non paurosa,3.0
+fisica_022,intelligenza_artificiale,1.0,stupidità,2.0,paura,3.0,rimpianto,2.0
+fisica_stem_005_1,intelligenza_artificiale,1.0,inganno,1.0,solitudine,3.0,vuoto,3.0
+fisica_unitn_009,intelligenza_artificiale,5.0,paura,2.0,sollecitazione,4.0,occasione,4.0
+fisica_unitn_011,intelligenza_artificiale,3.0,computer ,3.0,paura ,2.0,bolla,3.0
+fisica_unitn_002,intelligenza_artificiale,3.0,computer ,3.0,,,,
+fisica_unitn_003,intelligenza_artificiale,3.0,robot,3.0,reti neurali,3.0,gemini,3.0
+fisica_unitn_004,intelligenza_artificiale,3.0,rete neurale,3.0,cervello,3.0,neuroni,3.0
+fisica_unitn_012,intelligenza_artificiale,4.0,gemini,4.0,reti,4.0,neuroni,4.0
+fisica_unitn_005,intelligenza_artificiale,4.0,gemini,4.0,chatgpt,4.0,llm,4.0
+fisica_unitn_006,intelligenza_artificiale,3.0,algoritmo,3.0,cieco,2.0,veloce,3.0
+fisica_unitn_007,intelligenza_artificiale,3.0,ia,5.0,robot,5.0,metallo,5.0
+fisica_unitn_008,intelligenza_artificiale,4.0,pericolo,1.0,vita,5.0,umanoidi,2.0
+fisica_003,regole,3.0,imposizione,2.0,società,4.0,rompere,3.0
+fisica_005,regole,3.0,,,,,,
+fisica_007,regole,2.0,no,2.0,anarchia,4.0,noia,2.0
+fisica_010,regole,4.0,leggi,3.0,norme,3.0,istruzioni,3.0
+fisica_stem_001_1,regole,3.0,scuola,3.0,gruppo,3.0,blocco,2.0
+fisica_012,regole,3.0,rap,3.0,lunghezza,3.0,,
+fisica_stem_002_1,regole,4.0,teorema,4.0,enunciato,3.0,rigidità,3.0
+fisica_stem_003_1,regole,4.0,struttura,4.0,empatia,5.0,morale,3.0
+fisica_017,regole,5.0,matematica,5.0,sociali,5.0,,
+fisica_018,regole,2.0,leggi,1.0,divieti,2.0,imposizioni,1.0
+fisica_020,regole,3.0,,,,,,
+fisica_021,regole,3.0,stupide,2.0,banali,2.0,idiote,2.0
+fisica_022,regole,1.0,rigide,1.0,inutili,2.0,limitanti,1.0
+fisica_stem_005_1,regole,3.0,scatola,3.0,procedure,3.0,gabbie ,2.0
+fisica_unitn_009,regole,3.0,giuste,4.0,pilastri,4.0,mattoni,5.0
+fisica_unitn_011,regole,2.0,oro,5.0,religione ,4.0,ordine ,4.0
+fisica_unitn_002,regole,3.0,leggi ,2.0,,,,
+fisica_unitn_003,regole,3.0,quadrate,2.0,seguire,4.0,schema,3.0
+fisica_unitn_004,regole,3.0,rigore ,4.0,matematica,5.0,logica,4.0
+fisica_unitn_012,regole,4.0,rispettare,4.0,tensione,4.0,società,4.0
+fisica_unitn_005,regole,4.0,legge,4.0,obbedienza,4.0,,
+fisica_unitn_006,regole,2.0,leggi,2.0,giudice,1.0,fisica,4.0
+fisica_unitn_007,regole,3.0,struttura,5.0,vincoli,5.0,condizioni,5.0
+fisica_unitn_008,regole,4.0,giustizia ,5.0,equilibrio ,5.0,rispetto ,5.0
+fisica_003,scienziato,5.0,intelligenza,4.0,curiosità,4.0,coraggio,5.0
+fisica_005,scienziato,5.0,ricerca,4.0,dati,4.0,laboratorio,4.0
+fisica_007,scienziato,4.0,io,4.0,fisica,5.0,chimica,3.0
+fisica_010,scienziato,5.0,donna,5.0,provette ,3.0,laboratorio,4.0
+fisica_stem_001_1,scienziato,5.0,pazzo,4.0,camice,4.0,perso,3.0
+fisica_012,scienziato,4.0,camice,3.0,comunità ,4.0,entusiasmo,5.0
+fisica_stem_002_1,scienziato,4.0,lavoro,4.0,accademia,2.0,ricerca,4.0
+fisica_stem_003_1,scienziato,3.0,occhiali,3.0,camice,3.0,capelli,3.0
+fisica_017,scienziato,4.0,ricerca,4.0,dedizione ,4.0,impegno,4.0
+fisica_018,scienziato,2.0,laboratorio,4.0,esperimenti,3.0,astronauta,5.0
+fisica_020,scienziato,3.0,,,,,,
+fisica_021,scienziato,4.0,laboratorio,4.0,camice,4.0,esperimento,4.0
+fisica_022,scienziato,,uomo,,sincero,,triste,
+fisica_stem_005_1,scienziato,4.0,genio,5.0,appassionato,5.0,determinato,5.0
+fisica_unitn_009,scienziato,4.0,pazzo,3.0,strano,3.0,studioso,4.0
+fisica_unitn_011,scienziato,4.0,pazzo,5.0,precario ,3.0,italia ,3.0
+fisica_unitn_002,scienziato,5.0,intelligenza ,4.0,,,,
+fisica_unitn_003,scienziato,3.0,pazzo,5.0,camice,3.0,laboratorio,3.0
+fisica_unitn_004,scienziato,4.0,svizzera ,3.0,einstein,3.0,heisenberg,3.0
+fisica_unitn_012,scienziato,5.0,ricerca,5.0,laboratorio,5.0,scoperte,5.0
+fisica_unitn_005,scienziato,4.0,einstein,5.0,ricerca ,5.0,fermi,3.0
+fisica_unitn_006,scienziato,3.0,ricercatore,5.0,uomo,3.0,,
+fisica_unitn_007,scienziato,3.0,einstein,4.0,capelli bianchi,4.0,linguaccia,4.0
+fisica_unitn_008,scienziato,4.0,cultura ,5.0,pensiero,5.0,legami,5.0
+fisica_003,scuola,3.0,routine,3.0,amici,4.0,studio,3.0
+fisica_005,scuola,4.0,imparare,4.0,,,,
+fisica_007,scuola,3.0,banco,3.0,interrogazione,2.0,compagni,4.0
+fisica_010,scuola,4.0,amici,5.0,imparare,5.0,cultura,5.0
+fisica_stem_001_1,scuola,4.0,secondaria,3.0,superiore,4.0,,
+fisica_012,scuola,3.0,elementare,3.0,libri,4.0,errori,2.0
+fisica_stem_002_1,scuola,2.0,cultura,5.0,ambiente,2.0,voti,2.0
+fisica_stem_003_1,scuola,3.0,luogo,3.0,maestra,3.0,gesso,3.0
+fisica_017,scuola,4.0,formazione,4.0,relazioni,4.0,amici,5.0
+fisica_018,scuola,5.0,superiori,5.0,corridoi,5.0,compagni,5.0
+fisica_020,scuola,3.0,,,,,,
+fisica_021,scuola,3.0,liceo,1.0,galilei,1.0,professori,1.0
+fisica_022,scuola,,impegno,,fatica,,concentrazione,
+fisica_stem_005_1,scuola,3.0,studio,3.0,contatto ,4.0,ricordi,5.0
+fisica_unitn_009,scuola,2.0,impegno,3.0,stress,1.0,camminata,5.0
+fisica_unitn_011,scuola,3.0,liceo,3.0,arte,4.0,divertimento ,4.0
+fisica_unitn_002,scuola,3.0,istruzione ,4.0,lavagna ,4.0,professori ,2.0
+fisica_unitn_003,scuola,4.0,edifcio,3.0,cancelli,3.0,aule,3.0
+fisica_unitn_004,scuola,3.0,aula,3.0,classe,3.0,sezione,3.0
+fisica_unitn_012,scuola,5.0,professori,4.0,alunni,4.0,materie,3.0
+fisica_unitn_005,scuola,3.0,classe,4.0,insegnante ,4.0,apprendimento ,5.0
+fisica_unitn_006,scuola,2.0,noia,1.0,fastidio,1.0,prospettive,2.0
+fisica_unitn_007,scuola,3.0,compagni,4.0,amici,4.0,gruppo,4.0
+fisica_unitn_008,scuola,3.0,gabbia,1.0,falsità ,1.0,,
+fisica_003,creatività,5.0,mezzo,4.0,scopo,4.0,tempo libero,2.0
+fisica_005,creatività,4.0,immaginazione,5.0,fantasia,4.0,,
+fisica_007,creatività,5.0,storie,5.0,arte,5.0,soluzioni,5.0
+fisica_010,creatività,5.0,arte,5.0,pittura,5.0,poesia,5.0
+fisica_stem_001_1,creatività,5.0,tavolozza,5.0,colori,5.0,,
+fisica_012,creatività,4.0,sguardo ampio,5.0,personale,4.0,mescolare,5.0
+fisica_stem_002_1,creatività,5.0,pensiero,5.0,arte,5.0,originalità,5.0
+fisica_stem_003_1,creatività,4.0,colore,3.0,adattamento,4.0,magico,5.0
+fisica_017,creatività,5.0,bellissima ,3.0,fondamentale ,4.0,arte ,4.0
+fisica_018,creatività,5.0,colori,3.0,pittura,2.0,musica,5.0
+fisica_020,creatività,5.0,scarsa,2.0,informatica,3.0,app,3.0
+fisica_021,creatività,3.0,non la ho,1.0,altri la hanno,1.0,incapacità,1.0
+fisica_022,creatività,,ali,,volare,,amore,
+fisica_stem_005_1,creatività,5.0,creare ,5.0,immaginare,5.0,plasmare,5.0
+fisica_unitn_009,creatività,4.0,essenziale,4.0,,,,
+fisica_unitn_011,creatività,4.0,arte,4.0,libertà,4.0,impresa ,4.0
+fisica_unitn_002,creatività,5.0,arte ,5.0,colori ,5.0,immaginazione ,5.0
+fisica_unitn_003,creatività,3.0,foglio,3.0,colori,4.0,forme,4.0
+fisica_unitn_004,creatività,4.0,fantasia,4.0,immaginazione,4.0,cervello,
+fisica_unitn_012,creatività,4.0,fotografia,5.0,problemi,4.0,scrivere,5.0
+fisica_unitn_005,creatività,4.0,arte,5.0,musica ,5.0,ingegno ,5.0
+fisica_unitn_006,creatività,5.0,sole,5.0,disegno,3.0,progetto,5.0
+fisica_unitn_007,creatività,4.0,immaginazione,5.0,caratteristica,5.0,proprietà,5.0
+fisica_unitn_008,creatività,5.0,arte,4.0,espressione,5.0,spettacolo ,4.0
+fisica_003,arte,5.0,anima,5.0,creatività,5.0,espressione,5.0
+fisica_005,arte,4.0,espressione,4.0,colori,4.0,musica,5.0
+fisica_007,arte,5.0,bella,5.0,emozione,4.0,settima,4.0
+fisica_010,arte,5.0,quadro,5.0,lettura,5.0,pittura,5.0
+fisica_stem_001_1,arte,5.0,bello,5.0,canova,4.0,,
+fisica_012,arte,4.0,quadro,4.0,espressione ,5.0,vago,4.0
+fisica_stem_002_1,arte,5.0,bellezza,5.0,sentimento,5.0,espressione,5.0
+fisica_stem_003_1,arte,4.0,chiazza,4.0,magia,4.0,saluto,4.0
+fisica_017,arte,5.0,passione,4.0,dipinti,4.0,creatività,5.0
+fisica_018,arte,1.0,storia,2.0,bocciatura,1.0,studio,2.0
+fisica_020,arte,5.0,gioconda,3.0,musica,4.0,curiosita,5.0
+fisica_021,arte,4.0,prof di arte,4.0,materia,4.0,facile,5.0
+fisica_022,arte,,libertà,,parola,,amore,
+fisica_stem_005_1,arte,4.0,creatività,5.0,fantasia,5.0,rifugio,4.0
+fisica_unitn_009,arte,3.0,quadri,4.0,statue,4.0,,
+fisica_unitn_011,arte,4.0,disegno ,4.0,penna,4.0,virtuosismo ,5.0
+fisica_unitn_002,arte,5.0,colori ,5.0,bellezza,5.0,dipinto ,5.0
+fisica_unitn_003,arte,4.0,pennello,4.0,tavolozza,4.0,tela,4.0
+fisica_unitn_004,arte,4.0,pittore,4.0,van ghog,3.0,girasoli,3.0
+fisica_unitn_012,arte,5.0,comunicare,5.0,dipinto,5.0,scultura,5.0
+fisica_unitn_005,arte,4.0,socialista,4.0,storia,4.0,brutalista,4.0
+fisica_unitn_006,arte,4.0,sculture,5.0,classico,5.0,,
+fisica_unitn_007,arte,5.0,creatività,5.0,quadro,5.0,venere,5.0
+fisica_unitn_008,arte,4.0,espressione,5.0,musica,5.0,pensiero,5.0
+fisica_003,esame,2.0,ansia,1.0,preparazione,3.0,memoria,3.0
+fisica_005,esame,1.0,ansia,2.0,studio,3.0,pressione,1.0
+fisica_007,esame,3.0,ansia,2.0,voto,3.0,media,3.0
+fisica_010,esame,2.0,ansia,1.0,stress,1.0,studio,3.0
+fisica_stem_001_1,esame,3.0,paura,2.0,ansia,1.0,test,2.0
+fisica_012,esame,2.0,preparazione ,3.0,scommessa,3.0,fisica,3.0
+fisica_stem_002_1,esame,2.0,confronto,4.0,preparazione,4.0,voto,2.0
+fisica_stem_003_1,esame,3.0,verifica,3.0,ostacolo,2.0,paletto,2.0
+fisica_017,esame,5.0,sangue ,3.0,stress,5.0,giudizio,5.0
+fisica_018,esame,2.0,valutazione,4.0,studio,2.0,fatica,3.0
+fisica_020,esame,2.0,fallimento,1.0,voto,2.0,paura,1.0
+fisica_021,esame,3.0,maturità,1.0,zencher,1.0,difficile,1.0
+fisica_022,esame,,duro,,difficile,,entusiasmante,
+fisica_stem_005_1,esame,2.0,fatica ,2.0,ansia,2.0,blocco,1.0
+fisica_unitn_009,esame,3.0,ansia,2.0,occasione,4.0,,
+fisica_unitn_011,esame,3.0,ansia,3.0,sole,4.0,sicurezza ,4.0
+fisica_unitn_002,esame,3.0,ansia ,1.0,,,,
+fisica_unitn_003,esame,3.0,difficile,3.0,giugno,1.0,sessione,2.0
+fisica_unitn_004,esame,4.0,ansia,2.0,voto,4.0,test,3.0
+fisica_unitn_012,esame,1.0,ansia,1.0,stress,1.0,performance,3.0
+fisica_unitn_005,esame,4.0,orale,4.0,scritto,4.0,voto,4.0
+fisica_unitn_006,esame,2.0,tempo,3.0,valutare,2.0,merito,4.0
+fisica_unitn_007,esame,3.0,difficile,5.0,facile,5.0,intermedio,5.0
+fisica_unitn_008,esame,2.0,ansia,1.0,paura,2.0,successo ,4.0
+fisica_003,futuro,2.0,preoccupazione,2.0,incertezza,1.0,disastro,1.0
+fisica_005,futuro,2.0,aspettative,1.0,sconosciuto,2.0,paura,2.0
+fisica_007,futuro,3.0,canzone psicologi,4.0,prossimo,3.0,anteriore,3.0
+fisica_010,futuro,4.0,incerto,2.0,possibilita,4.0,ansia,1.0
+fisica_stem_001_1,futuro,3.0,incerto,2.0,paura,2.0,promesse,4.0
+fisica_012,futuro,4.0,lontano,3.0,felice,4.0,sconosciuto ,3.0
+fisica_stem_002_1,futuro,3.0,progresso,2.0,etica,5.0,incertezza,3.0
+fisica_stem_003_1,futuro,2.0,dopo,4.0,lontano,5.0,astratto ,2.0
+fisica_017,futuro,5.0,incerto,5.0,stipendio,5.0,vicino,3.0
+fisica_018,futuro,2.0,lavoro,3.0,pensione,4.0,fatica,4.0
+fisica_020,futuro,2.0,incerto,1.0,paura,1.0,fallimento,1.0
+fisica_021,futuro,2.0,incerto,2.0,lontano,1.0,irraggiungibile,1.0
+fisica_022,futuro,,incerto,,pauroso,,inidente,
+fisica_stem_005_1,futuro,2.0,incertezza,1.0,ansia ,1.0,sfide ,3.0
+fisica_unitn_009,futuro,2.0,prossimo,3.0,incognita,2.0,,
+fisica_unitn_011,futuro,4.0,nazionale ,2.0,speranza ,4.0,scommessa ,4.0
+fisica_unitn_002,futuro,4.0,nave ,5.0,blu ,5.0,paura ,1.0
+fisica_unitn_003,futuro,2.0,nebbioso,2.0,dubbio,2.0,domani,3.0
+fisica_unitn_004,futuro,4.0,impazienza,2.0,studio,3.0,fisica,4.0
+fisica_unitn_012,futuro,4.0,ansia,1.0,aspettative,3.0,curiosità,5.0
+fisica_unitn_005,futuro,4.0,certo,4.0,incerto,1.0,tecnologia ,4.0
+fisica_unitn_006,futuro,4.0,incerto,2.0,paura,3.0,solitudine,2.0
+fisica_unitn_007,futuro,3.0,passato,5.0,storia,5.0,geografia,4.0
+fisica_unitn_008,futuro,4.0,incerto,2.0,tecnologia,4.0,barbarie,1.0
+fisica_003,vita,3.0,amore,5.0,natura,4.0,creatività,5.0
+fisica_005,vita,4.0,percorso,4.0,cammino,4.0,viaggio,5.0
+fisica_007,vita,3.0,morte,3.0,nascita,3.0,tempo,3.0
+fisica_010,vita,4.0,bella,4.0,avventura,4.0,imparare,4.0
+fisica_stem_001_1,vita,4.0,albero,5.0,viva,5.0,,
+fisica_012,vita,5.0,acqua ,4.0,piante,5.0,respiro,5.0
+fisica_stem_002_1,vita,4.0,vocazione,5.0,possibilità,5.0,diritti,5.0
+fisica_stem_003_1,vita,3.0,lunga,2.0,pazza,4.0,pancia,3.0
+fisica_017,vita,5.0,breve ,5.0,incerta ,5.0,colorata ,5.0
+fisica_018,vita,4.0,rilassata,5.0,barca a vela,5.0,montagna,5.0
+fisica_020,vita,2.0,,,,,,
+fisica_021,vita,2.0,brutta,1.0,irrealizzabile,1.0,fallimento,1.0
+fisica_022,vita,,bella,,gioiosa,,saggia,
+fisica_stem_005_1,vita,3.0,viaggio,4.0,sfida ,4.0,tempo,5.0
+fisica_unitn_009,vita,3.0,morte,2.0,miracoli,2.0,giro,3.0
+fisica_unitn_011,vita,4.0,morte ,3.0,cellula ,4.0,dio ,5.0
+fisica_unitn_002,vita,5.0,pianta ,5.0,verde ,5.0,ossigeno ,5.0
+fisica_unitn_003,vita,3.0,morte,2.0,biologia,4.0,foglia,4.0
+fisica_unitn_004,vita,4.0,morte,1.0,croce,1.0,funerale,1.0
+fisica_unitn_012,vita,5.0,persone,4.0,felicità,5.0,serenità,5.0
+fisica_unitn_005,vita,4.0,monacale,2.0,morte,2.0,miracoli,4.0
+fisica_unitn_006,vita,3.0,biologia,4.0,lunga,3.0,replicare,4.0
+fisica_unitn_007,vita,3.0,morte,5.0,inferno,4.0,dante,5.0
+fisica_unitn_008,vita,4.0,esperienza ,5.0,dati,4.0,morte,4.0

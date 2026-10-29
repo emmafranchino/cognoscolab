@@ -12,23 +12,41 @@ liceo_lin_004,scienza,3.0,verde,5.0,microscopio,2.0,piante ,4.0
 liceo_lin_005,scienza,4.0,chimica,3.0,biologia,5.0,terremoti,4.0
 liceo_lin_006,scienza,5.0,laboratorio,4.0,esperimenti,4.0,camice,4.0
 liceo_lin_008,scienza,3.0,verde,4.0,natura,3.0,,
+liceo_lin_009,scienza,2.0,chimica,1.0,biologia,1.0,terra,3.0
 liceo_lin_010,scienza,5.0,verde,5.0,natura,4.0,biologia,4.0
 liceo_lin_011,scienza,3.0,natura,5.0,matematica,3.0,geologia,3.0
 liceo_lin_012,scienza,4.0,chimica,3.0,biologia,4.0,anatomia,4.0
+liceo_lin_013,scienza,4.0,natura,5.0,conoscenza,4.0,studio,3.0
 liceo_lin_015,scienza,3.0,atomi,4.0,chimica,4.0,materia,4.0
 liceo_lin_016,scienza,3.0,materia ,3.0,medicina ,3.0,terra,3.0
 liceo_lin_018,scienza,3.0,medicina,5.0,biologia,4.0,chimica,2.0
 liceo_sci_014,scienza,4.0,amore,2.0,zoologia,5.0,azzurro intenso,3.0
 liceo_sci_016,scienza,4.0,verde,3.0,boccette,3.0,libri,3.0
 liceo_sci_018,scienza,3.0,ricerche ,5.0,innovazione,5.0,,
+liceo_sci_019,scienza,3.0,scoperte,4.0,novità,4.0,dati,4.0
 liceo_sci_026,scienza,3.0,chimica,3.0,studio,2.0,animali,4.0
 liceo_sci_029,scienza,3.0,,,,,,
+liceo_sci_032,scienza,4.0,progresso,3.0,,,,
 liceo_sci_033,scienza,5.0,interessante,5.0,tutto,5.0,bella,5.0
 liceo_sci_034,scienza,4.0,esperimenti,4.0,laboratorio ,4.0,,
 liceo_sci_037,scienza,3.0,scuola,3.0,studio,3.0,ricerca,3.0
 liceo_sci_041,scienza,3.0,esperimenti,4.0,mondo,4.0,sapere,4.0
 liceo_sci_042,scienza,4.0,divertente,4.0,natura,4.0,utile,4.0
+liceo_sci_043,scienza,4.0,molteplicità,5.0,interesse,5.0,,
 liceo_064,scienza,4.0,pesante,4.0,importante,4.0,spazio,4.0
+high_school_south_005,scienza,4.0,studio,3.0,natura,4.0,fenomeni,3.0
+high_school_south_008,scienza,5.0,ipotesi,5.0,conoscienza,5.0,bello,5.0
+high_school_south_012,scienza,4.0,biologia,5.0,scuola ,3.0,utile,4.0
+high_school_south_022,scienza,4.0,ipotesi,4.0,libro,4.0,esperimento ,4.0
+high_school_south_027,scienza,4.0,professore,3.0,libro,3.0,tv,4.0
+high_school_south_032,scienza,4.0,innovazione,5.0,,,,
+high_school_south_034,scienza,4.0,verde,4.0,esperienza,4.0,prossima,4.0
+high_school_south_035,scienza,3.0,chimica,4.0,laboratorio ,3.0,chimica,4.0
+high_school_south_041,scienza,4.0,biologia ,4.0,evoluzione,4.0,laboratorio ,4.0
+high_school_south_045,scienza,4.0,cupidatat dolor labo,3.0,lorem corrupti labo,1.0,unde libero consequa,5.0
+high_school_south_046,scienza,4.0,esatta,4.0,incompleta,2.0,chimica,4.0
+high_school_south_047,scienza,4.0,studio,4.0,metodo,4.0,verifica,3.0
+high_school_south_048,scienza,2.0,studio ,2.0,laboratorio ,2.0,scienziati ,2.0
 liceo_sci_001,statistica,3.0,matematica,3.0,,,,
 liceo_sci_002,statistica,3.0,probabilità,4.0,evento contrario,4.0,estrazione,4.0
 liceo_sci_003,statistica,3.0,difficile,2.0,materia,3.0,complessa da comprendere,2.0
@@ -42,23 +60,41 @@ liceo_lin_004,statistica,1.0,colonne,3.0,arancione,5.0,matematica,3.0
 liceo_lin_005,statistica,2.0,matematica,2.0,difficile,2.0,,
 liceo_lin_006,statistica,3.0,matematica,3.0,media,4.0,esame,2.0
 liceo_lin_008,statistica,2.0,probabilità,2.0,dati,2.0,percentuali,3.0
+liceo_lin_009,statistica,2.0,numeri,2.0,dati,2.0,tabelle,3.0
 liceo_lin_010,statistica,2.0,numeri,3.0,matematica,3.0,occhiali,2.0
 liceo_lin_011,statistica,3.0,numeri,3.0,dati,3.0,probabilità,3.0
 liceo_lin_012,statistica,3.0,dati,3.0,numeri,3.0,,
+liceo_lin_013,statistica,2.0,numeri,3.0, dati,4.0,problemi,3.0
 liceo_lin_015,statistica,2.0,ragionamento,3.0,difficile,1.0,materia,4.0
 liceo_lin_016,statistica,2.0,matematica,2.0,materia ,2.0,calcoli,2.0
 liceo_lin_018,statistica,3.0,sondaggio,4.0,risultato,4.0,,
 liceo_sci_014,statistica,4.0,matematica,2.0,percentuale,3.0,giallo,2.0
 liceo_sci_016,statistica,3.0,numeri,3.0,grafici,3.0,colori,3.0
 liceo_sci_018,statistica,3.0,difficile,3.0, matematica,4.0,,
+liceo_sci_019,statistica,3.0,dati,3.0,media,3.0,risultati,3.0
 liceo_sci_026,statistica,3.0,matematica,2.0,economia,4.0,valutazione,4.0
 liceo_sci_029,statistica,3.0,,,,,,
+liceo_sci_032,statistica,2.0,dati,3.0,indagini,4.0,,
 liceo_sci_033,statistica,4.0,brutta,2.0,utile,5.0,difficile,3.0
 liceo_sci_034,statistica,4.0,matematica,4.0,azienda,4.0,grafici,5.0
 liceo_sci_037,statistica,3.0,programma,3.0,scuola,3.0,verifica,3.0
 liceo_sci_041,statistica,2.0,analisi,2.0,matematica,2.0,dati,3.0
 liceo_sci_042,statistica,4.0,calcoli,3.0,percentuali,3.0,utile,4.0
+liceo_sci_043,statistica,4.0,popolazione,4.0,numeri,4.0,grafici,4.0
 liceo_064,statistica,4.0,noia,3.0,seria,4.0,tabella,4.0
+high_school_south_005,statistica,3.0,numeri,4.0,percentuali,3.0,diagrammi,3.0
+high_school_south_008,statistica,4.0,matematica,5.0,numeri ,5.0,dati,5.0
+high_school_south_012,statistica,4.0,matematica,3.0,dati,4.0,analisi,4.0
+high_school_south_022,statistica,4.0,utile,4.0,diagrammi,4.0,dati,4.0
+high_school_south_027,statistica,2.0,probabilità,2.0,bayes,2.0,avvocato,4.0
+high_school_south_032,statistica,3.0,probabilità ,4.0,antropologia,5.0,,
+high_school_south_034,statistica,4.0,sondaggi,4.0,domande,4.0,percentuale ,3.0
+high_school_south_035,statistica,3.0,rognoso ,1.0,lavoro,2.0,verde,3.0
+high_school_south_041,statistica,2.0,tabella,4.0,excell,2.0,dati,3.0
+high_school_south_045,statistica,3.0,sed cupidatat deseru,1.0,voluptas soluta sunt,2.0,eum dolor qui non qu,2.0
+high_school_south_046,statistica,5.0,grafici,3.0,numeri,4.0,probabilità,4.0
+high_school_south_047,statistica,3.0,fenomeno,3.0,probabilità ,3.0,percentuali ,3.0
+high_school_south_048,statistica,3.0,numeri ,2.0,percentuale ,4.0,dati ,3.0
 liceo_sci_001,ipotesi,3.0,idee,3.0,,,,
 liceo_sci_002,ipotesi,4.0,domanda,4.0,dimostrazione,4.0,triangolo,3.0
 liceo_sci_003,ipotesi,3.0,domanda,3.0,matematica,2.0,pensiero,3.0
@@ -72,23 +108,41 @@ liceo_lin_004,ipotesi,3.0,domanda,5.0,probabilità ,1.0,esame,1.0
 liceo_lin_005,ipotesi,3.0,incertezza,2.0,errore,2.0,,
 liceo_lin_006,ipotesi,3.0,domanda,3.0,soluzione,5.0,ricerca,5.0
 liceo_lin_008,ipotesi,3.0,creatività,2.0,idea,4.0,nuovo,4.0
+liceo_lin_009,ipotesi,3.0,idea,4.0,incertezza,2.0,,
 liceo_lin_010,ipotesi,4.0,domanda,4.0,curiosità,3.0,supposizione,3.0
 liceo_lin_011,ipotesi,4.0,probabilità,3.0,vera,3.0,falsa,3.0
 liceo_lin_012,ipotesi,3.0,esperimento,4.0,studio,3.0,errore,2.0
+liceo_lin_013,ipotesi,4.0,tesi,3.0,risolvere ,4.0,dubbio,2.0
 liceo_lin_015,ipotesi,3.0,tesi,3.0,antitesi,3.0,supposizione,3.0
 liceo_lin_016,ipotesi,3.0,domanda ,3.0,risposta,3.0,opinione,4.0
 liceo_lin_018,ipotesi,3.0,incertezza,3.0,possibilità,4.0,,
 liceo_sci_014,ipotesi,4.0,filosofia,5.0,logica,4.0,azzurro,3.0
 liceo_sci_016,ipotesi,3.0,quaderno,3.0,triangolo,3.0,scienze,4.0
 liceo_sci_018,ipotesi,3.0,matematica,4.0,scoperta,5.0,,
+liceo_sci_019,ipotesi,3.0,domande,3.0,incertezza,2.0,ragionamento,3.0
 liceo_sci_026,ipotesi,3.0,scienze,4.0,,,,
 liceo_sci_029,ipotesi,3.0,,,,,,
+liceo_sci_032,ipotesi,3.0,teorema,3.0,scoperta,4.0,dimostrazione,3.0
 liceo_sci_033,ipotesi,5.0,utili,5.0,importanti,5.0,naturali,4.0
 liceo_sci_034,ipotesi,3.0,geometria,3.0,tesi,3.0,,
 liceo_sci_037,ipotesi,3.0,hp,3.0,problema,3.0,tesi,3.0
 liceo_sci_041,ipotesi,3.0,domanda,3.0,esperimento,4.0,curiosità,5.0
 liceo_sci_042,ipotesi,3.0,domanda,3.0,risposta,4.0,non saper rispondere,2.0
+liceo_sci_043,ipotesi,4.0,idea,5.0,intraprendenza,5.0,,
 liceo_064,ipotesi,4.0,calma,5.0,ragionevole,5.0,seria,5.0
+high_school_south_005,ipotesi,3.0,tesi,4.0,metodo scientifico,3.0,,
+high_school_south_008,ipotesi,5.0,dato,5.0,idea,5.0,teoria ,5.0
+high_school_south_012,ipotesi,4.0,tesi,4.0,postulato ,4.0,teorema,5.0
+high_school_south_022,ipotesi,4.0,scienza,4.0,tesi,4.0,studio,4.0
+high_school_south_027,ipotesi,4.0,supporre,4.0,considerare,4.0,analizzare,4.0
+high_school_south_032,ipotesi,3.0,problem solving,4.0,ricerca ,5.0,,
+high_school_south_034,ipotesi,4.0,incerto,2.0,studio,4.0,osservazione ,5.0
+high_school_south_035,ipotesi,3.0,galilei,4.0,scienze ,4.0,problema ,3.0
+high_school_south_041,ipotesi,3.0,dimostrazione ,1.0,matematica ,4.0,geometria,4.0
+high_school_south_045,ipotesi,5.0,maxime laboriosam m,5.0,non ipsum aspernatu,3.0,quae at officia susc,1.0
+high_school_south_046,ipotesi,3.0,confermata,3.0,falsa,2.0,brillante,4.0
+high_school_south_047,ipotesi,4.0,tesi,4.0,esperimento ,4.0,dimostrazione ,4.0
+high_school_south_048,ipotesi,2.0,tesi ,2.0,pensiero ,4.0,matematica,2.0
 liceo_sci_001,ansia,1.0,matematica,3.0,fisica ,2.0,voti,1.0
 liceo_sci_002,ansia,2.0,respirare,4.0,è normale fallire,4.0,,
 liceo_sci_003,ansia,1.0,agitazione,2.0,stato d'animo,4.0,incontollabile,2.0
@@ -102,23 +156,41 @@ liceo_lin_004,ansia,1.0,futuro,4.0,freddo,1.0,sudore,1.0
 liceo_lin_005,ansia,1.0,scuola,2.0,maturità,2.0,solitudine,1.0
 liceo_lin_006,ansia,1.0,scuola,4.0,prova,3.0,studio,3.0
 liceo_lin_008,ansia,2.0,oppressione,1.0,stanchezza,2.0,aspettative,2.0
+liceo_lin_009,ansia,1.0,stress,1.0,fatica,2.0,paura,1.0
 liceo_lin_010,ansia,4.0,significativa,4.0,consapevolezza,3.0,,
 liceo_lin_011,ansia,1.0,sociale,1.0,scolastica,1.0,personale,1.0
 liceo_lin_012,ansia,1.0,stress,1.0,,,,
+liceo_lin_013,ansia,1.0,paura,1.0,agitazione,2.0,panico,1.0
 liceo_lin_015,ansia,1.0,scuola,2.0,fallimento,1.0,eventi,3.0
 liceo_lin_016,ansia,2.0,paura ,2.0,fallimento,1.0,lacrime,2.0
 liceo_lin_018,ansia,1.0,frequente,1.0,scuola,2.0,voti,2.0
 liceo_sci_014,ansia,1.0,comune,3.0,aiuto,1.0,blu,2.0
 liceo_sci_016,ansia,1.0,io,2.0,rosa,3.0,canzone ,5.0
 liceo_sci_018,ansia,1.0,scuola,1.0,voti,1.0,università,1.0
+liceo_sci_019,ansia,2.0,paura,2.0,panico,2.0,situazione,1.0
 liceo_sci_026,ansia,1.0,verifica,2.0,interrogazione,1.0,pressione,1.0
 liceo_sci_029,ansia,3.0,,,,,,
+liceo_sci_032,ansia,2.0,persone,3.0,giudizio,1.0,dimostrare,2.0
 liceo_sci_033,ansia,1.0,terribile,1.0,male,1.0,sofferenza,1.0
 liceo_sci_034,ansia,1.0,impegni,2.0,aspettative,1.0,,
 liceo_sci_037,ansia,2.0,scolastica,3.0,uscita,3.0,appuntamento,2.0
 liceo_sci_041,ansia,1.0,paura,1.0,stress,1.0,insicurezza,1.0
 liceo_sci_042,ansia,1.0,scuola,2.0,interrogazioni,2.0,,
+liceo_sci_043,ansia,1.0,scuola,2.0,capelli,1.0,unghie,1.0
 liceo_064,ansia,3.0,paura,3.0,sempre,3.0,scuola,3.0
+high_school_south_005,ansia,1.0,stress,1.0,interrogazione,3.0,verifiche,3.0
+high_school_south_008,ansia,2.0,prestazione,3.0,lavoro,4.0,futuro,5.0
+high_school_south_012,ansia,1.0,stress,1.0,scuola ,3.0,frustrazione,1.0
+high_school_south_022,ansia,2.0,paura,2.0,paralisi,1.0,silenzio,1.0
+high_school_south_027,ansia,2.0,ricordo,2.0,notte,3.0,buio,3.0
+high_school_south_032,ansia,1.0,verifica ,2.0,,,,
+high_school_south_034,ansia,2.0,prestazione ,2.0,improvvisa,1.0,paralizzante,1.0
+high_school_south_035,ansia,1.0,filosofia,2.0,futuro,3.0,storia,3.0
+high_school_south_041,ansia,1.0,scuola,2.0,verifica ,2.0,sociale,1.0
+high_school_south_045,ansia,3.0,quisquam qui pariatu,4.0,consequatur molestia,2.0,et nesciunt magnam ,1.0
+high_school_south_046,ansia,2.0,scuola,3.0,sociale,3.0,verifiche,2.0
+high_school_south_047,ansia,2.0,preoccupazione,2.0,turbamento,2.0,incertezza ,2.0
+high_school_south_048,ansia,2.0,pressione ,4.0,problema ,4.0,prova ,3.0
 liceo_sci_001,benessere,4.0,libertà,4.0,natura,4.0,,
 liceo_sci_002,benessere,5.0,sport,5.0,dopamina,5.0,serotonina,5.0
 liceo_sci_003,benessere,5.0,tranquillità,5.0,felicità,5.0,pace,5.0
@@ -132,23 +204,41 @@ liceo_lin_004,benessere,5.0,spa,5.0,cibo,4.0,acqua,5.0
 liceo_lin_005,benessere,5.0,ossigeno,5.0,salute,5.0,cura,5.0
 liceo_lin_006,benessere,5.0,sole,5.0,vacanza,5.0,relax,5.0
 liceo_lin_008,benessere,5.0,relax,4.0,spa,5.0,spensieratezza,5.0
+liceo_lin_009,benessere,5.0,allegria,5.0,serenità,5.0,,
 liceo_lin_010,benessere,3.0,fisico,3.0,sole,4.0,sport,4.0
 liceo_lin_011,benessere,4.0,sociale,4.0,amoroso,4.0,personale,4.0
 liceo_lin_012,benessere,4.0,calma,4.0,felicità,4.0,pace,4.0
+liceo_lin_013,benessere,5.0,salute,5.0,felicità,5.0,calma,5.0
 liceo_lin_015,benessere,5.0,mentale,5.0,fisico,5.0,pace,5.0
 liceo_lin_016,benessere,3.0,fisico,3.0,culturale ,4.0,altrui,5.0
 liceo_lin_018,benessere,4.0,salute,5.0,mente,5.0,corpo,5.0
 liceo_sci_014,benessere,4.0,raro,2.0,esiste?,1.0,rosa,2.0
 liceo_sci_016,benessere,5.0,salute,5.0,spa,5.0,terme,5.0
 liceo_sci_018,benessere,5.0,serenità ,5.0,calma,5.0,,
+liceo_sci_019,benessere,5.0,felicità,5.0,rilassamento,5.0,tranquillità,5.0
 liceo_sci_026,benessere,4.0,amici,5.0,tranquillità,4.0,famiglia,5.0
 liceo_sci_029,benessere,3.0,,,,,,
+liceo_sci_032,benessere,5.0,calma,5.0,tranquillità,5.0,libertà,5.0
 liceo_sci_033,benessere,5.0,famiglia,5.0,amici,5.0,salute,5.0
 liceo_sci_034,benessere,5.0,tranquillità,5.0,,,,
 liceo_sci_037,benessere,2.0,vita,1.0,dieta,2.0,palestra,3.0
 liceo_sci_041,benessere,5.0,relax,5.0,sport,5.0,vacanza,5.0
 liceo_sci_042,benessere,4.0,sociale,4.0,economico,4.0,,
+liceo_sci_043,benessere,5.0,sport,5.0,relax,5.0,amicizie e amore,5.0
 liceo_064,benessere,4.0,fisico,4.0,sala,3.0,soldi,3.0
+high_school_south_005,benessere,5.0,serenità,5.0,,,,
+high_school_south_008,benessere,5.0,vita,4.0,sport,5.0,amici,5.0
+high_school_south_012,benessere,5.0,natura,5.0,mentale,5.0,fisico,5.0
+high_school_south_022,benessere,3.0,difficile,2.0,necessario,4.0,emotivo,4.0
+high_school_south_027,benessere,2.0,massaggi,4.0,crociera,3.0,quotidiano,4.0
+high_school_south_032,benessere,4.0,sanità ,4.0,felicità ,5.0,,
+high_school_south_034,benessere,5.0,psicologico,4.0,economico,4.0,salute,4.0
+high_school_south_035,benessere,5.0,maschera,5.0,doccia,5.0,letto,5.0
+high_school_south_041,benessere,5.0,spa,4.0,pace ,4.0,tranquillità ,5.0
+high_school_south_045,benessere,4.0,omnis mollit dicta d,1.0,necessitatibus ad do,4.0,occaecat quasi dolor,4.0
+high_school_south_046,benessere,4.0,spa,4.0,skin care,4.0,sauna,4.0
+high_school_south_047,benessere,4.0,relax,4.0,spensieratezza ,4.0,lusso,3.0
+high_school_south_048,benessere,5.0,salute ,5.0,allenamento ,5.0,alimentazione ,5.0
 liceo_sci_001,equazione,3.0,divertenti ,5.0,,,,
 liceo_sci_002,equazione,3.0,razionale,3.0,schrodinger,4.0,gauss,2.0
 liceo_sci_003,equazione,3.0,matematica,2.0,calcoli,3.0,soluzione,3.0
@@ -162,23 +252,41 @@ liceo_lin_004,equazione,4.0,x,4.0,risoluzione,1.0,voto,1.0
 liceo_lin_005,equazione,5.0,matematica,2.0,semplice,4.0,,
 liceo_lin_006,equazione,3.0,uguale,3.0,soluzione,4.0,risultato,4.0
 liceo_lin_008,equazione,2.0,matematica,2.0,difficile,2.0,complicata,2.0
+liceo_lin_009,equazione,3.0,numeri,3.0,segno,3.0,,
 liceo_lin_010,equazione,1.0,matematica,1.0,,,,
 liceo_lin_011,equazione,3.0,aritmetica,3.0,numeri,3.0,incognita,1.0
 liceo_lin_012,equazione,3.0,numeri,3.0,uguale,3.0,risultato,3.0
+liceo_lin_013,equazione,3.0,matematica ,4.0,problemi,2.0,incognite,2.0
 liceo_lin_015,equazione,2.0,numeri,2.0,frazione,2.0,calcoli,2.0
 liceo_lin_016,equazione,,matematica,,calcoli,,materia ,
 liceo_lin_018,equazione,3.0,matematica,4.0,numerica,3.0,,
 liceo_sci_014,equazione,1.0,matematica,1.0,stabile,1.0,ocra,1.0
 liceo_sci_016,equazione,3.0,numeri,3.0,grafico,3.0,quadretti,3.0
 liceo_sci_018,equazione,3.0,matematica,3.0,,,,
+liceo_sci_019,equazione,4.0,numeri,4.0,matematica,4.0,soluzione,4.0
 liceo_sci_026,equazione,,matematica,,x,,grafico,
 liceo_sci_029,equazione,3.0,matematica,4.0,logica,3.0,numeri ,4.0
+liceo_sci_032,equazione,2.0,matematica,4.0,carta,4.0,passato,4.0
 liceo_sci_033,equazione,3.0,normale,3.0,,,,
 liceo_sci_034,equazione,4.0,matematica,3.0,calcoli,3.0,risultato,4.0
 liceo_sci_037,equazione,3.0,disequazione,3.0,eqz,2.0,matematica,3.0
 liceo_sci_041,equazione,3.0,matematica,2.0,numeri,3.0,lettere,3.0
 liceo_sci_042,equazione,3.0,utile,4.0,matematica,3.0,prima superiore,3.0
+liceo_sci_043,equazione,3.0,numeri,3.0,risultato,2.0,matematica,4.0
 liceo_064,equazione,4.0,bella,4.0,lunga,4.0,pulita,4.0
+high_school_south_005,equazione,3.0,calcolo,4.0,errore,2.0,risultato,3.0
+high_school_south_008,equazione,5.0,divertente,5.0,metodo,3.0,cervello,5.0
+high_school_south_012,equazione,4.0,differenziale,2.0,lettera,4.0,uguale,5.0
+high_school_south_022,equazione,3.0,matematica ,4.0,disequazione,4.0,grado,4.0
+high_school_south_027,equazione,2.0,minore_uguale,3.0,calcolatrice_(grafica),3.0,incognita,4.0
+high_school_south_032,equazione,5.0,fisica,5.0,modelli,5.0,ricerca,5.0
+high_school_south_034,equazione,3.0,matematica,4.0,liceo,5.0,test,2.0
+high_school_south_035,equazione,2.0,matematica,3.0,uguale,3.0,x,3.0
+high_school_south_041,equazione,4.0,matematica ,4.0,incognita ,3.0,uguaglianza ,3.0
+high_school_south_045,equazione,5.0,architecto rerum sin,1.0,animi nihil est nos,3.0,fuga est atque beat,4.0
+high_school_south_046,equazione,4.0,matematica,5.0,x,3.0,uscita,4.0
+high_school_south_047,equazione,4.0,matematica,4.0,risoluzione,4.0,numeri,4.0
+high_school_south_048,equazione,2.0,matematica ,2.0,uguale ,3.0,risultato ,4.0
 liceo_sci_001,fisica,3.0,difficile,2.0,ansiosa ,1.0,,
 liceo_sci_002,fisica,4.0,campo elettrico,3.0,gatto,5.0,mele,5.0
 liceo_sci_003,fisica,2.0,difficile da capire,1.0,non fa per me,1.0,interessante,4.0
@@ -192,23 +300,41 @@ liceo_lin_004,fisica,1.0,crisi,1.0,verifica,1.0,laboratorio,3.0
 liceo_lin_005,fisica,2.0,velocità,4.0,inglese,4.0,problemi,4.0
 liceo_lin_006,fisica,2.0,problemi,2.0,ansia,2.0,difficoltà,2.0
 liceo_lin_008,fisica,1.0,surreale,3.0,difficile,2.0,,
+liceo_lin_009,fisica,2.0,problemi,2.0,suono,2.0,onde,2.0
 liceo_lin_010,fisica,1.0,complicata,1.0,sapienza,2.0,verde,4.0
 liceo_lin_011,fisica,3.0,numeri,3.0,leggi,3.0,problemi,2.0
 liceo_lin_012,fisica,2.0,leggi,3.0,numeri,3.0,movimento,3.0
+liceo_lin_013,fisica,3.0,numeri,2.0,formule,2.0,insegnate,4.0
 liceo_lin_015,fisica,2.0,difficile,2.0,formule,2.0,numeri,2.0
 liceo_lin_016,fisica,,calcoli,,quantistica,,leggi,
 liceo_lin_018,fisica,3.0,fenomeni,4.0,gravità,4.0,,
 liceo_sci_014,fisica,1.0,amore,2.0,volare,5.0,arancione,1.0
 liceo_sci_016,fisica,3.0,numeri,3.0,professore,2.0,maiuscola,3.0
 liceo_sci_018,fisica,3.0,test,1.0,esperimenti,5.0,,
+liceo_sci_019,fisica,3.0,calcoli,4.0,complessa,2.0,ragionamento,4.0
 liceo_sci_026,fisica,,debito,,difficoltà,,educazione,
 liceo_sci_029,fisica,2.0,scuola,3.0,formule,2.0,difficile,3.0
+liceo_sci_032,fisica,2.0,problemi,2.0,brutta,2.0,scienza,3.0
 liceo_sci_033,fisica,4.0,dimostrazioni,3.0,,,,
 liceo_sci_034,fisica,3.0,calcoli,3.0,dati,3.0,esperimenti ,4.0
 liceo_sci_037,fisica,3.0,esperimento,4.0,tolc,2.0,matematica,3.0
 liceo_sci_041,fisica,2.0,universo,4.0,esperimenti,4.0,progressi,4.0
 liceo_sci_042,fisica,3.0,fantasia,4.0,non utile,2.0,,
+liceo_sci_043,fisica,3.0,incomprensione,3.0,difficoltà,2.0,interesse,5.0
 liceo_064,fisica,4.0,bella,4.0,vita,4.0,pesante,4.0
+high_school_south_005,fisica,4.0,numeri,4.0,meccanismi,4.0,fluidi,4.0
+high_school_south_008,fisica,4.0,numeri,4.0,formule ,3.0,memoria,5.0
+high_school_south_012,fisica,3.0,scuola,4.0,materia,5.0,formule,4.0
+high_school_south_022,fisica,4.0,grave,4.0,gravità,4.0,pianeti,4.0
+high_school_south_027,fisica,4.0,quantistica,4.0,classica,3.0,lavagna,4.0
+high_school_south_032,fisica,5.0,meccanica,4.0,libro,3.0,scuola,2.0
+high_school_south_034,fisica,4.0,lavoro,4.0,studio,5.0,dedizione,5.0
+high_school_south_035,fisica,4.0,professoressa ,5.0,lavoro,4.0,sogno,4.0
+high_school_south_041,fisica,2.0,materia,3.0,calcolatrice ,4.0,impegnativa,3.0
+high_school_south_045,fisica,3.0,fuga aut in minim s,4.0,non dicta sunt minus,5.0,animi reiciendis co,1.0
+high_school_south_046,fisica,2.0,ignoranza,1.0,leggi,3.0,gravità,3.0
+high_school_south_047,fisica,4.0,materia,4.0,movimento ,4.0,studio,4.0
+high_school_south_048,fisica,2.0,problemi ,4.0,studio ,2.0,mondo ,5.0
 liceo_sci_001,innovazione,4.0,futuro,4.0,,,,
 liceo_sci_002,innovazione,3.0,tentativi falliti,4.0,scoperte,4.0,condivisione,4.0
 liceo_sci_003,innovazione,4.0,creatività,4.0,inventiva,4.0,scienza,3.0
@@ -222,23 +348,41 @@ liceo_lin_004,innovazione,5.0,tecnologia,5.0,futuro,5.0,speranza ,5.0
 liceo_lin_005,innovazione,5.0,scoperta,5.0,tecnologia,5.0,futuro,5.0
 liceo_lin_006,innovazione,4.0,scientifica,4.0,scoperta,4.0,idea,4.0
 liceo_lin_008,innovazione,4.0,futuro,4.0,tecnologia,3.0,progresso,4.0
+liceo_lin_009,innovazione,4.0,novità,4.0,,,,
 liceo_lin_010,innovazione,2.0,tech,4.0,futuro,5.0,informatica,4.0
 liceo_lin_011,innovazione,4.0,tecnologica,4.0,scientifica,4.0,matematica,4.0
 liceo_lin_012,innovazione,4.0,progresso,4.0,miglioramento,4.0,avanzamento,3.0
+liceo_lin_013,innovazione,5.0,progresso,5.0,futuro,4.0,miglioramento,5.0
 liceo_lin_015,innovazione,4.0,tecnologia,5.0,novità,5.0,progresso,5.0
 liceo_lin_016,innovazione,,tecnologica,,artificiale ,,passi avanti,
 liceo_lin_018,innovazione,5.0,tecnologia,4.0,scienza,4.0,,
 liceo_sci_014,innovazione,3.0,digitale,3.0,scoperta,4.0,azzurro,3.0
 liceo_sci_016,innovazione,5.0,robot,5.0,tecnologia,5.0,futuro,5.0
 liceo_sci_018,innovazione,5.0,progresso ,5.0,scoperte,5.0,,
+liceo_sci_019,innovazione,4.0,creatività,4.0,volontà,4.0,novità,4.0
 liceo_sci_026,innovazione,3.0,novità,4.0,scoperta,4.0,peggiorare,2.0
 liceo_sci_029,innovazione,4.0,tecnologica,4.0,pc,5.0,futuro,4.0
+liceo_sci_032,innovazione,4.0,progresso,3.0,scienza,3.0,,
 liceo_sci_033,innovazione,5.0,fondamentale,5.0,,,,
 liceo_sci_034,innovazione,5.0,robot,3.0,ai,4.0,,
 liceo_sci_037,innovazione,3.0,scoperta,3.0,nobel,4.0,scienze,4.0
 liceo_sci_041,innovazione,4.0,tecnologia,3.0,progressi,4.0,futuro,3.0
 liceo_sci_042,innovazione,4.0,nuovo,4.0,risposte,4.0,critiche,3.0
+liceo_sci_043,innovazione,5.0,curiosità,5.0,intraprendenza,5.0,sopresa,5.0
 liceo_064,innovazione,3.0,tecnologica,3.0,noia,3.0,vestito,2.0
+high_school_south_005,innovazione,4.0,cambiamento,3.0,novità,3.0,,
+high_school_south_008,innovazione,5.0,immaginazione ,5.0,studio ,3.0,applicazione,3.0
+high_school_south_012,innovazione,5.0,avanguardia,5.0,utile ,5.0,fondamentale ,5.0
+high_school_south_022,innovazione,4.0,scientifica,4.0,utile,4.0,ingegno,4.0
+high_school_south_027,innovazione,3.0,veloce,2.0,scientifica,2.0,aziende,4.0
+high_school_south_032,innovazione,5.0,ai,3.0,ricerca,5.0,tecnologia,5.0
+high_school_south_034,innovazione,5.0,tecnologica,4.0,sociale,5.0,rivoluzione ,3.0
+high_school_south_035,innovazione,3.0,ingegneria ,3.0,corso,2.0,unisalento,2.0
+high_school_south_041,innovazione,4.0,futuro,4.0,progresso,4.0,nuovo,4.0
+high_school_south_045,innovazione,3.0,veniam iste id amet,4.0,accusantium vel dict,5.0,magni dicta delectus,1.0
+high_school_south_046,innovazione,4.0,intelligenza artificiale ,4.0,novità,4.0,costruttiva,4.0
+high_school_south_047,innovazione,4.0,futuro,3.0,novità ,4.0,scoperta,4.0
+high_school_south_048,innovazione,4.0,nuovo ,4.0,futuro ,4.0,scoperta ,4.0
 liceo_sci_001,panico,1.0,verifiche a sorpresa,1.0,no aiuto ,1.0,,
 liceo_sci_002,panico,2.0,respirare,4.0,iperventilazione,1.0,alcalosi,1.0
 liceo_sci_003,panico,1.0,pura intensa,1.0,ansia intensa,1.0,perdita del controllo,1.0
@@ -252,23 +396,41 @@ liceo_lin_004,panico,1.0,paura,1.0,respirazione,5.0,soffia le candeline,5.0
 liceo_lin_005,panico,1.0,paura,2.0,attacco,2.0,,
 liceo_lin_006,panico,1.0,chiuso,1.0,ansia,2.0,tachicardia,1.0
 liceo_lin_008,panico,1.0,paura,2.0,ansia,2.0,stress,2.0
+liceo_lin_009,panico,1.0,sudore,1.0,perdita controllo,1.0,,
 liceo_lin_010,panico,2.0,ansia,3.0,improvviso,2.0,importanza,5.0
 liceo_lin_011,panico,1.0,totale,1.0,stress,1.0,ansia,1.0
 liceo_lin_012,panico,1.0,ansia,1.0,stress,1.0,paura,1.0
+liceo_lin_013,panico,1.0,affrontare,4.0,comprendersi ,4.0,calmarsi,4.0
 liceo_lin_015,panico,1.0,ansia,1.0,fallimento,1.0,scuola,1.0
 liceo_lin_016,panico,,scuola,,lacrime,,timore,
 liceo_lin_018,panico,1.0,immotivato,1.0,repressione ,1.0,,
 liceo_sci_014,panico,1.0,comune,1.0,aiuto ,1.0,viola scuro,1.0
 liceo_sci_016,panico,1.0,ansia,1.0,aria,3.0,bianco,3.0
 liceo_sci_018,panico,1.0,futuro,4.0,voti,1.0,,
+liceo_sci_019,panico,2.0,paura,2.0,ansia,3.0,incontrollabile,2.0
 liceo_sci_026,panico,2.0,matematica,2.0,studio,2.0,sorpresa,4.0
 liceo_sci_029,panico,2.0,attacco,2.0,solo,3.0,persone,4.0
+liceo_sci_032,panico,2.0,attacco,1.0,ansia,1.0,respiro,2.0
 liceo_sci_033,panico,1.0,brutto,1.0,,,,
 liceo_sci_034,panico,1.0,impegni,2.0,,,,
 liceo_sci_037,panico,2.0,attacco,2.0,sudore,3.0,urla,1.0
 liceo_sci_041,panico,1.0,confusione,2.0,no controllo,1.0,problema,2.0
 liceo_sci_042,panico,2.0,paura,3.0,punto di domanda,2.0,respiro affannoso,2.0
+liceo_sci_043,panico,1.0,attacchi,1.0,crisi,1.0,buco nero,1.0
 liceo_064,panico,2.0,scuola,3.0,strada,3.0,lontano,2.0
+high_school_south_005,panico,2.0,agitazione,1.0,blocco,1.0,svenimento,1.0
+high_school_south_008,panico,2.0,compiti,2.0,verifiche,3.0,studio,3.0
+high_school_south_012,panico,1.0,allarme,1.0,rosso,2.0,scappare,1.0
+high_school_south_022,panico,2.0,paura,2.0,ansia,2.0,terrore,2.0
+high_school_south_027,panico,3.0,totale,5.0,film,5.0,america,3.0
+high_school_south_032,panico,1.0,scuola,2.0,verifica,2.0,professore ,3.0
+high_school_south_034,panico,2.0,attacco,1.0,prestazione,3.0,apparenze,2.0
+high_school_south_035,panico,2.0,inglese,2.0,persone,2.0,morte,1.0
+high_school_south_041,panico,1.0,ansia,1.0,paura,1.0,errore,2.0
+high_school_south_045,panico,5.0,optio et culpa vel,5.0,dicta exercitation t,3.0,voluptatem quis numq,2.0
+high_school_south_046,panico,2.0,attacco,2.0,calmare,4.0,respirare,3.0
+high_school_south_047,panico,2.0,terrore,2.0,respiro,3.0,attacco,2.0
+high_school_south_048,panico,2.0,paura ,2.0,controllo ,4.0,aiuto ,4.0
 liceo_sci_001,meditazione,4.0,aiuto,5.0,importante,4.0,,
 liceo_sci_002,meditazione,4.0,calma,4.0,serenità,4.0,,
 liceo_sci_003,meditazione,4.0,calma,4.0,relax,5.0,tempo per se stessi,5.0
@@ -282,23 +444,41 @@ liceo_lin_004,meditazione,5.0,incenso,5.0,buddha,5.0,posizione dell’ohm,5.0
 liceo_lin_005,meditazione,4.0,relax,4.0,arte,4.0,mente,4.0
 liceo_lin_006,meditazione,3.0,rilassamento,4.0,pensiero,4.0,mente,4.0
 liceo_lin_008,meditazione,3.0,rilassamento,4.0,concentrazione,3.0,silenzio,4.0
+liceo_lin_009,meditazione,5.0,relax,5.0,mente,5.0,corpo,5.0
 liceo_lin_010,meditazione,3.0,tempo,2.0,pensieri,4.0,flusso,4.0
 liceo_lin_011,meditazione,5.0,giudata,5.0,yoga,5.0,mindfullness,5.0
 liceo_lin_012,meditazione,3.0,calma,4.0,rilassamento,4.0,consapevolezza,3.0
+liceo_lin_013,meditazione,4.0,persone,3.0,interpretare,5.0,rapporti,4.0
 liceo_lin_015,meditazione,5.0,relax,5.0,pace,5.0,sensi,5.0
 liceo_lin_016,meditazione,,tranquillità,,rilassarsi,,pensare,
 liceo_lin_018,meditazione,4.0,libera la mente,4.0,connessione con lo spazio,4.0,sciogliere tensioni,5.0
 liceo_sci_014,meditazione,4.0,amo,5.0,calma,4.0,verde cobalto,4.0
 liceo_sci_016,meditazione,4.0,india,3.0,calma,4.0,mente,4.0
 liceo_sci_018,meditazione,1.0,inutile,1.0,,,,
+liceo_sci_019,meditazione,4.0,calma,4.0,rilassamento,4.0,riflessione,4.0
 liceo_sci_026,meditazione,4.0,calma,4.0,maestro,3.0,pace,4.0
 liceo_sci_029,meditazione,3.0,relax,4.0,musica,4.0,olii,3.0
+liceo_sci_032,meditazione,4.0,respiro,4.0,silenzio,4.0,pace,5.0
 liceo_sci_033,meditazione,3.0,stress,1.0,,,,
 liceo_sci_034,meditazione,4.0,candele ,5.0,yoga,4.0,,
 liceo_sci_037,meditazione,3.0,ying,3.0,yang,2.0,pace,1.0
 liceo_sci_041,meditazione,4.0,relax,5.0,introspezione,4.0,calma,4.0
 liceo_sci_042,meditazione,3.0,noioso,2.0,ansia,2.0,scappare,2.0
+liceo_sci_043,meditazione,5.0,relax,5.0,benessere,5.0,pace,5.0
 liceo_064,meditazione,3.0,yoga,3.0,silenzio,4.0,noia,4.0
+high_school_south_005,chatgpt,1.0,ai,3.0,,,,
+high_school_south_008,chatgpt,4.0,aiuto,4.0,robot,4.0,calcolatore ,5.0
+high_school_south_012,chatgpt,2.0,ai,3.0,aiuto,4.0,mai,2.0
+high_school_south_022,chatgpt,3.0,ai,3.0,problemi,4.0,utile,4.0
+high_school_south_027,chatgpt,2.0,artificial_intelligence,4.0,cina,3.0,astra,4.0
+high_school_south_032,chatgpt,2.0,scuola,2.0,,,,
+high_school_south_034,chatgpt,2.0,paura,1.0,controllo,2.0,futuro,3.0
+high_school_south_035,chatgpt,4.0,bianco,4.0,scuola,4.0,aiuto,4.0
+high_school_south_041,chatgpt,4.0,ai,4.0,generativa,2.0,aiuto,5.0
+high_school_south_045,chatgpt,5.0,labore reprehenderit,2.0,harum perferendis ex,1.0,enim tempor autem do,4.0
+high_school_south_046,chatgpt,4.0,intelligenza artificiale,4.0,scuola,3.0,amico,4.0
+high_school_south_047,chatgpt,3.0,ai,3.0,utile ,4.0,efficace,4.0
+high_school_south_048,chatgpt,3.0,ai,4.0,openai ,4.0,scuola ,2.0
 liceo_sci_001,matematica,3.0,difficile,1.0,bella ma,3.0,,
 liceo_sci_002,matematica,3.0,trigonometria,3.0,algebra,3.0,x,
 liceo_sci_003,matematica,2.0,calcoli,2.0,professione,4.0,ansia,1.0
@@ -312,23 +492,41 @@ liceo_lin_004,matematica,1.0,rigidità ,1.0,formule,1.0,problemi,1.0
 liceo_lin_005,matematica,2.0,ansia,2.0,limiti,2.0,proporzioni,5.0
 liceo_lin_006,matematica,2.0,conti,2.0,calcolatrice,4.0,difficoltà,2.0
 liceo_lin_008,matematica,3.0,ingannevole,2.0,reale,4.0,importante,4.0
+liceo_lin_009,matematica,2.0,numeri,3.0,calcoli,2.0,risultati,4.0
 liceo_lin_010,matematica,4.0,difficile,5.0,sfide,3.0,,
 liceo_lin_011,matematica,3.0,algebra,3.0,aritmetica,3.0,numeri,3.0
 liceo_lin_012,matematica,4.0,numeri,3.0,tabelline,3.0,calcoli,3.0
+liceo_lin_013,matematica,3.0,problemi,2.0,dati,3.0,risolvere,4.0
 liceo_lin_015,matematica,2.0,complicata,3.0,numeri,2.0,ragionamento,4.0
 liceo_lin_016,matematica,2.0,stress,2.0,materia scolastica ,2.0,,
 liceo_lin_018,matematica,4.0,comprendere,4.0,esercitare,4.0,apre la mente,4.0
 liceo_sci_014,matematica,3.0,bella,3.0,odio,2.0,blu,2.0
 liceo_sci_016,matematica,3.0,materia,2.0,importante,3.0,difficile,2.0
 liceo_sci_018,matematica,3.0,test,1.0,soddisfacente ,4.0,,
+liceo_sci_019,matematica,4.0,calcoli,4.0,intelligenza,4.0,ansia,3.0
 liceo_sci_026,matematica,2.0,ansia,2.0,debito,2.0,odio,3.0
 liceo_sci_029,matematica,3.0,scuola,3.0,numeri,4.0,letttere,3.0
+liceo_sci_032,matematica,4.0,logica,3.0,problema,3.0,interpretazione,4.0
 liceo_sci_033,matematica,4.0,utile,5.0,,,,
 liceo_sci_034,matematica,2.0,numeri ,2.0,calcoli,3.0,,
 liceo_sci_037,matematica,3.0,lezione,3.0,fisica,3.0,bello,4.0
 liceo_sci_041,matematica,2.0,calcoli,2.0,ragionamento,4.0,soluzioni,4.0
 liceo_sci_042,matematica,3.0,paura,2.0,interrogazioni,2.0,domande,3.0
+liceo_sci_043,matematica,4.0,razionalità,5.0,coerenza,5.0,linearità,5.0
 liceo_064,matematica,4.0,scuola,4.0,ora,4.0,libr,4.0
+high_school_south_005,matematica,4.0,riflettere,4.0,sfida,5.0,problemi,4.0
+high_school_south_008,matematica,5.0,vita,4.0,numeri,5.0,compressione ,3.0
+high_school_south_012,matematica,3.0,numeri,3.0,geometria,3.0,algebra,4.0
+high_school_south_022,matematica,4.0,interessante,4.0,fondamenta,4.0,curiosità,4.0
+high_school_south_027,matematica,3.0,professore,4.0,quadrettato,3.0,penna,4.0
+high_school_south_032,matematica,5.0,logaritmo,4.0,analisi,3.0,,
+high_school_south_034,matematica,4.0,avanti,4.0,bisogno,2.0,fascinosa,5.0
+high_school_south_035,matematica,3.0,verde,3.0,geometria ,3.0,cerchio,3.0
+high_school_south_041,matematica,4.0,numeri,4.0,operazioni,4.0,radicali,1.0
+high_school_south_045,matematica,2.0,dolores in omnis qui,5.0,quia aliquid ullamco,4.0,ipsum ducimus moles,4.0
+high_school_south_046,matematica,5.0,numeri,4.0,equazioni,4.0,geometria,4.0
+high_school_south_047,matematica,4.0,incognita,4.0,numeri,4.0,calcoli,3.0
+high_school_south_048,matematica,2.0,espressioni ,2.0,professore ,2.0,scuola ,1.0
 liceo_sci_001,analisi,3.0,sangue,3.0,,,,
 liceo_sci_002,analisi,2.0,matetmatica,3.0,forze,3.0,risoluzione,3.0
 liceo_sci_003,analisi,3.0,matematica,2.0,introspettiva,4.0,stati d'animo,4.0
@@ -342,23 +540,41 @@ liceo_lin_004,analisi,1.0,uno e due,1.0,esame,1.0,fatica,1.0
 liceo_lin_005,analisi,3.0,sangue,4.0,ago,3.0,,
 liceo_lin_006,analisi,4.0,media,4.0,sondaggio,5.0,,
 liceo_lin_008,analisi,2.0,medica,2.0,dati,2.0,andamento,3.0
+liceo_lin_009,analisi,3.0,ricerca,4.0,risultato,4.0,,
 liceo_lin_010,analisi,2.0,attenzione,4.0,dati ,3.0,numeri,3.0
 liceo_lin_011,analisi,3.0,matematica,3.0,quantistica,3.0,scientifica,3.0
 liceo_lin_012,analisi,3.0,studio,3.0,numeri,3.0,dati,3.0
+liceo_lin_013,analisi,4.0,capire,4.0,interpretare,4.0,cimentarsi,4.0
 liceo_lin_015,analisi,2.0,sangue,3.0,grafico,3.0,mercato,3.0
 liceo_lin_016,analisi,3.0,matematica,2.0,materia ,3.0,cercare ,3.0
 liceo_lin_018,analisi,3.0,grammaticale,2.0,critica,4.0,consapevole,5.0
 liceo_sci_014,analisi,3.0,dati,3.0,logica,4.0,blu,2.0
 liceo_sci_016,analisi,3.0,statistica,3.0,sangue,4.0,ago,4.0
 liceo_sci_018,analisi,3.0,numeri,4.0,matematica,3.0,grafici,3.0
+liceo_sci_019,analisi,3.0,dati,3.0,calcoli,3.0,ragionamento,4.0
 liceo_sci_026,analisi,3.0,del sangue,3.0,,,,
 liceo_sci_029,analisi,3.0,mate,2.0,fisica,3.0,università,4.0
+liceo_sci_032,analisi,4.0,funzioni,4.0,studi,4.0,processo,4.0
 liceo_sci_033,analisi,3.0,utile,3.0,,,,
 liceo_sci_034,analisi,4.0,matematica,1.0,dati,4.0,,
 liceo_sci_037,analisi,3.0,ricerca,4.0,studio,2.0,soggetto,1.0
 liceo_sci_041,analisi,3.0,matematica,2.0,dati,3.0,statistiche,3.0
 liceo_sci_042,analisi,3.0,matematica,3.0,scientifica,3.0,università,3.0
+liceo_sci_043,analisi,4.0,schemi,2.0,rigidità,2.0,accuratezza,5.0
 liceo_064,analisi,3.0,sangue,2.0,esame,3.0,urine,2.0
+high_school_south_005,analisi,3.0,riflessione,3.0,tempo,2.0,capire,3.0
+high_school_south_008,analisi,4.0,necessaria ,5.0,complessa,4.0,fomdamentale,3.0
+high_school_south_012,analisi,3.0,dati,4.0,seminario,4.0,matematica ,3.0
+high_school_south_022,analisi,4.0,dati,4.0,sangue,3.0,lettura,4.0
+high_school_south_027,analisi,3.0,dati,4.0,diagnosi,5.0,università,3.0
+high_school_south_032,analisi,3.0,integrale,4.0,derivata,4.0,limite,4.0
+high_school_south_034,analisi,3.0,dati,3.0,problema,3.0,competenze,3.0
+high_school_south_035,analisi,3.0,dati,3.0,numeri,2.0,lento,2.0
+high_school_south_041,analisi,3.0,esperimento ,4.0,dati,3.0,statistica,2.0
+high_school_south_045,analisi,1.0,consequatur consequa,3.0,ducimus laborum co,5.0,laboris autem conseq,2.0
+high_school_south_046,analisi,4.0,interessante,3.0,calcoli,4.0,numeri,4.0
+high_school_south_047,analisi,3.0,studio ,4.0,condizioni,4.0,osservazione,4.0
+high_school_south_048,analisi,4.0,matematica ,2.0,problema ,4.0,dati ,4.0
 liceo_sci_001,scoperta,4.0,innovazioni,4.0,importante,4.0,cambiamento,4.0
 liceo_sci_002,scoperta,4.0,condivisione,4.0,radiazioni,3.0,innovazione,4.0
 liceo_sci_003,scoperta,4.0,conoscenza,4.0,studio,3.0,ricerche,3.0
@@ -372,23 +588,41 @@ liceo_lin_004,scoperta,5.0,cristoforo colombo,5.0,america,3.0,nave,5.0
 liceo_lin_005,scoperta,5.0,america,5.0,lavoro,4.0,anni,4.0
 liceo_lin_006,scoperta,5.0,scientifica,5.0,medica,5.0,archeologica,4.0
 liceo_lin_008,scoperta,4.0,nuovo,4.0,,,,
+liceo_lin_009,scoperta,4.0,novità,4.0,aspettative,4.0,,
 liceo_lin_010,scoperta,3.0,coperta,4.0,vecchio ,3.0,freddo,2.0
 liceo_lin_011,scoperta,3.0,scientifica,3.0,astronomica,4.0,archeologica,3.0
 liceo_lin_012,scoperta,3.0,conoscenza,4.0,studio,3.0,imparare,4.0
+liceo_lin_013,scoperta,5.0,impegno,3.0,felicità,5.0,nuovo,4.0
 liceo_lin_015,scoperta,5.0,innovazione,5.0,tecnologia,5.0,tutti i giorni,3.0
 liceo_lin_016,scoperta,4.0,,,,,,
 liceo_lin_018,scoperta,4.0,scientifica,4.0,branche,3.0,,
 liceo_sci_014,scoperta,4.0,america,1.0,scienza,3.0,giallo,2.0
 liceo_sci_016,scoperta,5.0,fossili,5.0,deserto,3.0,cappello,3.0
 liceo_sci_018,scoperta,5.0,scienziata,3.0,informazioni,5.0,,
+liceo_sci_019,scoperta,4.0,novità,4.0,sorpresa,4.0,felicità,4.0
 liceo_sci_026,scoperta,4.0,scientifica,4.0,sorpresa,4.0,stupore,4.0
 liceo_sci_029,scoperta,4.0,scientifica,3.0,mondo,4.0,rivoluzione,5.0
+liceo_sci_032,scoperta,5.0,avventura,5.0,esperienza,5.0,,
 liceo_sci_033,scoperta,4.0,fisica,4.0,,,,
 liceo_sci_034,scoperta,5.0,esperimento ,4.0,,,,
 liceo_sci_037,scoperta,3.0,invenzione,3.0,evoluzione,3.0,futuro,3.0
 liceo_sci_041,scoperta,4.0,progresso,4.0,obiettivo,5.0,novità,4.0
 liceo_sci_042,scoperta,4.0,avventura,4.0,nuovo,4.0,divertente,4.0
+liceo_sci_043,scoperta,5.0,curiosità,5.0,stupore,5.0,,
 liceo_064,scoperta,3.0,america,2.0,faccia,3.0,alla,4.0
+high_school_south_005,scoperta,4.0,novità,3.0,scienza,4.0,,
+high_school_south_008,scoperta,4.0,america,5.0,energia nucleare ,5.0,dinamite ,5.0
+high_school_south_012,scoperta,5.0,scientifica,5.0,sensazionale,5.0,rivoluzionaria,5.0
+high_school_south_022,scoperta,3.0,america,3.0,interessante,3.0,utile,4.0
+high_school_south_027,scoperta,5.0,scientifica,4.0,americhe,5.0,stupore,4.0
+high_school_south_032,scoperta,5.0,evoluzione,4.0,ricerca,5.0,,
+high_school_south_034,scoperta,4.0,precedente,3.0,rovinare,1.0,umano,3.0
+high_school_south_035,scoperta,3.0,freddo,3.0,dubbio,2.0,progresso,3.0
+high_school_south_041,scoperta,4.0,novità ,4.0,progresso,4.0,ricerca,4.0
+high_school_south_045,scoperta,1.0,nisi veniam ullam d,5.0,qui aut nihil dolori,2.0,et voluptatibus quas,5.0
+high_school_south_046,scoperta,4.0,scientifica,4.0,utile,3.0,banale,1.0
+high_school_south_047,scoperta,4.0,scalpore,3.0,notizia,4.0,ricerca,4.0
+high_school_south_048,scoperta,4.0,scientifica ,2.0,nuova,4.0,specie ,4.0
 liceo_sci_001,scienziata,3.0,lavoro,3.0,,,,
 liceo_sci_002,scienziata,5.0,marie curie,5.0,sottovalutate,5.0,incredibili,5.0
 liceo_sci_003,scienziata,3.0,professionista,4.0,professione,4.0,natura,5.0
@@ -402,23 +636,41 @@ liceo_lin_004,scienziata,5.0,laboratorio,2.0,camice,1.0,occhiali,4.0
 liceo_lin_005,scienziata,5.0,lavoro,4.0,studio,4.0,scienze,4.0
 liceo_lin_006,scienziata,4.0,camice,3.0,esperimenti,4.0,,
 liceo_lin_008,scienziata,3.0,chimica,4.0,camice,3.0,studio,3.0
+liceo_lin_009,scienziata,4.0,laboratorio,3.0,studio,4.0,esperimenti,4.0
 liceo_lin_010,scienziata,3.0,studiosa,2.0,empatia,1.0,,
 liceo_lin_011,scienziata,3.0,matematica,3.0,fisica,3.0,scienze,4.0
 liceo_lin_012,scienziata,4.0,professione,4.0,biologia,3.0,chimica,3.0
+liceo_lin_013,scienziata,5.0,laboratorio,5.0,studio,3.0,università,4.0
 liceo_lin_015,scienziata,5.0,donna,5.0,esperimenti,5.0,progresso,5.0
 liceo_lin_016,scienziata,3.0,scienze ,3.0,esperimenti,3.0,camice,3.0
 liceo_lin_018,scienziata,4.0,studio,4.0,ricerca,4.0,applica,4.0
 liceo_sci_014,scienziata,4.0,marie curie,4.0,meraviglia,4.0,blu,3.0
 liceo_sci_016,scienziata,4.0,camice ,3.0,provette,3.0,verde,4.0
 liceo_sci_018,scienziata,5.0,ricerche,5.0,novità,5.0,esperimenti,5.0
+liceo_sci_019,scienziata,3.0,intelligente,3.0,colta ,3.0,spigliata,3.0
 liceo_sci_026,scienziata,3.0,camice,3.0,studiosa,3.0,,
 liceo_sci_029,scienziata,3.0,lavoro,3.0,laboratorio,3.0,,
+liceo_sci_032,scienziata,4.0,laboratorio,4.0,ricerca,4.0,,
 liceo_sci_033,scienziata,5.0,scienziato,5.0,,,,
 liceo_sci_034,scienziata,4.0,,,,,,
 liceo_sci_037,scienziata,3.0,donna,2.0,scienze,2.0,ricerca,3.0
 liceo_sci_041,scienziata,3.0,biologia,4.0,esperimenti,4.0,studi,3.0
 liceo_sci_042,scienziata,3.0,bello,4.0,interessante,4.0,biologia,4.0
+liceo_sci_043,scienziata,3.0,camice,3.0,scienze,4.0,chimica,5.0
 liceo_064,scienziata,3.0,donna,4.0,curie,,laboratorio,4.0
+high_school_south_005,scienziata,4.0,innovativa,4.0,creativa,5.0,,
+high_school_south_008,scienziata,4.0,franklin,4.0,montalcini,4.0,curie,4.0
+high_school_south_012,scienziata,5.0,curie,5.0,donna,5.0,scienza,5.0
+high_school_south_022,scienziata,4.0,intelligente,4.0,ricerca,4.0,camice,4.0
+high_school_south_027,scienziata,4.0,curie,3.0,pazza,1.0,francese,4.0
+high_school_south_032,scienziata,4.0,marie curie,4.0,,,,
+high_school_south_034,scienziata,4.0,scoperte,5.0,studio,4.0,impegno,4.0
+high_school_south_035,scienziata,4.0,aura,4.0,sogno,4.0,futuro,4.0
+high_school_south_041,scienziata,4.0,impiego,3.0,ricerca,4.0,,
+high_school_south_045,scienziata,5.0,adipisicing reprehen,2.0,sed et error reprehe,5.0,distinctio quis asp,1.0
+high_school_south_046,scienziata,4.0,competente,4.0,specialista,4.0,brava,4.0
+high_school_south_047,scienziata,4.0,laboratorio ,4.0,microscopio,4.0,nobel,4.0
+high_school_south_048,scienziata,2.0,esperimenti,2.0,donna ,3.0,camice ,3.0
 liceo_sci_001,docente,3.0,varietà ,4.0,aperti,4.0,chiusi,1.0
 liceo_sci_002,docente,3.0,comprensivo,5.0,tranquillo,5.0,sclerato,3.0
 liceo_sci_003,docente,3.0,autorità,2.0,adulto,3.0,lavoro,4.0
@@ -432,23 +684,41 @@ liceo_lin_004,docente,4.0,matematica,3.0,qualificato ,5.0,insegnare,5.0
 liceo_lin_005,docente,4.0,scuola,2.0,università,5.0,,
 liceo_lin_006,docente,4.0,scuola,4.0,studenti,4.0,severa,2.0
 liceo_lin_008,docente,4.0,severo,3.0,fondamentale,4.0,trasmissione,4.0
+liceo_lin_009,docente,4.0,insegnamento,4.0,creatività,4.0,,
 liceo_lin_010,docente,4.0,sapere,5.0,interrogazione ,5.0,,
 liceo_lin_011,docente,3.0,tedesco,3.0,spagnolo,4.0,inglese,4.0
 liceo_lin_012,docente,3.0,insegnare,4.0,spiegare,4.0,verifiche,3.0
+liceo_lin_013,docente,4.0,comprensione,4.0,aiuto,5.0,spiegare,4.0
 liceo_lin_015,docente,3.0,scuola,2.0,responsabilità,5.0,figura,3.0
 liceo_lin_016,docente,3.0,professore,3.0,insegnare,3.0,contatto,3.0
 liceo_lin_018,docente,3.0,comprensivo,5.0,inflessibile,2.0,indifferente,1.0
 liceo_sci_014,docente,2.0,odio,2.0,inaffidabile,1.0,ocra,2.0
 liceo_sci_016,docente,3.0,,,,,,
 liceo_sci_018,docente,1.0,ansia,1.0,voti,1.0,,
+liceo_sci_019,docente,2.0,studio,3.0,ansia,2.0,rabbia,2.0
 liceo_sci_026,docente,3.0,rispetto,5.0,varietà,4.0,,
 liceo_sci_029,docente,3.0,capo,1.0,insegnante,3.0,,
+liceo_sci_032,docente,3.0,guida,4.0,giudice,2.0,persona,3.0
 liceo_sci_033,docente,1.0,non umani,3.0,,,,
 liceo_sci_034,docente,3.0,compiti,2.0,verifiche ,2.0,interrogazioni,2.0
 liceo_sci_037,docente,4.0,italiano,3.0,supplenza,3.0,rapporto,2.0
 liceo_sci_041,docente,3.0,insegnante,3.0,affidabile,4.0,lavoratore,3.0
 liceo_sci_042,docente,2.0,esterno/lontano,2.0,verifiche,2.0,,
+liceo_sci_043,docente,4.0,scuola,1.0,lavagna,3.0,verifiche,1.0
 liceo_064,docente,4.0,insegnante,4.0,maestro,3.0,scuola,4.0
+high_school_south_005,docente,3.0,aiuto,4.0,,,,
+high_school_south_008,docente,5.0,persona,4.0,laurea,4.0,gentile,4.0
+high_school_south_012,docente,3.0,insegnante,3.0,guida,4.0,aiuto,4.0
+high_school_south_022,docente,3.0,competente,4.0,rassicurante,4.0,appassionato,4.0
+high_school_south_027,docente,4.0,interrogazioni,3.0,verifiche,2.0,stanco,1.0
+high_school_south_032,docente,3.0,scuola,2.0,verifica,2.0,,
+high_school_south_034,docente,4.0,sprono,5.0,paragone,3.0,aiuto,4.0
+high_school_south_035,docente,4.0,futuro,4.0,fisica,4.0,passione,4.0
+high_school_south_041,docente,3.0,figura,3.0,cattedra ,3.0,spiegazione ,2.0
+high_school_south_045,docente,3.0,tempor facilis numqu,3.0,porro voluptatum ea ,4.0,ipsam consequatur e,3.0
+high_school_south_046,docente,1.0,voti,2.0,scuola,3.0,verifiche,2.0
+high_school_south_047,docente,3.0,ruolo,4.0,esempio,4.0,stimolo,4.0
+high_school_south_048,docente,2.0,materia ,2.0,scuola ,1.0,professore ,2.0
 liceo_sci_001,programmazione,3.0,informatica,3.0,,,,
 liceo_sci_002,programmazione,3.0,noiosa,2.0,irritante,1.0,bug,2.0
 liceo_sci_003,programmazione,3.0,informatica,2.0,tempo,4.0,ordine,4.0
@@ -462,23 +732,41 @@ liceo_lin_004,programmazione,1.0,informatica,1.0,ingegneria,1.0,povo,1.0
 liceo_lin_005,programmazione,4.0,orario,4.0,lista,4.0,,
 liceo_lin_006,programmazione,2.0,complicato,2.0,computer,4.0,,
 liceo_lin_008,programmazione,3.0,calendario,3.0,ordine,4.0,,
+liceo_lin_009,programmazione,4.0,ordine,4.0,organizzazione,4.0,successo,5.0
 liceo_lin_010,programmazione,3.0,informatica,4.0,nerd,3.0,formule,2.0
 liceo_lin_011,programmazione,3.0,settimana,3.0,scuola,2.0,lavoro,3.0
 liceo_lin_012,programmazione,3.0,computer,4.0,,,,
+liceo_lin_013,programmazione,3.0,calendario,3.0,tempo,3.0,precisione,4.0
 liceo_lin_015,programmazione,4.0,scuola,3.0,organizzazione,4.0,tranquillità,5.0
 liceo_lin_016,programmazione,3.0,giornaliera,3.0,scolastica,2.0,programma,3.0
 liceo_lin_018,programmazione,2.0,difficile,4.0,rigida,3.0,,
 liceo_sci_014,programmazione,4.0,informatica,3.0,divertente,4.0,verde,4.0
 liceo_sci_016,programmazione,4.0,informatica,3.0,c++,3.0,cavo,3.0
 liceo_sci_018,programmazione,3.0,informatica,3.0,futuro,4.0,innovazione,4.0
+liceo_sci_019,programmazione,4.0,organizzazione,4.0,determinazione,4.0,rigido,3.0
 liceo_sci_026,programmazione,3.0,difficoltà,2.0,informatica,3.0,piani,3.0
 liceo_sci_029,programmazione,4.0,pc,4.0,informatica,4.0,chat gpt,5.0
+liceo_sci_032,programmazione,2.0,orrore,1.0,noia,2.0,incomprensione,2.0
 liceo_sci_033,programmazione,3.0,futuro,3.0,,,,
 liceo_sci_034,programmazione,4.0,informatica,4.0,impegni ,1.0,,
 liceo_sci_037,programmazione,3.0,computer,3.0,lavoro,4.0,informatico,3.0
 liceo_sci_041,programmazione,3.0,computer,3.0,tecnologia,3.0,programmi,3.0
 liceo_sci_042,programmazione,3.0,utile,4.0,,,,
+liceo_sci_043,programmazione,1.0,ansia,1.0,sicurezza,4.0,liste,1.0
 liceo_064,programmazione,2.0,scupla,2.0,carte,2.0,risultati,2.0
+high_school_south_005,programmazione,3.0,interrogazione ,3.0,verifica,3.0,giornata,4.0
+high_school_south_008,programmazione,4.0,simboli,4.0,codici,3.0,lettere,
+high_school_south_012,programmazione,2.0,python,2.0,computer,3.0,scuola,4.0
+high_school_south_022,programmazione,4.0,interessante,4.0,codice,4.0,linguaggio,4.0
+high_school_south_027,programmazione,4.0,python,4.0,c++,4.0,artificial_intelligence,3.0
+high_school_south_032,programmazione,4.0,ai,3.0,simulazione,4.0,,
+high_school_south_034,programmazione,3.0,c++,4.0,film,2.0,rimpiazzabile,2.0
+high_school_south_035,programmazione,1.0,python,2.0,def,2.0,turtle,2.0
+high_school_south_041,programmazione,4.0,informatica ,4.0,pyhton,1.0,c++,4.0
+high_school_south_045,programmazione,5.0,autem dolor autem oc,2.0,fugiat sunt dolorem,2.0,voluptatum rerum rer,1.0
+high_school_south_046,programmazione,3.0,computer,4.0,python,2.0,difficile,2.0
+high_school_south_047,programmazione,3.0,computer,3.0,programma,3.0,codici,3.0
+high_school_south_048,programmazione,3.0,codice ,3.0,informatica ,3.0,problema ,4.0
 liceo_sci_001,laboratorio,4.0,divertente,5.0,istruttivo,5.0,,
 liceo_sci_002,laboratorio,3.0,chimica,1.0,biologia,5.0,fisica,5.0
 liceo_sci_003,laboratorio,3.0,pratica,3.0,esperimento,3.0,chimica,3.0
@@ -492,23 +780,41 @@ liceo_lin_004,laboratorio,3.0,camice,3.0,occhiali,4.0,pinzette,4.0
 liceo_lin_005,laboratorio,4.0,scienze,4.0,fisica,2.0,camice,4.0
 liceo_lin_006,laboratorio,4.0,chimico,2.0,interessante,4.0,difficile,2.0
 liceo_lin_008,laboratorio,3.0,luogo,3.0,esperimenti,3.0,conoscere,4.0
+liceo_lin_009,laboratorio,3.0,ricerca,3.0,scienziato,3.0,campioni,3.0
 liceo_lin_010,laboratorio,3.0,verde,3.0,chimica,2.0,scienza,3.0
 liceo_lin_011,laboratorio,4.0,chimico,3.0,fisico,3.0,informatico,3.0
 liceo_lin_012,laboratorio,4.0,camice,3.0,provette,3.0,esperimenti,3.0
+liceo_lin_013,laboratorio,5.0,scienze,4.0,scuola,2.0,apprendimento,4.0
 liceo_lin_015,laboratorio,3.0,telescopio,3.0,scienze,4.0,fisica,1.0
 liceo_lin_016,laboratorio,3.0,camice ,3.0,esperimenti,3.0,prove,2.0
 liceo_lin_018,laboratorio,3.0,fisica,4.0,chimica,2.0,biologia,4.0
 liceo_sci_014,laboratorio,4.0,lezione,2.0,esperiemento,3.0,ocra,3.0
 liceo_sci_016,laboratorio,3.0,guanti,3.0,verde,4.0,provette,3.0
 liceo_sci_018,laboratorio,3.0,scienze,3.0,fisica,3.0,esperimenti,4.0
+liceo_sci_019,laboratorio,4.0,dati,4.0,esperimenti,4.0,novità,4.0
 liceo_sci_026,laboratorio,4.0,provette,3.0,batteri,3.0,camice,3.0
 liceo_sci_029,laboratorio,3.0,scienze,3.0,scuola,3.0,camice,3.0
+liceo_sci_032,laboratorio,3.0,scienze,4.0,esperimenti,4.0,,
 liceo_sci_033,laboratorio,4.0,interessante,5.0,,,,
 liceo_sci_034,laboratorio,3.0,esperimenti,4.0,scienze ,3.0,reazioni,3.0
 liceo_sci_037,laboratorio,4.0,scienze,3.0,fisica,3.0,studio,4.0
 liceo_sci_041,laboratorio,4.0,esperimenti,4.0,scienza,4.0,scoperte,5.0
 liceo_sci_042,laboratorio,3.0,esperimenti,3.0,paura,2.0,scoperta,4.0
+liceo_sci_043,laboratorio,4.0,esperimenti,4.0,compagni,5.0,conoscenze,5.0
 liceo_064,laboratorio,4.0,scuola,4.0,bello,4.0,tempo,2.0
+high_school_south_005,laboratorio,4.0,collaborazione,4.0,imparare,4.0,,
+high_school_south_008,laboratorio,5.0,lavoro,5.0,passione ,5.0,ampolla,
+high_school_south_012,laboratorio,4.0,analisi,4.0,chimica,4.0,fisica,3.0
+high_school_south_022,laboratorio,4.0,esperimento,4.0,camice,4.0,provette,4.0
+high_school_south_027,laboratorio,3.0,scienza,4.0,ricerca,4.0,ampolla,3.0
+high_school_south_032,laboratorio,4.0,esperimento ,5.0,,,,
+high_school_south_034,laboratorio,4.0,pratico,5.0,costoso,2.0,sicurezza,3.0
+high_school_south_035,laboratorio,3.0,fisica,4.0,chimica,4.0,beker,3.0
+high_school_south_041,laboratorio,4.0,fisica,2.0,chimica,4.0,analisi,3.0
+high_school_south_045,laboratorio,4.0,quam voluptate sed q,1.0,irure cum rerum cum ,1.0,est dolores voluptat,4.0
+high_school_south_046,laboratorio,4.0,scuola,3.0,attrezzatura,4.0,pipetta,3.0
+high_school_south_047,laboratorio,4.0,scienza ,4.0,relazione,4.0,strumenti,4.0
+high_school_south_048,laboratorio,2.0,scienze ,2.0,analisi ,3.0,banchi ,3.0
 liceo_sci_001,conoscenza,4.0,,,,,,
 liceo_sci_002,conoscenza,3.0,sensibile,5.0,kant,3.0,platone,3.0
 liceo_sci_003,conoscenza,4.0,competenza,4.0,insegnamento,4.0,lezione,4.0
@@ -522,23 +828,41 @@ liceo_lin_004,conoscenza,4.0,libri,4.0,memoria,4.0,scuola,4.0
 liceo_lin_005,conoscenza,5.0,politica,3.0,artistica,4.0,generale,4.0
 liceo_lin_006,conoscenza,5.0,mentale,4.0,vitale,5.0,esperienza,4.0
 liceo_lin_008,conoscenza,4.0,maturare,4.0,cultura,4.0,utile,4.0
+liceo_lin_009,conoscenza,4.0,informazioni,4.0,intelligenza,4.0,,
 liceo_lin_010,conoscenza,3.0,libri,4.0,interdisciplinare,3.0,cervello,3.0
 liceo_lin_011,conoscenza,4.0,lingue,5.0,italiano,4.0,cultura,5.0
 liceo_lin_012,conoscenza,4.0,scuola,3.0,vita,3.0,,
+liceo_lin_013,conoscenza,5.0,studio,4.0,mente,5.0,scuola,2.0
 liceo_lin_015,conoscenza,5.0,scuola,2.0,quotidianità,4.0,lettura,4.0
 liceo_lin_016,conoscenza,4.0,discorsi,4.0,informazioni,3.0,,
 liceo_lin_018,conoscenza,5.0,ampia,4.0,critica,4.0,dogmatica,1.0
 liceo_sci_014,conoscenza,5.0,sapere,5.0,intelligenza,5.0,trasparente,2.0
 liceo_sci_016,conoscenza,5.0,,1.0,,,,
 liceo_sci_018,conoscenza,5.0,cultura,5.0,maturità,5.0,,
+liceo_sci_019,conoscenza,5.0,curiosità,5.0,volontà,5.0,cultura,5.0
 liceo_sci_026,conoscenza,4.0,arma,2.0,cultura,5.0,,
 liceo_sci_029,conoscenza,4.0,testa,3.0,scuola,4.0,idee,5.0
+liceo_sci_032,conoscenza,4.0,storia,4.0,libri ,4.0,biblioteca,5.0
 liceo_sci_033,conoscenza,5.0,fondamentale,4.0,studio,4.0,libri,3.0
 liceo_sci_034,conoscenza,5.0,persone ,4.0,,,,
 liceo_sci_037,conoscenza,3.0,filosofia,3.0,educazione,3.0,libri,4.0
 liceo_sci_041,conoscenza,5.0,sapere,5.0,curiosità,5.0,cultura,5.0
 liceo_sci_042,conoscenza,4.0,scientifica,4.0,sapere,4.0,risposte,4.0
+liceo_sci_043,conoscenza,5.0,cultura,5.0,interesse,5.0,scuola,2.0
 liceo_064,conoscenza,4.0,piacere,4.0,enigma,3.0,immediata,3.0
+high_school_south_005,conoscenza,4.0,utile,5.0,buona,5.0,crescita,5.0
+high_school_south_008,conoscenza,4.0,sapere,4.0,fonti ,3.0,internet,
+high_school_south_012,conoscenza,4.0,ampia,4.0,vita,3.0,utile ,4.0
+high_school_south_022,conoscenza,4.0,amico,4.0,mente,4.0,confini,4.0
+high_school_south_027,conoscenza,5.0,diretta,3.0,filosofia,4.0,manuali,3.0
+high_school_south_032,conoscenza,4.0,cultura,5.0,studio,4.0,,
+high_school_south_034,conoscenza,5.0,olistica,4.0,cultura,5.0,interesse,4.0
+high_school_south_035,conoscenza,5.0,matematica,4.0,storia,3.0,letteratura,3.0
+high_school_south_041,conoscenza,3.0,sapere,3.0,,,,
+high_school_south_045,conoscenza,3.0,tenetur unde perspic,1.0,cupiditate sit conse,2.0,ipsum adipisci corp,5.0
+high_school_south_046,conoscenza,4.0,approfondita,3.0,regole,3.0,cultura,4.0
+high_school_south_047,conoscenza,4.0,studio,4.0,cultura,4.0,crescita,4.0
+high_school_south_048,conoscenza,4.0,cervello ,4.0,cultura ,4.0,intelligenza ,4.0
 liceo_sci_001,fallimento,1.0,delusione,1.0,,,,
 liceo_sci_002,fallimento,4.0,normale,3.0,punto di partenza,4.0,riprovare,5.0
 liceo_sci_003,fallimento,1.0,delusione,1.0,umiliazione,1.0,tristezza,2.0
@@ -552,23 +876,41 @@ liceo_lin_004,fallimento,1.0,povero,1.0,paura,1.0,ponte,4.0
 liceo_lin_005,fallimento,1.0,delusione,2.0,ansia,2.0,scuola,2.0
 liceo_lin_006,fallimento,1.0,personale,1.0,risultato,4.0,,
 liceo_lin_008,fallimento,1.0,caduta,1.0,imparare,4.0,errori,2.0
+liceo_lin_009,fallimento,1.0,tristezza,1.0,scoraggiamento,1.0,delusione,1.0
 liceo_lin_010,fallimento,3.0,processo,3.0,apprendimento,4.0,esperienza,3.0
 liceo_lin_011,fallimento,1.0,scolastico,2.0,personale,3.0,lavorativo,3.0
 liceo_lin_012,fallimento,2.0,sconfitta,2.0,,,,
+liceo_lin_013,fallimento,1.0,tristezza,1.0,rivincita,5.0,impegno,4.0
 liceo_lin_015,fallimento,1.0,scuola,2.0,vita,5.0,paure,1.0
 liceo_lin_016,fallimento,1.0,tristezza,1.0,delusione ,1.0,pensieri,2.0
 liceo_lin_018,fallimento,3.0,possibilità,3.0,caduta,2.0,ripartenza,5.0
 liceo_sci_014,fallimento,1.0,io,1.0,disappunto,1.0,viola scuro,1.0
 liceo_sci_016,fallimento,1.0,delusione,1.0,tristezza,1.0,rabbia,1.0
 liceo_sci_018,fallimento,1.0,incapacità,1.0,,,,
+liceo_sci_019,fallimento,1.0,terrore,1.0,demoralizzazione,1.0,scoraggiamento,1.0
 liceo_sci_026,fallimento,2.0,accettazione,2.0,sconforto,2.0,paura di deludere,1.0
 liceo_sci_029,fallimento,1.0,lavoro ,3.0,persona,3.0,sport,5.0
+liceo_sci_032,fallimento,2.0,morte,2.0,delusione,2.0,disperazione,2.0
 liceo_sci_033,fallimento,3.0,normale,3.0,brutto,3.0,futuro,5.0
 liceo_sci_034,fallimento,1.0,tristezza,2.0,,,,
 liceo_sci_037,fallimento,2.0,errore,1.0,famiglia,2.0,lavoro,2.0
 liceo_sci_041,fallimento,2.0,ripresa,5.0,coraggio,5.0,non motivato,2.0
 liceo_sci_042,fallimento,2.0,riprovare,4.0,esercitarsi,4.0,delusione,2.0
+liceo_sci_043,fallimento,1.0,delusione,1.0,pianto,1.0,vuoto,1.0
 liceo_064,fallimento,2.0,soldi,2.0,società,3.0,dolore,2.0
+high_school_south_005,fallimento,2.0,depressione,1.0,riprovare,4.0,,
+high_school_south_008,fallimento,2.0,sconfitta ,3.0,possibilita ,4.0,cadere,
+high_school_south_012,fallimento,1.0,rabbia,1.0,frustrazione ,1.0,delusione,1.0
+high_school_south_022,fallimento,1.0,personale,1.0,incapacità,1.0,insulto,1.0
+high_school_south_027,fallimento,3.0,macigno,4.0,impossibile,4.0,società,2.0
+high_school_south_032,fallimento,1.0,carriera,3.0,aspettative ,1.0,,
+high_school_south_034,fallimento,2.0,delusione,1.0,spreco,1.0,superabile,4.0
+high_school_south_035,fallimento,1.0,esame,3.0,sport,3.0,studio,3.0
+high_school_south_041,fallimento,1.0,panico,1.0,imbarazzo ,1.0,lezione,2.0
+high_school_south_045,fallimento,4.0,nulla exercitationem,2.0,vero quis sed et nam,5.0,dignissimos esse ten,4.0
+high_school_south_046,fallimento,1.0,verifica,2.0,test,2.0,ammissione,2.0
+high_school_south_047,fallimento,2.0,sconfitta,2.0,delusione,2.0,insoddisfazione ,2.0
+high_school_south_048,fallimento,4.0,tentativo ,4.0,inizio ,4.0,provare ,4.0
 liceo_sci_001,voto,2.0,ansia,1.0,delusioni,1.0,,
 liceo_sci_002,voto,3.0,importante fino a un certo punto,4.0,è un numero,5.0,non definisce chi sei,5.0
 liceo_sci_003,voto,2.0,paura,2.0,aspettativa,2.0,delusione,1.0
@@ -582,23 +924,41 @@ liceo_lin_004,voto,5.0,rosso,5.0,manifestare,5.0,studio,5.0
 liceo_lin_005,voto,5.0,politica,3.0,diritto,5.0,donne,5.0
 liceo_lin_006,voto,3.0,risultato,3.0,esame,2.0,conoscenze,4.0
 liceo_lin_008,voto,4.0,importante,4.0,soddisfazione,4.0,impegno,4.0
+liceo_lin_009,voto,3.0,numero,3.0,risultato,4.0,,
 liceo_lin_010,voto,4.0,numero,3.0,valutazione,3.0,,
 liceo_lin_011,voto,2.0,alto,3.0,basso,3.0,meritevole,5.0
 liceo_lin_012,voto,3.0,risultato,3.0,delusione,1.0,traguardo,3.0
+liceo_lin_013,voto,3.0,impegno,4.0,giudizio,3.0,appagato ,5.0
 liceo_lin_015,voto,2.0,obiettivo,4.0,fallimento,1.0,orgoglio,5.0
 liceo_lin_016,voto,2.0,scolastico,2.0,personale,3.0,esecuzione,3.0
 liceo_lin_018,voto,1.0,ansia,1.0,numero,2.0,persona,1.0
 liceo_sci_014,voto,1.0,basso,2.0,insufficienza,1.0,rosso,1.0
 liceo_sci_016,voto,3.0,paura,1.0,ansia,1.0,terrore,1.0
 liceo_sci_018,voto,2.0,numero,3.0,ansia,1.0,docente,1.0
+liceo_sci_019,voto,2.0,simbolo,2.0,paura,2.0,ansia,3.0
 liceo_sci_026,voto,3.0,non sempre giusto,3.0,rosso,2.0,soddisfazione,4.0
 liceo_sci_029,voto,2.0,scuola,3.0,persone,4.0,genitori,5.0
+liceo_sci_032,voto,4.0,ansia,2.0,,,,
 liceo_sci_033,voto,1.0,inutile,3.0,spreggevole,3.0,stupido,4.0
 liceo_sci_034,voto,1.0,numero ,3.0,,,,
 liceo_sci_037,voto,3.0,10,4.0,aspettative,1.0,debito,2.0
 liceo_sci_041,voto,3.0,scuola,3.0,etichetta,1.0,obiettivo,5.0
 liceo_sci_042,voto,2.0,numero,2.0,inutile,2.0,indifferente,2.0
+liceo_sci_043,voto,1.0,gratificazione,5.0,stress,1.0,fallimento,1.0
 liceo_064,voto,3.0,alto,3.0,elezioni,3.0,sufficiente,4.0
+high_school_south_005,voto,2.0,giudizio,1.0,ansia,1.0,,
+high_school_south_008,voto,3.0,soddisfazione ,4.0,emozioni,5.0,giudizio ,
+high_school_south_012,voto,1.0,10,2.0,test,1.0,ansia,1.0
+high_school_south_022,voto,4.0,valutazione,4.0,giudizio,4.0,meritato,3.0
+high_school_south_027,voto,2.0,arte,3.0,matematica,3.0,professore,5.0
+high_school_south_032,voto,2.0,verifica,2.0,sufficienza ,2.0,,
+high_school_south_034,voto,3.0,preparazione ,4.0,studio,4.0,test,3.0
+high_school_south_035,voto,3.0,inutile,1.0,insufficiente ,2.0,quattro ,2.0
+high_school_south_041,voto,2.0,scritto,2.0,registro,3.0,ansia ,1.0
+high_school_south_045,voto,4.0,voluptatem temporibu,3.0,dolor sit consequat,3.0,in in esse est sit,1.0
+high_school_south_046,voto,2.0,10,5.0,massimo,4.0,minimo,3.0
+high_school_south_047,voto,3.0,scala,4.0,verifica,4.0,risultato,4.0
+high_school_south_048,voto,2.0, buono ,4.0,risultato ,4.0,valutazione ,3.0
 liceo_sci_001,numeri,3.0,matematica,3.0,calcolo,3.0,naturali,3.0
 liceo_sci_002,numeri,4.0,razionali,3.0,irrazionali,3.0,immaginari,3.0
 liceo_sci_003,numeri,3.0,tanti,3.0,composizioni infinite,3.0,calcoli,3.0
@@ -612,23 +972,41 @@ liceo_lin_004,numeri,2.0,1,5.0,arabi,3.0,complicati ,1.0
 liceo_lin_005,numeri,4.0,reali,3.0,matematica,2.0,calcolo,3.0
 liceo_lin_006,numeri,2.0,matematica,2.0,conti,2.0,economia,3.0
 liceo_lin_008,numeri,3.0,tanti,3.0,razionali,3.0,,
+liceo_lin_009,numeri,2.0,infiniti,4.0,percentuali,3.0,dispari,3.0
 liceo_lin_010,numeri,1.0,matematica,1.0,uno,1.0,due,1.0
 liceo_lin_011,numeri,3.0,interi,3.0,reali,3.0,primi,3.0
 liceo_lin_012,numeri,3.0,dati,3.0,calcoli,3.0,algebra,3.0
+liceo_lin_013,numeri,4.0,calcoli,3.0,ordine,4.0,risolvere,4.0
 liceo_lin_015,numeri,2.0,ragionamento,3.0,calcoli,2.0,matematica,1.0
 liceo_lin_016,numeri,2.0,matematica,2.0,dati,2.0,anni,3.0
 liceo_lin_018,numeri,3.0,matematica,4.0,telefono,4.0,ovunque,5.0
 liceo_sci_014,numeri,3.0,matematica,3.0,telefonici,3.0,azzurro chiaro,3.0
 liceo_sci_016,numeri,3.0,matematica,3.0,algebra,3.0,fisica,3.0
 liceo_sci_018,numeri,3.0,matematica,3.0,test,1.0,calcoli,3.0
+liceo_sci_019,numeri,4.0,calcoli,4.0,gioco,4.0,divertimento,4.0
 liceo_sci_026,numeri,3.0,matematica,2.0,astro,4.0,,
 liceo_sci_029,numeri,3.0,molti,2.0,matematica,3.0,scuola,3.0
+liceo_sci_032,numeri,3.0,calcoli,3.0,,,,
 liceo_sci_033,numeri,3.0,nulla,3.0,nulla,3.0,nulla,3.0
 liceo_sci_034,numeri,3.0,matematica,3.0,dati,3.0,problema ,2.0
 liceo_sci_037,numeri,3.0,naturali,3.0,reali,3.0,insieme,2.0
 liceo_sci_041,numeri,3.0,matematica,2.0,fisica,2.0,statistica,1.0
 liceo_sci_042,numeri,3.0,matematica,3.0,problemi,3.0,calcoli,3.0
+liceo_sci_043,numeri,3.0,sbaglio,1.0,calcolatrice,3.0,matematica,4.0
 liceo_064,numeri,4.0,tanti,5.0,avere,4.0,tabelline,4.0
+high_school_south_005,numeri,4.0,matematica,4.0,fisica,4.0,calcoli,5.0
+high_school_south_008,numeri,4.0,belli,4.0,utili,4.0,argomenti ,5.0
+high_school_south_012,numeri,3.0,matematica ,3.0,tabelline,4.0,vita,5.0
+high_school_south_022,numeri,4.0,matematica,4.0, cifre,4.0,arabi,4.0
+high_school_south_027,numeri,3.0,equazioni,4.0,compagni,3.0,banco,4.0
+high_school_south_032,numeri,3.0,matematica ,5.0,informazioni ,3.0,,
+high_school_south_034,numeri,,arabi,,pitagorici,,colori,
+high_school_south_035,numeri,2.0,paura,2.0,complessità ,2.0,infinito,3.0
+high_school_south_041,numeri,4.0,algebra,4.0,operazioni,4.0,scrivere ,3.0
+high_school_south_045,numeri,4.0,enim et dolorem quia,1.0,molestiae ut vel mag,3.0,culpa ipsam similiqu,3.0
+high_school_south_046,numeri,4.0,matematica,5.0,ordine,4.0,scuola,3.0
+high_school_south_047,numeri,4.0,matematica,4.0,conteggio,4.0,misura,4.0
+high_school_south_048,numeri,2.0,matematica ,2.0,interi ,3.0,dati ,4.0
 liceo_sci_001,logica,3.0,innata,3.0,non scontata,3.0,,
 liceo_sci_002,logica,3.0,razionale,4.0,ragione,4.0,intelletto,3.0
 liceo_sci_003,logica,3.0,mentalità,3.0,ragionamento,3.0,non per tutti,2.0
@@ -642,23 +1020,41 @@ liceo_lin_004,logica,2.0,problema,2.0,peso,2.0,complicata,2.0
 liceo_lin_005,logica,4.0,intelligenza,4.0,ragionamento,4.0,tolc,3.0
 liceo_lin_006,logica,4.0,matematica,2.0,ragionamento,4.0,problemi,2.0
 liceo_lin_008,logica,2.0,mentale,3.0,utile,4.0,,
+liceo_lin_009,logica,2.0,ragionamento,3.0,mente,3.0,analisi,2.0
 liceo_lin_010,logica,4.0,matematica,2.0,voto,2.0,bella,3.0
 liceo_lin_011,logica,4.0,problemi,3.0,realtà,3.0,strategie,4.0
 liceo_lin_012,logica,3.0,ragionamento,4.0,filosofia,3.0,,
+liceo_lin_013,logica,4.0,test,2.0,problemi,2.0,comprendere,4.0
 liceo_lin_015,logica,1.0,complicato,3.0,ragionamento,4.0,numeri,2.0
 liceo_lin_016,logica,2.0,pensare,4.0,soluzioni,3.0,matematica,2.0
 liceo_lin_018,logica,3.0,filosofia,2.0,ragionamento,3.0,,
 liceo_sci_014,logica,4.0,ragione,4.0,esistenza,4.0,giallo,2.0
 liceo_sci_016,logica,2.0,letteratura,3.0,grammatica,2.0,matematica,3.0
 liceo_sci_018,logica,3.0,calcolo ,3.0,ragionamento,3.0,intuito ,5.0
+liceo_sci_019,logica,3.0,ragionamento,3.0,tensione,2.0,intelligenza,4.0
 liceo_sci_026,logica,4.0,tolc,3.0,pregio,5.0,sviluppo,4.0
 liceo_sci_029,logica,3.0,calcolo,4.0,matematica,3.0,testa,3.0
+liceo_sci_032,logica,3.0,numeri,3.0,libri,5.0,ansia,1.0
 liceo_sci_033,logica,5.0,interessante,3.0,preoccupante,3.0,sensata,3.0
 liceo_sci_034,logica,4.0,ragionamento,4.0,collegamenti,4.0,,
 liceo_sci_037,logica,2.0,tolc,3.0,filosofia,3.0,cervello,2.0
 liceo_sci_041,logica,4.0,cervello,5.0,ragionamenti,4.0,matematica,2.0
 liceo_sci_042,logica,3.0,problemi,3.0,risoluzioni,3.0,,
+liceo_sci_043,logica,4.0,schemi,2.0,coerenza,5.0,mente,4.0
 liceo_064,logica,3.0,sempre,3.0,pedanteria,3.0,lentezza,4.0
+high_school_south_005,logica,5.0,giochi,5.0,calcoli,4.0,,
+high_school_south_008,logica,2.0,irrisolvibile ,2.0,difficile ,3.0,interessante,4.0
+high_school_south_012,logica,4.0,aiuto,4.0,comprendere,4.0,ragionare,4.0
+high_school_south_022,logica,4.0,matematica,4.0,numeri,4.0,esami,4.0
+high_school_south_027,logica,4.0,informatica,4.0,platone,4.0,ragionamento,3.0
+high_school_south_032,logica,4.0,problem solving,4.0,informatica,4.0,,
+high_school_south_034,logica,,innata,,intelligenza,,tutto,
+high_school_south_035,logica,2.0,matematica,3.0,problema,2.0,gioco,3.0
+high_school_south_041,logica,3.0,matematica ,4.0,quesito,3.0,,
+high_school_south_045,logica,1.0,dolor est id perspi,3.0,exercitationem aliqu,2.0,ipsum molestiae min,5.0
+high_school_south_046,logica,4.0,numeri,4.0,matematica,5.0,programma,3.0
+high_school_south_047,logica,4.0,ragionamento,4.0,soluzione,4.0,intuito,4.0
+high_school_south_048,logica,5.0,ragionamento ,5.0,velocità ,5.0,cervello ,4.0
 liceo_sci_001,ricerca,4.0,novità,4.0,divertimento,4.0,,
 liceo_sci_002,ricerca,4.0,innovativa,4.0,biomedicina,4.0,finanziata,3.0
 liceo_sci_003,ricerca,3.0,scientifica,3.0,studio,3.0,scuola,2.0
@@ -672,23 +1068,41 @@ liceo_lin_004,ricerca,4.0,laboratorio,3.0,tesoro,4.0,scuola,3.0
 liceo_lin_005,ricerca,4.0,scienze,4.0,fisica,2.0,educazione civica,4.0
 liceo_lin_006,ricerca,4.0,scientifica,4.0,domanda,4.0,soluzione,4.0
 liceo_lin_008,ricerca,3.0,scoperta,3.0,internet,3.0,lavoro,3.0
+liceo_lin_009,ricerca,3.0,scientifica,3.0,laboratorio,3.0,analisi,3.0
 liceo_lin_010,ricerca,3.0,storica,2.0,libri,2.0,presentazione,2.0
 liceo_lin_011,ricerca,4.0,scientifica,3.0,personale,4.0,felicità,5.0
 liceo_lin_012,ricerca,4.0,conoscenza,4.0,sapere,4.0,,
+liceo_lin_013,ricerca,4.0,impegno ,4.0,scientifica,3.0,analisi,4.0
 liceo_lin_015,ricerca,5.0,scuola,3.0,approfondimento,4.0,materia,4.0
 liceo_lin_016,ricerca,3.0,scientifica,4.0,medica,4.0,morale,3.0
 liceo_lin_018,ricerca,4.0,studio,4.0,fenomeno/i,4.0,presentazione,4.0
 liceo_sci_014,ricerca,4.0,storia,4.0,compito,1.0,rosso chiaro,2.0
 liceo_sci_016,ricerca,5.0,scienze,5.0,fisica,3.0,farmaci,5.0
 liceo_sci_018,ricerca,5.0,scienze,3.0,voti ,1.0,tranquillità,5.0
+liceo_sci_019,ricerca,4.0,concentrazione,3.0,analisi,4.0,dati,3.0
 liceo_sci_026,ricerca,3.0,scientifica,3.0,compito,4.0,,
 liceo_sci_029,ricerca,3.0,esperimenti,4.0,soluzioni,4.0,domande,2.0
+liceo_sci_032,ricerca,4.0,scienze,4.0,camice,3.0,progresso,3.0
 liceo_sci_033,ricerca,5.0,chat gpt,5.0,wikipedia,5.0,libri,5.0
 liceo_sci_034,ricerca,5.0,laboratorio ,4.0,dati ,4.0,esperimenti,4.0
 liceo_sci_037,ricerca,2.0,psicologia,2.0,studio,3.0,tesoro,1.0
 liceo_sci_041,ricerca,3.0,internet,3.0,informazioni,3.0,imparare,4.0
 liceo_sci_042,ricerca,4.0,scoperta,4.0,studio,4.0,,
+liceo_sci_043,ricerca,5.0,informazioni,5.0,impegno,4.0,interesse,5.0
 liceo_064,ricerca,3.0,importante,3.0,scuola,4.0,casa,3.0
+high_school_south_005,ricerca,3.0,innovazione,4.0,,,,
+high_school_south_008,ricerca,5.0,utile,5.0,strumenti,5.0,scienza,5.0
+high_school_south_012,ricerca,4.0,approfondita,4.0,argomento,4.0,finire,4.0
+high_school_south_022,ricerca,4.0,statistica,4.0,scientifica,4.0,università,4.0
+high_school_south_027,ricerca,3.0,ricercare,2.0,cercare,2.0,riposare,4.0
+high_school_south_032,ricerca,5.0,innovazione ,5.0,fisica,5.0,,
+high_school_south_034,ricerca,,futuro,,importante ,,sottopagato,
+high_school_south_035,ricerca,3.0,fisica,4.0,università ,3.0,cern,3.0
+high_school_south_041,ricerca,4.0,scientifica,4.0,laboratorio ,4.0,analisi,3.0
+high_school_south_045,ricerca,2.0,ut quia consectetur,1.0,odio culpa minim qu,4.0,in ut repellendus d,1.0
+high_school_south_046,ricerca,4.0,scienza,4.0,utile,4.0,innovazione,4.0
+high_school_south_047,ricerca,4.0,tentativi,4.0,curiosità ,4.0,impegno,4.0
+high_school_south_048,ricerca,2.0,scienziati ,2.0,recupero ,4.0,obiettivo ,5.0
 liceo_sci_001,imbarazzo,1.0,interrogazioni,1.0,voto verifica ,1.0,bocciatura,1.0
 liceo_sci_002,imbarazzo,2.0,figure di merda,2.0,viso rosso,3.0,,
 liceo_sci_003,imbarazzo,2.0,timidezza,3.0,sbaglio,2.0,pubblico,3.0
@@ -702,23 +1116,41 @@ liceo_lin_004,imbarazzo,1.0,vergogna ,1.0,rosso,5.0,sudore,1.0
 liceo_lin_005,imbarazzo,1.0,novità,4.0,solitudine,2.0,pubblico,3.0
 liceo_lin_006,imbarazzo,2.0,sociale,2.0,panico,1.0,disagio,1.0
 liceo_lin_008,imbarazzo,2.0,sensazione,3.0,sconosciuti,3.0,,
+liceo_lin_009,imbarazzo,2.0,emozione,4.0,negativo,2.0,,
 liceo_lin_010,imbarazzo,5.0,brutto,5.0,esperienza,5.0,leggerezza,5.0
 liceo_lin_011,imbarazzo,2.0,aspettative,2.0,delusione,1.0,fallimento,1.0
 liceo_lin_012,imbarazzo,2.0,vergogna,2.0,,,,
+liceo_lin_013,imbarazzo,1.0,pubblico ,2.0,blocco,1.0,paura,1.0
 liceo_lin_015,imbarazzo,1.0,figuraccia,2.0,vergogna,2.0,persone,3.0
 liceo_lin_016,imbarazzo,3.0,scomparire,2.0,rosso,3.0,pianti,2.0
 liceo_lin_018,imbarazzo,2.0,esprimersi,3.0,confort-zone,4.0,estraneo,1.0
 liceo_sci_014,imbarazzo,2.0,emozione,1.0,arrossire,2.0,rosa,2.0
 liceo_sci_016,imbarazzo,1.0,rosso,3.0,sole,4.0,gonfio,3.0
 liceo_sci_018,imbarazzo,1.0,essere al centro dell'attenzione,1.0,panico,1.0,,
+liceo_sci_019,imbarazzo,2.0,disagio,1.0,tensione,2.0,umiliazione,1.0
 liceo_sci_026,imbarazzo,2.0,brutta figura,1.0,domande personali,2.0,,
 liceo_sci_029,imbarazzo,1.0,persone,3.0,sconosciuti,2.0,soli,1.0
+liceo_sci_032,imbarazzo,2.0,persone,3.0,ansia,2.0,,
 liceo_sci_033,imbarazzo,2.0,test,2.0,domande,3.0,situazioni,2.0
 liceo_sci_034,imbarazzo,2.0,pubblico,3.0,,,,
 liceo_sci_037,imbarazzo,3.0,rosso,3.0,vergogna,2.0,timidezza,2.0
 liceo_sci_041,imbarazzo,1.0,estraneazione,1.0,disagio,1.0,insicurezza,1.0
 liceo_sci_042,imbarazzo,2.0,rosso,2.0,punto di domanda,2.0,non sapere,2.0
+liceo_sci_043,imbarazzo,1.0,solitudine,1.0,stomaco,1.0,invisibilità,1.0
 liceo_064,imbarazzo,2.0,tanto,2.0,rosso,2.0,cadere,2.0
+high_school_south_005,imbarazzo,2.0,parlare,2.0,amicizie,4.0,,
+high_school_south_008,imbarazzo,3.0,cose nuove,4.0,primo volta ,4.0,conoscere ,5.0
+high_school_south_012,imbarazzo,1.0,rossore,1.0,guance,3.0,vergogna ,4.0
+high_school_south_022,imbarazzo,1.0,costante,1.0,ansia,1.0,brutto,2.0
+high_school_south_027,imbarazzo,2.0,stupido,1.0,nessun,3.0,razzo,3.0
+high_school_south_032,imbarazzo,2.0,società ,3.0,,,,
+high_school_south_034,imbarazzo,,persone,,inadeguato,,stupidità ,
+high_school_south_035,imbarazzo,2.0,pubblico,2.0,peli,2.0,sangue,2.0
+high_school_south_041,imbarazzo,1.0,classe,2.0,sbagliare ,1.0,ansia,1.0
+high_school_south_045,imbarazzo,2.0,nisi fugiat ex et i,1.0,tempora ab deserunt ,5.0,ad id officiis sed l,4.0
+high_school_south_046,imbarazzo,2.0,arrossire,3.0,piangere,4.0,ansia,2.0
+high_school_south_047,imbarazzo,2.0,disagio,2.0,silenzio,3.0,vergogna,2.0
+high_school_south_048,imbarazzo,2.0,rossore ,2.0,pubblico ,4.0,ragazze ,3.0
 liceo_sci_001,compagni,3.0,classe,3.0,lavoro,3.0,,
 liceo_sci_002,compagni,5.0,simpatici,5.0,sopportabili,5.0,meglio di altri individui,5.0
 liceo_sci_003,compagni,3.0,simpatici,3.0,non veri amici,2.0,pochi,3.0
@@ -732,23 +1164,41 @@ liceo_lin_004,compagni,5.0,amici,5.0,leali,5.0,litigate,2.0
 liceo_lin_005,compagni,4.0,classe,4.0,amici,5.0,simpatie,5.0
 liceo_lin_006,compagni,4.0,amicizia,4.0,supporto,4.0,appoggio,4.0
 liceo_lin_008,compagni,2.0,amici,4.0,classe,3.0,lavori,3.0
+liceo_lin_009,compagni,5.0,amici,5.0,sostenitori,5.0,aiuto,5.0
 liceo_lin_010,compagni,4.0,amici,5.0,avventure,4.0,,
 liceo_lin_011,compagni,4.0,persone,4.0,amici,5.0,fiducia,5.0
 liceo_lin_012,compagni,3.0,classe,3.0,dialogo,4.0,scambio,3.0
+liceo_lin_013,compagni,5.0,scuola,2.0,vita,5.0,aiuto,5.0
 liceo_lin_015,compagni,5.0,classe,5.0,amici,5.0,aiuto,4.0
 liceo_lin_016,compagni,4.0,famiglia,4.0,risate,4.0,litigi,4.0
 liceo_lin_018,compagni,4.0,gruppo,4.0,supporto,4.0,competizione,1.0
 liceo_sci_014,compagni,1.0,odio,1.0,odio,1.0,grigio,1.0
 liceo_sci_016,compagni,5.0,sole,4.0,estate,5.0,scuola,1.0
 liceo_sci_018,compagni,5.0,serenità,4.0,divertimento,4.0,conforto,5.0
+liceo_sci_019,compagni,4.0,fiducia,4.0,divertimento,4.0,felicità,4.0
 liceo_sci_026,compagni,5.0,amici,5.0,aiuto,4.0,migliori,5.0
 liceo_sci_029,compagni,5.0,scuola,3.0,classe,4.0,amici,5.0
+liceo_sci_032,compagni,4.0,amici,4.0,incomprensione,1.0,muro,1.0
 liceo_sci_033,compagni,5.0,amore,5.0,tranquillità,5.0,divertimento,5.0
 liceo_sci_034,compagni,5.0,classe,3.0,amici,5.0,,
 liceo_sci_037,compagni,3.0,classe,3.0,gita,2.0,gruppi,2.0
 liceo_sci_041,compagni,4.0,amici,5.0,legame,5.0,armonia,5.0
 liceo_sci_042,compagni,3.0,persone,3.0,ore scolastiche ,3.0,,
+liceo_sci_043,compagni,5.0,felicità,5.0,esperienze,5.0,condivisione,5.0
 liceo_064,compagni,3.0,classe,3.0,antipatici,2.0,estranei,2.0
+high_school_south_005,compagni,2.0,particolari,1.0,,,,
+high_school_south_008,compagni,4.0,amici,5.0,uscite,5.0,festa ,5.0
+high_school_south_012,compagni,2.0,scuola,3.0,classe ,2.0,sempre,2.0
+high_school_south_022,compagni,3.0,normali,3.0,nerd,3.0,scuola,3.0
+high_school_south_027,compagni,3.0,peggio,3.0,competività,2.0,voti,3.0
+high_school_south_032,compagni,4.0,scuola,2.0,comunismo,3.0,,
+high_school_south_034,compagni,,amicizia,,sostegno ,,squadra,
+high_school_south_035,compagni,3.0,classe,3.0,uscita,4.0,amicizia,3.0
+high_school_south_041,compagni,3.0,scuola,2.0,conoscenti,3.0,banco,3.0
+high_school_south_045,compagni,1.0,ad nulla totam rerum,3.0,occaecat eiusmod acc,5.0,explicabo libero at,3.0
+high_school_south_046,compagni,3.0,scuola,3.0,classe,3.0,banco,3.0
+high_school_south_047,compagni,4.0,amici,4.0,squadra,4.0,aiuto,4.0
+high_school_south_048,compagni,4.0,scolastici ,2.0,avventura ,5.0,amici ,5.0
 liceo_sci_001,problema,3.0,affrontare,4.0,vie,4.0,,
 liceo_sci_002,problema,3.0,soluzione,4.0,piano b,4.0,saltare,4.0
 liceo_sci_003,problema,2.0,soluzione,3.0,dati,3.0,procedimento,3.0
@@ -762,23 +1212,41 @@ liceo_lin_004,problema,1.0,incognita ,1.0,mal di testa,1.0,x,4.0
 liceo_lin_005,problema,3.0,geometria,3.0,dati,3.0,risoluzione,4.0
 liceo_lin_006,problema,1.0,soluzione,5.0,aiuto,5.0,analisi,4.0
 liceo_lin_008,problema,1.0,soluzione,4.0,personale,3.0,famiglia,3.0
+liceo_lin_009,problema,2.0,soluzione,4.0,idee,4.0,,
 liceo_lin_010,problema,3.0,risoluzione,3.0,affronto,3.0,autostima,2.0
 liceo_lin_011,problema,2.0,scolastico,2.0,disciplinare,2.0,personale,2.0
 liceo_lin_012,problema,2.0,dati,3.0,numeri,3.0,risouzione,4.0
+liceo_lin_013,problema,3.0,matematica,4.0,risolvere ,4.0,dati,4.0
 liceo_lin_015,problema,2.0,matematica,2.0,risoluzione,5.0,metodi,3.0
 liceo_lin_016,problema,3.0,matematico,3.0,importante,3.0,,
 liceo_lin_018,problema,3.0,,,,,,
 liceo_sci_014,problema,4.0,io,1.0,matematica,3.0,viola,1.0
 liceo_sci_016,problema,1.0,solver,3.0,ansia,1.0,gestione,2.0
 liceo_sci_018,problema,1.0,soluzione,5.0,,,,
+liceo_sci_019,problema,3.0,soluzione,4.0,pensare,4.0,tensione,2.0
 liceo_sci_026,problema,3.0,matematica,2.0,fisica,2.0,difficoltà,2.0
 liceo_sci_029,problema,2.0,risoluzuone,4.0,difficoltà,2.0,amici,5.0
+liceo_sci_032,problema,3.0,risoluzione,4.0,ragionamento,4.0,,
 liceo_sci_033,problema,3.0,risoluzione,5.0,,,,
 liceo_sci_034,problema,1.0,soluzione,5.0,,,,
 liceo_sci_037,problema,3.0,risoluzione,2.0,dati,3.0,calcolo,3.0
 liceo_sci_041,problema,2.0,riflessione,4.0,preoccupazione,2.0,consapevolezza,5.0
 liceo_sci_042,problema,3.0,matematica,3.0,domande,3.0,,
+liceo_sci_043,problema,2.0,problem solving,5.0,intraprendenza,5.0,frustrazione,1.0
 liceo_064,problema,3.0,difficile,4.0,quaderno,4.0,scritto,4.0
+high_school_south_005,problema,3.0,matematica,4.0,fisica,4.0,riflettere,3.0
+high_school_south_008,problema,4.0,risoluzione ,4.0,dati,4.0,numeri,4.0
+high_school_south_012,problema,2.0,matematica,3.0,dati,3.0,risolvo,4.0
+high_school_south_022,problema,3.0,matematica ,4.0,personale,2.0,casa,1.0
+high_school_south_027,problema,3.0,irrisolto,4.0,risolvibile,4.0,fattibile,4.0
+high_school_south_032,problema,4.0,matematica ,5.0,fisica,5.0,,
+high_school_south_034,problema,2.0,esistenziale,3.0,diplomatico,2.0,guasto,2.0
+high_school_south_035,problema,3.0,matematica,3.0,trasporti ,1.0,filosofia,3.0
+high_school_south_041,problema,2.0,matematica ,4.0,fisica,2.0,dati,3.0
+high_school_south_045,problema,1.0,non aliqua in nulla,1.0,pariatur excepturi ,1.0,tempor aliquip ad au,1.0
+high_school_south_046,problema,3.0,difficile,2.0,facile,4.0,risolto,4.0
+high_school_south_047,problema,4.0,risoluzione,4.0,procedimento ,4.0,dati,4.0
+high_school_south_048,problema,4.0,matematica ,2.0,risoluzione ,4.0,difficile ,2.0
 liceo_sci_001,informatica,3.0,programmazione,3.0,giochi,5.0,,
 liceo_sci_002,informatica,3.0,palloso,2.0,phyton,4.0,giocare,5.0
 liceo_sci_003,informatica,2.0,non intuitiva,2.0,per pochi,2.0,non mi piace,1.0
@@ -792,23 +1260,41 @@ liceo_lin_004,informatica,1.0,codice binario,1.0,computer,1.0,numeri,1.0
 liceo_lin_005,informatica,4.0,computer,4.0,mouse,4.0,schermo,4.0
 liceo_lin_006,informatica,2.0,computer,2.0,programmi,1.0,velocità,2.0
 liceo_lin_008,informatica,3.0,computer,3.0,,,,
+liceo_lin_009,informatica,4.0,computer,4.0,intelligenza,4.0,,
 liceo_lin_010,informatica,3.0,pc,4.0,occhiali,4.0,futuro,4.0
 liceo_lin_011,informatica,3.0,computer,3.0,server,3.0,tastiera,3.0
 liceo_lin_012,informatica,3.0,computer,4.0,programmi,3.0,,
+liceo_lin_013,informatica,4.0,dati,4.0,computer,4.0,laboratorio,5.0
 liceo_lin_015,informatica,3.0,materia,3.0,computer,5.0,tecnologia,5.0
 liceo_lin_016,informatica,3.0,materia ,2.0,computer ,3.0,formule ,3.0
 liceo_lin_018,informatica,4.0,,,,,,
 liceo_sci_014,informatica,3.0,digitare,4.0,divertente,5.0,azzurra,3.0
 liceo_sci_016,informatica,4.0,futuro,5.0,verde,4.0,pc,3.0
 liceo_sci_018,informatica,3.0,laboratori ,3.0,programmazione,3.0,futuro,5.0
+liceo_sci_019,informatica,3.0,complicato,2.0,numeri,3.0,confusione,2.0
 liceo_sci_026,informatica,3.0,computer,4.0,aula,4.0,presentazione,4.0
 liceo_sci_029,informatica,4.0,pc,5.0,fututuro,5.0,chat gpt,4.0
+liceo_sci_032,informatica,2.0,ansia,2.0,futuro,3.0,,
 liceo_sci_033,informatica,4.0,futuro,5.0,,,,
 liceo_sci_034,informatica,4.0,dati,3.0,tecnologia ,5.0,progresso,5.0
 liceo_sci_037,informatica,2.0,priolo,3.0,scuola,2.0,lezione,3.0
 liceo_sci_041,informatica,2.0,computer,3.0,tecnologia,3.0,innovazione,4.0
 liceo_sci_042,informatica,3.0,noia,2.0,programmazione,3.0,studio,4.0
+liceo_sci_043,informatica,3.0,computer,3.0,programma,3.0,,
 liceo_064,informatica,3.0,aula,3.0,asettica,3.0,,
+high_school_south_005,informatica,3.0,computer,3.0,,,,
+high_school_south_008,informatica,3.0,c++,4.0,computer,5.0,programmazione ,3.0
+high_school_south_012,informatica,2.0,stancante,1.0,progetto,3.0,computer,2.0
+high_school_south_022,informatica,4.0,interessante ,4.0,utile,4.0,ai,3.0
+high_school_south_027,informatica,4.0,python,3.0,professore,4.0,compagna,2.0
+high_school_south_032,informatica,4.0,ai,3.0,modelli,4.0,,
+high_school_south_034,informatica,4.0,delusione,2.0,condivisione,4.0,ritardo,1.0
+high_school_south_035,informatica,2.0,computer,2.0,calcoli,2.0,luce,3.0
+high_school_south_041,informatica,4.0,programmazione,4.0,pyhton,1.0,c++,4.0
+high_school_south_045,informatica,3.0,inventore eos error ,1.0,accusantium maiores ,5.0,enim exercitationem ,3.0
+high_school_south_046,informatica,4.0,computer,4.0,programmare,2.0,scuola,3.0
+high_school_south_047,informatica,4.0,elettronica,4.0,computer,4.0,software,4.0
+high_school_south_048,informatica,3.0,codice ,2.0,numeri ,2.0,verde ,4.0
 liceo_sci_001,sfida,2.0,difficile ,1.0,,,,
 liceo_sci_002,sfida,5.0,ragionare,4.0,possibilità,4.0,soluzione,4.0
 liceo_sci_003,sfida,3.0,mettersi in gioco,4.0,difficile,2.0,superare i propri limiti,5.0
@@ -822,23 +1308,41 @@ liceo_lin_004,sfida,4.0,gara,4.0,punteggio,4.0,vittoria,5.0
 liceo_lin_005,sfida,3.0,interiore,3.0,carte,5.0,gioco,5.0
 liceo_lin_006,sfida,3.0,avversario,2.0,ostacolo,2.0,obbiettivo,5.0
 liceo_lin_008,sfida,2.0,competizione,2.0,persone,3.0,ansia,1.0
+liceo_lin_009,sfida,4.0,adrenalina,4.0,competitività,4.0,,
 liceo_lin_010,sfida,3.0,stimolo,2.0,gara,5.0,obiettivo,2.0
 liceo_lin_011,sfida,4.0,ostacoli,2.0,obiettivo,5.0,migliorare,5.0
 liceo_lin_012,sfida,3.0,miglioramento,4.0,,,,
+liceo_lin_013,sfida,4.0,impegno,4.0,reagire,4.0,risolvere,4.0
 liceo_lin_015,sfida,3.0,sport,4.0,personale,3.0,scuola,2.0
 liceo_lin_016,sfida,3.0,gioco,3.0,,,,
 liceo_lin_018,sfida,3.0,,,,,,
 liceo_sci_014,sfida,5.0,competizione,5.0,interessante,5.0,giallo ocra,2.0
 liceo_sci_016,sfida,4.0,ansia,1.0,vittoria,5.0,rosso,3.0
 liceo_sci_018,sfida,2.0,vincitrice,5.0,lotta ,3.0,,
+liceo_sci_019,sfida,3.0,ansia,2.0,preoccupazione,3.0,tensione,2.0
 liceo_sci_026,sfida,3.0,vincere,5.0,competitività,3.0,migliorare,4.0
 liceo_sci_029,sfida,5.0,personale,3.0,obbiettivi,4.0,,
+liceo_sci_032,sfida,3.0,prova,2.0,determinazione,4.0,,
 liceo_sci_033,sfida,4.0,competizione,3.0,,,,
 liceo_sci_034,sfida,5.0,vincitore,4.0,giochi,4.0,,
 liceo_sci_037,sfida,2.0,challenge,3.0,personale,2.0,competizione,1.0
 liceo_sci_041,sfida,4.0,adrenalina,4.0,coraggio,5.0,motivazione,5.0
 liceo_sci_042,sfida,4.0,bello,4.0,vincere,4.0,impegnarsi,4.0
+liceo_sci_043,sfida,1.0,gara,1.0,competizione,1.0,risultato,1.0
 liceo_064,sfida,2.0,pesante,2.0,battaglia,2.0,moda,3.0
+high_school_south_005,sfida,4.0,buttarsi,4.0,provare,4.0,vincere,5.0
+high_school_south_008,sfida,5.0,vita,4.0,sport,5.0,scuola,3.0
+high_school_south_012,sfida,3.0,accettare,4.0,competizione,2.0,gara,3.0
+high_school_south_022,sfida,3.0,acqua,4.0,youtube,4.0,gioco,4.0
+high_school_south_027,sfida,4.0,duello,3.0,spada,4.0,gioco,4.0
+high_school_south_032,sfida,2.0,,,,,,
+high_school_south_034,sfida,4.0,traguardo,5.0,emozione,4.0,periodi,3.0
+high_school_south_035,sfida,2.0,scuola,5.0,voti,3.0,gara,2.0
+high_school_south_041,sfida,2.0,prova ,2.0,affrontare ,3.0,,
+high_school_south_045,sfida,4.0,culpa quas porro qu,3.0,rerum delectus quo ,1.0,autem quis voluptate,3.0
+high_school_south_046,sfida,4.0,costruttiva,4.0,difficile,2.0,vincere,5.0
+high_school_south_047,sfida,4.0,gara,4.0,stimolo,4.0,competizione,4.0
+high_school_south_048,sfida,5.0,competizione ,5.0,superare ,5.0,persone ,3.0
 liceo_sci_001,paura,2.0,voti,2.0,giudizio,2.0,possibilità,5.0
 liceo_sci_002,paura,2.0,controllo,4.0,perchè,4.0,irrazionale,2.0
 liceo_sci_003,paura,2.0,timore,2.0,emozione,4.0,forte,3.0
@@ -852,23 +1356,41 @@ liceo_lin_004,paura,1.0,ansia,1.0,sudore,1.0,viola,1.0
 liceo_lin_005,paura,2.0,matematica,2.0,voti,2.0,futuro,3.0
 liceo_lin_006,paura,2.0,buio,2.0,tremori,1.0,freddo,2.0
 liceo_lin_008,paura,1.0,ansia,1.0,solitudine,1.0,stress,1.0
+liceo_lin_009,paura,1.0,ansia,1.0,sudore,1.0,,
 liceo_lin_010,paura,3.0,leggerezza,2.0,,,,
 liceo_lin_011,paura,2.0,futuro,4.0,deludere,1.0,infelicità,1.0
 liceo_lin_012,paura,1.0,ansia,1.0,,,,
+liceo_lin_013,paura,1.0,gestire,4.0,affrontare ,4.0,blocco,1.0
 liceo_lin_015,paura,1.0,futuro,4.0,maturità,1.0,università,2.0
 liceo_lin_016,paura,3.0,ansia ,3.0,stress,3.0,lacrime,3.0
 liceo_lin_018,paura,1.0,,,,,,
 liceo_sci_014,paura,1.0,emozione,2.0,comune,4.0,viola scuro,2.0
 liceo_sci_016,paura,1.0,delirio,1.0,nero,2.0,buio,1.0
 liceo_sci_018,paura,1.0,esame ,1.0,futuro,4.0,,
+liceo_sci_019,paura,2.0,pianto,2.0,terrore,2.0,tristezza,2.0
 liceo_sci_026,paura,2.0,solitudine,2.0,futuro,3.0,emozione,4.0
 liceo_sci_029,paura,2.0,test,2.0,vitra,3.0,,
+liceo_sci_032,paura,2.0,,,,,,
 liceo_sci_033,paura,3.0,ansia,1.0,,,,
 liceo_sci_034,paura,1.0,ansia,1.0,impegni,1.0,aspettativa,1.0
 liceo_sci_037,paura,1.0,timore,1.0,buio,1.0,spesso,1.0
 liceo_sci_041,paura,2.0,buio,2.0,aghi,1.0,ragni,2.0
 liceo_sci_042,paura,2.0,ansia,1.0,forza,4.0,coraggio,4.0
+liceo_sci_043,paura,1.0,stress,1.0,isolamento,1.0,crisi,1.0
 liceo_064,paura,3.0,buio,3.0,solitudine,3.0,ansia,3.0
+high_school_south_005,paura,2.0,incubi,1.0,,,,
+high_school_south_008,paura,2.0,futuro,5.0,lavoro ,4.0,cosè nuove,5.0
+high_school_south_012,paura,2.0,blu,4.0,mostro,1.0,buio,1.0
+high_school_south_022,paura,2.0,costante,2.0,ansia,1.0,pietrificante,1.0
+high_school_south_027,paura,4.0,blatta,2.0,chirurgia,2.0,morte,1.0
+high_school_south_032,paura,1.0,jumpscare,1.0,buio,2.0,,
+high_school_south_034,paura,2.0,incomprensioni,2.0,rifiuto,2.0,carpe diem,5.0
+high_school_south_035,paura,2.0,buio,3.0,nero,3.0,mare,3.0
+high_school_south_041,paura,2.0,ansia,1.0,panico,1.0,scuola,2.0
+high_school_south_045,paura,3.0,maiores non et ea il,2.0,ullam est eos tempor,1.0,nihil eos cupiditate,5.0
+high_school_south_046,paura,2.0,emozione,3.0,serpenti,1.0,solitudine,1.0
+high_school_south_047,paura,4.0,trauma,4.0,buio,4.0,fuga,4.0
+high_school_south_048,paura,2.0,blocco ,2.0,buio ,3.0,superare ,4.0
 liceo_sci_001,genitori,4.0,supporto,5.0,disponibili,5.0,,
 liceo_sci_002,genitori,3.0,peso,2.0,aspettative,2.0,amore,5.0
 liceo_sci_003,genitori,3.0,guide,3.0,autorità,2.0,rapporto,4.0
@@ -882,23 +1404,41 @@ liceo_lin_004,genitori,1.0,separati,1.0,amore,5.0,comprensione,5.0
 liceo_lin_005,genitori,4.0,mamma,4.0,papà,4.0,divorzio,1.0
 liceo_lin_006,genitori,3.0,ansia,2.0,riferimento,4.0,aspettative,1.0
 liceo_lin_008,genitori,3.0,importanti,4.0,guide,4.0,supporto,4.0
+liceo_lin_009,genitori,5.0,famiglia,5.0,conforto,5.0,aiuto,4.0
 liceo_lin_010,genitori,3.0,coppia,4.0,amore,3.0,,
 liceo_lin_011,genitori,5.0,mamma,5.0,papà,5.0,famiglia,5.0
 liceo_lin_012,genitori,5.0,casa,4.0,affetto,4.0,supporto,4.0
+liceo_lin_013,genitori,5.0,aiuto ,5.0,famiglia,5.0,casa,5.0
 liceo_lin_015,genitori,5.0,supporto,5.0,pensieri differenti,3.0,famiglia,5.0
 liceo_lin_016,genitori,5.0,famiglia,5.0,tutto,5.0,punto di riferimento,5.0
 liceo_lin_018,genitori,5.0,,,,,,
 liceo_sci_014,genitori,2.0,ansia,1.0,soggezione,1.0,viola scuro,2.0
 liceo_sci_016,genitori,5.0,amore,5.0,felicità,5.0,casa,5.0
 liceo_sci_018,genitori,5.0,vita,5.0,,,,
+liceo_sci_019,genitori,5.0,amore,5.0,fiducia,5.0,fortuna,5.0
 liceo_sci_026,genitori,5.0,aiuto,5.0,parlare,5.0,sostenere,5.0
 liceo_sci_029,genitori,5.0,famiglia,5.0,amore,5.0,,
+liceo_sci_032,genitori,3.0,amore,4.0,,,,
 liceo_sci_033,genitori,5.0,amore,5.0,,,,
 liceo_sci_034,genitori,2.0,,,,,,
 liceo_sci_037,genitori,1.0,mamma,1.0,papà,2.0,aspettative,1.0
 liceo_sci_041,genitori,4.0,affetto,5.0,famiglia,5.0,casa,5.0
 liceo_sci_042,genitori,4.0,mamma,5.0,papà,5.0,famiglia,5.0
+liceo_sci_043,genitori,3.0,preoccupazione,1.0,amore,5.0,influenza,3.0
 liceo_064,genitori,3.0,miei,4.0,vecchi,4.0,presenti,4.0
+high_school_south_005,genitori,4.0,famiglia,5.0,presenza,5.0,,
+high_school_south_008,genitori,4.0,famiglia,4.0,discutere ,2.0,chiarire,4.0
+high_school_south_012,genitori,3.0,mamma,5.0,sola,5.0,sempre,5.0
+high_school_south_022,genitori,3.0,stress,2.0,aspettative,2.0,soffocanti,2.0
+high_school_south_027,genitori,4.0,papa,4.0,meloni,3.0,madre,2.0
+high_school_south_032,genitori,3.0,aspettative ,1.0,impegno,4.0,,
+high_school_south_034,genitori,4.0,orgoglio,5.0,sforzo,3.0,affetto,5.0
+high_school_south_035,genitori,4.0,amore,3.0,mamma,5.0,papa,5.0
+high_school_south_041,genitori,5.0,famiglia,5.0,importanti,5.0,crescita,5.0
+high_school_south_045,genitori,1.0,perspiciatis quis e,1.0,similique minus qui ,5.0,sint eu in minus dig,5.0
+high_school_south_046,genitori,4.0,grandi,3.0,amore,5.0,famiglia,5.0
+high_school_south_047,genitori,4.0,mentori ,4.0,presenti ,4.0,insegnamento ,4.0
+high_school_south_048,genitori,5.0,mamma ,5.0,papà ,5.0,educazione ,5.0
 liceo_sci_001,dati,3.0,analizzare,3.0,raccolta,3.0,,
 liceo_sci_002,dati,3.0,utili ,3.0,input,3.0,output,3.0
 liceo_sci_003,dati,3.0,problema,3.0,numeri,3.0,informazioni,3.0
@@ -912,23 +1452,41 @@ liceo_lin_004,dati,3.0,anagrafici,3.0,numeri,2.0,codici,1.0
 liceo_lin_005,dati,3.0,statistica,2.0,analisi,3.0,problema,3.0
 liceo_lin_006,dati,3.0,anagrafici,3.0,analizzare,4.0,media,3.0
 liceo_lin_008,dati,3.0,piccoli,3.0,molti,3.0,complessi,2.0
+liceo_lin_009,dati,3.0,numeri,2.0,tabelle,2.0,,
 liceo_lin_010,dati,5.0,analitici,5.0,statistici,2.0,impressionanti,4.0
 liceo_lin_011,dati,3.0,numeri,3.0,statistiche,3.0,unità,3.0
 liceo_lin_012,dati,3.0,numeri,3.0,,,,
+liceo_lin_013,dati,4.0,numeri,2.0,problema,2.0,matematica,4.0
 liceo_lin_015,dati,3.0,generali,3.0,analisi,3.0,studio,3.0
 liceo_lin_016,dati,,matematici,,informazioni,,scritti,
 liceo_lin_018,dati,3.0,molti campi,4.0,indagine,,problema,
 liceo_sci_014,dati,2.0,informatica,2.0,matematica,2.0,verdi,2.0
 liceo_sci_016,dati,3.0,sperimentali,3.0,problema ,3.0,eventi,3.0
 liceo_sci_018,dati,3.0,,,,,,
+liceo_sci_019,dati,3.0,calcoli,4.0,confronto,4.0,analisi,4.0
 liceo_sci_026,dati,3.0,molti,3.0,problema,2.0,ricerca,3.0
 liceo_sci_029,dati,4.0,matematica,3.0,statistica,3.0,analisi,3.0
+liceo_sci_032,dati,3.0,ricerca,4.0,modello,3.0,,
 liceo_sci_033,dati,5.0,statistiche,3.0,importanti,3.0,fondsmentaòli,3.0
 liceo_sci_034,dati,3.0,,,,,,
 liceo_sci_037,dati,3.0,problema,3.0,libro,4.0,documento,3.0
 liceo_sci_041,dati,3.0,matematica,2.0,esperimenti,4.0,analisi,3.0
 liceo_sci_042,dati,3.0,test,3.0,problema,2.0,sondaggio,3.0
+liceo_sci_043,dati,3.0,tabella,3.0,ricerca,4.0,problema,3.0
 liceo_064,dati,3.0,ordine,4.0,tabella,4.0,analisi,4.0
+high_school_south_005,dati,4.0,problema,4.0,calcoli,4.0,soluzione,5.0
+high_school_south_008,dati,4.0,utili,5.0,inultili,4.0,essenziali ,5.0
+high_school_south_012,dati,4.0,analisi,4.0,seminario,3.0,professore,3.0
+high_school_south_022,dati,4.0,analisi,4.0,computer,4.0,ai,3.0
+high_school_south_027,dati,4.0,dadi,4.0,pane,4.0,piatto,4.0
+high_school_south_032,dati,4.0,tabella,4.0,grafico,4.0,campana,4.0
+high_school_south_034,dati,2.0,raccolta,4.0,sondaggi,4.0,risoluzione ,4.0
+high_school_south_035,dati,2.0,laboratorio,2.0,problema,3.0,incognita,3.0
+high_school_south_041,dati,3.0,tabulazione,4.0,analisi,3.0,statistica,2.0
+high_school_south_045,dati,5.0,blanditiis nihil eu ,1.0,debitis dolorem dist,5.0,magnam id et et sunt,3.0
+high_school_south_046,dati,3.0,problema,3.0,ordine,4.0,colonna,3.0
+high_school_south_047,dati,3.0,problema,3.0,informazioni,4.0,partenza,4.0
+high_school_south_048,dati,4.0,numeri ,2.0,analisi ,3.0,prove ,2.0
 liceo_sci_001,esperimento,4.0,prova,3.0,pratico,4.0,,
 liceo_sci_002,esperimento,4.0,può fallire,4.0,galileo galieli,3.0,natura,3.0
 liceo_sci_003,esperimento,3.0,scientifico,3.0,prova,3.0,procedimento,3.0
@@ -942,23 +1500,41 @@ liceo_lin_004,esperimento,5.0,sociale,5.0,laboratorio,2.0,esplosione ,3.0
 liceo_lin_005,esperimento,4.0,guanti,4.0,laboratorio,4.0,provetta,3.0
 liceo_lin_006,esperimento,4.0,prova,2.0,scientifico,4.0,ricerca,4.0
 liceo_lin_008,esperimento,2.0,imprevedibile,3.0,scoperta,4.0,chimica,3.0
+liceo_lin_009,esperimento,3.0,prove,3.0,novità,4.0,scoperta,4.0
 liceo_lin_010,esperimento,3.0,chimico,2.0,sociale,1.0,fallito,1.0
 liceo_lin_011,esperimento,3.0,scientifico,3.0,sociale,4.0,umano,2.0
 liceo_lin_012,esperimento,4.0,esito,3.0,ipotesi,4.0,teoria,4.0
+liceo_lin_013,esperimento,5.0,laboratorio,5.0,scienze,4.0,studio,4.0
 liceo_lin_015,esperimento,3.0,laboratorio,4.0,scienze,4.0,fisica,1.0
 liceo_lin_016,esperimento,,fisico,,matematico,,scientifico,
 liceo_lin_018,esperimento,,pratica,,risoluzione,,tentativi,
 liceo_sci_014,esperimento,4.0,chimica,3.0,esplode,5.0,giallo,3.0
 liceo_sci_016,esperimento,4.0,scvienze,4.0,camice,3.0,guanti,3.0
 liceo_sci_018,esperimento,4.0,scienze,3.0,fisica,3.0,scoperte,5.0
+liceo_sci_019,esperimento,4.0,dati,4.0,osservazione,4.0,verifica,4.0
 liceo_sci_026,esperimento,4.0,fallimento,1.0,scoperta,2.0,test,2.0
 liceo_sci_029,esperimento,4.0,laboratorio,3.0,scienze,4.0,fisica,3.0
+liceo_sci_032,esperimento,4.0,scoperta,4.0,metodo,3.0,,
 liceo_sci_033,esperimento,5.0,importante,4.0,dimostrazione,5.0,fisica,5.0
 liceo_sci_034,esperimento,4.0,calcoli,3.0,dati,3.0,,
 liceo_sci_037,esperimento,4.0,einstein,3.0,fisica,3.0,risultati,4.0
 liceo_sci_041,esperimento,4.0,matematica,2.0,fisica,2.0,prova,3.0
 liceo_sci_042,esperimento,3.0,biologia,4.0,fisica,3.0,scoperta,4.0
+liceo_sci_043,esperimento,4.0,curiosità,5.0,innovazione,5.0,laboratorio,3.0
 liceo_064,esperimento,4.0,difficile,2.0,bello,4.0,rischioso,3.0
+high_school_south_005,esperimento,4.0,laboratorio,3.0,testare,4.0,,
+high_school_south_008,esperimento,4.0,affascinante ,4.0,newton,5.0,galilei ,5.0
+high_school_south_012,esperimento,4.0,laboratorio,5.0,provette ,4.0,camice ,4.0
+high_school_south_022,esperimento,4.0,scienza,4.0,laboratorio,4.0,camice,4.0
+high_school_south_027,esperimento,3.0,manuale,4.0,buon senso,4.0,misurazioni,2.0
+high_school_south_032,esperimento,4.0,scienziato ,5.0,chimica,3.0,provetta,3.0
+high_school_south_034,esperimento,4.0,esperienza ,4.0,applicazione ,4.0,capacità ,5.0
+high_school_south_035,esperimento,3.0,laboratorio,3.0,ampolle,3.0,fumo,3.0
+high_school_south_041,esperimento,4.0,laboratorio ,4.0,fisica ,2.0,chimica,4.0
+high_school_south_045,esperimento,4.0,nisi est laudantium,1.0,adipisicing earum la,1.0,ab reprehenderit bl,2.0
+high_school_south_046,esperimento,4.0,laboratorio,4.0,chimica,4.0,fisica,2.0
+high_school_south_047,esperimento,4.0,prova,4.0,scienza,4.0,metodo,4.0
+high_school_south_048,esperimento,2.0,scienziato ,2.0,scienze ,2.0,risultato ,4.0
 liceo_sci_001,stress,1.0,interrogazione,1.0,verifiche,1.0,,
 liceo_sci_002,stress,2.0,capelli,2.0,troppe cose da fare ,1.0,,
 liceo_sci_003,stress,2.0,scuola,2.0,troppo lavoro,2.0,deteriorante,1.0
@@ -972,23 +1548,41 @@ liceo_lin_004,stress,1.0,emotivo,5.0,fisico,1.0,psicologico,1.0
 liceo_lin_005,stress,1.0,ansia,1.0,scuola,2.0,sfogo,3.0
 liceo_lin_006,stress,1.0,ansia,2.0,scuola,4.0,mentale,4.0
 liceo_lin_008,stress,2.0,ansia,1.0,isolato,3.0,esaurimento,1.0
+liceo_lin_009,stress,1.0,stanchezza,2.0,mente,3.0,ansia,1.0
 liceo_lin_010,stress,5.0,ansia,3.0,fame,4.0,rosso,5.0
 liceo_lin_011,stress,1.0,sociale,2.0,scolastico,2.0,pubblico,2.0
 liceo_lin_012,stress,1.0,ansia,1.0,paura,1.0,fatica,3.0
+liceo_lin_013,stress,1.0,scuola,2.0,rilassarsi,4.0,gestire,4.0
 liceo_lin_015,stress,1.0,scuola,2.0,voti,1.0,futuro,1.0
 liceo_lin_016,stress,,lacrime,,rigidità,,paura,
 liceo_lin_018,stress,,abitudine,,tollerare,,risolvere,
 liceo_sci_014,stress,1.0,comune,1.0,erica,5.0,rosso siena,1.0
 liceo_sci_016,stress,1.0,vita,5.0,ansia,1.0,rosso,3.0
 liceo_sci_018,stress,1.0,ansia,1.0,liceo ,1.0,futuro,2.0
+liceo_sci_019,stress,2.0,ansia,2.0,paura,2.0,terrore,2.0
 liceo_sci_026,stress,2.0,difficoltà,2.0,correre,5.0,pressione,2.0
 liceo_sci_029,stress,3.0,lavoro,2.0,scuola,3.0,ansia,2.0
+liceo_sci_032,stress,1.0,nervoso,1.0,procastinazione,2.0,,
 liceo_sci_033,stress,1.0,terribile,1.0,ansiogeno,1.0,strano,1.0
 liceo_sci_034,stress,1.0,impegni ,4.0,,,,
 liceo_sci_037,stress,2.0,sempre,2.0,scuola,2.0,giorno,2.0
 liceo_sci_041,stress,1.0,insonnia,1.0,pensare,4.0,tremare,1.0
 liceo_sci_042,stress,1.0,scuola,2.0,verifiche,2.0,inutile,2.0
+liceo_sci_043,stress,1.0,palpitazioni,1.0,debolezza,1.0,esaurimento,1.0
 liceo_064,stress,3.0,sempre,2.0,sotto,2.0,tirare,3.0
+high_school_south_005,stress,1.0,ansia,1.0,turbamento,1.0,quotidiano,1.0
+high_school_south_008,stress,2.0,elevato,2.0,scuola ,3.0,interrogazioni ,2.0
+high_school_south_012,stress,1.0,ansia,1.0,scuola,2.0,inverno,2.0
+high_school_south_022,stress,1.0,pesante,1.0,costante,1.0,problema,3.0
+high_school_south_027,stress,2.0,cronico,1.0,cervello,1.0,scuola,3.0
+high_school_south_032,stress,2.0,scuola,2.0,carriera,2.0,aspettative,1.0
+high_school_south_034,stress,2.0,post-traumatico ,1.0,ingozzarsi,2.0,sonno,3.0
+high_school_south_035,stress,1.0,sport,3.0,scuola,3.0,fisica,3.0
+high_school_south_041,stress,1.0,scuola,2.0,verifica,2.0,insopportabile ,1.0
+high_school_south_045,stress,1.0,vel nisi vero perspi,3.0,itaque esse odio es,1.0,explicabo aliquip e,4.0
+high_school_south_046,stress,2.0,dormire,5.0,ansia,2.0,capelli,4.0
+high_school_south_047,stress,2.0,scuola ,3.0,agitazione,2.0,nocivo,2.0
+high_school_south_048,stress,1.0,ansia ,1.0,paura ,2.0,lavoro ,4.0
 liceo_sci_001,intelligenza_artificiale,4.0,aiuto,4.0,,,,
 liceo_sci_002,intelligenza_artificiale,3.0,cautela,5.0,utile,5.0,non vale per copiare,2.0
 liceo_sci_003,intelligenza_artificiale,3.0,utile,4.0,sostituto,3.0,completa,3.0
@@ -1002,23 +1596,41 @@ liceo_lin_004,intelligenza_artificiale,5.0,chatgpt ,5.0,cina,3.0,compiti,5.0
 liceo_lin_005,intelligenza_artificiale,4.0,chatgpt,4.0,futuro,3.0,tecnologia,4.0
 liceo_lin_006,intelligenza_artificiale,3.0,supporto,4.0,sostituzione,2.0,aiuto,4.0
 liceo_lin_008,intelligenza_artificiale,4.0,incredibile,4.0,veloce,4.0,gratis,4.0
+liceo_lin_009,intelligenza_artificiale,4.0,futuro,4.0,aiuto,4.0,,
 liceo_lin_010,intelligenza_artificiale,2.0,paura,3.0,futuro,3.0,aiuto,3.0
 liceo_lin_011,intelligenza_artificiale,4.0,utilità,3.0,futuro,4.0,ruolo,3.0
 liceo_lin_012,intelligenza_artificiale,3.0,aiuto,3.0,ingegno,4.0,,
+liceo_lin_013,intelligenza_artificiale,3.0,futuro,4.0,paura,1.0,grandezza ,4.0
 liceo_lin_015,intelligenza_artificiale,5.0,scoperta,5.0,quotidianità,3.0,indispensabile,3.0
 liceo_lin_016,intelligenza_artificiale,,computer,,internet,,risorse,
 liceo_lin_018,intelligenza_artificiale,,utile,,consapevolmente,,pericolosa,
 liceo_sci_014,intelligenza_artificiale,2.0,odio,1.0,interesse,2.0,azzurro chiaro,2.0
 liceo_sci_016,intelligenza_artificiale,5.0,chatgpt,5.0,compiti,3.0,spiegazioni,4.0
 liceo_sci_018,intelligenza_artificiale,2.0,innovazione,5.0,progresso,5.0,degrado,1.0
+liceo_sci_019,intelligenza_artificiale,4.0,novità,4.0,aiuto,5.0,sostegno,5.0
 liceo_sci_026,intelligenza_artificiale,4.0,utile,4.0,facile,4.0,velocità,5.0
 liceo_sci_029,intelligenza_artificiale,4.0,chat gpt,4.0,testi,4.0,futuro,4.0
+liceo_sci_032,intelligenza_artificiale,1.0,ansia,1.0,controllo,1.0,,
 liceo_sci_033,intelligenza_artificiale,5.0,bellissima,5.0,utile,5.0,futuro,5.0
 liceo_sci_034,intelligenza_artificiale,4.0,chatgpt,4.0,informatica,4.0,,
 liceo_sci_037,intelligenza_artificiale,4.0,futuro,2.0,libro,4.0,chatgpt,4.0
 liceo_sci_041,intelligenza_artificiale,3.0,chat gpt,3.0,innovazione,4.0,novità,4.0
 liceo_sci_042,intelligenza_artificiale,4.0,chat gpt,3.0,ricerca,4.0,risposte,4.0
+liceo_sci_043,intelligenza_artificiale,4.0,telefono,4.0,chat gpt,4.0,studio,2.0
 liceo_064,intelligenza_artificiale,2.0,chissà,3.0,estranea,3.0,strana,2.0
+high_school_south_005,intelligenza_artificiale,3.0,meta ai,4.0,gemini,2.0,,
+high_school_south_008,intelligenza_artificiale,4.0,robot ,4.0,auto,4.0,copiatore ,2.0
+high_school_south_012,intelligenza_artificiale,2.0,ai,2.0,rivoluzione,4.0,tecnologia,4.0
+high_school_south_022,intelligenza_artificiale,3.0,dati,4.0,chatbot,3.0,strumento,4.0
+high_school_south_027,intelligenza_artificiale,3.0,chat gpt,2.0,n-gram,4.0,qwen,4.0
+high_school_south_032,intelligenza_artificiale,3.0,openai,2.0,llm,4.0,,
+high_school_south_034,intelligenza_artificiale,2.0,strumento,4.0,lavoro,2.0,pericolo,1.0
+high_school_south_035,intelligenza_artificiale,4.0,chatgpt,4.0,gemini,5.0,progresso,4.0
+high_school_south_041,intelligenza_artificiale,4.0,progresso,4.0,novità ,4.0,evoluzione,5.0
+high_school_south_045,intelligenza_artificiale,1.0,sit aliquip nostrum,4.0,consequuntur id eius,4.0,qui sequi accusantiu,3.0
+high_school_south_046,intelligenza_artificiale,4.0,utile,4.0,compiti,2.0,attenzione,3.0
+high_school_south_047,intelligenza_artificiale,3.0,futuro ,3.0,innovazione,4.0,affascinante ,4.0
+high_school_south_048,intelligenza_artificiale,4.0,aiuto ,4.0,comando ,4.0,dipendenza ,1.0
 liceo_sci_001,regole,3.0,seguire,3.0,,,,
 liceo_sci_002,regole,3.0,possono essere infrante,4.0,troppe,3.0,,
 liceo_sci_003,regole,3.0,necessarie,4.0,utili,4.0,restrittive,2.0
@@ -1032,23 +1644,41 @@ liceo_lin_004,regole,5.0,schema,2.0,legge,5.0,ubbidienza,5.0
 liceo_lin_005,regole,5.0,scuola,2.0,preside,3.0,carcere,1.0
 liceo_lin_006,regole,3.0,elenco,3.0,limite,2.0,,
 liceo_lin_008,regole,3.0,comportamento,3.0,rispetto,4.0,conseguenze,3.0
+liceo_lin_009,regole,4.0,giuste,4.0,gioco,4.0,vita,4.0
 liceo_lin_010,regole,4.0,leggi,2.0,chiuso,4.0,persone,3.0
 liceo_lin_011,regole,4.0,stradali,4.0,scolastiche,2.0,civili,4.0
 liceo_lin_012,regole,4.0,ordine,4.0,,,,
+liceo_lin_013,regole,4.0,serietà ,4.0,rispetto,4.0,vita,4.0
 liceo_lin_015,regole,5.0,disciplina,5.0,scuola,2.0,morali,3.0
 liceo_lin_016,regole,,leggi,,rispetto,,regolare,
 liceo_lin_018,regole,,rigide,,insensate,,utili,
 liceo_sci_014,regole,1.0,odio,1.0,da rompere,5.0,rosso intenso,1.0
 liceo_sci_016,regole,3.0,righello,3.0,legno,3.0,lavagna,2.0
 liceo_sci_018,regole,3.0,comportamento,5.0,maturità,5.0,,
+liceo_sci_019,regole,4.0,rigide,3.0,rispetto,4.0,necessità,4.0
 liceo_sci_026,regole,4.0,giuste,4.0,infrazione,3.0,ordine,4.0
 liceo_sci_029,regole,4.0,rispetto,5.0,leggi,3.0,persone,4.0
+liceo_sci_032,regole,2.0,società ,2.0,,,,
 liceo_sci_033,regole,4.0,giuste,3.0,importanti,5.0,obbligo,4.0
 liceo_sci_034,regole,4.0,grest ,5.0,,,,
 liceo_sci_037,regole,3.0,vita,4.0,scuola,3.0,rispettare,2.0
 liceo_sci_041,regole,3.0,rispetto,5.0,comunità,5.0,ambienti,3.0
 liceo_sci_042,regole,4.0,geometriche,3.0,legge,4.0,,
+liceo_sci_043,regole,3.0,rigidità,1.0,razionalità,5.0,sicurezza,4.0
 liceo_064,regole,3.0,comportamento ,4.0,stress,3.0,matematica,4.0
+high_school_south_005,regole,3.0,rispetto,3.0,ascoltare,3.0,,
+high_school_south_008,regole,4.0,noia,2.0,stress,2.0,utili,4.0
+high_school_south_012,regole,5.0,rispetto,5.0,giuste,5.0,tante,5.0
+high_school_south_022,regole,3.0,rispetto,4.0,utili,3.0,necessarie,4.0
+high_school_south_027,regole,4.0,professoressa,5.0,spagna,4.0,carte,3.0
+high_school_south_032,regole,5.0,legge,2.0,giustizia,4.0,comportamento ,4.0
+high_school_south_034,regole,3.0,convivenza,4.0,stato,3.0,persone,4.0
+high_school_south_035,regole,3.0,scuola,5.0,casa,4.0,gioco,4.0
+high_school_south_041,regole,4.0,precisione ,3.0,ordine ,4.0,infrangere,3.0
+high_school_south_045,regole,5.0,placeat ad ullam vo,1.0,eaque eu incidunt i,5.0,dolore eum laborum ,3.0
+high_school_south_046,regole,3.0,gioco,4.0,fisica,2.0,infrangere,2.0
+high_school_south_047,regole,4.0,istruzioni,4.0,rispetto,4.0,necessarie,4.0
+high_school_south_048,regole,4.0,scuola ,2.0,organizzazione ,4.0,severe ,4.0
 liceo_sci_001,scienziato,3.0,lavoro,3.0,,,,
 liceo_sci_002,scienziato,3.0,sperimentatore,4.0,ricercatore,4.0,scienziato pazzo,3.0
 liceo_sci_003,scienziato,3.0,professione,3.0,lavoro,4.0,chimica,3.0
@@ -1062,23 +1692,41 @@ liceo_lin_004,scienziato,3.0,pazzo,5.0,camice,2.0,occhiali,5.0
 liceo_lin_005,scienziato,4.0,scienziata,5.0,camice,4.0,esperimenti,4.0
 liceo_lin_006,scienziato,4.0,studioso,4.0,fisico,4.0,,
 liceo_lin_008,scienziato,3.0,uomo,3.0,camice,3.0,chimica,3.0
+liceo_lin_009,scienziato,3.0,laboratorio,3.0,numeri,3.0,esperimenti,3.0
 liceo_lin_010,scienziato,3.0,intelligente,3.0,,,,
 liceo_lin_011,scienziato,3.0,matematica,3.0,fisica,3.0,chimica,3.0
 liceo_lin_012,scienziato,4.0,ricerca,4.0,scienza,4.0,esperimenti,4.0
+liceo_lin_013,scienziato,4.0,lavoro,3.0,laboratorio,5.0,studio,3.0
 liceo_lin_015,scienziato,4.0,esperimenti,4.0,laboratorio,3.0,progresso,4.0
 liceo_lin_016,scienziato,3.0,camice,4.0,esperimenti,4.0,studioso,4.0
 liceo_lin_018,scienziato,3.0,studio,4.0,ricerca,3.0,applica,3.0
 liceo_sci_014,scienziato,3.0,camice,3.0,provetta,3.0,grigio,3.0
 liceo_sci_016,scienziato,4.0,einstein ,4.0,camice,3.0,laboratorio,3.0
 liceo_sci_018,scienziato,3.0,esperimenti,5.0,scoperte,5.0,,
+liceo_sci_019,scienziato,3.0,intelligenza,3.0,scoperte,3.0,studio,3.0
 liceo_sci_026,scienziato,3.0,camice,3.0,lavoro,2.0,,
 liceo_sci_029,scienziato,3.0,laboratorio,3.0,medicina,4.0,scuola,3.0
+liceo_sci_032,scienziato,4.0,laboratorio,4.0,ricerca,4.0,,
 liceo_sci_033,scienziato,5.0,utile,5.0,importante,5.0,futuro,5.0
 liceo_sci_034,scienziato,4.0,einstein ,5.0,,,,
 liceo_sci_037,scienziato,3.0,pazzo,4.0,camice,3.0,einstein,4.0
 liceo_sci_041,scienziato,3.0,scienza,4.0,esperimenti,4.0,ricerca,4.0
 liceo_sci_042,scienziato,4.0,scoperta,4.0,biologia,4.0,,
+liceo_sci_043,scienziato,4.0,scienza,4.0,camice,3.0,esperimenti,4.0
 liceo_064,scienziato,3.0,uomo,3.0,strano,2.0,pedante,3.0
+high_school_south_005,scienziato,4.0,innovativo,4.0,creativo,5.0,,
+high_school_south_008,scienziato,5.0,genio,4.0,innovatore ,5.0,incompreso,
+high_school_south_012,scienziato,5.0,scoperta,5.0,occhiali ,3.0,studio,4.0
+high_school_south_022,scienziato,4.0,bravo,4.0,intelligente,4.0,pazzo,4.0
+high_school_south_027,scienziato,4.0,rinascimento,4.0,leonardo,3.0,recente,2.0
+high_school_south_032,scienziato,5.0,fisica,5.0,chimica,3.0,ricerca,5.0
+high_school_south_034,scienziato,,studio,,pioniere,,prossimo,
+high_school_south_035,scienziato,3.0,lingua,3.0,novecento,3.0,lavoro,3.0
+high_school_south_041,scienziato,4.0,impiego,3.0,ricerca,4.0,,
+high_school_south_045,scienziato,5.0,aut aliquam esse fu,1.0,ullam libero exercit,4.0,aut et nulla ea culp,5.0
+high_school_south_046,scienziato,4.0,bravo,4.0,scoperta,4.0,laboratorio,4.0
+high_school_south_047,scienziato,4.0,laboratorio,4.0,curiosità ,4.0,scoperte,4.0
+high_school_south_048,scienziato,2.0,laboratorio ,3.0,esperimenti ,4.0,ricerca ,4.0
 liceo_sci_001,scuola,3.0,luogo,3.0,ansia,1.0,pressione,1.0
 liceo_sci_002,scuola,3.0,amici,4.0,compiti,1.0,legami,5.0
 liceo_sci_003,scuola,2.0,disinteresse,2.0,apatia,1.0,noia,1.0
@@ -1092,23 +1740,41 @@ liceo_lin_004,scuola,3.0,insegnanti,3.0,alunni,5.0,compagni,4.0
 liceo_lin_005,scuola,2.0,classi,4.0,liceo,3.0,compiti,4.0
 liceo_lin_006,scuola,4.0,liceo,4.0,verifiche,2.0,ostacoli,2.0
 liceo_lin_008,scuola,3.0,classe,3.0,compagni,1.0,compiti,4.0
+liceo_lin_009,scuola,3.0,studio,3.0,compiti,2.0,conoscenze,5.0
 liceo_lin_010,scuola,3.0,impegnativa,3.0,stress,2.0,lavoro,3.0
 liceo_lin_011,scuola,2.0,materna,4.0,primaria,4.0,elementare,4.0
 liceo_lin_012,scuola,3.0,voti,3.0,studio,3.0,compagni,3.0
+liceo_lin_013,scuola,2.0,ansia,1.0,imparare,4.0,conoscenza,4.0
 liceo_lin_015,scuola,3.0,studio,4.0,ansia,1.0,amici,5.0
 liceo_lin_016,scuola,2.0,stress,1.0,ansia,1.0,scoperta,3.0
 liceo_lin_018,scuola,2.0,voti,1.0,studio,3.0,,
 liceo_sci_014,scuola,1.0,odio,1.0,amore,1.0,ocra,1.0
 liceo_sci_016,scuola,1.0,ansia,1.0,istruzione,3.0,matematica,2.0
 liceo_sci_018,scuola,1.0,ansia,1.0,test,1.0,voti,1.0
+liceo_sci_019,scuola,2.0,stress,2.0,pressione,2.0,paura,2.0
 liceo_sci_026,scuola,3.0,tempo,4.0,studio,3.0,timore,2.0
 liceo_sci_029,scuola,3.0,voti,2.0,lezioni,4.0,insegnanti,3.0
+liceo_sci_032,scuola,4.0,aule,4.0,casa,4.0,noia,2.0
 liceo_sci_033,scuola,3.0,stress,1.0,rabbia,1.0,mafia,1.0
 liceo_sci_034,scuola,1.0,banchi,2.0,lavagna ,2.0,gesso,2.0
 liceo_sci_037,scuola,3.0,brutto,4.0,maturità,1.0,esami,1.0
 liceo_sci_041,scuola,3.0,studio,2.0,amici,5.0,crescita,5.0
 liceo_sci_042,scuola,2.0,struttura,3.0,verifiche,2.0,dovere,3.0
+liceo_sci_043,scuola,1.0,ansia,1.0,stress,1.0,frustrazione,1.0
 liceo_064,scuola,4.0,mia,5.0,sempre,4.0,serale,3.0
+high_school_south_005,scuola,3.0,compiti,3.0,impegno,4.0,imparare,4.0
+high_school_south_008,scuola,2.0,ansia,2.0,imparare,4.0,studio,
+high_school_south_012,scuola,4.0,liceo,3.0,pesante,1.0,interessante,4.0
+high_school_south_022,scuola,3.0,compagni,3.0,classe,3.0,lavagna,4.0
+high_school_south_027,scuola,4.0,secondo_grado,2.0,liceo,3.0,classe,3.0
+high_school_south_032,scuola,2.0,voti,2.0,,,,
+high_school_south_034,scuola,,basi,,gratuita,,obbligo,
+high_school_south_035,scuola,5.0,infanzia,4.0,futuro,4.0,amore,4.0
+high_school_south_041,scuola,2.0,studio,4.0,materie,3.0,ansia,1.0
+high_school_south_045,scuola,2.0,quibusdam ad eveniet,4.0,saepe eos eos assume,2.0,labore dolorum est q,1.0
+high_school_south_046,scuola,3.0,stress,2.0,verifiche,2.0,pullman,1.0
+high_school_south_047,scuola,3.0,classi,3.0,compagni,4.0,materie,4.0
+high_school_south_048,scuola,1.0,inutile ,3.0,giovani ,4.0,professore ,2.0
 liceo_sci_001,creatività,4.0,bella,4.0,divertente,4.0,,
 liceo_sci_002,creatività,5.0,diegnare,5.0,più modi,5.0,,
 liceo_sci_003,creatività,5.0,colori,4.0,arte,5.0,sport,5.0
@@ -1122,23 +1788,41 @@ liceo_lin_004,creatività,5.0,plastilina,5.0,colori,5.0,musica ,5.0
 liceo_lin_005,creatività,5.0,arte,4.0,,,,
 liceo_lin_006,creatività,5.0,dipinto,5.0,immaginazione,5.0,qualità,5.0
 liceo_lin_008,creatività,3.0,idee,4.0,motivazione,5.0,arte,2.0
+liceo_lin_009,creatività,5.0,fantasia,5.0,idee,5.0,novità,5.0
 liceo_lin_010,creatività,4.0,colori,4.0,linee,3.0,personalità,5.0
 liceo_lin_011,creatività,5.0,disegno,5.0,immaginazione,5.0,arte,5.0
 liceo_lin_012,creatività,4.0,arte,4.0,idee,4.0,disegno,4.0
+liceo_lin_013,creatività,5.0,arte,4.0,immaginazione,5.0,sfogo,5.0
 liceo_lin_015,creatività,5.0,arte,5.0,musica,5.0,moda,5.0
 liceo_lin_016,creatività,4.0,viaggiare,4.0,mente ,3.0,trovare soluzioni,3.0
 liceo_lin_018,creatività,4.0,innata,5.0,arte,4.0,,
 liceo_sci_014,creatività,5.0,immaginazione,5.0,emozione,5.0,tutti i colori,5.0
 liceo_sci_016,creatività,5.0,felicità,4.0,colori,3.0,entusiasmo,3.0
 liceo_sci_018,creatività,2.0,modellini,5.0,costruzioni ,4.0,schizzi,1.0
+liceo_sci_019,creatività,4.0,inventiva,4.0,novità,4.0,,
 liceo_sci_026,creatività,4.0,complicata,3.0,,,,
 liceo_sci_029,creatività,5.0,mente,5.0,progetti,5.0,,
+liceo_sci_032,creatività,5.0,arte,5.0,espressione,5.0,sentimenti,5.0
 liceo_sci_033,creatività,5.0,utile,5.0,,,,
 liceo_sci_034,creatività,5.0,musica,5.0,disegnare ,5.0,cucire ,5.0
 liceo_sci_037,creatività,2.0,immaginazione,4.0,arte,2.0,scoperta,3.0
 liceo_sci_041,creatività,5.0,arte,5.0,musica,5.0,fantasia,5.0
 liceo_sci_042,creatività,4.0,arte,3.0,lego,3.0,mente,3.0
+liceo_sci_043,creatività,5.0,fantasia,5.0,colori,5.0,spensieratezza,5.0
 liceo_064,creatività,4.0,mia,4.0,moda,3.0,idea,
+high_school_south_005,creatività,5.0,inventare,5.0,progettare,4.0,,
+high_school_south_008,creatività,4.0,immaginazione ,5.0,risolvere,4.0,giochi di carte,
+high_school_south_012,creatività,4.0,arte,4.0,pittura,4.0,foglie,4.0
+high_school_south_022,creatività,4.0,arte,4.0,musica,5.0,mente,4.0
+high_school_south_027,creatività,5.0,arte,4.0,carta,4.0,fantasia,3.0
+high_school_south_032,creatività,5.0,arte,3.0,scienza,5.0,problem solving,4.0
+high_school_south_034,creatività,,teatro,,passione,,dote,
+high_school_south_035,creatività,4.0,sport,4.0,lettura,3.0,immaginazione,4.0
+high_school_south_041,creatività,4.0,arte,4.0,musica,5.0,ingegno,4.0
+high_school_south_045,creatività,3.0,dignissimos iste nis,3.0,dolores dolorem quae,5.0,ipsa nostrum magni ,2.0
+high_school_south_046,creatività,3.0,colori,4.0,dipingere,2.0,poca,2.0
+high_school_south_047,creatività,4.0,arte,4.0,immaginazione ,4.0,idea,4.0
+high_school_south_048,creatività,5.0,immaginazione ,5.0,pensiero ,4.0,oggetto ,3.0
 liceo_sci_001,arte,3.0,unica ,4.0,,,,
 liceo_sci_002,arte,3.0,michelangelo,3.0,david,3.0,guernica,3.0
 liceo_sci_003,arte,5.0,espressione,5.0,creatività,5.0,anticonformista,3.0
@@ -1152,23 +1836,41 @@ liceo_lin_004,arte,5.0,quadro,5.0,musica,5.0,colori,5.0
 liceo_lin_005,arte,4.0,pittura,4.0,depero,4.0,tecnica,4.0
 liceo_lin_006,arte,5.0,dipinti,5.0,danza,5.0,teatro,5.0
 liceo_lin_008,arte,2.0,colori,3.0,storia,3.0,artisti,3.0
+liceo_lin_009,arte,5.0,quadri,5.0,sculture,5.0,musica,5.0
 liceo_lin_010,arte,5.0,dipinti,3.0,esprimere,4.0,completa,4.0
 liceo_lin_011,arte,5.0,moderna,4.0,antica,4.0,rinascimentale,4.0
 liceo_lin_012,arte,4.0,colori,4.0,forme,4.0,pittura,4.0
+liceo_lin_013,arte,5.0,cultura,4.0,società,3.0,popolo,3.0
 liceo_lin_015,arte,5.0,creatività,5.0,esprimersi,5.0,strumento,3.0
 liceo_lin_016,arte,4.0,contemporanea ,4.0,musicale,4.0,barocca,3.0
 liceo_lin_018,arte,4.0,quadro,4.0,danza,5.0,musica,5.0
 liceo_sci_014,arte,5.0,espressione,5.0,emozionante,5.0,tutti i colori,5.0
 liceo_sci_016,arte,4.0,scultura,4.0,daphne,4.0,marmo,4.0
 liceo_sci_018,arte,1.0,,,,,,
+liceo_sci_019,arte,4.0,creatività,4.0,innovazione,4.0,spensieratezza,4.0
 liceo_sci_026,arte,5.0,statua,4.0,quadro,4.0,significato,4.0
 liceo_sci_029,arte,3.0,,,,,,
+liceo_sci_032,arte,5.0,bellezza,5.0,liberazione,5.0,pace,5.0
 liceo_sci_033,arte,4.0,interessante,5.0,noiosa,1.0,particolare,3.0
 liceo_sci_034,arte,4.0,colori ,5.0,artisti,4.0,quadri,5.0
 liceo_sci_037,arte,3.0,lezione,3.0,esposizione,2.0,van gogh,2.0
 liceo_sci_041,arte,5.0,creatività,5.0,fantasia,5.0,libertà,5.0
 liceo_sci_042,arte,3.0,bellezza,4.0,creatività,4.0,scoperta,4.0
+liceo_sci_043,arte,5.0,creatività,5.0,museo,4.0,colori,5.0
 liceo_064,arte,3.0,bella,4.0,disegno,4.0,musica,3.0
+high_school_south_005,arte,5.0,disegno,5.0,creatività,5.0,musica,5.0
+high_school_south_008,arte,1.0,noia,1.0,inutile,1.0,superflua,
+high_school_south_012,arte,4.0,materia,4.0,parigi ,5.0,colori,5.0
+high_school_south_022,arte,4.0,bella,4.0,creatività,4.0,spettacolare ,4.0
+high_school_south_027,arte,4.0,spagna,4.0,caravaggio,3.0,firenze,3.0
+high_school_south_032,arte,3.0,creatività ,5.0,matematica ,5.0,,
+high_school_south_034,arte,,intrigante,,riflessiva,,liberatoria,
+high_school_south_035,arte,4.0,professoressa ,4.0,rinascimento ,4.0,firenze,4.0
+high_school_south_041,arte,4.0,storia,5.0,musica,5.0,disegno,4.0
+high_school_south_045,arte,5.0,omnis odio qui quae ,4.0,sunt eos voluptatem,5.0,magnam sint nulla li,3.0
+high_school_south_046,arte,5.0,colori,4.0,architettura,5.0,musica,5.0
+high_school_south_047,arte,4.0,pittura,4.0,museo,4.0,colori,4.0
+high_school_south_048,arte,4.0,storia ,4.0,quadri ,2.0,sculture ,3.0
 liceo_sci_001,esame,3.0,ansia,1.0,pressione,1.0,studio,1.0
 liceo_sci_002,esame,3.0,voto,2.0,studio,4.0,soddisfazione,3.0
 liceo_sci_003,esame,1.0,competenze,3.0,orale,2.0,studio,3.0
@@ -1182,23 +1884,41 @@ liceo_lin_004,esame,1.0,passato,1.0,promossa,4.0,preparazione,5.0
 liceo_lin_005,esame,2.0,maturità,2.0,certificazione,4.0,orale,3.0
 liceo_lin_006,esame,2.0,ansia,2.0,conoscenze,4.0,scritto,4.0
 liceo_lin_008,esame,2.0,ansia,1.0,aspettative,2.0,risultati,4.0
+liceo_lin_009,esame,3.0,voto,3.0,studio,3.0,ansia,2.0
 liceo_lin_010,esame,4.0,stato,3.0,studio,4.0,stress,3.0
 liceo_lin_011,esame,3.0,statale,3.0,difficile,1.0,impegnativo,2.0
 liceo_lin_012,esame,2.0,studio,3.0,stress,1.0,preparazione,3.0
+liceo_lin_013,esame,2.0,prepararsi,4.0,agitazione,2.0,studio,4.0
 liceo_lin_015,esame,1.0,maturità,,ansia,1.0,valutazione,1.0
 liceo_lin_016,esame,2.0,ansia,2.0,paura ,2.0,felicità,5.0
 liceo_lin_018,esame,2.0,,,,,,
 liceo_sci_014,esame,1.0,maturità,1.0,odio,1.0,ocra chiaro,1.0
 liceo_sci_016,esame,1.0,ansia,1.0,stress,1.0,paura,1.0
 liceo_sci_018,esame,1.0,paura,1.0,stress,1.0,agitazione,1.0
+liceo_sci_019,esame,2.0,preoccupazione,2.0,studio,2.0,stress,2.0
 liceo_sci_026,esame,2.0,tempo,3.0,ansia,1.0,paura,2.0
 liceo_sci_029,esame,3.0,test,2.0,lunghi,3.0,,
+liceo_sci_032,esame,2.0,ansia,2.0,studio,4.0,,
 liceo_sci_033,esame,2.0,ansia,1.0,,,,
 liceo_sci_034,esame,2.0,voto,2.0,sessione ,2.0,studio,3.0
 liceo_sci_037,esame,1.0,maturità,1.0,scritto,2.0,impegno,2.0
 liceo_sci_041,esame,2.0,ansia,1.0,studio,3.0,obiettivo,5.0
 liceo_sci_042,esame,3.0,risultato,3.0,impegno,4.0,,
+liceo_sci_043,esame,1.0,ansia,1.0,agitazione,1.0,studio,2.0
 liceo_064,esame,2.0,guida,3.0,aula,3.0,mattina,4.0
+high_school_south_005,esame,2.0,ansia,1.0,studiare,3.0,tempo,2.0
+high_school_south_008,esame,4.0,ansia ,3.0,memoria ,4.0,prestazione,
+high_school_south_012,esame,2.0,scuola,4.0,terrore ,1.0,voto,1.0
+high_school_south_022,esame,3.0,universitario,4.0,patente,4.0,voto,4.0
+high_school_south_027,esame,2.0,difficile,2.0,facile,4.0,maturità,3.0
+high_school_south_032,esame,2.0,sufficienza ,1.0,voto,2.0,,
+high_school_south_034,esame,4.0,verificare,2.0,sfida,4.0,concludere,4.0
+high_school_south_035,esame,3.0,studio,3.0,sessione,3.0,fisica,4.0
+high_school_south_041,esame,2.0,di stato,1.0,voto,2.0,università ,3.0
+high_school_south_045,esame,3.0,debitis in autem rer,5.0,velit dolores sequi,4.0,sit vitae eos praes,5.0
+high_school_south_046,esame,2.0,ansia,2.0,preparazione,4.0,superamento,4.0
+high_school_south_047,esame,3.0,ansia,2.0,valutazione ,3.0,prova,3.0
+high_school_south_048,esame,2.0,studio ,2.0,passo ,4.0,ansia ,1.0
 liceo_sci_001,futuro,3.0,importante,4.0,lontano,4.0,,
 liceo_sci_002,futuro,3.0,anteriore,3.0,prossimo,3.0,incerto,3.0
 liceo_sci_003,futuro,3.0,incerto,2.0,felice,4.0,viaggio,5.0
@@ -1212,23 +1932,41 @@ liceo_lin_004,futuro,4.0,lavoro,4.0,famiglia,4.0,musica,5.0
 liceo_lin_005,futuro,4.0,incertezza,2.0,desideri,4.0,estero,5.0
 liceo_lin_006,futuro,2.0,incerto,2.0,paura,2.0,speranza,4.0
 liceo_lin_008,futuro,4.0,ampio,2.0,scelte,2.0,felicità,5.0
+liceo_lin_009,futuro,3.0,incertezza,2.0,paura,2.0,emozione,4.0
 liceo_lin_010,futuro,2.0,incerto,2.0,cantiere,2.0,blu,4.0
 liceo_lin_011,futuro,4.0,incerto,1.0,ignoto,1.0,progetti,5.0
 liceo_lin_012,futuro,3.0,ignoto,3.0,,,,
+liceo_lin_013,futuro,4.0,lavoro,2.0,scuola,2.0,imparare,4.0
 liceo_lin_015,futuro,5.0,viaggiare,5.0,movimentato,5.0,estero,5.0
 liceo_lin_016,futuro,3.0,paura,2.0,felicità ,4.0,ansia,3.0
 liceo_lin_018,futuro,3.0,incerto,3.0,vicino,4.0,lontano,2.0
 liceo_sci_014,futuro,2.0,incerto,1.0,sconosciuto,2.0,nero,1.0
 liceo_sci_016,futuro,5.0,paura,1.0,azzurro,3.0,sole,4.0
 liceo_sci_018,futuro,5.0,università,4.0,lavoro,5.0,famiglia,5.0
+liceo_sci_019,futuro,4.0,ansia,2.0,curiosità,4.0,felicità,4.0
 liceo_sci_026,futuro,3.0,insicurezza,2.0,timore,2.0,speranza,4.0
 liceo_sci_029,futuro,5.0,informatica,4.0,università,3.0,famiglia,5.0
+liceo_sci_032,futuro,3.0,scienza,3.0,verde,4.0,,
 liceo_sci_033,futuro,5.0,spaventoso,4.0,,,,
 liceo_sci_034,futuro,5.0,progresso,4.0,,,,
 liceo_sci_037,futuro,3.0,ai,5.0,lavoro,3.0,università,2.0
 liceo_sci_041,futuro,3.0,paura,2.0,curiosità,5.0,tristezza,2.0
 liceo_sci_042,futuro,4.0,bello,4.0,divertente,4.0,decisioni libere,5.0
+liceo_sci_043,futuro,4.0,imprevedibilità,3.0,ansia,1.0,voglia di mettersi in gioco,5.0
 liceo_064,futuro,3.0,radioso,3.0,tempo,3.0,mio,3.0
+high_school_south_005,futuro,3.0,incerto,2.0,costruire,4.0,,
+high_school_south_008,futuro,5.0,università ,4.0,creare ,5.0,aiutare ,
+high_school_south_012,futuro,3.0,incerto ,2.0,medicina,5.0,vita,5.0
+high_school_south_022,futuro,3.0,paura,2.0,nero,2.0,apocalisse,1.0
+high_school_south_027,futuro,3.0,nazionale,3.0,stupido,3.0,politica,3.0
+high_school_south_032,futuro,2.0,ai,3.0,innovazione,5.0,,
+high_school_south_034,futuro,3.0,incertezza,2.0,guerra,1.0,spazio,4.0
+high_school_south_035,futuro,4.0,fisica,4.0,scuola,5.0,progetti ,3.0
+high_school_south_041,futuro,4.0,progresso,4.0,innovazione ,4.0,scoperta,4.0
+high_school_south_045,futuro,3.0,facilis quis nesciun,1.0,labore nulla illo ex,3.0,aliquid est ipsa po,4.0
+high_school_south_046,futuro,3.0,paura,2.0,lavoro,3.0,università,4.0
+high_school_south_047,futuro,3.0,incertezza ,2.0,imprevedibilità ,3.0,lontananza,2.0
+high_school_south_048,futuro,4.0,domani ,3.0,piani ,5.0,obiettivi ,5.0
 liceo_sci_001,vita,3.0,una ,4.0,da vivere,4.0,felice,5.0
 liceo_sci_002,vita,5.0,libertà,5.0,scelta,5.0,futuro,5.0
 liceo_sci_003,vita,4.0,montagne russe,3.0,impegni,2.0,responsabilità,3.0
@@ -1242,20 +1980,38 @@ liceo_lin_004,vita,4.0,morte,1.0,pulcino,4.0,gravidanza,1.0
 liceo_lin_005,vita,4.0,amici,5.0,famiglia,5.0,ciclo della vita,3.0
 liceo_lin_006,vita,4.0,nascita,4.0,percorso,4.0,ostacoli,2.0
 liceo_lin_008,vita,5.0,felicità,5.0,sacrificio,2.0,soddisfazioni,5.0
+liceo_lin_009,vita,4.0,amici,5.0,amore,5.0,impegno,5.0
 liceo_lin_010,vita,3.0,bella,2.0,lunga,3.0,leggera,3.0
 liceo_lin_011,vita,4.0,una,4.0,morte,1.0,felicità,5.0
 liceo_lin_012,vita,3.0,biologia,4.0,umani,3.0,,
+liceo_lin_013,vita,5.0,bellezza,5.0,incertezza,1.0,affrontare,4.0
 liceo_lin_015,vita,5.0,esperienze,5.0,emozioni,5.0,cambiamento,4.0
 liceo_lin_016,vita,3.0,vivere,4.0,bella ,4.0,importante,5.0
 liceo_lin_018,vita,5.0,lunga,5.0,corta,1.0,modellabile,5.0
 liceo_sci_014,vita,1.0,domande,3.0,libertà,5.0,verde,3.0
 liceo_sci_016,vita,5.0,rosa,3.0,natura,5.0,sole,4.0
 liceo_sci_018,vita,4.0,spensierata,5.0,felice,4.0,,
+liceo_sci_019,vita,4.0,felicità,4.0,tristezza,3.0,sorpresa,3.0
 liceo_sci_026,vita,4.0,felicità,5.0,casuale,3.0,fine,2.0
 liceo_sci_029,vita,5.0,famiglia,4.0,amici,5.0,lavoro,3.0
+liceo_sci_032,vita,3.0,libertà ,5.0,arte,5.0,avventura,5.0
 liceo_sci_033,vita,5.0,bella,5.0,,,,
 liceo_sci_034,vita,5.0,divertimento ,5.0,,,,
 liceo_sci_037,vita,2.0,quotidiana,3.0,breve,1.0,finita,1.0
 liceo_sci_041,vita,4.0,solare,5.0,difficile,2.0,veloce,3.0
 liceo_sci_042,vita,4.0,bello,4.0,essere felici,5.0,impegnarsi,4.0
+liceo_sci_043,vita,5.0,difficoltà,2.0,emozioni,5.0,unicità,5.0
 liceo_064,vita,4.0,vissuta,4.0,mia,4.0,nostra,4.0
+high_school_south_005,vita,4.0,passioni,5.0,studio,3.0,uscire,4.0
+high_school_south_008,vita,3.0,difficile ,4.0,bella,4.0,ardua,
+high_school_south_012,vita,5.0,piante,5.0,animali,5.0,persone,5.0
+high_school_south_022,vita,4.0,passione,2.0,morte,2.0,pulcino,5.0
+high_school_south_027,vita,4.0,lunga,5.0,malattie,1.0,vissuta,4.0
+high_school_south_032,vita,4.0,albero,4.0,biologia,3.0,,
+high_school_south_034,vita,4.0,impegnata,4.0,universitaria,3.0,biodiversità ,5.0
+high_school_south_035,vita,5.0,fiori,5.0,cane,4.0,casa,4.0
+high_school_south_041,vita,4.0,morte ,2.0,ciclo,3.0,una,3.0
+high_school_south_045,vita,5.0,saepe ipsum magnam i,2.0,libero velit qui qua,4.0,nesciunt eaque odit,1.0
+high_school_south_046,vita,4.0,ostacoli,2.0,bella,4.0,preservare,3.0
+high_school_south_047,vita,5.0,salute,5.0,natura,5.0,socialità ,5.0
+high_school_south_048,vita,5.0,unica ,4.0,continua ,3.0,tu,3.0
