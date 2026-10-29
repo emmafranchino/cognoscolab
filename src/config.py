@@ -42,6 +42,29 @@ KEYWORDS_RASSERENO_ENG = [
     "wellbeing",
 ]
 
+# the cue words shared by every cue set of the samples analysed (Set 4, 5a and 5b): networks are built on these only, so that every sample answered the same stimuli
+COMMON_CUES_RASSERENO = [
+    "ansia",
+    "benessere",
+    "conoscenza",
+    "creatività",
+    "equazione",
+    "esame",
+    "fisica",
+    "futuro",
+    "matematica",
+    "numeri",
+    "scienza",
+    "scoperta",
+    "scuola",
+    "sfida",
+    "statistica",
+    "stress",
+    "voto",
+]
+
+CUES_EXAM_ANX = ["voto", "esame", "ansia", "benessere"]
+
 WORD_TO_CATEGORY = {
     "algoritmo": "STEM Disciplines",
     "analisi": "STEM Disciplines",
