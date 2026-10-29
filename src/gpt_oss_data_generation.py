@@ -21,6 +21,10 @@ Workflow (the second step can run on a different machine, with only the manifest
 
     # 3. (re)build the CSVs from the raw responses; `generate` already does this at the end
     python src/gpt_oss_data_generation.py collect --out rassereno/data/gpt_oss_2026
+
+The data folder (--out) holds what the run produces: personas.csv, raw/ (one JSON per persona) and
+generation_report.csv. The answers, in the formatted-CSV schema used for the humans
+(associations_valence_gpt_oss.csv, mas_it_gpt_oss.csv), go to out/formatting/<same folder name>.
 """
 
 import argparse
@@ -535,12 +539,14 @@ def collect(out_dir):
             }
         )
 
-    write_csv(out_dir / "associations_valence_gpt_oss.csv", assoc_rows)
-    write_csv(out_dir / "mas_it_gpt_oss.csv", mas_rows)
+    formatted_dir = FORMATTING / out_dir.name
+    formatted_dir.mkdir(parents=True, exist_ok=True)
+    write_csv(formatted_dir / "associations_valence_gpt_oss.csv", assoc_rows)
+    write_csv(formatted_dir / "mas_it_gpt_oss.csv", mas_rows)
     write_csv(out_dir / "generation_report.csv", report)
 
     n_valid = sum(r["valid"] for r in report)
-    print(f"\n{n_valid}/{len(report)} valid personas written to {out_dir}")
+    print(f"\n{n_valid}/{len(report)} valid personas written to {formatted_dir}")
     for r in report:
         if not r["valid"]:
             print(f"  invalid: {r['persona_id']}: {r['last_errors'][:120]}")
