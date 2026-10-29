@@ -9,5 +9,5 @@ rassereno/out/analysis/comparison_plots
 rassereno/out/analysis/emo_flowers_bfmn
 rassereno/out/analysis/emo_flowers_tfmn
 rassereno/out/analysis/tfmn
-**/.pkl
+*.pkl
 rassereno/data/gpt_oss_2026/raw

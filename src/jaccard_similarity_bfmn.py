@@ -15,16 +15,13 @@ def get_sets_of_associations(fmnt):
     associations_math = set()
     associations_exam = set()
 
-    # for idx in range(len(fmnt)):
+    # edges are undirected: the keyword can be either end of the tuple
+    targets = {'ansia': associations_anxiety, 'matematica': associations_math, 'esame': associations_exam}
     for edges_list in fmnt:
         for edge in edges_list:
-            cue_word, association = edge
-            if cue_word == 'ansia':
-                associations_anxiety.add(association)
-            elif cue_word == 'matematica':
-                associations_math.add(association)
-            elif cue_word == 'esame':
-                associations_exam.add(association)
+            for word, other in (edge, edge[::-1]):
+                if word in targets:
+                    targets[word].add(other)
                 
     return associations_anxiety, associations_math, associations_exam
 

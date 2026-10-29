@@ -18,6 +18,8 @@ fisica_032,scienza,5.0,chimica,5.0,animali ,5.0,piante ,5.0
 fisica_035,scienza,4.0,materia,4.0,umana,5.0,,
 fisica_037,scienza,4.0,matematica,3.0,ricerca,4.0,biologia,4.0
 fisica_040,scienza,5.0,sapere,5.0,valore,5.0,curiosità,5.0
+fisica_unitn_003,scienza,3.0,verde,4.0,foglia,4.0,provette,3.0
+fisica_unitn_008,scienza,4.0,sviluppo,5.0,evoluzione ,5.0,dogmi,1.0
 fisica_lecce_004,scienza,5.0,fisica,5.0,immensità,5.0,piacere,2.0
 fisica_lecce_005,scienza,4.0,studio,3.0,natura,4.0,fenomeni,3.0
 fisica_lecce_008,scienza,5.0,ipotesi,5.0,conoscienza,5.0,bello,5.0
@@ -48,6 +50,8 @@ fisica_032,statistica,4.0,numeri,5.0,dati ,5.0,analisi,5.0
 fisica_035,statistica,4.0,psicometrica,4.0,analisi,4.0,campione,4.0
 fisica_037,statistica,3.0,istat,3.0,lavoro,5.0,risparmio,5.0
 fisica_040,statistica,4.0,scienza,5.0,studio,4.0,dati,4.0
+fisica_unitn_003,statistica,3.0,matematica,3.0,numeri,3.0,serie,3.0
+fisica_unitn_008,statistica,4.0,legge,4.0,studio,5.0,,
 fisica_lecce_004,statistica,3.0,computer,4.0,economia,3.0,grafici,4.0
 fisica_lecce_005,statistica,3.0,numeri,4.0,percentuali,3.0,diagrammi,3.0
 fisica_lecce_008,statistica,4.0,matematica,5.0,numeri ,5.0,dati,5.0
@@ -78,6 +82,8 @@ fisica_032,ipotesi,5.0,ragionamento,5.0,esperire,5.0,domande,5.0
 fisica_035,ipotesi,4.0,di successo,5.0,,,,
 fisica_037,ipotesi,3.0,domande,3.0,risposte,3.0,soluzioni,3.0
 fisica_040,ipotesi,5.0,dubbio,4.0,opportunità,5.0,saggezza,5.0
+fisica_unitn_003,ipotesi,3.0,dimostrazione,3.0,prova,3.0,test,3.0
+fisica_unitn_008,ipotesi,4.0,intuizione,5.0,pensieri,4.0,costruzione ,5.0
 fisica_lecce_004,ipotesi,,riemann,,positiva,,di senso,
 fisica_lecce_005,ipotesi,3.0,tesi,4.0,metodo scientifico,3.0,,
 fisica_lecce_008,ipotesi,5.0,dato,5.0,idea,5.0,teoria ,5.0
@@ -108,6 +114,8 @@ fisica_032,ansia,2.0,paura,2.0,errore,5.0,sbaglio,4.0
 fisica_035,ansia,2.0,da prestazione,2.0,calcolata,4.0,inaspettata,4.0
 fisica_037,ansia,1.0,io,3.0,figli,4.0,genitori,4.0
 fisica_040,ansia,1.0,problema,3.0,debolezza,2.0,limite,2.0
+fisica_unitn_003,ansia,2.0,esame,3.0,stress,2.0,fiato,3.0
+fisica_unitn_008,ansia,2.0,irrazionalità,1.0,paura,3.0,debolezza,1.0
 fisica_lecce_004,ansia,,insicurezza,3.0,paura,3.0,difficoltà,4.0
 fisica_lecce_005,ansia,1.0,stress,1.0,interrogazione,3.0,verifiche,3.0
 fisica_lecce_008,ansia,2.0,prestazione,3.0,lavoro,4.0,futuro,5.0
@@ -138,6 +146,8 @@ fisica_032,benessere,5.0,necessario,5.0,felicità,5.0,tranquillità,5.0
 fisica_035,benessere,4.0,fisico,4.0,psichico ,4.0,economico,4.0
 fisica_037,benessere,4.0,spa,4.0,riposo,4.0,calma,5.0
 fisica_040,benessere,5.0,valore,5.0,diritto,5.0,felicità,5.0
+fisica_unitn_003,benessere,4.0,relax,5.0,lento,3.0,calmo,3.0
+fisica_unitn_008,benessere,4.0,leggerezza,3.0,mentale,5.0,positività ,5.0
 fisica_lecce_004,benessere,,spa,5.0,massaggi,,tranquillità,
 fisica_lecce_005,benessere,5.0,serenità,5.0,,,,
 fisica_lecce_008,benessere,5.0,vita,4.0,sport,5.0,amici,5.0
@@ -168,6 +178,8 @@ fisica_032,equazione,4.0,matematica,5.0,fisica,4.0,chimica,4.0
 fisica_035,equazione,3.0,retta,3.0,pratica,4.0,incognita,2.0
 fisica_037,equazione,3.0,comprensione,4.0,studio ,4.0,soluzioni,4.0
 fisica_040,equazione,4.0,calcolo,4.0,ragionamento,5.0,processo,5.0
+fisica_unitn_003,equazione,3.0,shockely,3.0,numeri,3.0,formula,3.0
+fisica_unitn_008,equazione,5.0,calcolo,5.0,risultato,4.0,associazione ,5.0
 fisica_lecce_004,equazione,5.0,matematica,5.0,numeri,5.0,linguaggio,5.0
 fisica_lecce_005,equazione,3.0,calcolo,4.0,errore,2.0,risultato,3.0
 fisica_lecce_008,equazione,5.0,divertente,5.0,metodo,3.0,cervello,5.0
@@ -198,6 +210,8 @@ fisica_032,fisica,4.0,vita,5.0,forza,5.0,,
 fisica_035,fisica,2.0,disciplina,2.0,attuale,3.0,comportamento,4.0
 fisica_037,fisica,3.0,interesse,4.0,difficoltà,2.0,comprenione,4.0
 fisica_040,fisica,4.0,scienza,5.0,curiosità,5.0,conoscenza,5.0
+fisica_unitn_003,fisica,4.0,verde,4.0,onde,4.0,materia,3.0
+fisica_unitn_008,fisica,5.0,natura,5.0,leggi,3.0,coscienza,5.0
 fisica_lecce_004,fisica,5.0,universo,5.0,realtà,5.0,dio,5.0
 fisica_lecce_005,fisica,4.0,numeri,4.0,meccanismi,4.0,fluidi,4.0
 fisica_lecce_008,fisica,4.0,numeri,4.0,formule ,3.0,memoria,5.0
@@ -228,6 +242,8 @@ fisica_032,innovazione,5.0,opportunità,5.0,fluidità,4.0,futuro,5.0
 fisica_035,innovazione,5.0,digitale,4.0,pensiero,4.0,creatività,5.0
 fisica_037,innovazione,4.0,utile,4.0,lavoro,4.0,vita,3.0
 fisica_040,innovazione,4.0,impegno,5.0,sfida,4.0,coscienza,5.0
+fisica_unitn_003,innovazione,3.0,tecnologia,3.0,scoperta,3.0,invenzione,4.0
+fisica_unitn_008,innovazione,3.0,tecnologia ,3.0,miglioria,5.0,cambiamento,4.0
 fisica_lecce_004,innovazione,5.0,tecnologia,4.0,ia,4.0,telefoni,3.0
 fisica_lecce_005,innovazione,4.0,cambiamento,3.0,novità,3.0,,
 fisica_lecce_008,innovazione,5.0,immaginazione ,5.0,studio ,3.0,applicazione,3.0
@@ -258,6 +274,8 @@ fisica_032,panico,1.0,paura,1.0,fuga,1.0,ansia,1.0
 fisica_035,panico,2.0,improvviso,2.0,,,,
 fisica_037,panico,1.0,aiuto,4.0,solitudine,1.0,malattia,1.0
 fisica_040,panico,2.0,paura,2.0,malessere,1.0,limnite,3.0
+fisica_unitn_003,panico,2.0,ansia,2.0,scuola,3.0,mani,3.0
+fisica_unitn_008,panico,1.0,ansia,1.0,irrazionalità,1.0,paura,1.0
 fisica_lecce_004,panico,1.0,paura,2.0,trauma,1.0,terremoto,1.0
 fisica_lecce_005,panico,2.0,agitazione,1.0,blocco,1.0,svenimento,1.0
 fisica_lecce_008,panico,2.0,compiti,2.0,verifiche,3.0,studio,3.0
@@ -288,6 +306,8 @@ fisica_032,chatgpt,5.0,ia,5.0,semplicità,5.0,minacce,1.0
 fisica_035,chatgpt,4.0,aiuto,4.0,chiarimento,4.0,riflessione,5.0
 fisica_037,chatgpt,4.0,utile,4.0,lavoro ,4.0,sostegno,4.0
 fisica_040,chatgpt,3.0,strumento,4.0,rischio,3.0,curiosità,5.0
+fisica_unitn_003,chatgpt,3.0,gemini,3.0,google,3.0,scuro,3.0
+fisica_unitn_008,chatgpt,1.0,male,2.0,aiuto,4.0,acqua,5.0
 fisica_lecce_004,chatgpt,4.0,comodo,5.0,utile,5.0,a pagamento,1.0
 fisica_lecce_005,chatgpt,1.0,ai,3.0,,,,
 fisica_lecce_008,chatgpt,4.0,aiuto,4.0,robot,4.0,calcolatore ,5.0
@@ -318,6 +338,8 @@ fisica_032,matematica,4.0,necessità,5.0,vita,5.0,quotidianità,4.0
 fisica_035,matematica,2.0,scienza,3.0,risultati,5.0,creativa,5.0
 fisica_037,matematica,3.0,studio,4.0,soluzioni,4.0,difficoltà,2.0
 fisica_040,matematica,3.0,scienza,4.0,complessità,4.0,sfida,4.0
+fisica_unitn_003,matematica,3.0,blu,4.0,numeri,3.0,quaderno,3.0
+fisica_unitn_008,matematica,5.0,natura,5.0,legami,4.0,numeri,4.0
 fisica_lecce_004,matematica,5.0,linguaggio,5.0,mondo,5.0,tutto,5.0
 fisica_lecce_005,matematica,4.0,riflettere,4.0,sfida,5.0,problemi,4.0
 fisica_lecce_008,matematica,5.0,vita,4.0,numeri,5.0,compressione ,3.0
@@ -348,6 +370,8 @@ fisica_032,analisi,5.0,statistica,4.0,dati,5.0,grafici,5.0
 fisica_035,analisi,3.0,medica,2.0,dei dati,4.0,report,4.0
 fisica_037,analisi,3.0,sangue,3.0,patrimonio,3.0,lavoro,4.0
 fisica_040,analisi,4.0,ricerca,4.0,dettaglio,5.0,fase,4.0
+fisica_unitn_003,analisi,4.0,matematica,3.0,esame,3.0,due,3.0
+fisica_unitn_008,analisi,4.0,logica,4.0,matematica ,5.0,indagine,5.0
 fisica_lecce_004,analisi,4.0,uno,3.0,due,3.0,psichiatrica,2.0
 fisica_lecce_005,analisi,3.0,riflessione,3.0,tempo,2.0,capire,3.0
 fisica_lecce_008,analisi,4.0,necessaria ,5.0,complessa,4.0,fomdamentale,3.0
@@ -378,6 +402,8 @@ fisica_032,scoperta,5.0,laboratorio,5.0,apprendimento,5.0,innovazione,5.0
 fisica_035,scoperta,5.0,inaspettata,5.0,calcolo,4.0,esperimento,5.0
 fisica_037,scoperta,4.0,scienze,4.0,archeologia,4.0,storia,4.0
 fisica_040,scoperta,5.0,curiosità,5.0,opportunità,5.0,scelta,4.0
+fisica_unitn_003,scoperta,3.0,matematica,3.0,verde,4.0,idea,4.0
+fisica_unitn_008,scoperta,5.0,invenzione,5.0,rivoluzione,5.0,conferma,5.0
 fisica_lecce_004,scoperta,5.0,stupore,5.0,fatica,4.0,contentezza,5.0
 fisica_lecce_005,scoperta,4.0,novità,3.0,scienza,4.0,,
 fisica_lecce_008,scoperta,4.0,america,5.0,energia nucleare ,5.0,dinamite ,5.0
@@ -408,6 +434,8 @@ fisica_032,scienziata,5.0,genere,3.0,astronauta ,5.0,samanta,5.0
 fisica_035,scienziata,4.0,capace,5.0,precisa,5.0,,
 fisica_037,scienziata,5.0,innovatrice,5.0,coraggiosa,5.0,intelligente,5.0
 fisica_040,scienziata,4.0,competenza ,5.0,studio,4.0,sapere,5.0
+fisica_unitn_003,scienziata,3.0,camice,3.0,donna,3.0,occhiali,3.0
+fisica_unitn_008,scienziata,5.0,forza,4.0,,,,
 fisica_lecce_004,scienziata,4.0,novità,5.0,sguardo diverso,5.0,fondamentale,4.0
 fisica_lecce_005,scienziata,4.0,innovativa,4.0,creativa,5.0,,
 fisica_lecce_008,scienziata,4.0,franklin,4.0,montalcini,4.0,curie,4.0
@@ -438,6 +466,8 @@ fisica_032,docente,5.0,regista,5.0,mentore,5.0,coach,5.0
 fisica_035,docente,4.0,inclusivo,4.0,empatico ,4.0,capace,4.0
 fisica_037,docente,4.0,empatia,4.0,autorevolezza ,4.0,disponibilità,4.0
 fisica_040,docente,4.0,persona,5.0,sapere,5.0,relazione,5.0
+fisica_unitn_003,docente,3.0,lezione,3.0,lavagna,2.0,persona,4.0
+fisica_unitn_008,docente,3.0,conoscenza ,5.0,maestr*,4.0,insegnamento ,5.0
 fisica_lecce_004,docente,5.0,maestro,5.0,illuminatore,5.0,rigido,4.0
 fisica_lecce_005,docente,3.0,aiuto,4.0,,,,
 fisica_lecce_008,docente,5.0,persona,4.0,laurea,4.0,gentile,4.0
@@ -468,6 +498,8 @@ fisica_032,programmazione,4.0,rigidità,1.0,organizzazione ,4.0,ordinato,3.0
 fisica_035,programmazione,4.0,vita,4.0,programma,3.0,didattica,4.0
 fisica_037,programmazione,4.0,lavoro,4.0,famiglia,4.0,viaggi,5.0
 fisica_040,programmazione,4.0,organizzazione,4.0,conoscenza ,4.0,risultato,5.0
+fisica_unitn_003,programmazione,2.0,computer,3.0,informatica,3.0,esame,3.0
+fisica_unitn_008,programmazione,3.0,informatica,4.0,organizzazione ,5.0,scopo ,5.0
 fisica_lecce_004,programmazione,4.0,planning,4.0,professori,3.0,scuola,3.0
 fisica_lecce_005,programmazione,3.0,interrogazione ,3.0,verifica,3.0,giornata,4.0
 fisica_lecce_008,programmazione,4.0,simboli,4.0,codici,3.0,lettere,
@@ -498,6 +530,8 @@ fisica_032,laboratorio,5.0,esperienza,5.0,apprendimento,5.0,evidenze ,4.0
 fisica_035,laboratorio,4.0,informatica,4.0,attività,4.0,esperimento,4.0
 fisica_037,laboratorio,4.0,ricerca,4.0,scoperta ,4.0,soluzioni,4.0
 fisica_040,laboratorio,4.0,sperimentazione ,4.0,ricerca,5.0,curiosità,5.0
+fisica_unitn_003,laboratorio,3.0,camice,3.0,provetta,3.0,scienziato,3.0
+fisica_unitn_008,laboratorio,3.0,bianco,3.0,strumenti,5.0,camicie,4.0
 fisica_lecce_004,laboratorio,4.0,divertimento,4.0,scoperta,4.0,interazione,4.0
 fisica_lecce_005,laboratorio,4.0,collaborazione,4.0,imparare,4.0,,
 fisica_lecce_008,laboratorio,5.0,lavoro,5.0,passione ,5.0,ampolla,
@@ -528,6 +562,8 @@ fisica_032,conoscenza,5.0,memoria,4.0,comprensione ,5.0,competenza,5.0
 fisica_035,conoscenza,4.0,sapere,4.0,disciplina,3.0,uomo,5.0
 fisica_037,conoscenza,4.0,studio,4.0,preparazione,5.0,libri,4.0
 fisica_040,conoscenza,4.0,sicurezza,4.0,competenza,5.0,futuro,5.0
+fisica_unitn_003,conoscenza,4.0,sapere,4.0,mente,4.0,apprendere,4.0
+fisica_unitn_008,conoscenza,5.0,verità ,5.0,ricerca,5.0,migliorarsi,5.0
 fisica_lecce_004,conoscenza,,processo,,stupore,,piacere,
 fisica_lecce_005,conoscenza,4.0,utile,5.0,buona,5.0,crescita,5.0
 fisica_lecce_008,conoscenza,4.0,sapere,4.0,fonti ,3.0,internet,
@@ -558,6 +594,8 @@ fisica_032,fallimento,4.0,errore,5.0,apprendimento,5.0,necessità,5.0
 fisica_035,fallimento,2.0,impensabile,3.0,,,,
 fisica_037,fallimento,1.0,lavoro,5.0,famiglia,4.0,personale,3.0
 fisica_040,fallimento,1.0,dispiacere,2.0,errore,2.0,sfida,4.0
+fisica_unitn_003,fallimento,1.0,brutto,2.0,pesante,2.0,demoralizzato,1.0
+fisica_unitn_008,fallimento,1.0,successo ,5.0,rivalsa,5.0,possibilità ,5.0
 fisica_lecce_004,fallimento,1.0,necessario,4.0,pigrizia,1.0,dispiacere,2.0
 fisica_lecce_005,fallimento,2.0,depressione,1.0,riprovare,4.0,,
 fisica_lecce_008,fallimento,2.0,sconfitta ,3.0,possibilita ,4.0,cadere,
@@ -588,6 +626,8 @@ fisica_032,voto,2.0,gabbia,1.0,classifiche,1.0,,
 fisica_035,voto,4.0,positivo,4.0,dubbio,5.0,valutazione,4.0
 fisica_037,voto,3.0,buono ,3.0,ottimo,3.0,distinto,3.0
 fisica_040,voto,3.0,valore,4.0,limite,3.0,misura,4.0
+fisica_unitn_003,voto,3.0,laurea,2.0,esame,3.0,dieci,4.0
+fisica_unitn_008,voto,2.0,valutazione,2.0,criterio,5.0,,
 fisica_lecce_004,voto,1.0,orgoglio,4.0,necessità,4.0,fastidio,2.0
 fisica_lecce_005,voto,2.0,giudizio,1.0,ansia,1.0,,
 fisica_lecce_008,voto,3.0,soddisfazione ,4.0,emozioni,5.0,giudizio ,
@@ -618,6 +658,8 @@ fisica_032,numeri,4.0,vita,5.0,infinito,5.0,dio,5.0
 fisica_035,numeri,2.0,telefono,3.0,naturali,3.0,cardinali,4.0
 fisica_037,numeri,3.0,telefono,3.0,banca,3.0,studenti,3.0
 fisica_040,numeri,4.0,matematica,3.0,dati,4.0,studio,4.0
+fisica_unitn_003,numeri,3.0,uno,3.0,serie,3.0,sequenza,3.0
+fisica_unitn_008,numeri,5.0,natura,5.0,discreti,3.0,associazione ,4.0
 fisica_lecce_004,numeri,5.0,operazioni,4.0,calcolatori,3.0,anni,4.0
 fisica_lecce_005,numeri,4.0,matematica,4.0,fisica,4.0,calcoli,5.0
 fisica_lecce_008,numeri,4.0,belli,4.0,utili,4.0,argomenti ,5.0
@@ -648,6 +690,8 @@ fisica_032,logica,4.0,difficile,2.0,vita,5.0,poco presente,2.0
 fisica_035,logica,4.0,matematica,3.0,sequenza,4.0,risultato,4.0
 fisica_037,logica,4.0,utile,4.0,studio,4.0,comprensione,4.0
 fisica_040,logica,5.0,competenza,5.0,soluzione ,5.0,creatività,5.0
+fisica_unitn_003,logica,3.0,operazioni,4.0,successione,3.0,test,3.0
+fisica_unitn_008,logica,5.0,matematica ,5.0,pensiero ,5.0,collegamenti,5.0
 fisica_lecce_004,logica,5.0,formalità ,5.0,filosofia,5.0,aristotele,5.0
 fisica_lecce_005,logica,5.0,giochi,5.0,calcoli,4.0,,
 fisica_lecce_008,logica,2.0,irrisolvibile ,2.0,difficile ,3.0,interessante,4.0
@@ -678,6 +722,8 @@ fisica_032,ricerca,5.0,aria fresca,5.0,evoluzione,5.0,futuro,5.0
 fisica_035,ricerca,4.0,argomento,4.0,possibilità,4.0,esperimento,5.0
 fisica_037,ricerca,4.0,utile,4.0,coraggio,4.0,soluzioni,4.0
 fisica_040,ricerca,5.0,scienza,5.0,crescita,5.0,scoperta,5.0
+fisica_unitn_003,ricerca,3.0,campo,3.0,scienziato,3.0,laboratorio,3.0
+fisica_unitn_008,ricerca,5.0,scienza ,5.0,scopo,5.0,speranza,5.0
 fisica_lecce_004,ricerca,5.0,scientifica,5.0,nobel,5.0,cern,5.0
 fisica_lecce_005,ricerca,3.0,innovazione,4.0,,,,
 fisica_lecce_008,ricerca,5.0,utile,5.0,strumenti,5.0,scienza,5.0
@@ -708,6 +754,8 @@ fisica_032,imbarazzo,2.0,pudore,4.0,vergogna,2.0,introverso,3.0
 fisica_035,imbarazzo,2.0,emozione,4.0,istante,4.0,,
 fisica_037,imbarazzo,2.0,vita,2.0,lavoro,4.0,amore,4.0
 fisica_040,imbarazzo,2.0,dubbio,4.0,errore,3.0,rischio,3.0
+fisica_unitn_003,imbarazzo,2.0,emozione,4.0,ansia,2.0,rosso,3.0
+fisica_unitn_008,imbarazzo,1.0,rabbia,4.0,ansia ,1.0,rossore,2.0
 fisica_lecce_004,imbarazzo,3.0,timidezza,3.0,introspezzione,4.0,paura,4.0
 fisica_lecce_005,imbarazzo,2.0,parlare,2.0,amicizie,4.0,,
 fisica_lecce_008,imbarazzo,3.0,cose nuove,4.0,primo volta ,4.0,conoscere ,5.0
@@ -738,6 +786,8 @@ fisica_032,compagni,5.0,gioia,5.0,sempre,5.0,verità,5.0
 fisica_035,compagni,3.0,comportamento,2.0,comunione,4.0,scherzo,2.0
 fisica_037,compagni,4.0,affetto,4.0,presenza,4.0,studio,5.0
 fisica_040,compagni,5.0,benessere,5.0,confronto,5.0,vita,5.0
+fisica_unitn_003,compagni,4.0,scuola,3.0,univesità,4.0,gruppo,4.0
+fisica_unitn_008,compagni,4.0,comunismo,4.0,alleati,5.0,amicizia ,4.0
 fisica_lecce_004,compagni,4.0,spensieratezza,5.0,litigi,3.0,interessi,4.0
 fisica_lecce_005,compagni,2.0,particolari,1.0,,,,
 fisica_lecce_008,compagni,4.0,amici,5.0,uscite,5.0,festa ,5.0
@@ -768,6 +818,8 @@ fisica_032,problema,4.0,opportunità,5.0,associazioni,5.0,logica,5.0
 fisica_035,problema,2.0,matematico,4.0,dilemma,2.0,soluzione,4.0
 fisica_037,problema,2.0,affrontare,4.0,risolvere,4.0,soluzione,4.0
 fisica_040,problema,4.0,sfida,4.0,soluzione,5.0,cambiamento,5.0
+fisica_unitn_003,problema,3.0,matematica,3.0,risolvere,3.0,quaderno,3.0
+fisica_unitn_008,problema,2.0,soluzione ,5.0,ansia,1.0,pensiero ,5.0
 fisica_lecce_004,problema,4.0,sfida,4.0,difficile,3.0,divertente,5.0
 fisica_lecce_005,problema,3.0,matematica,4.0,fisica,4.0,riflettere,3.0
 fisica_lecce_008,problema,4.0,risoluzione ,4.0,dati,4.0,numeri,4.0
@@ -798,6 +850,8 @@ fisica_032,informatica,5.0,algoritmi,5.0,vita,5.0,quotidinità,5.0
 fisica_035,informatica,5.0,programmazione,4.0,posta,5.0,ai,5.0
 fisica_037,informatica,3.0,comprensione,4.0,difficoltà,2.0,utilità,4.0
 fisica_040,informatica,3.0,risorsa,5.0,competenza,5.0,complessità,4.0
+fisica_unitn_003,informatica,3.0,numeri,3.0,computer,3.0,mouse,4.0
+fisica_unitn_008,informatica,3.0,connessioni,5.0,algoritmo,5.0,natura,5.0
 fisica_lecce_004,informatica,4.0,ram,3.0,ai,5.0,tecnico,5.0
 fisica_lecce_005,informatica,3.0,computer,3.0,,,,
 fisica_lecce_008,informatica,3.0,c++,4.0,computer,5.0,programmazione ,3.0
@@ -828,6 +882,8 @@ fisica_032,sfida,5.0,opportunità,5.0,apprendere,5.0,divertimento,5.0
 fisica_035,sfida,4.0,con se stessi,4.0,attività,4.0,necessaria,4.0
 fisica_037,sfida,3.0,vita,3.0,lavoro,4.0,salute,4.0
 fisica_040,sfida,4.0,opportunità,5.0,novità,5.0,rischio,3.0
+fisica_unitn_003,sfida,2.0,scoglio,3.0,scommessa,2.0,mettersi alla prova,3.0
+fisica_unitn_008,sfida,4.0,avventura,5.0,prontezza,5.0,selvaggio ,4.0
 fisica_lecce_004,sfida,4.0,interesse,4.0,,,,
 fisica_lecce_005,sfida,4.0,buttarsi,4.0,provare,4.0,vincere,5.0
 fisica_lecce_008,sfida,5.0,vita,4.0,sport,5.0,scuola,3.0
@@ -858,6 +914,8 @@ fisica_032,paura,2.0,ansia ,1.0,errore,5.0,fallimento,2.0
 fisica_035,paura,2.0,futuro,4.0,persona,4.0,economica,3.0
 fisica_037,paura,1.0,figli,4.0,guerra,1.0,povertà,1.0
 fisica_040,paura,2.0,emozione,5.0,brivido,3.0,sfida,5.0
+fisica_unitn_003,paura,2.0,viola,3.0,nube,3.0,confuso,2.0
+fisica_unitn_008,paura,2.0,ansia,1.0,coraggio,5.0,lotta,4.0
 fisica_lecce_004,paura,4.0,umana,5.0,buio,3.0,,
 fisica_lecce_005,paura,2.0,incubi,1.0,,,,
 fisica_lecce_008,paura,2.0,futuro,5.0,lavoro ,4.0,cosè nuove,5.0
@@ -888,6 +946,8 @@ fisica_032,genitori,5.0,sfida,5.0,possibilità,5.0,amore,5.0
 fisica_035,genitori,3.0,difficile,3.0,impreparati,2.0,stressati,1.0
 fisica_037,genitori,4.0,distacco,2.0,morte,2.0,solitudine,2.0
 fisica_040,genitori,3.0,famiglia,4.0,supporto,4.0,legami,2.0
+fisica_unitn_003,genitori,3.0,mamma,4.0,seri,3.0,figure,4.0
+fisica_unitn_008,genitori,3.0,famiglia ,3.0,amore,3.0,bene,5.0
 fisica_lecce_004,genitori,5.0,amore,5.0,gratuità,5.0,supporto,4.0
 fisica_lecce_005,genitori,4.0,famiglia,5.0,presenza,5.0,,
 fisica_lecce_008,genitori,4.0,famiglia,4.0,discutere ,2.0,chiarire,4.0
@@ -918,6 +978,8 @@ fisica_032,dati,5.0,statistica,4.0,grafici,5.0,tabelle,5.0
 fisica_035,dati,4.0,medici,2.0,risultati,4.0,,
 fisica_037,dati,3.0,importanti,3.0,numerosi ,3.0,grandi,3.0
 fisica_040,dati,3.0,valori,4.0,opportunità,5.0,specchio,4.0
+fisica_unitn_003,dati,3.0,fit,3.0,grafico,3.0,test,3.0
+fisica_unitn_008,dati,3.0,esperimento ,4.0,statistiche,3.0,studio,5.0
 fisica_lecce_004,dati,4.0,numeri,5.0,distanze,3.0,anni,3.0
 fisica_lecce_005,dati,4.0,problema,4.0,calcoli,4.0,soluzione,5.0
 fisica_lecce_008,dati,4.0,utili,5.0,inultili,4.0,essenziali ,5.0
@@ -948,6 +1010,8 @@ fisica_032,esperimento,5.0,apprendere,5.0,laboratorio,5.0,scuola,5.0
 fisica_035,esperimento,4.0,scientifico,4.0,laboratoriale,5.0,umano,5.0
 fisica_037,esperimento,4.0,innovativo,4.0,soluzione,4.0,risultato,4.0
 fisica_040,esperimento,5.0,tentativo,5.0,curiosità,5.0,osservazione,5.0
+fisica_unitn_003,esperimento,3.0,dati,3.0,grafico,3.0,laboratorio,3.0
+fisica_unitn_008,esperimento,4.0,dati,4.0,indagine,4.0,speranza,5.0
 fisica_lecce_004,esperimento,4.0,funzionale,4.0,ricerca,4.0,progresso,5.0
 fisica_lecce_005,esperimento,4.0,laboratorio,3.0,testare,4.0,,
 fisica_lecce_008,esperimento,4.0,affascinante ,4.0,newton,5.0,galilei ,5.0
@@ -978,6 +1042,8 @@ fisica_032,stress,1.0,cortisolo,1.0,ansia,1.0,lavoro,4.0
 fisica_035,stress,2.0,alto,2.0,tempo,2.0,amicizia,5.0
 fisica_037,stress,1.0,pericoloso,1.0,continuo,1.0,aiuto,4.0
 fisica_040,stress,3.0,malessere,2.0,sfida,4.0,limite,3.0
+fisica_unitn_003,stress,2.0,ansia,2.0,esame,3.0,somatizzare,2.0
+fisica_unitn_008,stress,2.0,pressione,1.0,battito,3.0,ansia,1.0
 fisica_lecce_004,stress,1.0,nervoso,2.0,pressione,2.0,inutile,2.0
 fisica_lecce_005,stress,1.0,ansia,1.0,turbamento,1.0,quotidiano,1.0
 fisica_lecce_008,stress,2.0,elevato,2.0,scuola ,3.0,interrogazioni ,2.0
@@ -1008,6 +1074,8 @@ fisica_032,intelligenza_artificiale,5.0,opportunità,5.0,velocità,2.0,ragioname
 fisica_035,intelligenza_artificiale,4.0,chatgpt,4.0,utilizzo,5.0,etica,2.0
 fisica_037,intelligenza_artificiale,4.0,utile,4.0,lavoro,4.0,sostegno,4.0
 fisica_040,intelligenza_artificiale,3.0,rischio,2.0,intelligenza,4.0,strumento,3.0
+fisica_unitn_003,intelligenza_artificiale,3.0,robot,3.0,reti neurali,3.0,gemini,3.0
+fisica_unitn_008,intelligenza_artificiale,4.0,pericolo,1.0,vita,5.0,umanoidi,2.0
 fisica_lecce_004,intelligenza_artificiale,4.0,innovativa,3.0,veloce,4.0,comoda,4.0
 fisica_lecce_005,intelligenza_artificiale,3.0,meta ai,4.0,gemini,2.0,,
 fisica_lecce_008,intelligenza_artificiale,4.0,robot ,4.0,auto,4.0,copiatore ,2.0
@@ -1038,6 +1106,8 @@ fisica_032,regole,3.0,necessarie,5.0,flessibilità,5.0,rigore,4.0
 fisica_035,regole,4.0,da seguire,5.0,militare,2.0,non rispettate,2.0
 fisica_037,regole,5.0,rispetto,5.0,utili,5.0,caos,2.0
 fisica_040,regole,4.0,limiti,3.0,ragionevolezza,4.0,accordo,5.0
+fisica_unitn_003,regole,3.0,quadrate,2.0,seguire,4.0,schema,3.0
+fisica_unitn_008,regole,4.0,giustizia ,5.0,equilibrio ,5.0,rispetto ,5.0
 fisica_lecce_004,regole,3.0,necessarie,4.0,sovrabbondanti,3.0,complesse,4.0
 fisica_lecce_005,regole,3.0,rispetto,3.0,ascoltare,3.0,,
 fisica_lecce_008,regole,4.0,noia,2.0,stress,2.0,utili,4.0
@@ -1068,6 +1138,8 @@ fisica_032,scienziato,5.0,pazzo,4.0,sperimentazione ,5.0,matematica,5.0
 fisica_035,scienziato,4.0,pazzo,3.0,,,,
 fisica_037,scienziato,5.0,importante,5.0,coraggioso,5.0,utile,5.0
 fisica_040,scienziato,4.0,studio,4.0,ricerca,5.0,curiosità,5.0
+fisica_unitn_003,scienziato,3.0,pazzo,5.0,camice,3.0,laboratorio,3.0
+fisica_unitn_008,scienziato,4.0,cultura ,5.0,pensiero,5.0,legami,5.0
 fisica_lecce_004,scienziato,5.0,uomo,5.0,indigatore,5.0,ricercatore,5.0
 fisica_lecce_005,scienziato,4.0,innovativo,4.0,creativo,5.0,,
 fisica_lecce_008,scienziato,5.0,genio,4.0,innovatore ,5.0,incompreso,
@@ -1098,6 +1170,8 @@ fisica_032,scuola,5.0,centro,5.0,cultura,5.0,necessaria,5.0
 fisica_035,scuola,4.0,ordine,2.0,rispetto,2.0,scelta,3.0
 fisica_037,scuola,4.0,riforma,4.0,studenti,4.0,insegnanti,4.0
 fisica_040,scuola,4.0,società,5.0,regole,4.0,sapere,5.0
+fisica_unitn_003,scuola,4.0,edifcio,3.0,cancelli,3.0,aule,3.0
+fisica_unitn_008,scuola,3.0,gabbia,1.0,falsità ,1.0,,
 fisica_lecce_004,scuola,4.0,casa,5.0,impegno,5.0,realtà,4.0
 fisica_lecce_005,scuola,3.0,compiti,3.0,impegno,4.0,imparare,4.0
 fisica_lecce_008,scuola,2.0,ansia,2.0,imparare,4.0,studio,
@@ -1128,6 +1202,8 @@ fisica_032,creatività,5.0,emozioni,5.0,arte,5.0,matematica,5.0
 fisica_035,creatività,5.0,guilford,5.0,,,,
 fisica_037,creatività,4.0,innovazione,4.0,lavoro,4.0,viaggi,4.0
 fisica_040,creatività,5.0,curiosità,5.0,emozione,5.0,espressione,5.0
+fisica_unitn_003,creatività,3.0,foglio,3.0,colori,4.0,forme,4.0
+fisica_unitn_008,creatività,5.0,arte,4.0,espressione,5.0,spettacolo ,4.0
 fisica_lecce_004,creatività,5.0,artista,5.0,musicista,5.0,manualità,4.0
 fisica_lecce_005,creatività,5.0,inventare,5.0,progettare,4.0,,
 fisica_lecce_008,creatività,4.0,immaginazione ,5.0,risolvere,4.0,giochi di carte,
@@ -1158,6 +1234,8 @@ fisica_032,arte,5.0,espressione,5.0,musica,5.0,benessere,5.0
 fisica_035,arte,5.0,quadro,4.0,sentimenti,4.0,astratto,4.0
 fisica_037,arte,4.0,quadri,4.0,sculture,4.0,impressionismo,5.0
 fisica_040,arte,5.0,curiosità,5.0,sapienza,4.0,creatività,5.0
+fisica_unitn_003,arte,4.0,pennello,4.0,tavolozza,4.0,tela,4.0
+fisica_unitn_008,arte,4.0,espressione,5.0,musica,5.0,pensiero,5.0
 fisica_lecce_004,arte,5.0,contatto,5.0,profondità,5.0,verità,5.0
 fisica_lecce_005,arte,5.0,disegno,5.0,creatività,5.0,musica,5.0
 fisica_lecce_008,arte,1.0,noia,1.0,inutile,1.0,superflua,
@@ -1188,6 +1266,8 @@ fisica_032,esame,3.0,ansia,1.0,passo avanti,5.0,stop,2.0
 fisica_035,esame,4.0,di vita,4.0,verifica,3.0,concorso,3.0
 fisica_037,esame,2.0,risultato,2.0,concorso,2.0,riuscita,4.0
 fisica_040,esame,3.0,valutazione,2.0,riconoscimento,4.0,termine,4.0
+fisica_unitn_003,esame,3.0,difficile,3.0,giugno,1.0,sessione,2.0
+fisica_unitn_008,esame,2.0,ansia,1.0,paura,2.0,successo ,4.0
 fisica_lecce_004,esame,3.0,impegno,4.0,studio,4.0,tranquillità,3.0
 fisica_lecce_005,esame,2.0,ansia,1.0,studiare,3.0,tempo,2.0
 fisica_lecce_008,esame,4.0,ansia ,3.0,memoria ,4.0,prestazione,
@@ -1218,6 +1298,8 @@ fisica_032,futuro,5.0,giovani,5.0,opportunità,5.0,ia,4.0
 fisica_035,futuro,3.0,roseo,5.0,articolato,4.0,imprevisto,4.0
 fisica_037,futuro,3.0,figli,4.0,lavoro,4.0,guerre,1.0
 fisica_040,futuro,5.0,curiosità,5.0,sfida,4.0,entusiasmo,
+fisica_unitn_003,futuro,2.0,nebbioso,2.0,dubbio,2.0,domani,3.0
+fisica_unitn_008,futuro,4.0,incerto,2.0,tecnologia,4.0,barbarie,1.0
 fisica_lecce_004,futuro,4.0,atteso,4.0,buono,4.0,interessante,3.0
 fisica_lecce_005,futuro,3.0,incerto,2.0,costruire,4.0,,
 fisica_lecce_008,futuro,5.0,università ,4.0,creare ,5.0,aiutare ,
@@ -1248,6 +1330,8 @@ fisica_032,vita,5.0,matematica,5.0,fisica,5.0,chimica,5.0
 fisica_035,vita,4.0,sentimenti,4.0,amicizie,5.0,routine,5.0
 fisica_037,vita,3.0,difficile,2.0,amore,4.0,figli,4.0
 fisica_040,vita,5.0,sfida,4.0,opportunità,4.0,curiosità,5.0
+fisica_unitn_003,vita,3.0,morte,2.0,biologia,4.0,foglia,4.0
+fisica_unitn_008,vita,4.0,esperienza ,5.0,dati,4.0,morte,4.0
 fisica_lecce_004,vita,4.0,promessa,4.0,dono,4.0,scoperta,4.0
 fisica_lecce_005,vita,4.0,passioni,5.0,studio,3.0,uscire,4.0
 fisica_lecce_008,vita,3.0,difficile ,4.0,bella,4.0,ardua,

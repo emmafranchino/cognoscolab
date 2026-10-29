@@ -423,6 +423,7 @@ def build_multiple_fmnt(
             print(f"Mode of '{keyword}' = {max(counts, key=counts.get)}")
 
             ### !!! OPTIONAL: PLOT EMOTIONAL FLOWER !!!
+            zeta_scores = {}
             if flower == "yes":
                 zeta_scores = emo.zscores(fmnt_keyword)
                 emo.draw_plutchik(zeta_scores, reject_range=(-1.96, 1.96))
@@ -445,6 +446,13 @@ def build_multiple_fmnt(
             features_fmnt_keyword = multiple_fmnt_features(
                 G, fmnt_keyword, keyword, file_path, 95
             )
+            # valence of the keyword, valence composition of its frame (valence aura) and the
+            # emotion z-scores of the flower (empty when the flower is not computed)
+            features_fmnt_keyword["valence_keyword"] = G.nodes[keyword].get("valence")
+            for valence, n in counts.items():
+                features_fmnt_keyword[f"n_{valence}"] = n
+            for emotion, z in zeta_scores.items():
+                features_fmnt_keyword[f"z_{emotion}"] = z
             features.append(features_fmnt_keyword)
             all_features_df = pd.concat(features, ignore_index=True).drop(
                 columns=["$d$"]
