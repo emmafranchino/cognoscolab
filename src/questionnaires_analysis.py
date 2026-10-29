@@ -1,3 +1,4 @@
+from pathlib import Path
 import pandas as pd
 
 
@@ -170,17 +171,17 @@ def low_high_anxiety_division(mas_it_reordered, association_valence_data, sample
     to_exclude = sum_participant == median_total
     print(f"number of students to exclude: {sum(to_exclude)}")
 
-    with open(f"{path}/out/formatting/participants_rassereno.txt", "r") as f:
-        lines = f.readlines()
-        # Remove any lines that mention the current sample
-        lines = [line for line in lines if sample not in line]
-        # Add the new lines for this sample
-        lines.append(f"{sample} total: {len(mas_it_reordered)}\n")
-        lines.append(f"{sample} high anxiety: {sum(high_anxiety)}\n")
-        lines.append(f"{sample} low anxiety: {sum(low_anxiety)}\n")
-        # Write everything back
-        with open(f"{path}/out/formatting/participants_rassereno.txt", "w") as f:
-            f.writelines(lines)
+    summary_file = Path(path) / "out" / "formatting" / "participants_rassereno.txt"
+    lines = summary_file.read_text().splitlines(keepends=True) if summary_file.exists() else []
+    # Remove any lines that mention the current sample
+    lines = [line for line in lines if sample not in line]
+    # Add the new lines for this sample
+    lines.append(f"{sample} total: {len(mas_it_reordered)}\n")
+    lines.append(f"{sample} high anxiety: {sum(high_anxiety)}\n")
+    lines.append(f"{sample} low anxiety: {sum(low_anxiety)}\n")
+    # Write everything back
+    summary_file.parent.mkdir(parents=True, exist_ok=True)
+    summary_file.write_text("".join(lines))
 
     participant_id_high = mas_it_reordered.loc[high_anxiety, "participant_id"]
     participant_id_low = mas_it_reordered.loc[low_anxiety, "participant_id"]
