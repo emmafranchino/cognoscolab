@@ -1,3 +1,5 @@
+import random
+
 import matplotlib.pyplot as plt
 import networkx as nx
 import numpy as np
@@ -9,6 +11,9 @@ from pathlib import Path
 
 spacy.load("it_core_news_lg")
 spacy.load("en_core_web_lg")
+
+# random word samples EmoAtlas draws to build the baseline of the emotion z-scores (its default is 300)
+N_BASELINE_SAMPLES = 10000
 
 
 def text_cleaning(df):
@@ -306,8 +311,10 @@ def multiple_fmnt_features(G, fmn, keyword, file_path, percentage):
     # all nodes whose degree is >= threshold
     hubs = sorted(
         [(f"{n} ({d})", d) for n, d in deg_dict.items() if d >= threshold],
-        key=lambda x: x[1],
-        reverse=True,
+        key=lambda x: (
+            -x[1],
+            x[0],
+        ),  # ties in alphabetical order, so the tables are stable
     )
     hubs = [h[0] for h in hubs]
 
@@ -335,9 +342,49 @@ def multiple_fmnt_features(G, fmn, keyword, file_path, percentage):
     return features_fmnt_df
 
 
+def draw_frame(emo, fmnt_keyword, custom_valences, folder_path, plot_dir, keyword):
+    """Save the edge-bundling plot of a frame to out/analysis/bfmn/<plot_dir>/<keyword>.pdf."""
+    output_dir = Path(folder_path) / "out" / "analysis" / "bfmn" / plot_dir
+    output_dir.mkdir(parents=True, exist_ok=True)
+    fig, ax = plt.subplots(figsize=(9, 9))
+    ax.axis("off")
+    # save_path stops EmoAtlas from calling plt.show(), which would embed every frame in the
+    # notebook outputs; the file is then rewritten with a tight bounding box
+    emo.draw_formamentis(
+        fmn=fmnt_keyword,
+        layout="edge_bundling",
+        custom_valences=custom_valences,
+        ax=ax,
+        save_path=output_dir / f"{keyword}.pdf",
+    )
+    fig.savefig(output_dir / f"{keyword}.pdf", bbox_inches="tight", pad_inches=0.1)
+    plt.close(fig)
+
+
 def build_multiple_fmnt(
-    df, keywords, folder_path, file_path, flower="yes", language="ita"
+    df,
+    keywords,
+    folder_path,
+    file_path,
+    flower="yes",
+    language="ita",
+    plot_keywords=None,
+    flower_keywords=None,
+    plot_dir=None,
 ):
+    """Build a BFMN and the frames (features, valence aura, emotion z-scores) of `keywords`.
+
+    Plots are optional and can cover only some keywords:
+    - plot_keywords: keywords whose frame is drawn (None: all of `keywords`; []: none);
+    - flower_keywords: keywords whose emotional flower is drawn when flower="yes" (None: all);
+      the z-scores are computed for every keyword either way;
+    - plot_dir: subfolder of out/analysis/bfmn (frames) and out/analysis/emo_flowers_bfmn
+      (flowers) where the plots are saved (None: file_path).
+    """
+    plot_keywords = keywords if plot_keywords is None else plot_keywords
+    flower_keywords = keywords if flower_keywords is None else flower_keywords
+    plot_dir = file_path if plot_dir is None else plot_dir
+
     if language == "ita":
         emo = EmoScores(language="italian", spacy_model="it_core_news_lg")
     elif language == "eng":
@@ -385,27 +432,10 @@ def build_multiple_fmnt(
     # create a subgraph for each of the keywords we are interested in and calculate their features
     for keyword in keywords:
         try:
-            # plot bfmn
-            fig, ax = plt.subplots(figsize=(9, 9))
-            ax.axis("off")
             fmnt_keyword = emo.extract_word_from_formamentis(fmn, keyword)
-            emo.draw_formamentis(
-                fmn=fmnt_keyword,
-                layout="edge_bundling",
-                # thickness=2, # thickness of edges
-                custom_valences=custom_valences,
-                ax=ax,
-                # alpha_syntactic=1.0, # contrast of edges
-            )
+            if keyword in plot_keywords:
+                draw_frame(emo, fmnt_keyword, custom_valences, folder_path, plot_dir, keyword)
             fmnts_keyword.append(fmnt_keyword)
-
-            output_dir_fmn = Path(folder_path) / "out" / "analysis" / "bfmn" / file_path
-            output_dir_fmn.mkdir(parents=True, exist_ok=True)
-            fig.savefig(
-                output_dir_fmn / f"{keyword}.pdf",
-                bbox_inches="tight",
-                pad_inches=0.1,
-            )
 
             print(f"Local clustering {keyword}: {nx.clustering(G, keyword)}")
             print(f"Degree {keyword}: {G.degree(keyword)}")
@@ -425,23 +455,20 @@ def build_multiple_fmnt(
             ### !!! OPTIONAL: PLOT EMOTIONAL FLOWER !!!
             zeta_scores = {}
             if flower == "yes":
-                zeta_scores = emo.zscores(fmnt_keyword)
-                emo.draw_plutchik(zeta_scores, reject_range=(-1.96, 1.96))
-
-                output_dir = (
-                    Path(folder_path)
-                    / "out"
-                    / "analysis"
-                    / "emo_flowers_bfmn"
-                    / file_path
+                # EmoAtlas lemmatises the frame as one text in the order of its vertices, which is a set order that changes between runs (and spaCy lemmas depend on the neighbouring words): the words are passed in alphabetical order so that every run is identical. The baseline is sampled with the random module, seeded per frame
+                random.seed(f"{file_path}/{keyword}")
+                zeta_scores = emo.zscores(
+                    " ".join(sorted(fmnt_keyword.vertices)),
+                    n_samples=N_BASELINE_SAMPLES,
                 )
-                output_dir.mkdir(parents=True, exist_ok=True)
-                plt.savefig(
-                    output_dir / f"{keyword}.pdf",
-                    bbox_inches="tight",
-                    pad_inches=0.1,
-                )
-                plt.close("all")
+                if keyword in flower_keywords:
+                    emo.draw_plutchik(zeta_scores, reject_range=(-1.96, 1.96))
+                    output_dir = (
+                        Path(folder_path) / "out" / "analysis" / "emo_flowers_bfmn" / plot_dir
+                    )
+                    output_dir.mkdir(parents=True, exist_ok=True)
+                    plt.savefig(output_dir / f"{keyword}.pdf", bbox_inches="tight", pad_inches=0.1)
+                    plt.close("all")
 
             features_fmnt_keyword = multiple_fmnt_features(
                 G, fmnt_keyword, keyword, file_path, 95
