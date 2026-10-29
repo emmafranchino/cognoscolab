@@ -14,6 +14,7 @@ rassereno/
     data_2026.csv              Qualtrics export, survey from 16 October 2025 (codes; the later
                                responses of the 29 October 2026 export are appended at the end)
     data_2026_2026-10-29_labels.csv   same survey with answer labels, reference for the codes
+    participant_ids.csv        participant ID of each Qualtrics response (ResponseId)
     fall2024_data collection/  2024 psychology BSc data (Excel files) + notes on missing files
     data_2019/                 2019 experts and high school data (not used in this paper)
     gpt_oss_2026/              GPT-oss personas: personas.csv, generation_report.csv, raw/ (one
@@ -42,15 +43,17 @@ Shared code lives in `src/` at the repository root (`config.py` holds the paths 
 | Psychology | BSc students 2024 (Set 4) + 2025 cohort (Set 5b) | `first_year_*`, `second_year_*`, `third_year_*`, `interfacce_*` |
 
 Exclusion criterion: participants missing more than a third of their association and valence answers
-are excluded (same rule for every group); for STEM-group participants who came back for later sessions,
-only the first session is kept. The extraction also drops responses below 65% progress before
-assigning IDs: this removes only responses the missing-data rule excludes anyway, and keeps the IDs
-stable (see the comment in `data_extraction_qualtrics.ipynb`).
+are excluded (same rule for every group; responses that stopped before the association task count as
+entirely missing). For STEM-group participants who came back for later sessions, only the first
+session is kept.
+
+Participant IDs are fixed in `data/participant_ids.csv` (Qualtrics `ResponseId` -> `participant_id`), so
+they don't depend on row order or on exclusions, and each GPT-oss persona keeps matching its student.
+`data_extraction_qualtrics.ipynb` rebuilds the file with its ID rules only if it is missing; a response
+that passes the exclusion rule without an ID stops the notebook, so new responses get an ID explicitly.
 
 Each GPT-oss persona is named after its student (`gpt_oss_<human id>`). Networks are built on the 17
-cue words shared by every cue set (`COMMON_CUES_RASSERENO` in `src/config.py`). The participant IDs are
-assigned in `data_extraction_qualtrics.ipynb` by session date and survey answers; read the comments in
-its ID cell before changing the raw files (IDs depend on row order).
+cue words shared by every cue set (`COMMON_CUES_RASSERENO` in `src/config.py`). 
 
 ## Setup
 
