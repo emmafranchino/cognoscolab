@@ -11,3 +11,4 @@ rassereno/out/analysis/emo_flowers_tfmn
 rassereno/out/analysis/tfmn
 *.pkl
 rassereno/data/gpt_oss_2026/raw
+rassereno/data/gpt_oss_2026_extra/raw
