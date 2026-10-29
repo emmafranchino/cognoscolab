@@ -1,0 +1,460 @@
+{
+  "persona": {
+    "persona_id": "gpt_oss_first_year_014",
+    "human_id": "first_year_014",
+    "sample": "psychology",
+    "cue_variant": "4_first_year",
+    "is_spare": false,
+    "gender": "M",
+    "gender_source": "human",
+    "age": 19,
+    "age_source": "human",
+    "programme": "al 1° anno del corso di laurea triennale in psicologia",
+    "socioeconomic": "basse",
+    "cue_order": "compito|numeri|relazione|psicologia|grafico|ansia|sfida|noia|benessere|frustrazione|modello|insegnante|equazione|comportamento|università|creatività|mente|laurea|stress|esame|scienza|scuola|tecnologia|voto|terapia|esercitazione|biologia|neuroscienze|personalità|professore|cognizione|scoperta|matematica|conoscenza|curiosità|futuro|emozione|statistica|fisica|lavoro"
+  },
+  "model": "openai/gpt-oss-20b",
+  "temperature": 1.0,
+  "reasoning_effort": null,
+  "system_prompt": "Sei uno studente italiano di 19 anni. Sei iscritto al 1° anno del corso di laurea triennale in psicologia. Sei cresciuto e vivi in condizioni socio-economiche basse. Ricorda che le tue risposte devono essere originali, creative e coerenti con le tue caratteristiche uniche.\n\nRispondi sempre e solo nel formato richiesto, senza titoli, spiegazioni o commenti.",
+  "association_prompt": "Per ciascuna delle seguenti 40 parole chiave:\n1. valuta la parola chiave su una scala da 1 (non mi piace per nulla) a 5 (mi piace molto);\n2. scrivi fino a tre parole o espressioni che ti vengono in mente pensando alla parola chiave (libere associazioni). Se te ne vengono in mente meno di tre, lascia vuoti i campi mancanti;\n3. valuta ciascuna associazione sulla stessa scala da 1 a 5.\n\nParole chiave: compito, numeri, relazione, psicologia, grafico, ansia, sfida, noia, benessere, frustrazione, modello, insegnante, equazione, comportamento, università, creatività, mente, laurea, stress, esame, scienza, scuola, tecnologia, voto, terapia, esercitazione, biologia, neuroscienze, personalità, professore, cognizione, scoperta, matematica, conoscenza, curiosità, futuro, emozione, statistica, fisica, lavoro.\n\nRestituisci esattamente 40 righe, una per parola chiave e nello stesso ordine, ciascuna nel formato:\nparola_chiave,valenza,associazione_1,valenza_1,associazione_2,valenza_2,associazione_3,valenza_3\n\nNon usare virgole all'interno delle associazioni. Se lasci un'associazione vuota, lascia vuota anche la sua valenza, mantenendo le virgole. Esempio di riga con due sole associazioni:\nparola_chiave,valenza,associazione_1,valenza_1,associazione_2,valenza_2,,",
+  "mas_it_prompt": "Per ciascuna delle seguenti situazioni, indica quanto ti sentiresti ansioso su una scala da 1 (per niente ansioso) a 5 (molto ansioso).\n\n1. Avere qualcuno che mi guarda moltiplicare 12x23 su carta\n2. Sostenere un esame di matematica\n3. Se mi viene chiesto davanti a molte altre persone di calcolare EUR 9,36 diviso per 4\n4. Calcolare una serie di moltiplicazioni su carta\n5. Dover affrontare un test di matematica a sorpresa in una classe\n6. Dover memorizzare una tabellina\n7. Se mi viene chiesto di calcolare i 3/5 di una percentuale\n8. Se mi viene chiesta una domanda di matematica da un/una insegnante di fronte alla classe\n9. Se mi viene chiesto di sommare il numero di persone in una stanza\n10. Calcolare quanti giorni mancano al compleanno di una persona\n11. Ricevere un numero di telefono e doverlo ricordare\n12. Calcolare quanto tempo mi rimane prima di partire per il lavoro o il luogo di studio\n13. Leggere la parola \"algebra\"\n14. Ascoltare qualcuno che parla di matematica\n15. Leggere un testo di matematica\n16. Guardare qualcuno risolvere un problema di algebra\n17. Frequentare una lezione di matematica\n18. Guardare un/una insegnante scrivere equazioni alla lavagna\n\nRestituisci una sola riga con i 18 punteggi, nell'ordine delle situazioni e separati da virgole, nel formato:\npunteggio_1,punteggio_2,...,punteggio_18",
+  "associations": [
+    {
+      "cue_word": "compito",
+      "valence_cue_word": 3,
+      "association_1": "scadenza",
+      "valence_association_1": 3,
+      "association_2": "studiare",
+      "valence_association_2": 4,
+      "association_3": "distrazione",
+      "valence_association_3": 2
+    },
+    {
+      "cue_word": "numeri",
+      "valence_cue_word": 2,
+      "association_1": "matematica",
+      "valence_association_1": 3,
+      "association_2": "cerchio",
+      "valence_association_2": 2,
+      "association_3": "frequenza",
+      "valence_association_3": 2
+    },
+    {
+      "cue_word": "relazione",
+      "valence_cue_word": 4,
+      "association_1": "amicizia",
+      "valence_association_1": 4,
+      "association_2": "legame",
+      "valence_association_2": 3,
+      "association_3": "emozione",
+      "valence_association_3": 4
+    },
+    {
+      "cue_word": "psicologia",
+      "valence_cue_word": 5,
+      "association_1": "mente",
+      "valence_association_1": 5,
+      "association_2": "comportamento",
+      "valence_association_2": 5,
+      "association_3": "cura",
+      "valence_association_3": 4
+    },
+    {
+      "cue_word": "grafico",
+      "valence_cue_word": 3,
+      "association_1": "dati",
+      "valence_association_1": 3,
+      "association_2": "colore",
+      "valence_association_2": 3,
+      "association_3": "presentazione",
+      "valence_association_3": 3
+    },
+    {
+      "cue_word": "ansia",
+      "valence_cue_word": 5,
+      "association_1": "paura",
+      "valence_association_1": 5,
+      "association_2": "nervosismo",
+      "valence_association_2": 4,
+      "association_3": "ansia_studio",
+      "valence_association_3": 4
+    },
+    {
+      "cue_word": "sfida",
+      "valence_cue_word": 4,
+      "association_1": "pratica",
+      "valence_association_1": 4,
+      "association_2": "superare",
+      "valence_association_2": 4,
+      "association_3": "corda",
+      "valence_association_3": 3
+    },
+    {
+      "cue_word": "noia",
+      "valence_cue_word": 2,
+      "association_1": "ripetizione",
+      "valence_association_1": 2,
+      "association_2": "asciutta",
+      "valence_association_2": 2,
+      "association_3": "passion",
+      "valence_association_3": 3
+    },
+    {
+      "cue_word": "benessere",
+      "valence_cue_word": 5,
+      "association_1": "salute",
+      "valence_association_1": 5,
+      "association_2": "equilibrio",
+      "valence_association_2": 5,
+      "association_3": "rilassamento",
+      "valence_association_3": 4
+    },
+    {
+      "cue_word": "frustrazione",
+      "valence_cue_word": 4,
+      "association_1": "problema",
+      "valence_association_1": 4,
+      "association_2": "ritardo",
+      "valence_association_2": 3,
+      "association_3": "crisi",
+      "valence_association_3": 4
+    },
+    {
+      "cue_word": "modello",
+      "valence_cue_word": 3,
+      "association_1": "forma",
+      "valence_association_1": 3,
+      "association_2": "esempio",
+      "valence_association_2": 3,
+      "association_3": "elevazione",
+      "valence_association_3": 2
+    },
+    {
+      "cue_word": "insegnante",
+      "valence_cue_word": 4,
+      "association_1": "guidare",
+      "valence_association_1": 4,
+      "association_2": "motivare",
+      "valence_association_2": 4,
+      "association_3": "sbagliare",
+      "valence_association_3": 2
+    },
+    {
+      "cue_word": "equazione",
+      "valence_cue_word": 3,
+      "association_1": "x",
+      "valence_association_1": 3,
+      "association_2": "soluzione",
+      "valence_association_2": 4,
+      "association_3": "energia",
+      "valence_association_3": 2
+    },
+    {
+      "cue_word": "comportamento",
+      "valence_cue_word": 4,
+      "association_1": "azionario",
+      "valence_association_1": 3,
+      "association_2": "sociale",
+      "valence_association_2": 4,
+      "association_3": "impulso",
+      "valence_association_3": 3
+    },
+    {
+      "cue_word": "università",
+      "valence_cue_word": 4,
+      "association_1": "città",
+      "valence_association_1": 4,
+      "association_2": "libro",
+      "valence_association_2": 4,
+      "association_3": "capacitazioni",
+      "valence_association_3": 4
+    },
+    {
+      "cue_word": "creatività",
+      "valence_cue_word": 5,
+      "association_1": "arte",
+      "valence_association_1": 5,
+      "association_2": "idea",
+      "valence_association_2": 5,
+      "association_3": "soluzione",
+      "valence_association_3": 4
+    },
+    {
+      "cue_word": "mente",
+      "valence_cue_word": 5,
+      "association_1": "ricerca",
+      "valence_association_1": 5,
+      "association_2": "domanda",
+      "valence_association_2": 4,
+      "association_3": "spazio",
+      "valence_association_3": 3
+    },
+    {
+      "cue_word": "laurea",
+      "valence_cue_word": 4,
+      "association_1": "conferenza",
+      "valence_association_1": 4,
+      "association_2": "orgoglio",
+      "valence_association_2": 5,
+      "association_3": "festa",
+      "valence_association_3": 3
+    },
+    {
+      "cue_word": "stress",
+      "valence_cue_word": 5,
+      "association_1": "pressione",
+      "valence_association_1": 5,
+      "association_2": "ospedale",
+      "valence_association_2": 3,
+      "association_3": "rabbia",
+      "valence_association_3": 4
+    },
+    {
+      "cue_word": "esame",
+      "valence_cue_word": 4,
+      "association_1": "scritto",
+      "valence_association_1": 4,
+      "association_2": "prova",
+      "valence_association_2": 4,
+      "association_3": "efficienza",
+      "valence_association_3": 3
+    },
+    {
+      "cue_word": "scienza",
+      "valence_cue_word": 5,
+      "association_1": "scoperta",
+      "valence_association_1": 5,
+      "association_2": "theoria",
+      "valence_association_2": 4,
+      "association_3": "laboratorio",
+      "valence_association_3": 4
+    },
+    {
+      "cue_word": "scuola",
+      "valence_cue_word": 3,
+      "association_1": "coperto",
+      "valence_association_1": 3,
+      "association_2": "aula",
+      "valence_association_2": 3,
+      "association_3": "passaggio",
+      "valence_association_3": 2
+    },
+    {
+      "cue_word": "tecnologia",
+      "valence_cue_word": 4,
+      "association_1": "smartphone",
+      "valence_association_1": 4,
+      "association_2": "internet",
+      "valence_association_2": 4,
+      "association_3": "voce",
+      "valence_association_3": 3
+    },
+    {
+      "cue_word": "voto",
+      "valence_cue_word": 3,
+      "association_1": "percentuale",
+      "valence_association_1": 3,
+      "association_2": "riconoscimento",
+      "valence_association_2": 3,
+      "association_3": "strategia",
+      "valence_association_3": 2
+    },
+    {
+      "cue_word": "terapia",
+      "valence_cue_word": 4,
+      "association_1": "psicoterapia",
+      "valence_association_1": 5,
+      "association_2": "riposo",
+      "valence_association_2": 3,
+      "association_3": "comunicare",
+      "valence_association_3": 4
+    },
+    {
+      "cue_word": "esercitazione",
+      "valence_cue_word": 3,
+      "association_1": "pratica",
+      "valence_association_1": 4,
+      "association_2": "domanda",
+      "valence_association_2": 3,
+      "association_3": "copertura",
+      "valence_association_3": 2
+    },
+    {
+      "cue_word": "biologia",
+      "valence_cue_word": 4,
+      "association_1": "cellule",
+      "valence_association_1": 4,
+      "association_2": "genoma",
+      "valence_association_2": 3,
+      "association_3": "ecosistema",
+      "valence_association_3": 4
+    },
+    {
+      "cue_word": "neuroscienze",
+      "valence_cue_word": 5,
+      "association_1": "neurone",
+      "valence_association_1": 5,
+      "association_2": "cortex",
+      "valence_association_2": 4,
+      "association_3": "memoria",
+      "valence_association_3": 5
+    },
+    {
+      "cue_word": "personalità",
+      "valence_cue_word": 4,
+      "association_1": "carattere",
+      "valence_association_1": 4,
+      "association_2": "tratti",
+      "valence_association_2": 4,
+      "association_3": "risposta",
+      "valence_association_3": 3
+    },
+    {
+      "cue_word": "professore",
+      "valence_cue_word": 4,
+      "association_1": "insegnare",
+      "valence_association_1": 4,
+      "association_2": "curiosità",
+      "valence_association_2": 4,
+      "association_3": "scrivere",
+      "valence_association_3": 3
+    },
+    {
+      "cue_word": "cognizione",
+      "valence_cue_word": 4,
+      "association_1": "apprendere",
+      "valence_association_1": 4,
+      "association_2": "pensare",
+      "valence_association_2": 5,
+      "association_3": "bias",
+      "valence_association_3": 3
+    },
+    {
+      "cue_word": "scoperta",
+      "valence_cue_word": 5,
+      "association_1": "questo",
+      "valence_association_1": 5,
+      "association_2": "enorme",
+      "valence_association_2": 4,
+      "association_3": "mondo",
+      "valence_association_3": 4
+    },
+    {
+      "cue_word": "matematica",
+      "valence_cue_word": 3,
+      "association_1": "logica",
+      "valence_association_1": 3,
+      "association_2": "problema",
+      "valence_association_2": 3,
+      "association_3": "plain",
+      "valence_association_3": 2
+    },
+    {
+      "cue_word": "conoscenza",
+      "valence_cue_word": 5,
+      "association_1": "saper",
+      "valence_association_1": 5,
+      "association_2": "dati",
+      "valence_association_2": 4,
+      "association_3": "studio",
+      "valence_association_3": 4
+    },
+    {
+      "cue_word": "curiosità",
+      "valence_cue_word": 5,
+      "association_1": "inquisitivo",
+      "valence_association_1": 5,
+      "association_2": "esplorare",
+      "valence_association_2": 5,
+      "association_3": "domanda",
+      "valence_association_3": 5
+    },
+    {
+      "cue_word": "futuro",
+      "valence_cue_word": 4,
+      "association_1": "sogni",
+      "valence_association_1": 4,
+      "association_2": "certezza",
+      "valence_association_2": 3,
+      "association_3": "scelta",
+      "valence_association_3": 4
+    },
+    {
+      "cue_word": "emozione",
+      "valence_cue_word": 5,
+      "association_1": "libera",
+      "valence_association_1": 5,
+      "association_2": "sudorazione",
+      "valence_association_2": 3,
+      "association_3": "batterie",
+      "valence_association_3": 2
+    },
+    {
+      "cue_word": "statistica",
+      "valence_cue_word": 3,
+      "association_1": "media",
+      "valence_association_1": 3,
+      "association_2": "percentuale",
+      "valence_association_2": 3,
+      "association_3": "variabile",
+      "valence_association_3": 3
+    },
+    {
+      "cue_word": "fisica",
+      "valence_cue_word": 4,
+      "association_1": "energia",
+      "valence_association_1": 4,
+      "association_2": "gravità",
+      "valence_association_2": 4,
+      "association_3": "theoria",
+      "valence_association_3": 4
+    },
+    {
+      "cue_word": "lavoro",
+      "valence_cue_word": 3,
+      "association_1": "mensile",
+      "valence_association_1": 3,
+      "association_2": "sforzo",
+      "valence_association_2": 3,
+      "association_3": "sala",
+      "valence_association_3": 2
+    }
+  ],
+  "mas_it": [
+    2,
+    4,
+    3,
+    2,
+    4,
+    3,
+    2,
+    3,
+    1,
+    1,
+    2,
+    2,
+    1,
+    1,
+    2,
+    1,
+    3,
+    2
+  ],
+  "association_attempts": [
+    {
+      "response": "compito,3,scadenza,3,studiare,4,distrazione,2\nnumeri,2,matematica,3,cerchio,2,frequenza,2\nrelazione,4,amicizia,4,legame,3,emozione,4\npsicologia,5,mente,5,comportamento,5,cura,4\ngrafico,3,dati,3,colore,3,presentazione,3\nansia,5,paura,5,nervosismo,4,ansia_studio,4\nsfida,4,pratica,4,superare,4,corda,3\nnoia,2,ripetizione,2,asciutta,2,passion,3\nbenessere,5,salute,5,equilibrio,5,rilassamento,4\nfrustrazione,4,problema,4,ritardo,3,crisi,4\nmodello,3,forma,3,esempio,3,elevazione,2\ninsegnante,4,guidare,4,motivare,4,sbagliare,2\nequazione,3,x,3,soluzione,4,energia,2\ncomportamento,4,azionario,3,sociale,4,impulso,3\nuniversità,4,città,4,libro,4,capacitazioni,4\ncreatività,5,arte,5,idea,5,soluzione,4\nmente,5,ricerca,5,domanda,4,spazio,3\nlaurea,4,conferenza,4,orgoglio,5,festa,3\nstress,5,pressione,5,ospedale,3,rabbia,4\nesame,4,scritto,4,prova,4,efficienza,3\nscienza,5,scoperta,5,theoria,4,laboratorio,4\nscuola,3,coperto,3,aula,3,passaggio,2\ntecnologia,4,smartphone,4,internet,4,voce,3\nvoto,3,percentuale,3,riconoscimento,3,strategia,2\nterapia,4,psicoterapia,5,riposo,3,comunicare,4\nesercitazione,3,pratica,4,domanda,3,copertura,2\nbiologia,4,cellule,4,genoma,3,ecosistema,4\nneuroscienze,5,neurone,5,cortex,4,memoria,5\npersonalità,4,carattere,4,tratti,4,risposta,3\nprofessore,4,insegnare,4,curiosità,4,scrivere,3\ncognizione,4,apprendere,4,pensare,5,bias,3\nscoperta,5,questo,5,enorme,4,mondo,4\nmatematica,3,logica,3,problema,3,plain,2\nconoscenza,5,saper,5,dati,4,studio,4\ncuriosità,5,inquisitivo,5,esplorare,5,domanda,5\nfuturo,4,sogni,4,certezza,3,scelta,4\nemozione,5,libera,5,sudorazione,3,batterie,2\nstatistica,3,media,3,percentuale,3,variabile,3\nfisica,4,energia,4,gravità,4,theoria,4\nlavoro,3,mensile,3,sforzo,3,sala,2",
+      "finish_reason": "stop",
+      "errors": []
+    }
+  ],
+  "mas_it_attempts": [
+    {
+      "response": "2,4,3,2,4,3,2,3,1,1,2,2,1,1,2,1,3,2",
+      "finish_reason": "stop",
+      "errors": []
+    }
+  ],
+  "valid": true,
+  "seconds": 51.6
+}

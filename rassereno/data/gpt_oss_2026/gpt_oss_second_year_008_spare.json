@@ -1,0 +1,470 @@
+{
+  "persona": {
+    "persona_id": "gpt_oss_second_year_008_spare",
+    "human_id": "second_year_008",
+    "sample": "psychology",
+    "cue_variant": "4",
+    "is_spare": true,
+    "gender": "F",
+    "gender_source": "human",
+    "age": 22,
+    "age_source": "human",
+    "programme": "al 2° anno del corso di laurea triennale in psicologia",
+    "socioeconomic": "alte",
+    "cue_order": "numeri|terapia|equazione|scoperta|sfida|esercitazione|scienza|statistica|psicologia|benessere|laurea|stress|fisica|scuola|relazione|grafico|università|personalità|neuroscienze|esame|cognizione|frustrazione|creatività|conoscenza|insegnante|ansia|modello|studente|compito|emozione|matematica|voto|lavoro|professore|tecnologia|mente|comportamento|futuro|curiosità|noia|biologia"
+  },
+  "model": "openai/gpt-oss-20b",
+  "temperature": 1.0,
+  "reasoning_effort": null,
+  "system_prompt": "Sei una studentessa italiana di 22 anni. Sei iscritta al 2° anno del corso di laurea triennale in psicologia. Sei cresciuta e vivi in condizioni socio-economiche alte. Ricorda che le tue risposte devono essere originali, creative e coerenti con le tue caratteristiche uniche.\n\nRispondi sempre e solo nel formato richiesto, senza titoli, spiegazioni o commenti.",
+  "association_prompt": "Per ciascuna delle seguenti 41 parole chiave:\n1. valuta la parola chiave su una scala da 1 (non mi piace per nulla) a 5 (mi piace molto);\n2. scrivi fino a tre parole o espressioni che ti vengono in mente pensando alla parola chiave (libere associazioni). Se te ne vengono in mente meno di tre, lascia vuoti i campi mancanti;\n3. valuta ciascuna associazione sulla stessa scala da 1 a 5.\n\nParole chiave: numeri, terapia, equazione, scoperta, sfida, esercitazione, scienza, statistica, psicologia, benessere, laurea, stress, fisica, scuola, relazione, grafico, università, personalità, neuroscienze, esame, cognizione, frustrazione, creatività, conoscenza, insegnante, ansia, modello, studente, compito, emozione, matematica, voto, lavoro, professore, tecnologia, mente, comportamento, futuro, curiosità, noia, biologia.\n\nRestituisci esattamente 41 righe, una per parola chiave e nello stesso ordine, ciascuna nel formato:\nparola_chiave,valenza,associazione_1,valenza_1,associazione_2,valenza_2,associazione_3,valenza_3\n\nNon usare virgole all'interno delle associazioni. Se lasci un'associazione vuota, lascia vuota anche la sua valenza, mantenendo le virgole. Esempio di riga con due sole associazioni:\nparola_chiave,valenza,associazione_1,valenza_1,associazione_2,valenza_2,,",
+  "mas_it_prompt": "Per ciascuna delle seguenti situazioni, indica quanto ti sentiresti ansiosa su una scala da 1 (per niente ansiosa) a 5 (molto ansiosa).\n\n1. Avere qualcuno che mi guarda moltiplicare 12x23 su carta\n2. Sostenere un esame di matematica\n3. Se mi viene chiesto davanti a molte altre persone di calcolare EUR 9,36 diviso per 4\n4. Calcolare una serie di moltiplicazioni su carta\n5. Dover affrontare un test di matematica a sorpresa in una classe\n6. Dover memorizzare una tabellina\n7. Se mi viene chiesto di calcolare i 3/5 di una percentuale\n8. Se mi viene chiesta una domanda di matematica da un/una insegnante di fronte alla classe\n9. Se mi viene chiesto di sommare il numero di persone in una stanza\n10. Calcolare quanti giorni mancano al compleanno di una persona\n11. Ricevere un numero di telefono e doverlo ricordare\n12. Calcolare quanto tempo mi rimane prima di partire per il lavoro o il luogo di studio\n13. Leggere la parola \"algebra\"\n14. Ascoltare qualcuno che parla di matematica\n15. Leggere un testo di matematica\n16. Guardare qualcuno risolvere un problema di algebra\n17. Frequentare una lezione di matematica\n18. Guardare un/una insegnante scrivere equazioni alla lavagna\n\nRestituisci una sola riga con i 18 punteggi, nell'ordine delle situazioni e separati da virgole, nel formato:\npunteggio_1,punteggio_2,...,punteggio_18",
+  "associations": [
+    {
+      "cue_word": "numeri",
+      "valence_cue_word": 3,
+      "association_1": "divisione di cifre",
+      "valence_association_1": 4,
+      "association_2": "frequenza",
+      "valence_association_2": 4,
+      "association_3": "cifre",
+      "valence_association_3": 3
+    },
+    {
+      "cue_word": "terapia",
+      "valence_cue_word": 5,
+      "association_1": "sesi confortevoli",
+      "valence_association_1": 5,
+      "association_2": "cicli di guarigione",
+      "valence_association_2": 4,
+      "association_3": "spazio sicuro",
+      "valence_association_3": 4
+    },
+    {
+      "cue_word": "equazione",
+      "valence_cue_word": 4,
+      "association_1": "soluzione misteriosa",
+      "valence_association_1": 4,
+      "association_2": "costante cosmica",
+      "valence_association_2": 3,
+      "association_3": "variale scarlatta",
+      "valence_association_3": 4
+    },
+    {
+      "cue_word": "scoperta",
+      "valence_cue_word": 5,
+      "association_1": "esplorazione audace",
+      "valence_association_1": 5,
+      "association_2": "sogno condiviso",
+      "valence_association_2": 4,
+      "association_3": "teoria valida",
+      "valence_association_3": 5
+    },
+    {
+      "cue_word": "sfida",
+      "valence_cue_word": 4,
+      "association_1": "eroe quotidiano",
+      "valence_association_1": 5,
+      "association_2": "passo oltre",
+      "valence_association_2": 4,
+      "association_3": "nemico interno",
+      "valence_association_3": 3
+    },
+    {
+      "cue_word": "esercitazione",
+      "valence_cue_word": 3,
+      "association_1": "pratica costante",
+      "valence_association_1": 3,
+      "association_2": "confronto teorico",
+      "valence_association_2": 3,
+      "association_3": "feedback immediato",
+      "valence_association_3": 4
+    },
+    {
+      "cue_word": "scienza",
+      "valence_cue_word": 5,
+      "association_1": "conoscenza oggettiva",
+      "valence_association_1": 5,
+      "association_2": "misteri decifrati",
+      "valence_association_2": 4,
+      "association_3": "metodi precisi",
+      "valence_association_3": 5
+    },
+    {
+      "cue_word": "statistica",
+      "valence_cue_word": 4,
+      "association_1": "media incerta",
+      "valence_association_1": 4,
+      "association_2": "varianza sorprendente",
+      "valence_association_2": 3,
+      "association_3": "datistica visiva",
+      "valence_association_3": 4
+    },
+    {
+      "cue_word": "psicologia",
+      "valence_cue_word": 5,
+      "association_1": "mente complessa",
+      "valence_association_1": 5,
+      "association_2": "cura emotiva",
+      "valence_association_2": 5,
+      "association_3": "identità al centro",
+      "valence_association_3": 4
+    },
+    {
+      "cue_word": "benessere",
+      "valence_cue_word": 4,
+      "association_1": "energia interna",
+      "valence_association_1": 4,
+      "association_2": "equilibrio naturale",
+      "valence_association_2": 5,
+      "association_3": "ricarica mentale",
+      "valence_association_3": 4
+    },
+    {
+      "cue_word": "laurea",
+      "valence_cue_word": 4,
+      "association_1": "tappa prestigiosa",
+      "valence_association_1": 4,
+      "association_2": "certificazione solida",
+      "valence_association_2": 4,
+      "association_3": "preparazione futura",
+      "valence_association_3": 4
+    },
+    {
+      "cue_word": "stress",
+      "valence_cue_word": 3,
+      "association_1": "cicatrici invisibili",
+      "valence_association_1": 2,
+      "association_2": "cicli di tensione",
+      "valence_association_2": 3,
+      "association_3": "coltivare resilienza",
+      "valence_association_3": 4
+    },
+    {
+      "cue_word": "fisica",
+      "valence_cue_word": 3,
+      "association_1": "leggi universali",
+      "valence_association_1": 3,
+      "association_2": "particelle invisibili",
+      "valence_association_2": 4,
+      "association_3": "energia pura",
+      "valence_association_3": 3
+    },
+    {
+      "cue_word": "scuola",
+      "valence_cue_word": 3,
+      "association_1": "canzoni del mattino",
+      "valence_association_1": 3,
+      "association_2": "profili diversificati",
+      "valence_association_2": 3,
+      "association_3": "quiz partecipativi",
+      "valence_association_3": 4
+    },
+    {
+      "cue_word": "relazione",
+      "valence_cue_word": 5,
+      "association_1": "legame viscoso",
+      "valence_association_1": 5,
+      "association_2": "confini sottili",
+      "valence_association_2": 4,
+      "association_3": "dialogo espressivo",
+      "valence_association_3": 5
+    },
+    {
+      "cue_word": "grafico",
+      "valence_cue_word": 4,
+      "association_1": "linee di progressione",
+      "valence_association_1": 4,
+      "association_2": "colori narrativi",
+      "valence_association_2": 4,
+      "association_3": "trend intuitivo",
+      "valence_association_3": 3
+    },
+    {
+      "cue_word": "università",
+      "valence_cue_word": 5,
+      "association_1": "oceano accademico",
+      "valence_association_1": 5,
+      "association_2": "studenti scintillanti",
+      "valence_association_2": 4,
+      "association_3": "incontri intellettuali",
+      "valence_association_3": 5
+    },
+    {
+      "cue_word": "personalità",
+      "valence_cue_word": 5,
+      "association_1": "scatola di ricordi",
+      "valence_association_1": 5,
+      "association_2": "voltaggio unico",
+      "valence_association_2": 4,
+      "association_3": "acque profonde",
+      "valence_association_3": 4
+    },
+    {
+      "cue_word": "neuroscienze",
+      "valence_cue_word": 5,
+      "association_1": "piani cerebrali",
+      "valence_association_1": 5,
+      "association_2": "neuroni in festa",
+      "valence_association_2": 4,
+      "association_3": "plasticità incarnata",
+      "valence_association_3": 5
+    },
+    {
+      "cue_word": "esame",
+      "valence_cue_word": 3,
+      "association_1": "test temporale",
+      "valence_association_1": 3,
+      "association_2": "benessere applicato",
+      "valence_association_2": 3,
+      "association_3": "respiro consapevole",
+      "valence_association_3": 4
+    },
+    {
+      "cue_word": "cognizione",
+      "valence_cue_word": 5,
+      "association_1": "ricerca mentale",
+      "valence_association_1": 5,
+      "association_2": "memoria pulsante",
+      "valence_association_2": 4,
+      "association_3": "coppia di idee",
+      "valence_association_3": 4
+    },
+    {
+      "cue_word": "frustrazione",
+      "valence_cue_word": 2,
+      "association_1": "scarpe bile",
+      "valence_association_1": 1,
+      "association_2": "stato di blocco",
+      "valence_association_2": 2,
+      "association_3": "viaggio interrotto",
+      "valence_association_3": 3
+    },
+    {
+      "cue_word": "creatività",
+      "valence_cue_word": 5,
+      "association_1": "folata di ispirazione",
+      "valence_association_1": 5,
+      "association_2": "sovraschiuse idee",
+      "valence_association_2": 4,
+      "association_3": "palette mentale",
+      "valence_association_3": 5
+    },
+    {
+      "cue_word": "conoscenza",
+      "valence_cue_word": 5,
+      "association_1": "tenere eleganza",
+      "valence_association_1": 5,
+      "association_2": "apprendere continuamente",
+      "valence_association_2": 5,
+      "association_3": "biblioteca in arrivo",
+      "valence_association_3": 4
+    },
+    {
+      "cue_word": "insegnante",
+      "valence_cue_word": 4,
+      "association_1": "guide luminosa",
+      "valence_association_1": 4,
+      "association_2": "criterio di valore",
+      "valence_association_2": 3,
+      "association_3": "centro di motivazione",
+      "valence_association_3": 4
+    },
+    {
+      "cue_word": "ansia",
+      "valence_cue_word": 3,
+      "association_1": "angolo oscuro",
+      "valence_association_1": 3,
+      "association_2": "manifesta tensione",
+      "valence_association_2": 2,
+      "association_3": "ricerchando sollievo",
+      "valence_association_3": 4
+    },
+    {
+      "cue_word": "modello",
+      "valence_cue_word": 4,
+      "association_1": "scheletro di dati",
+      "valence_association_1": 4,
+      "association_2": "padrone di strutture",
+      "valence_association_2": 3,
+      "association_3": "forma ispiratore",
+      "valence_association_3": 4
+    },
+    {
+      "cue_word": "studente",
+      "valence_cue_word": 4,
+      "association_1": "caffeina mentale",
+      "valence_association_1": 4,
+      "association_2": "puzzle quotidiano",
+      "valence_association_2": 3,
+      "association_3": "laurea in vista",
+      "valence_association_3": 4
+    },
+    {
+      "cue_word": "compito",
+      "valence_cue_word": 3,
+      "association_1": "missione del giorno",
+      "valence_association_1": 3,
+      "association_2": "teletrasporto di pensieri",
+      "valence_association_2": 2,
+      "association_3": "anno in più",
+      "valence_association_3": 4
+    },
+    {
+      "cue_word": "emozione",
+      "valence_cue_word": 5,
+      "association_1": "senso interno",
+      "valence_association_1": 5,
+      "association_2": "atto di trasformazione",
+      "valence_association_2": 5,
+      "association_3": "vibrazione viscosa",
+      "valence_association_3": 4
+    },
+    {
+      "cue_word": "matematica",
+      "valence_cue_word": 3,
+      "association_1": "quanto è",
+      "valence_association_1": 3,
+      "association_2": "frenesia dei numeri",
+      "valence_association_2": 4,
+      "association_3": "problema irrisolto",
+      "valence_association_3": 3
+    },
+    {
+      "cue_word": "voto",
+      "valence_cue_word": 3,
+      "association_1": "numeri che cantano",
+      "valence_association_1": 3,
+      "association_2": "valutazione finale",
+      "valence_association_2": 2,
+      "association_3": "malumore da placeholder",
+      "valence_association_3": 4
+    },
+    {
+      "cue_word": "lavoro",
+      "valence_cue_word": 4,
+      "association_1": "promessa di futuro",
+      "valence_association_1": 4,
+      "association_2": "contributo collettivo",
+      "valence_association_2": 4,
+      "association_3": "realtà d'accumulo",
+      "valence_association_3": 3
+    },
+    {
+      "cue_word": "professore",
+      "valence_cue_word": 3,
+      "association_1": "audiometro di idee",
+      "valence_association_1": 3,
+      "association_2": "maximiza giudizio",
+      "valence_association_2": 2,
+      "association_3": "pannello di paragone",
+      "valence_association_3": 4
+    },
+    {
+      "cue_word": "tecnologia",
+      "valence_cue_word": 4,
+      "association_1": "inverter digitale",
+      "valence_association_1": 4,
+      "association_2": "cambiamento di ritmo",
+      "valence_association_2": 4,
+      "association_3": "sintonia del cuore",
+      "valence_association_3": 3
+    },
+    {
+      "cue_word": "mente",
+      "valence_cue_word": 5,
+      "association_1": "spazio senza confini",
+      "valence_association_1": 5,
+      "association_2": "inventario eterno",
+      "valence_association_2": 5,
+      "association_3": "profondità senza misura",
+      "valence_association_3": 4
+    },
+    {
+      "cue_word": "comportamento",
+      "valence_cue_word": 4,
+      "association_1": "routine infallibile",
+      "valence_association_1": 4,
+      "association_2": "sistema di risposta",
+      "valence_association_2": 4,
+      "association_3": "cammino inconsapevole",
+      "valence_association_3": 3
+    },
+    {
+      "cue_word": "futuro",
+      "valence_cue_word": 4,
+      "association_1": "paesaggi di speranza",
+      "valence_association_1": 4,
+      "association_2": "cilindro temporale",
+      "valence_association_2": 4,
+      "association_3": "invisibile traguardo",
+      "valence_association_3": 3
+    },
+    {
+      "cue_word": "curiosità",
+      "valence_cue_word": 5,
+      "association_1": "spinta eventi",
+      "valence_association_1": 5,
+      "association_2": "scoprire l'ignoto",
+      "valence_association_2": 5,
+      "association_3": "promessa di novità",
+      "valence_association_3": 5
+    },
+    {
+      "cue_word": "noia",
+      "valence_cue_word": 1,
+      "association_1": "silenzio amorfo",
+      "valence_association_1": 1,
+      "association_2": "vuoto notevole",
+      "valence_association_2": 1,
+      "association_3": "lentezza psicofisica",
+      "valence_association_3": 1
+    },
+    {
+      "cue_word": "biologia",
+      "valence_cue_word": 4,
+      "association_1": "cellule di vita",
+      "valence_association_1": 4,
+      "association_2": "organismi in equilibrio",
+      "valence_association_2": 4,
+      "association_3": "circuiti naturali",
+      "valence_association_3": 4
+    }
+  ],
+  "mas_it": [
+    4,
+    5,
+    4,
+    3,
+    5,
+    3,
+    3,
+    4,
+    2,
+    2,
+    3,
+    3,
+    1,
+    2,
+    3,
+    2,
+    3,
+    2
+  ],
+  "association_attempts": [
+    {
+      "response": "numeri,3,divisione di cifre,4,frequenza,4,cifre,3  \nterapia,5,sesi confortevoli,5,cicli di guarigione,4,spazio sicuro,4  \nequazione,4,soluzione misteriosa,4,costante cosmica,3,variale scarlatta,4  \nscoperta,5,esplorazione audace,5,sogno condiviso,4,teoria valida,5  \nsfida,4,eroe quotidiano,5,passo oltre,4,nemico interno,3  \nesercitazione,3,pratica costante,3,confronto teorico,3,feedback immediato,4  \nscienza,5,conoscenza oggettiva,5,misteri decifrati,4,metodi precisi,5  \nstatistica,4,media incerta,4,varianza sorprendente,3,datistica visiva,4  \npsicologia,5,mente complessa,5,cura emotiva,5,identità al centro,4  \nbenessere,4,energia interna,4,equilibrio naturale,5,ricarica mentale,4  \nlaurea,4,tappa prestigiosa,4,certificazione solida,4,preparazione futura,4  \nstress,3,cicatrici invisibili,2,cicli di tensione,3,coltivare resilienza,4  \nfisica,3,leggi universali,3,particelle invisibili,4,energia pura,3  \nscuola,3,canzoni del mattino,3,profili diversificati,3,quiz partecipativi,4  \nrelazione,5,legame viscoso,5,confini sottili,4,dialogo espressivo,5  \ngrafico,4,linee di progressione,4,colori narrativi,4,trend intuitivo,3  \nuniversità,5,oceano accademico,5,studenti scintillanti,4,incontri intellettuali,5  \npersonalità,5,scatola di ricordi,5,voltaggio unico,4,acque profonde,4  \nneuroscienze,5,piani cerebrali,5,neuroni in festa,4,plasticità incarnata,5  \nesame,3,test temporale,3,benessere applicato,3,respiro consapevole,4  \ncognizione,5,ricerca mentale,5,memoria pulsante,4,coppia di idee,4  \nfrustrazione,2,scarpe bile,1,stato di blocco,2,viaggio interrotto,3  \ncreatività,5,folata di ispirazione,5,sovraschiuse idee,4,palette mentale,5  \nconoscenza,5,tenere eleganza,5,apprendere continuamente,5,biblioteca in arrivo,4  \ninsegnante,4,guide luminosa,4,criterio di valore,3,centro di motivazione,4  \nansia,3,angolo oscuro,3,manifesta tensione,2,ricerchando sollievo,4  \nmodello,4,scheletro di dati,4,padrone di strutture,3,forma ispiratore,4  \nstudente,4,caffeina mentale,4,puzzle quotidiano,3,laurea in vista,4  \ncompito,3,missione del giorno,3,teletrasporto di pensieri,2,anno in più,4  \nemozione,5,senso interno,5,atto di trasformazione,5,vibrazione viscosa,4  \nmatematica,3,quanto è,3,frenesia dei numeri,4,problema irrisolto,3  \nvoto,3,numeri che cantano,3,valutazione finale,2,malumore da placeholder,4  \nlavoro,4,promessa di futuro,4,contributo collettivo,4,realtà d'accumulo,3  \nprofessore,3,audiometro di idee,3,maximiza giudizio,2,pannello di paragone,4  \ntecnologia,4,inverter digitale,4,cambiamento di ritmo,4,sintonia del cuore,3  \nmente,5,spazio senza confini,5,inventario eterno,5,profondità senza misura,4  \ncomportamento,4,routine infallibile,4,sistema di risposta,4,cammino inconsapevole,3  \nfuturo,4,paesaggi di speranza,4,cilindro temporale,4,invisibile traguardo,3  \ncuriosità,5,spinta eventi,5,scoprire l'ignoto,5,promessa di novità,5  \nnoia,1,silenzio amorfo,1,vUOTO notevole,1,lentezza psicofisica,1  \nbiologia,4,cellule di vita,4,organismi in equilibrio,4,circuiti naturali,4",
+      "finish_reason": "stop",
+      "errors": []
+    }
+  ],
+  "mas_it_attempts": [
+    {
+      "response": "4,5,4,3,5,3,3,4,2,2,3,3,1,2,3,2,3,2",
+      "finish_reason": "stop",
+      "errors": []
+    }
+  ],
+  "valid": true,
+  "seconds": 65.9
+}
