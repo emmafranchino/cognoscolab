@@ -52,8 +52,9 @@ they don't depend on row order or on exclusions, and each GPT-oss persona keeps 
 `data_extraction_qualtrics.ipynb` rebuilds the file with its ID rules only if it is missing; a response
 that passes the exclusion rule without an ID stops the notebook, so new responses get an ID explicitly.
 
-Each GPT-oss persona is named after its student (`gpt_oss_<human id>`). Networks are built on the 17
-cue words shared by every cue set (`COMMON_CUES_RASSERENO` in `src/config.py`). 
+Each GPT-oss persona is named after its student (`gpt_oss_<human id>`). Networks are built on the 18
+cue words shared by every cue set (`COMMON_CUES_RASSERENO` in `src/config.py`); *docente* (Set 5) and
+*insegnante* (Set 4) are merged into one cue, also where they appear as associations (`CUE_SYNONYMS`).
 
 ## Setup
 

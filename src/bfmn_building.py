@@ -16,6 +16,23 @@ spacy.load("en_core_web_lg")
 N_BASELINE_SAMPLES = 10000
 
 
+def common_cues_only(df):
+    """Keep the answers to the cue words shared by every cue set, with synonyms merged.
+
+    The words in CUE_SYNONYMS are recoded (as cues and as associations) before filtering, so that a
+    concept named differently in two cue sets is one cue and one node in every network.
+    """
+    from config import COMMON_CUES_RASSERENO, CUE_SYNONYMS
+
+    df = df.copy()
+    word_cols = ["cue_word"] + [c for c in df.columns if c.startswith("association_")]
+    for col in word_cols:
+        normalised = df[col].astype(str).str.strip().str.lower()
+        for word, synonym in CUE_SYNONYMS.items():
+            df.loc[normalised == word, col] = synonym
+    return df[df["cue_word"].isin(COMMON_CUES_RASSERENO)].reset_index(drop=True)
+
+
 def text_cleaning(df):
     df = df.copy()
     # clean columns that have words inside

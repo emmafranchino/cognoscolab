@@ -1,17 +1,17 @@
 \begin{table}[!hbpt]
 \footnotesize
 \centering
-\caption{Network features of the semantic frame of \textit{\textbf{Exam}} (\textit{esame}). $N_v$: nodes; $N_e$: edges; $C_i$: local clustering coefficient of the cue; $l_G$: average shortest path length. For each hub, its degree is reported in parentheses; italicised hubs are cue words. H-S: high school; Phys: physics; Psy: psychology; GPT: the matched GPT-oss personas. Networks built on the 17 cue words shared by every cue set, with every association.}
+\caption{Network features of the semantic frame of \textit{\textbf{Exam}} (\textit{esame}). $N_v$: nodes; $N_e$: edges; $C_i$: local clustering coefficient of the cue; $l_G$: average shortest path length. For each hub, its degree is reported in parentheses; italicised hubs are cue words. H-S: high school; Phys: physics; Psy: psychology; GPT: the matched GPT-oss personas. Networks built on the 18 cue words shared by every cue set (docente and insegnante merged), with every association.}
 \label{tab:network_features_exam}
 \begin{tabular}{lccccp{9cm}}
 \toprule
 Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs (top 5\% of degree distribution) \\
 \midrule
 H-S & 101 & 244 & 0.03 & 1.95 & \textit{esame} (100), \textit{voto} (27), \textit{ansia} (25), \textit{scuola} (23), \textit{matematica} (19), \textit{stress} (19) \\
-GPT H-S & 112 & 170 & 0.01 & 1.97 & \textit{esame} (111), \textit{voto} (21), \textit{ansia} (16), \textit{stress} (15), \textit{scuola} (13), paura (5), test (5) \\
+GPT H-S & 113 & 182 & 0.01 & 1.97 & \textit{esame} (112), \textit{voto} (22), \textit{ansia} (16), \textit{stress} (15), \textit{scuola} (14), \textit{insegnante} (12) \\
 Phys & 42 & 70 & 0.04 & 1.92 & \textit{esame} (41), \textit{stress} (11), \textit{ansia} (8), \textit{voto} (8) \\
 GPT Phys & 38 & 55 & 0.03 & 1.92 & \textit{esame} (37), \textit{voto} (8) \\
-Psy & 169 & 481 & 0.02 & 1.97 & \textit{esame} (168), \textit{sfida} (53), \textit{voto} (49), \textit{scuola} (45), \textit{matematica} (44), \textit{stress} (39), \textit{ansia} (38), \textit{conoscenza} (32), \textit{numeri} (27) \\
+Psy & 170 & 519 & 0.02 & 1.96 & \textit{esame} (169), \textit{sfida} (53), \textit{voto} (50), \textit{scuola} (46), \textit{matematica} (45), \textit{stress} (40), \textit{ansia} (39), \textit{insegnante} (38), \textit{conoscenza} (33) \\
 GPT Psy & 176 & 331 & 0.01 & 1.98 & \textit{esame} (175), \textit{voto} (48), \textit{ansia} (28), \textit{sfida} (25), \textit{scuola} (23), \textit{stress} (23), \textit{futuro} (17), \textit{conoscenza} (11), paura (7) \\
 \bottomrule
 \end{tabular}
@@ -20,18 +20,18 @@ GPT Psy & 176 & 331 & 0.01 & 1.98 & \textit{esame} (175), \textit{voto} (48), \t
 \begin{table}[!hbpt]
 \footnotesize
 \centering
-\caption{Network features of the semantic frame of \textit{\textbf{Grade}} (\textit{voto}). $N_v$: nodes; $N_e$: edges; $C_i$: local clustering coefficient of the cue; $l_G$: average shortest path length. For each hub, its degree is reported in parentheses; italicised hubs are cue words. H-S: high school; Phys: physics; Psy: psychology; GPT: the matched GPT-oss personas. Networks built on the 17 cue words shared by every cue set, with every association.}
+\caption{Network features of the semantic frame of \textit{\textbf{Grade}} (\textit{voto}). $N_v$: nodes; $N_e$: edges; $C_i$: local clustering coefficient of the cue; $l_G$: average shortest path length. For each hub, its degree is reported in parentheses; italicised hubs are cue words. H-S: high school; Phys: physics; Psy: psychology; GPT: the matched GPT-oss personas. Networks built on the 18 cue words shared by every cue set (docente and insegnante merged), with every association.}
 \label{tab:network_features_grade}
 \begin{tabular}{lccccp{9cm}}
 \toprule
 Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs (top 5\% of degree distribution) \\
 \midrule
-H-S & 132 & 257 & 0.01 & 1.97 & \textit{voto} (131), \textit{esame} (27), \textit{ansia} (25), \textit{stress} (24), \textit{scuola} (23), \textit{matematica} (19), \textit{futuro} (18) \\
-GPT H-S & 147 & 205 & 0.01 & 1.98 & \textit{voto} (146), \textit{esame} (21), \textit{scuola} (15), \textit{futuro} (12), \textit{ansia} (11), \textit{stress} (11), paura (6), test (5) \\
+H-S & 131 & 269 & 0.02 & 1.97 & \textit{voto} (130), \textit{esame} (27), \textit{ansia} (26), \textit{stress} (24), \textit{scuola} (23), \textit{matematica} (20), \textit{futuro} (18) \\
+GPT H-S & 146 & 224 & 0.01 & 1.98 & \textit{voto} (145), \textit{esame} (22), \textit{insegnante} (22), \textit{scuola} (15), \textit{futuro} (12), \textit{ansia} (11), \textit{stress} (11), paura (6), test (6) \\
 Phys & 44 & 60 & 0.02 & 1.94 & \textit{voto} (43), \textit{esame} (8), \textit{ansia} (7) \\
-GPT Phys & 52 & 65 & 0.01 & 1.95 & \textit{voto} (51), \textit{esame} (8), \textit{statistica} (5) \\
-Psy & 185 & 452 & 0.02 & 1.97 & \textit{voto} (184), \textit{esame} (49), \textit{scuola} (39), \textit{sfida} (39), \textit{stress} (39), \textit{ansia} (38), \textit{matematica} (31), \textit{futuro} (29), \textit{numeri} (23), \textit{fisica} (19) \\
-GPT Psy & 215 & 364 & 0.01 & 1.98 & \textit{voto} (214), \textit{esame} (48), \textit{sfida} (31), \textit{scuola} (28), \textit{futuro} (21), \textit{stress} (20), \textit{ansia} (19), paura (7), pressione (6), gestione (5), rischio (5) \\
+GPT Phys & 52 & 68 & 0.01 & 1.95 & \textit{voto} (51), \textit{esame} (8), \textit{statistica} (5) \\
+Psy & 184 & 480 & 0.02 & 1.97 & \textit{voto} (183), \textit{esame} (50), \textit{stress} (40), \textit{ansia} (39), \textit{scuola} (39), \textit{sfida} (39), \textit{insegnante} (32), \textit{matematica} (31), \textit{futuro} (30), \textit{numeri} (23) \\
+GPT Psy & 215 & 383 & 0.01 & 1.98 & \textit{voto} (214), \textit{esame} (48), \textit{sfida} (31), \textit{scuola} (28), \textit{futuro} (21), \textit{insegnante} (21), \textit{stress} (20), \textit{ansia} (19), paura (7), pressione (6), apprendimento (5), gestione (5), motivazione (5), rischio (5), tempo (5) \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -39,17 +39,17 @@ GPT Psy & 215 & 364 & 0.01 & 1.98 & \textit{voto} (214), \textit{esame} (48), \t
 \begin{table}[!hbpt]
 \footnotesize
 \centering
-\caption{Network features of the semantic frame of \textit{\textbf{Anxiety}} (\textit{ansia}). $N_v$: nodes; $N_e$: edges; $C_i$: local clustering coefficient of the cue; $l_G$: average shortest path length. For each hub, its degree is reported in parentheses; italicised hubs are cue words. H-S: high school; Phys: physics; Psy: psychology; GPT: the matched GPT-oss personas. Networks built on the 17 cue words shared by every cue set, with every association.}
+\caption{Network features of the semantic frame of \textit{\textbf{Anxiety}} (\textit{ansia}). $N_v$: nodes; $N_e$: edges; $C_i$: local clustering coefficient of the cue; $l_G$: average shortest path length. For each hub, its degree is reported in parentheses; italicised hubs are cue words. H-S: high school; Phys: physics; Psy: psychology; GPT: the matched GPT-oss personas. Networks built on the 18 cue words shared by every cue set (docente and insegnante merged), with every association.}
 \label{tab:network_features_anxiety}
 \begin{tabular}{lccccp{9cm}}
 \toprule
 Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs (top 5\% of degree distribution) \\
 \midrule
-H-S & 144 & 331 & 0.02 & 1.97 & \textit{ansia} (143), \textit{stress} (49), \textit{esame} (25), \textit{voto} (25), \textit{scuola} (24), \textit{futuro} (22), \textit{matematica} (21), \textit{fisica} (20) \\
+H-S & 145 & 348 & 0.02 & 1.97 & \textit{ansia} (144), \textit{stress} (49), \textit{voto} (26), \textit{esame} (25), \textit{scuola} (25), \textit{futuro} (23), \textit{matematica} (22), \textit{fisica} (21) \\
 GPT H-S & 132 & 195 & 0.01 & 1.98 & \textit{ansia} (131), \textit{stress} (32), \textit{esame} (16), \textit{voto} (11), \textit{futuro} (10), paura (6), \textit{sfida} (5), test (5) \\
-Phys & 53 & 82 & 0.02 & 1.94 & \textit{ansia} (52), \textit{stress} (15), \textit{esame} (8) \\
+Phys & 54 & 87 & 0.02 & 1.94 & \textit{ansia} (53), \textit{stress} (16), \textit{esame} (8) \\
 GPT Phys & 50 & 60 & 0.01 & 1.95 & \textit{ansia} (49), \textit{stress} (7), \textit{esame} (6) \\
-Psy & 251 & 674 & 0.01 & 1.98 & \textit{ansia} (250), \textit{stress} (88), \textit{sfida} (47), \textit{scuola} (41), \textit{esame} (38), \textit{voto} (38), \textit{futuro} (36), \textit{matematica} (33), \textit{fisica} (29), \textit{numeri} (29), \textit{scienza} (28), \textit{benessere} (27), \textit{statistica} (27) \\
+Psy & 252 & 699 & 0.01 & 1.98 & \textit{ansia} (251), \textit{stress} (89), \textit{sfida} (47), \textit{scuola} (42), \textit{esame} (39), \textit{voto} (39), \textit{futuro} (37), \textit{matematica} (34), \textit{fisica} (29), \textit{numeri} (29), \textit{scienza} (28), \textit{benessere} (27), \textit{statistica} (27) \\
 GPT Psy & 172 & 274 & 0.01 & 1.98 & \textit{ansia} (171), \textit{stress} (39), \textit{esame} (28), \textit{voto} (19), \textit{sfida} (16), \textit{futuro} (14), paura (6), pressione (5), colpa (4), gestione (4) \\
 \bottomrule
 \end{tabular}
@@ -58,14 +58,14 @@ GPT Psy & 172 & 274 & 0.01 & 1.98 & \textit{ansia} (171), \textit{stress} (39), 
 \begin{table}[!hbpt]
 \footnotesize
 \centering
-\caption{Network features of the semantic frame of \textit{\textbf{Wellbeing}} (\textit{benessere}). $N_v$: nodes; $N_e$: edges; $C_i$: local clustering coefficient of the cue; $l_G$: average shortest path length. For each hub, its degree is reported in parentheses; italicised hubs are cue words. H-S: high school; Phys: physics; Psy: psychology; GPT: the matched GPT-oss personas. Networks built on the 17 cue words shared by every cue set, with every association.}
+\caption{Network features of the semantic frame of \textit{\textbf{Wellbeing}} (\textit{benessere}). $N_v$: nodes; $N_e$: edges; $C_i$: local clustering coefficient of the cue; $l_G$: average shortest path length. For each hub, its degree is reported in parentheses; italicised hubs are cue words. H-S: high school; Phys: physics; Psy: psychology; GPT: the matched GPT-oss personas. Networks built on the 18 cue words shared by every cue set (docente and insegnante merged), with every association.}
 \label{tab:network_features_wellbeing}
 \begin{tabular}{lccccp{9cm}}
 \toprule
 Sample & $N_v$ & $N_e$ & $C_i$ & $l_G$ & Hubs (top 5\% of degree distribution) \\
 \midrule
 H-S & 114 & 136 & 0.00 & 1.98 & \textit{benessere} (113), \textit{stress} (14), \textit{creatività} (11), mente (3), sport (3), calma (2), difficile (2), divertimento (2), dormire (2), emotivo (2), felicità (2), fisico (2), fondamentale (2), malessere (2), mentale (2), personale (2), psicologico (2), quotidiano (2), salute (2), sempre (2), serenità (2), sociale (2), spensieratezza (2), vita (2) \\
-GPT H-S & 61 & 75 & 0.01 & 1.96 & \textit{benessere} (60), \textit{stress} (16), avventura (2), calma (2), energia (2), equilibrio (2), forma (2), pace (2), paura (2), relax (2), rilassamento (2), rilassare (2), salute (2), soddisfazione (2), sonno (2), sviluppo (2), tempo (2) \\
+GPT H-S & 62 & 77 & 0.01 & 1.96 & \textit{benessere} (61), \textit{stress} (16), avventura (2), calma (2), energia (2), equilibrio (2), forma (2), \textit{insegnante} (2), pace (2), paura (2), relax (2), rilassamento (2), rilassare (2), salute (2), soddisfazione (2), sonno (2), stile (2), sviluppo (2), tempo (2) \\
 Phys & 52 & 51 & 0.00 & 1.96 & \textit{benessere} (51), acqua (1), affetto (1), amici (1), amore (1), bene (1), calma (1), calmo (1), casa (1), consapevolezza (1), denaro (1), divertirsi (1), economico (1), equilibrio (1), famiglia (1), felicità (1), fisico (1), foresta (1), lavoro (1), leggerezza (1), lento (1), libertà (1), malattia (1), male (1), malessere (1), mare (1), mentale (1), pace (1), passioni (1), positività (1), presenza (1), psicologico (1), relax (1), relazioni (1), ricchezza (1), riposo (1), rottura (1), serenità (1), sicurezza (1), società (1), sole (1), solidità (1), spa (1), speranza (1), sport (1), staccare (1), supporto (1), tempo (1), tranquillità (1), uguaglianza (1), vacanza (1), verde (1) \\
 GPT Phys & 27 & 30 & 0.01 & 1.91 & \textit{benessere} (26), \textit{stress} (5) \\
 Psy & 190 & 339 & 0.01 & 1.98 & \textit{benessere} (189), \textit{futuro} (32), \textit{stress} (31), \textit{conoscenza} (29), \textit{ansia} (27), \textit{scoperta} (26), \textit{scienza} (21), studio (7), vita (7), lavoro (6) \\

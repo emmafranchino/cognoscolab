@@ -61,7 +61,13 @@ COMMON_CUES_RASSERENO = [
     "statistica",
     "stress",
     "voto",
+    # "teacher": insegnante in Set 4, docente in Set 5, merged into one cue (CUE_SYNONYMS)
+    "insegnante",
 ]
+
+# words that are the same concept in different cue sets: the key is recoded as the value, both as a
+# cue and as an association, so that it is one node in every network
+CUE_SYNONYMS = {"docente": "insegnante"}
 
 CUES_EXAM_ANX = ["voto", "esame", "ansia", "benessere"]
 
