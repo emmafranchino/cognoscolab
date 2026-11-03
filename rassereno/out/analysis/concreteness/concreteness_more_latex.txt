@@ -1,0 +1,15 @@
+\begin{table}[!hbpt]
+\centering
+\caption{Frames showing significantly higher concreteness ($|Z| > 1.6449$, $\alpha=0.1$), ordered by decreasing $\bar{x} - \hat{\mu}_0$.}
+\label{tab:concreteness_more}
+\begin{tabular}{llrrrrrr}
+\toprule
+group & keyword & k & $\bar{x}-\hat{\mu}_0$ & $Z$ & Cohen's $d$ & $\bar{x}$ & Cliff's $\delta$ \\
+\midrule
+GPT Phy & School & 31 & 0.38 & 2.08 & 0.38 & 3.36 & 0.24 \\
+Phy & School & 36 & 0.28 & 1.70 & 0.28 & 3.27 & 0.17 \\
+GPT Psy L-anx & School & 74 & 0.20 & 1.72 & 0.20 & 3.19 & 0.14 \\
+GPT Psy & School & 128 & 0.19 & 2.12 & 0.19 & 3.17 & 0.13 \\
+\bottomrule
+\end{tabular}
+\end{table}

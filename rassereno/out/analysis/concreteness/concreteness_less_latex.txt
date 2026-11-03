@@ -1,0 +1,45 @@
+\begin{table}[!hbpt]
+\centering
+\caption{Frames showing significantly lower concreteness ($|Z| > 1.6449$, $\alpha=0.1$), ordered by increasing $\bar{x} - \hat{\mu}_0$.}
+\label{tab:concreteness_less}
+\begin{tabular}{llrrrrrr}
+\toprule
+group & keyword & k & $\bar{x}-\hat{\mu}_0$ & $Z$ & Cohen's $d$ & $\bar{x}$ & Cliff's $\delta$ \\
+\midrule
+GPT Psy L-anx & Science & 42 & -0.44 & -2.80 & 0.45 & 2.54 & 0.26 \\
+GPT Psy & Statistics & 78 & -0.42 & -3.66 & 0.42 & 2.57 & 0.24 \\
+Psy H-anx & Statistics & 62 & -0.41 & -3.24 & 0.41 & 2.57 & 0.22 \\
+GPT Psy L-anx & Statistics & 49 & -0.41 & -2.88 & 0.41 & 2.57 & 0.23 \\
+GPT Psy H-anx & Statistics & 44 & -0.40 & -2.71 & 0.41 & 2.58 & 0.23 \\
+H-S L-anx & Grade & 60 & -0.38 & -2.91 & 0.38 & 2.61 & 0.20 \\
+GPT H-S & Wellbeing & 50 & -0.37 & -2.61 & 0.37 & 2.61 & 0.18 \\
+GPT H-S L-anx & Wellbeing & 28 & -0.36 & -1.91 & 0.36 & 2.62 & 0.17 \\
+GPT H-S H-anx & Wellbeing & 31 & -0.35 & -1.96 & 0.35 & 2.63 & 0.18 \\
+GPT Psy & Science & 76 & -0.34 & -3.04 & 0.34 & 2.64 & 0.19 \\
+Psy & Grade & 159 & -0.33 & -4.14 & 0.32 & 2.66 & 0.17 \\
+GPT Psy L-anx & Mathematics & 60 & -0.32 & -2.47 & 0.32 & 2.67 & 0.16 \\
+GPT Psy H-anx & Wellbeing & 39 & -0.32 & -1.98 & 0.32 & 2.67 & 0.15 \\
+GPT Psy H-anx & Exam & 70 & -0.29 & -2.45 & 0.29 & 2.69 & 0.13 \\
+Psy & Statistics & 94 & -0.29 & -2.83 & 0.29 & 2.69 & 0.15 \\
+H-S & Grade & 104 & -0.28 & -2.81 & 0.28 & 2.71 & 0.14 \\
+Psy L-anx & Grade & 100 & -0.28 & -2.71 & 0.27 & 2.71 & 0.15 \\
+Psy H-anx & Grade & 101 & -0.27 & -2.67 & 0.27 & 2.71 & 0.14 \\
+GPT H-S L-anx & Science & 52 & -0.27 & -1.91 & 0.26 & 2.72 & 0.14 \\
+GPT Psy H-anx & Science & 53 & -0.26 & -1.93 & 0.26 & 2.72 & 0.14 \\
+Psy H-anx & Mathematics & 82 & -0.26 & -2.34 & 0.26 & 2.73 & 0.13 \\
+GPT Psy H-anx & Teacher & 91 & -0.23 & -2.20 & 0.23 & 2.75 & 0.12 \\
+GPT Psy & Teacher & 147 & -0.23 & -2.78 & 0.23 & 2.76 & 0.11 \\
+GPT Psy L-anx & Teacher & 92 & -0.22 & -2.14 & 0.22 & 2.76 & 0.11 \\
+H-S L-anx & Wellbeing & 61 & -0.21 & -1.67 & 0.21 & 2.78 & 0.10 \\
+Psy & Science & 139 & -0.20 & -2.42 & 0.20 & 2.78 & 0.11 \\
+Psy L-anx & Science & 88 & -0.20 & -1.84 & 0.20 & 2.79 & 0.10 \\
+GPT Psy & Mathematics & 100 & -0.19 & -1.93 & 0.19 & 2.79 & 0.09 \\
+GPT Psy L-anx & Grade & 96 & -0.19 & -1.90 & 0.19 & 2.79 & 0.08 \\
+GPT Psy H-anx & Grade & 98 & -0.19 & -1.84 & 0.19 & 2.79 & 0.08 \\
+GPT H-S & Grade & 103 & -0.18 & -1.85 & 0.18 & 2.80 & 0.09 \\
+GPT Psy & Exam & 130 & -0.18 & -2.03 & 0.18 & 2.81 & 0.07 \\
+Psy & Mathematics & 130 & -0.17 & -1.94 & 0.17 & 2.81 & 0.09 \\
+Psy & Anxiety & 188 & -0.15 & -2.05 & 0.15 & 2.84 & 0.06 \\
+\bottomrule
+\end{tabular}
+\end{table}
