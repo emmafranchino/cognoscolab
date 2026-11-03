@@ -25,9 +25,7 @@ first_year_032,ansia,2.0,respiro,3.0,battito,3.0,agitazione,2.0
 first_year_035,ansia,,aspettative,,difficoltà,,problemi,
 first_year_037,ansia,3.0,,,respiro,4.0,paura,4.0
 first_year_044,ansia,1.0,blocco,1.0,muro,1.0,difficoltà,1.0
-first_year_046,ansia,1.0,,,,,,
 first_year_048,ansia,1.0,blocco,1.0,muro,1.0,difficoltà,1.0
-first_year_049,ansia,1.0,paura,2.0,lacrime,,tristezza,
 second_year_003,ansia,2.0,dubbi,3.0,incapacità,2.0,esame,3.0
 second_year_004,ansia,1.0,angoscia,1.0,stress,1.0,dislessia,1.0
 second_year_005,ansia,1.0,soffocante,1.0,lavoro,2.0,tempo,3.0
@@ -57,7 +55,6 @@ second_year_059,ansia,1.0,respiro,4.0,benessere,5.0,meditazione,3.0
 second_year_064,ansia,,esami,2.0,paura,1.0,futuro,3.0
 second_year_065,ansia,2.0,prestazione,1.0,problemi,2.0,disturbi,1.0
 second_year_066,ansia,2.0,stress,2.0,disagio,2.0,tachicardia,2.0
-second_year_068,ansia,1.0,paura,1.0,0,,0,
 second_year_069,ansia,1.0,panico,1.0,agitazione,1.0,poco autocontrollo,1.0
 second_year_070,ansia,1.0,panico,1.0,disturbo,1.0,attacco,1.0
 third_year_004,ansia,3.0,stress,1.0,studio,4.0,tachicardia,1.0
@@ -108,9 +105,7 @@ first_year_032,benessere,5.0,comunità,5.0,serenità,5.0,calma,5.0
 first_year_035,benessere,,fisico,,mentale,,libertà,
 first_year_037,benessere,4.0,salute,4.0,serenità,4.0,persona,4.0
 first_year_044,benessere,5.0,tranquillità,5.0,pace,5.0,economico,5.0
-first_year_046,benessere,5.0,essenziale,,tranquillità,,,
 first_year_048,benessere,5.0,tranquillità,5.0,pace,5.0,economico,5.0
-first_year_049,benessere,5.0,tranquillità,5.0,amicizia,,amore,
 second_year_003,benessere,5.0,obbiettivo,4.0,serenità,5.0,equilibrio,5.0
 second_year_004,benessere,5.0,consapevolezza,5.0,saggezza,5.0,stoicismo,5.0
 second_year_005,benessere,4.0,felicità,5.0,costoso,1.0,duraturo,4.0
@@ -140,8 +135,7 @@ second_year_059,benessere,5.0,salute,5.0,yoga,3.0,respiro,5.0
 second_year_064,benessere,,salute,4.0,denaro,4.0,natura,5.0
 second_year_065,benessere,5.0,psicologico,5.0,equilibrio,5.0,fisico,5.0
 second_year_066,benessere,5.0,salute,5.0,felicità,5.0,allegria,5.0
-second_year_068,benessere,5.0,salute,5.0,0,,0,
-second_year_069,benessere,5.0,salute,5.0,vita,5.0,0,
+second_year_069,benessere,5.0,salute,5.0,vita,5.0,,
 second_year_070,benessere,5.0,relax,5.0,spa,5.0,felicità,5.0
 third_year_004,benessere,5.0,calma,5.0,salute,5.0,mentale,5.0
 third_year_008,benessere,5.0,calma,5.0,rilassato,5.0,mai,1.0
@@ -186,7 +180,6 @@ first_year_032,biologia,3.0,corpo umano,3.0,scienza,4.0,vita,5.0
 first_year_035,biologia,3.0,chimica,3.0,cellule,3.0,vita,4.0
 first_year_044,biologia,2.0,difficoltà,2.0,scienza,2.0,complessità,3.0
 first_year_048,biologia,2.0,difficoltà,2.0,scienza,2.0,complessità,3.0
-first_year_049,biologia,3.0,,,cellula,,vita,
 second_year_003,biologia,4.0,affascinante,4.0,tanta,3.0,sicurezza,4.0
 second_year_004,biologia,3.0,rusconi,3.0,substrato,4.0,entropy,4.0
 second_year_005,biologia,5.0,scienza,2.0,animale,2.0,certezza,5.0
@@ -216,7 +209,6 @@ second_year_059,biologia,3.0,comportamento,4.0,animali,4.0,marina,3.0
 second_year_064,biologia,,animali,3.0,cellula,3.0,clorofilla,2.0
 second_year_065,biologia,4.0,animale,3.0,vegetale,3.0,cellule,3.0
 second_year_066,biologia,3.0,scienza,3.0,natura,4.0,ricerca,4.0
-second_year_068,biologia,3.0,scienze,4.0,0,,0,
 second_year_069,biologia,3.0,piante,3.0,laboratorio,3.0,ricerca,4.0
 second_year_070,biologia,3.0,scienza,3.0,materia,3.0,atomi,2.0
 third_year_004,biologia,3.0,interessante,5.0,cellule,3.0,animali,3.0
@@ -267,9 +259,7 @@ first_year_032,cognizione,4.0,pensiero,4.0,consapevolezza,5.0,scienza,4.0
 first_year_035,cognizione,4.0,mente,3.0,percezione,3.0,soggettiva,3.0
 first_year_037,cognizione,3.0,percezione,3.0,,,,
 first_year_044,cognizione,5.0,consapevolezza,5.0,mente,5.0,sicurezza,5.0
-first_year_046,cognizione,4.0,,,,,,
 first_year_048,cognizione,5.0,consapevolezza,5.0,mente,5.0,sicurezza,5.0
-first_year_049,cognizione,3.0,conoscere,,riconoscere,,capire,
 second_year_003,cognizione,,,,,,,
 second_year_004,cognizione,4.0,animale,3.0,vallortigara,5.0,cognivito,3.0
 second_year_005,cognizione,3.0,animale,3.0,varia,2.0,dubbio,3.0
@@ -299,7 +289,6 @@ second_year_059,cognizione,3.0,psicologia,4.0,pensiero,4.0,computer,3.0
 second_year_064,cognizione,,animale,,cervello,,mente,
 second_year_065,cognizione,4.0,animale,3.0,modelli,4.0,psicologia,4.0
 second_year_066,cognizione,5.0,sapere,3.0,sensazione,3.0,ricerca,4.0
-second_year_068,cognizione,4.0,mente,4.0,0,,0,
 second_year_069,cognizione,4.0,animale,3.0,conoscenza,4.0,percezione,4.0
 second_year_070,cognizione,3.0,animale,3.0,cervello,4.0,psicologia,4.0
 third_year_004,cognizione,3.0,animale,3.0,temporale,4.0,di se',4.0
@@ -350,9 +339,7 @@ first_year_032,compito,3.0,sfida,4.0,soddisfazione,5.0,difficile,2.0
 first_year_035,compito,2.0,scadenze,3.0,impegno,1.0,responsabilità,5.0
 first_year_037,compito,3.0,scuola,3.0,stress,3.0,,
 first_year_044,compito,3.0,difficoltà,2.0,preoccupazioni,1.0,sfida,4.0
-first_year_046,compito,2.0,lungo,2.0,complicato,2.0,,
 first_year_048,compito,3.0,difficoltà,2.0,preoccupazioni,1.0,sfida,4.0
-first_year_049,compito,2.0,esame,2.0,voto,4.0,responsabilità,
 second_year_003,compito,4.0,sfida,4.0,confronto,3.0,aiuto,4.0
 second_year_004,compito,1.0,test,3.0,valutazione,1.0,prestazione,2.0
 second_year_005,compito,3.0,stimolante,5.0,fatica,1.0,frustrante,2.0
@@ -382,7 +369,6 @@ second_year_059,compito,2.0,comando,3.0,esercizi,3.0,completamento,3.0
 second_year_064,compito,,studio,3.0,conoscenza,4.0,sapere,4.0
 second_year_065,compito,3.0,esame,3.0,valutazione,4.0,apprendimento,5.0
 second_year_066,compito,3.0,sfida,2.0,prova,2.0,stress,1.0
-second_year_068,compito,3.0,assegnazione,3.0,scuola,3.0,0,
 second_year_069,compito,3.0,concentrazione,4.0,impegno,5.0,prova,3.0
 second_year_070,compito,3.0,complesso,4.0,banale,4.0,arduo,4.0
 third_year_004,compito,3.0,complesso,2.0,divertente,5.0,noioso,1.0
@@ -433,9 +419,7 @@ first_year_032,comportamento,3.0,corretto,4.0,auspicabile,4.0,osservabile,3.0
 first_year_035,comportamento,5.0,responsabilità,1.0,immaturo,1.0,personale,4.0
 first_year_037,comportamento,,,,,,adeguato,3.0
 first_year_044,comportamento,5.0,differente,3.0,sfaccettato,2.0,diverso,3.0
-first_year_046,comportamento,3.0,negativo,2.0,,,,
 first_year_048,comportamento,5.0,differente,3.0,sfaccettato,2.0,diverso,3.0
-first_year_049,comportamento,3.0,reazione,3.0,azione,,feedback,
 second_year_003,comportamento,4.0,socievole,5.0,positivo,5.0,speranzoso,4.0
 second_year_004,comportamento,3.0,skinner,5.0,comportamentismo,5.0,watson,4.0
 second_year_005,comportamento,2.0,varietà,4.0,giudizio,1.0,distrazione,1.0
@@ -465,8 +449,7 @@ second_year_059,comportamento,4.0,mente,5.0,carattere,4.0,azione,3.0
 second_year_064,comportamento,,arrogante,1.0,persona,3.0,cambiare,3.0
 second_year_065,comportamento,3.0,corretto,5.0,etico,5.0,difensivo,3.0
 second_year_066,comportamento,3.0,reazione,3.0,emozione,3.0,sentimento,3.0
-second_year_068,comportamento,3.0,atteggiamento,3.0,0,,0,
-second_year_069,comportamento,3.0,azioni,3.0,reazioni,3.0,0,
+second_year_069,comportamento,3.0,azioni,3.0,reazioni,3.0,,
 second_year_070,comportamento,3.0,personalità,3.0,motivazione,4.0,cervello,3.0
 third_year_004,comportamento,5.0,rispettoso,5.0,educato,5.0,moderato,5.0
 third_year_008,comportamento,3.0,buono,4.0,decoroso,3.0,male,2.0
@@ -511,9 +494,7 @@ first_year_031,conoscenza,4.0,coscienza,4.0,sapere,4.0,socrate,3.0
 first_year_032,conoscenza,4.0,scientifica,3.0,umanistica,4.0,salvezza,5.0
 first_year_037,conoscenza,4.0,cultura,4.0,approfondire,4.0,sapere,4.0
 first_year_044,conoscenza,5.0,scoperta,5.0,importanza,5.0,intelligenza,5.0
-first_year_046,conoscenza,4.0,ricerca,4.0,impegno,5.0,,
 first_year_048,conoscenza,5.0,scoperta,5.0,importanza,5.0,intelligenza,5.0
-first_year_049,conoscenza,5.0,intelligenza,4.0,cultura,4.0,scuola,
 second_year_003,conoscenza,5.0,forza,5.0,generale,3.0,processo,3.0
 second_year_004,conoscenza,5.0,ulisse,4.0,rete,3.0,interazioni,3.0
 second_year_005,conoscenza,4.0,potere,2.0,superiorità,1.0,curiosità,4.0
@@ -543,7 +524,6 @@ second_year_059,conoscenza,4.0,nozione,4.0,studio,3.0,sapere,4.0
 second_year_064,conoscenza,,professori,2.0,genitori,4.0,scienza,3.0
 second_year_065,conoscenza,5.0,innata,4.0,appresa,4.0,apprendimento,5.0
 second_year_066,conoscenza,5.0,sapere,5.0,intelligenza,4.0,serietà,4.0
-second_year_068,conoscenza,5.0,sapere,5.0,linguaggio,4.0,0,
 second_year_069,conoscenza,4.0,sapere,5.0,imparare,5.0,apprendere,5.0
 second_year_070,conoscenza,3.0,scientifica,3.0,informazioni,3.0,matematica,3.0
 third_year_004,conoscenza,5.0,potere,5.0,fondamentale,5.0,mentalità aperta,5.0
@@ -599,9 +579,7 @@ first_year_032,creatività,5.0,qualità,5.0,fantasia,5.0,fondamentale,5.0
 first_year_035,creatività,4.0,pensiero,3.0,costruire,3.0,conoscenza,4.0
 first_year_037,creatività,4.0,pittura,3.0,scrittura,4.0,musica,5.0
 first_year_044,creatività,5.0,libertà,5.0,espressione,5.0,diversità,5.0
-first_year_046,creatività,5.0,arte,4.0,colori,4.0,,
 first_year_048,creatività,5.0,libertà,5.0,espressione,5.0,diversità,5.0
-first_year_049,creatività,5.0,arte,5.0,innovazione,,bambino,
 second_year_003,creatività,4.0,libera,4.0,spontanea,3.0,solare,4.0
 second_year_004,creatività,4.0,permutazione,3.0,semiotica,4.0,eco,5.0
 second_year_005,creatività,4.0,colori,3.0,opprtunità,4.0,immaginazioni,5.0
@@ -631,7 +609,6 @@ second_year_059,creatività,4.0,disegnare,4.0,scrivere,5.0,immaginare,4.0
 second_year_064,creatività,,fantasia,4.0,disegno,4.0,pittura,4.0
 second_year_065,creatività,4.0,immaginazione,4.0,fantasia,4.0,novità,3.0
 second_year_066,creatività,5.0,gioia,3.0,fantasia,3.0,estroversione,3.0
-second_year_068,creatività,4.0,arte,3.0,immaginazione,3.0,fantasia,3.0
 second_year_069,creatività,4.0,immaginazione,4.0,arte,5.0,pensieri,4.0
 second_year_070,creatività,4.0,arte,4.0,colori,3.0,acquerello,3.0
 third_year_004,creatività,5.0,immaginazione,5.0,innovazione,5.0,allegria,5.0
@@ -682,9 +659,7 @@ first_year_032,curiosità,5.0,salvezza,5.0,cultura,5.0,qualità,5.0
 first_year_035,curiosità,,creatività,,propositività,,forza,
 first_year_037,curiosità,4.0,novità,4.0,scoperta,4.0,,
 first_year_044,curiosità,5.0,novità,5.0,scoperta,5.0,cultura,5.0
-first_year_046,curiosità,4.0,novità,4.0,,,,
 first_year_048,curiosità,5.0,novità,5.0,scoperta,5.0,cultura,5.0
-first_year_049,curiosità,5.0,gioia,,infanzia,,stimolo,
 second_year_003,curiosità,5.0,affascinante,4.0,vita,4.0,non trappola,4.0
 second_year_004,curiosità,5.0,realtà,3.0,scoperta,5.0,ulisse,4.0
 second_year_005,curiosità,4.0,dannosa,1.0,stimolante,4.0,pettegolezzi,3.0
@@ -714,7 +689,6 @@ second_year_059,curiosità,4.0,idea,4.0,pensiero,3.0,risoluzione,4.0
 second_year_064,curiosità,,bambini,3.0,teoria,3.0,scoperta,4.0
 second_year_065,curiosità,4.0,ricerca,5.0,domande,4.0,interesse,4.0
 second_year_066,curiosità,4.0,ricerca,3.0,ambizione,3.0,volontà,4.0
-second_year_068,curiosità,5.0,interesse,5.0,provare,5.0,0,
 second_year_069,curiosità,4.0,creatività,4.0,immaginazone,4.0,interesse,5.0
 second_year_070,curiosità,4.0,passione,4.0,sconosciuto,2.0,interesse,4.0
 third_year_004,curiosità,5.0,fondamentale,5.0,scoperte,5.0,esplorare,5.0
@@ -765,9 +739,7 @@ first_year_032,emozione,4.0,positiva,5.0,gioia,5.0,inside out,5.0
 first_year_035,emozione,4.0,espressione,3.0,contagiosa,3.0,liberatoria,3.0
 first_year_037,emozione,4.0,,,bellezza,4.0,amore,5.0
 first_year_044,emozione,5.0,positiva,5.0,negativa,2.0,vitalità,5.0
-first_year_046,emozione,3.0,positiva,5.0,rabbia,2.0,,
 first_year_048,emozione,5.0,positiva,5.0,negativa,2.0,vitalità,5.0
-first_year_049,emozione,4.0,amore,5.0,gioia,,tristezza,
 second_year_003,emozione,3.0,forte,5.0,controllarle,3.0,vita,4.0
 second_year_004,emozione,3.0,interne,3.0,costrutto,4.0,zen,4.0
 second_year_005,emozione,5.0,intensità,2.0,vitalità,4.0,irrazionale,3.0
@@ -797,7 +769,6 @@ second_year_059,emozione,4.0,sentimento,4.0,gioia,4.0,tristezza,3.0
 second_year_064,emozione,,felicità,4.0,ansia,1.0,tristezza,1.0
 second_year_065,emozione,4.0,positiva,4.0,negativa,2.0,forte,3.0
 second_year_066,emozione,3.0,sentimento,3.0,sensazione,3.0,reazione,3.0
-second_year_068,emozione,4.0,felicità,5.0,tristezza,2.0,paura,1.0
 second_year_069,emozione,4.0,sentimento,4.0,parole,3.0,felicità,5.0
 second_year_070,emozione,4.0,positiva,4.0,negativa,1.0,cervello,3.0
 third_year_004,emozione,5.0,negativa,4.0,positiva,5.0,incontrollabile,3.0
@@ -848,9 +819,7 @@ first_year_032,equazione,2.0,numeri,2.0,un gioco difficile,3.0,risultato,4.0
 first_year_035,equazione,1.0,matematica,1.0,numerica,,noiosa,1.0
 first_year_037,equazione,3.0,,,matematica,3.0,numeri,3.0
 first_year_044,equazione,2.0,complessa,3.0,difficile,2.0,regole,3.0
-first_year_046,equazione,1.0,difficile,1.0,frustrazione,1.0,,
 first_year_048,equazione,2.0,complessa,3.0,difficile,2.0,regole,3.0
-first_year_049,equazione,2.0,matematica,3.0,x,,retta,
 second_year_003,equazione,3.0,paura,2.0,fierezza,4.0,sfida,4.0
 second_year_004,equazione,1.0,differenziali,1.0,numeriche,2.0,complesse,3.0
 second_year_005,equazione,4.0,complessa,3.0,ostacolo,4.0,vittoria,3.0
@@ -880,7 +849,6 @@ second_year_059,equazione,3.0,lavagna,3.0,segno,3.0,numeri,3.0
 second_year_064,equazione,,lettere,2.0,numeri,2.0,calcoli,2.0
 second_year_065,equazione,3.0,formule,3.0,numeri,3.0,risultato,2.0
 second_year_066,equazione,3.0,matematica,3.0,operazione,4.0,uguaglianza,4.0
-second_year_068,equazione,2.0,matematica,3.0,risolvere,2.0,0,
 second_year_069,equazione,1.0,stress,1.0,grafico,3.0,algebra,1.0
 second_year_070,equazione,3.0,x,3.0,primo grado,3.0,secondo grado,3.0
 third_year_004,equazione,3.0,divertente,4.0,utile,4.0,sforzo,3.0
@@ -931,9 +899,7 @@ first_year_032,esame,3.0,soddisfazione,5.0,maturità,5.0,università,4.0
 first_year_035,esame,,voto,,media,,ansia,
 first_year_037,esame,3.0,scritto,3.0,università,4.0,orale,2.0
 first_year_044,esame,1.0,difficoltà,1.0,ansia,1.0,stress,1.0
-first_year_046,esame,2.0,difficile,2.0,voto,1.0,studio,3.0
 first_year_048,esame,1.0,difficoltà,1.0,ansia,1.0,stress,1.0
-first_year_049,esame,3.0,ansia,1.0,valutazione,,futuro,
 second_year_003,esame,3.0,ansia,2.0,sfida,4.0,confronto,3.0
 second_year_004,esame,2.0,sangue,3.0,medico,5.0,valutazione,1.0
 second_year_005,esame,3.0,ostacolo,3.0,distruggere,4.0,giudizio,1.0
@@ -963,7 +929,6 @@ second_year_059,esame,2.0,università,3.0,sangue,4.0,voto,2.0
 second_year_064,esame,,ansia,1.0,studio,2.0,prova,2.0
 second_year_065,esame,3.0,università,3.0,esito,4.0,studio,3.0
 second_year_066,esame,2.0,stress,3.0,voto,3.0,lavoro,3.0
-second_year_068,esame,3.0,voto,2.0,studiare,4.0,0,
 second_year_069,esame,3.0,ansia,1.0,agitazione,1.0,dimostrazione,4.0
 second_year_070,esame,3.0,tosto,2.0,fattibile,4.0,facile,4.0
 third_year_004,esame,3.0,difficile,2.0,deludente,2.0,medico,4.0
@@ -1014,9 +979,7 @@ first_year_032,esercitazione,3.0,prova,3.0,aiuto,4.0,sfida,4.0
 first_year_035,esercitazione,,fisica,,mentale,,fatica,
 first_year_037,esercitazione,3.0,,,lavoro,4.0,esame,3.0
 first_year_044,esercitazione,5.0,possibilità,5.0,miglioramento,5.0,comprensione,5.0
-first_year_046,esercitazione,3.0,difficile,1.0,,,,
 first_year_048,esercitazione,5.0,possibilità,5.0,miglioramento,5.0,comprensione,5.0
-first_year_049,esercitazione,3.0,prova,2.0,test,,,
 second_year_003,esercitazione,5.0,aiuto,4.0,mettersi alla prova,5.0,tranquillità,5.0
 second_year_004,esercitazione,3.0,esercizio,3.0,autovalutazione,5.0,miglioramento,5.0
 second_year_005,esercitazione,3.0,pallosa,1.0,lunga,2.0,inattesa,4.0
@@ -1046,7 +1009,6 @@ second_year_059,esercitazione,2.0,esame,1.0,documenti,2.0,evacuazione,1.0
 second_year_064,esercitazione,,importante,,utile,,esame,
 second_year_065,esercitazione,2.0,preparazione,2.0,esame,3.0,scuola,3.0
 second_year_066,esercitazione,2.0,prova,3.0,verifica,2.0,giudizio,3.0
-second_year_068,esercitazione,4.0,lavoro,3.0,prova,3.0,0,
 second_year_069,esercitazione,3.0,pratica,4.0,imparare,5.0,apprendere,5.0
 second_year_070,esercitazione,3.0,ricerca,3.0,esercizio,3.0,comprensione,4.0
 third_year_004,esercitazione,4.0,utile,4.0,efficace,4.0,di supporto,4.0
@@ -1097,9 +1059,7 @@ first_year_032,fisica,3.0,fenomeni,3.0,velocità,3.0,forza di gravità,3.0
 first_year_035,fisica,1.0,vettori,,formule,,forze,
 first_year_037,fisica,3.0,matematica,3.0,,,,
 first_year_044,fisica,1.0,formule,3.0,regole,3.0,concetti,5.0
-first_year_046,fisica,2.0,noiosa,2.0,difficile,2.0,,
 first_year_048,fisica,1.0,formule,3.0,regole,3.0,concetti,5.0
-first_year_049,fisica,1.0,vuoto,,,,,
 second_year_003,fisica,2.0,mnemomnica,2.0,noiosa,3.0,difficile,3.0
 second_year_004,fisica,3.0,materia,3.0,realtà,3.0,verità,4.0
 second_year_005,fisica,5.0,completa,2.0,descrittiva,3.0,complicata,1.0
@@ -1129,8 +1089,7 @@ second_year_059,fisica,1.0,dinamica,1.0,cinetica,1.0,moto,1.0
 second_year_064,fisica,,formule,2.0,calcoli,2.0,numeri,2.0
 second_year_065,fisica,2.0,forze,2.0,energie,2.0,newton,3.0
 second_year_066,fisica,3.0,matematica,3.0,numeri,3.0,calcoli,3.0
-second_year_068,fisica,3.0,realatività,3.0,0,,0,
-second_year_069,fisica,1.0,stress,1.0,difficile,1.0,0,
+second_year_069,fisica,1.0,stress,1.0,difficile,1.0,,
 second_year_070,fisica,1.0,difficile,1.0,newton,1.0,pascal,1.0
 third_year_004,fisica,1.0,formule,3.0,leggi,2.0,newton,5.0
 third_year_008,fisica,2.0,difficile,1.0,affascinante,4.0,ignoranza,1.0
@@ -1180,9 +1139,7 @@ first_year_032,frustrazione,1.0,rabbia,1.0,stress,1.0,malessere,1.0
 first_year_035,frustrazione,,pesantezza,,ricorrente,,ansia,
 first_year_037,frustrazione,3.0,ansia,3.0,stress,3.0,paura,4.0
 first_year_044,frustrazione,1.0,errori,1.0,preoccupazioni,1.0,difficoltà,1.0
-first_year_046,frustrazione,2.0,crisi,1.0,,,,
 first_year_048,frustrazione,1.0,errori,1.0,preoccupazioni,1.0,difficoltà,1.0
-first_year_049,frustrazione,1.0,mollare,1.0,rinuncia,,sconforto,
 second_year_003,frustrazione,2.0,vuoto,1.0,logorante,1.0,esame,3.0
 second_year_004,frustrazione,1.0,ansia,1.0,malessere,1.0,incapacità,1.0
 second_year_005,frustrazione,2.0,inutile,4.0,onnipresente,3.0,logorante,1.0
@@ -1212,7 +1169,6 @@ second_year_059,frustrazione,1.0,sollievo,4.0,rabbia,2.0,frusta,1.0
 second_year_064,frustrazione,,malessere,2.0,rabbia,2.0,lacrime,1.0
 second_year_065,frustrazione,1.0,mentale,1.0,desideri,5.0,insoddisfazione,1.0
 second_year_066,frustrazione,2.0,rabbia,2.0,stress,1.0,delusione,1.0
-second_year_068,frustrazione,1.0,ansia,1.0,0,,0,
 second_year_069,frustrazione,1.0,rabbia,1.0,esaurimento,1.0,stanchezza,1.0
 second_year_070,frustrazione,2.0,irritabilità,2.0,negatività,1.0,inappagato,2.0
 third_year_004,frustrazione,1.0,stress,1.0,malessere,1.0,tristezza,1.0
@@ -1263,9 +1219,7 @@ first_year_032,futuro,3.0,distopico,1.0,utopico,5.0,progresso,4.0
 first_year_035,futuro,,incerto,,sconosciuto,,lontano,
 first_year_037,futuro,4.0,novità,4.0,scoperta,4.0,domande,3.0
 first_year_044,futuro,5.0,intelligenza artificiale,3.0,tecnologie,2.0,computer,2.0
-first_year_046,futuro,4.0,computer,4.0,scienza,4.0,tecnologia,4.0
 first_year_048,futuro,5.0,intelligenza artificiale,3.0,tecnologie,2.0,computer,2.0
-first_year_049,futuro,4.0,lontano,1.0,difficile,,,
 second_year_003,futuro,4.0,ansia,2.0,confronto,3.0,impazienza,3.0
 second_year_004,futuro,5.0,incertezza,1.0,casualità,3.0,timore,1.0
 second_year_005,futuro,3.0,speranza,1.0,pessimismo,1.0,disastro,1.0
@@ -1295,8 +1249,7 @@ second_year_059,futuro,4.0,casa,4.0,figli,4.0,estero,4.0
 second_year_064,futuro,,lavoro,2.0,incertezza,2.0,paura,2.0
 second_year_065,futuro,4.0,prossimo,4.0,incertezza,2.0,difficoltà,2.0
 second_year_066,futuro,3.0,scienza,4.0,ricerca,3.0,tempo,3.0
-second_year_068,futuro,4.0,paura,1.0,lavoro,3.0,famiglia,5.0
-second_year_069,futuro,5.0,lavoro,4.0,famiglia,5.0,0,
+second_year_069,futuro,5.0,lavoro,4.0,famiglia,5.0,,
 second_year_070,futuro,3.0,tempo verbale,3.0,imprevedibile,2.0,avanti,3.0
 third_year_004,futuro,2.0,incerto,2.0,precario,2.0,vicino,3.0
 third_year_008,futuro,2.0,incerto,1.0,difficile,1.0,vicino,1.0
@@ -1346,9 +1299,7 @@ first_year_032,grafico,2.0,retta,2.0,parabola,2.0,equazione,2.0
 first_year_035,grafico,1.0,numeri,1.0,percentuali,3.0,matematica,1.0
 first_year_037,grafico,3.0,torta,4.0,numeri,3.0,percentuale,3.0
 first_year_044,grafico,4.0,comprensione,4.0,percentuali,3.0,semplificato,4.0
-first_year_046,grafico,2.0,dati,2.0,noia,2.0,matematica,2.0
 first_year_048,grafico,4.0,comprensione,4.0,percentuali,3.0,semplificato,4.0
-first_year_049,grafico,3.0,immagine,3.0,rappresentazione,,risultato,
 second_year_003,grafico,2.0,ansia,2.0,lettura,4.0,linee,3.0
 second_year_004,grafico,3.0,rappresentazione,3.0,immagine,3.0,visualizzazione,5.0
 second_year_005,grafico,3.0,matematica,4.0,torta,5.0,statistica,3.0
@@ -1378,7 +1329,6 @@ second_year_059,grafico,1.0,funzioni,1.0,disegni,2.0,comprendere,3.0
 second_year_064,grafico,,tabella,,dati,,linee,
 second_year_065,grafico,3.0,a barre,3.0,istogramma,3.0,a torta,3.0
 second_year_066,grafico,3.0,linee,3.0,punti,3.0,dati,3.0
-second_year_068,grafico,3.0,rappresentazione,3.0,0,,0,
 second_year_069,grafico,3.0,matematica,1.0,statistica,2.0,ascissa,3.0
 second_year_070,grafico,2.0,ordinate,3.0,ascisse,3.0,cartesiano,3.0
 third_year_004,grafico,1.0,rette,1.0,ascisse,1.0,ordinate,1.0
@@ -1429,9 +1379,7 @@ first_year_032,insegnante,3.0,scuola,4.0,laurea,4.0,sotto pagato,1.0
 first_year_035,insegnante,3.0,modello,1.0,severità,2.0,test,2.0
 first_year_037,insegnante,3.0,,,,,,
 first_year_044,insegnante,5.0,istruzione,5.0,mentore,5.0,intelligenza,5.0
-first_year_046,insegnante,3.0,scuola,3.0,,,,
 first_year_048,insegnante,5.0,istruzione,5.0,mentore,5.0,intelligenza,5.0
-first_year_049,insegnante,4.0,disponibile,,esperto,,,
 second_year_003,insegnante,4.0,comprensivo,4.0,aiuta,4.0,spiega,5.0
 second_year_004,insegnante,3.0,stella,4.0,canal,4.0,educatore,3.0
 second_year_005,insegnante,2.0,gerarchia,1.0,giudizio,1.0,incosciente,2.0
@@ -1461,7 +1409,6 @@ second_year_059,insegnante,3.0,classe,3.0,maestra,4.0,bambini,5.0
 second_year_064,insegnante,,lezione,2.0,conoscenza,4.0,laurea,4.0
 second_year_065,insegnante,4.0,turatto,5.0,materia,3.0,scuola,3.0
 second_year_066,insegnante,3.0,guida,3.0,aiuto,3.0,scuola,3.0
-second_year_068,insegnante,4.0,formazione,4.0,spiegare,4.0,0,
 second_year_069,insegnante,4.0,guida,4.0,istruzione,5.0,esperienza,5.0
 second_year_070,insegnante,3.0,severo,3.0,disponibile,4.0,pretenzioso,3.0
 third_year_004,insegnante,4.0,rispetto,5.0,passione,5.0,istruzione,5.0
@@ -1512,9 +1459,7 @@ first_year_032,laurea,5.0,dottorato,5.0,corona d’alloro,5.0,libertà,5.0
 first_year_035,laurea,,conoscenza,,soddisfazione,,lavoro,
 first_year_037,laurea,4.0,triennale,4.0,magistrale,3.0,,
 first_year_044,laurea,5.0,soddisfazione,5.0,opportunità,5.0,importante,5.0
-first_year_046,laurea,4.0,eccitazione,,,,,
 first_year_048,laurea,5.0,soddisfazione,5.0,opportunità,5.0,importante,5.0
-first_year_049,laurea,2.0,difficile,,lunga,,utile,
 second_year_003,laurea,4.0,traguardo,5.0,impazienza,3.0,ansia,2.0
 second_year_004,laurea,3.0,varietà,3.0,investimento,4.0,triennale,3.0
 second_year_005,laurea,3.0,vicina,3.0,traguardo,2.0,festa,5.0
@@ -1539,12 +1484,11 @@ second_year_047,laurea,3.0,università,3.0,impegno,5.0,incertezza,1.0
 second_year_049,laurea,5.0,realizzazione,5.0,determinazione,5.0,fatica,3.0
 second_year_050,laurea,5.0,emozione,5.0,speranza,5.0,soddisfazione,5.0
 second_year_053,laurea,4.0,obiettivo,5.0,soddisfazione,5.0,orgoglio,5.0
-second_year_056,laurea,5.0,triennale,5.0,magistrale,5.0,,5.0
+second_year_056,laurea,5.0,triennale,5.0,magistrale,5.0,110,5.0
 second_year_059,laurea,4.0,triennale,3.0,magistrale,5.0,alloro,5.0
 second_year_064,laurea,,esami,2.0,ansia,1.0,conoscenza,4.0
 second_year_065,laurea,4.0,magistrale,4.0,triennale,4.0,alloro,5.0
 second_year_066,laurea,3.0,obbiettivo,2.0,sforzo,3.0,traguardo,3.0
-second_year_068,laurea,5.0,triennale,4.0,magistrale,5.0,psicologia,5.0
 second_year_069,laurea,5.0,obiettivo,5.0,soddisfazione,5.0,felicità,5.0
 second_year_070,laurea,4.0,triennale,4.0,voto,3.0,festa,4.0
 third_year_004,laurea,5.0,necessaria,5.0,titolo,5.0,valore,5.0
@@ -1595,9 +1539,7 @@ first_year_032,lavoro,4.0,salario,4.0,tempo,3.0,sogno,5.0
 first_year_035,lavoro,4.0,stipendio,1.0,fatica,1.0,obiettivo,
 first_year_037,lavoro,4.0,,,gruppo,,soldi,
 first_year_044,lavoro,4.0,soddisfazione,5.0,difficoltà,3.0,impegno,4.0
-first_year_046,lavoro,3.0,frustrante,2.0,novità,4.0,futuro,3.0
 first_year_048,lavoro,4.0,soddisfazione,5.0,difficoltà,3.0,impegno,4.0
-first_year_049,lavoro,4.0,soldi,,sicurezza,,fatica,
 second_year_003,lavoro,3.0,monotono,2.0,vita,4.0,troppo,3.0
 second_year_004,lavoro,4.0,attività,3.0,società,3.0,responsabilità,4.0
 second_year_005,lavoro,3.0,soldi,1.0,hobby,5.0,necessario,4.0
@@ -1627,7 +1569,6 @@ second_year_059,lavoro,2.0,pesantezza,1.0,compiti,2.0,responsabilità,2.0
 second_year_064,lavoro,,fatica,,stipendio,,capo,
 second_year_065,lavoro,4.0,cameriera,4.0,psicologa,4.0,soldi,4.0
 second_year_066,lavoro,4.0,soldi,3.0,obbiettivo,2.0,stress,1.0
-second_year_068,lavoro,4.0,obiettivo,4.0,0,,0,
 second_year_069,lavoro,4.0,impegno,5.0,stress,1.0,costanza,5.0
 second_year_070,lavoro,3.0,arduo,3.0,part time,3.0,faticoso,2.0
 third_year_004,lavoro,2.0,impegnativo,3.0,stipendio,3.0,dedizione,5.0
@@ -1678,9 +1619,7 @@ first_year_032,matematica,2.0,numeri,2.0,equazioni,2.0,espressioni,2.0
 first_year_035,matematica,,difficile,,noiosa,,onnipresente,
 first_year_037,matematica,3.0,numeri,3.0,problemi,3.0,esercizi,3.0
 first_year_044,matematica,3.0,complessa,2.0,sfida,4.0,soddisfazione,5.0
-first_year_046,matematica,2.0,noioso,1.0,difficile,1.0,,
 first_year_048,matematica,3.0,complessa,2.0,sfida,4.0,soddisfazione,5.0
-first_year_049,matematica,4.0,divertimento,5.0,novità,4.0,equazione,
 second_year_003,matematica,4.0,interessante,5.0,noiosa,3.0,autostima,5.0
 second_year_004,matematica,3.0,quantificare,4.0,numeri,3.0,insiemi,3.0
 second_year_005,matematica,5.0,stimolo,2.0,superamento,4.0,ragionare,5.0
@@ -1710,7 +1649,6 @@ second_year_059,matematica,1.0,numeri,3.0,lettere,2.0,esercizi,2.0
 second_year_064,matematica,,numeri,2.0,somme,2.0,sottrazioni,2.0
 second_year_065,matematica,3.0,calcoli,2.0,aritmetica,3.0,espressioni,3.0
 second_year_066,matematica,3.0,calcoli,3.0,numeri,3.0,algoritmi,3.0
-second_year_068,matematica,3.0,calcoli,2.0,equazioni,2.0,0,
 second_year_069,matematica,1.0,stress,1.0,ansia,1.0,numeri,3.0
 second_year_070,matematica,1.0,scienza,3.0,numeri,2.0,algebra,2.0
 third_year_004,matematica,4.0,calcoli,4.0,equazioni,4.0,utile,4.0
@@ -1761,9 +1699,7 @@ first_year_032,mente,4.0,cervello,4.0,fascino,5.0,elastica,4.0
 first_year_035,mente,,cervello,,neuroni,,pensiero,
 first_year_037,mente,,sanità,4.0,psicologia,4.0,corpo,4.0
 first_year_044,mente,5.0,scienza,2.0,pensiero,5.0,biologia,2.0
-first_year_046,mente,3.0,aperta,4.0,anima,3.0,corpo,3.0
 first_year_048,mente,5.0,scienza,2.0,pensiero,5.0,biologia,2.0
-first_year_049,mente,3.0,cervello,3.0,psiche,,pensieri,
 second_year_003,mente,4.0,sana,5.0,pace,5.0,equilibrio,5.0
 second_year_004,mente,2.0,implementare,3.0,inferenza,4.0,inesistenza,3.0
 second_year_005,mente,1.0,cervello,3.0,inesistente,1.0,evoluzione,4.0
@@ -1793,7 +1729,6 @@ second_year_059,mente,4.0,cervello,4.0,comportamento,4.0,neuroni,4.0
 second_year_064,mente,,cervello,3.0,pensiero,4.0,intelligenza,4.0
 second_year_065,mente,4.0,cervello,4.0,processi,3.0,neuroscienze,4.0
 second_year_066,mente,3.0,cervello,3.0,studio,3.0,psicologia,3.0
-second_year_068,mente,4.0,cervello,4.0,pensiero,5.0,0,
 second_year_069,mente,5.0,pensieri,4.0,cervello,5.0,rappresentazioni,3.0
 second_year_070,mente,4.0,psicologia,4.0,cervello,4.0,astratto,2.0
 third_year_004,mente,5.0,funzionamento,5.0,modelli,5.0,ragionamento,5.0
@@ -1844,9 +1779,7 @@ first_year_032,modello,2.0,statistico,2.0,grafico,2.0,algoritmo,2.0
 first_year_035,modello,,precisione,,standardizzazione,,imposto,
 first_year_037,modello,3.0,,,,,ispirazione,4.0
 first_year_044,modello,1.0,unico,1.0,stabile,1.0,univoco,1.0
-first_year_046,modello,3.0,standard,3.0,,,,
 first_year_048,modello,1.0,unico,1.0,stabile,1.0,univoco,1.0
-first_year_049,modello,4.0,bellezza,4.0,metodo,3.0,spunto,
 second_year_003,modello,3.0,confronto,3.0,sicurezza,5.0,inferiorità,2.0
 second_year_004,modello,3.0,concettuale,3.0,psicologico,4.0,plastilina,3.0
 second_year_005,modello,1.0,stereotipo,1.0,evitare,3.0,bellezza,4.0
@@ -1876,7 +1809,6 @@ second_year_059,modello,4.0,archetipo,4.0,perfezione,2.0,seguire,3.0
 second_year_064,modello,,numeri,2.0,formule,2.0,matematica,2.0
 second_year_065,modello,4.0,aspirazione,5.0,imitazione,4.0,immagine,3.0
 second_year_066,modello,3.0,guida,5.0,perfezione,5.0,giusto,5.0
-second_year_068,modello,3.0,tipologia,3.0,0,,0,
 second_year_069,modello,3.0,schema,3.0,struttura,3.0,rappresentazione,3.0
 second_year_070,modello,3.0,scientifico,3.0,spunto,3.0,persona,3.0
 third_year_004,modello,4.0,matematico,4.0,da seguire,4.0,teorico,4.0
@@ -1927,9 +1859,7 @@ first_year_032,neuroscienze,5.0,fascino,5.0,encefalo,4.0,curiosità,5.0
 first_year_035,neuroscienze,3.0,neuroni,3.0,cervello,3.0,statistiche,1.0
 first_year_037,neuroscienze,3.0,cervello,3.0,neuroni,3.0,ospedale,3.0
 first_year_044,neuroscienze,4.0,ricerca,4.0,scienza,2.0,cervello,3.0
-first_year_046,neuroscienze,4.0,interessanti,,cervello,3.0,psicologia,4.0
 first_year_048,neuroscienze,4.0,ricerca,4.0,scienza,2.0,cervello,3.0
-first_year_049,neuroscienze,3.0,encefalo,,fisiologia,,,
 second_year_003,neuroscienze,3.0,curiosità,4.0,serenità,5.0,difficile,3.0
 second_year_004,neuroscienze,5.0,cervello,5.0,damasio,3.0,neuroni,5.0
 second_year_005,neuroscienze,3.0,cervello,5.0,scienza,2.0,stimolante,4.0
@@ -1959,7 +1889,6 @@ second_year_059,neuroscienze,5.0,psicologia,5.0,cervello,5.0,mente,5.0
 second_year_064,neuroscienze,,conoscenza,4.0,teorie,3.0,modelli,2.0
 second_year_065,neuroscienze,4.0,cervello,4.0,fmri,4.0,attivazione,4.0
 second_year_066,neuroscienze,3.0,scienza,4.0,ricerca,4.0,sviluppo,4.0
-second_year_068,neuroscienze,4.0,mente,4.0,cervello,4.0,0,
 second_year_069,neuroscienze,5.0,cognizione,5.0,cervello,5.0,sistema nervoso,3.0
 second_year_070,neuroscienze,4.0,magistrale,4.0,scienza,4.0,neuroni,4.0
 third_year_004,neuroscienze,5.0,cervello,5.0,processi cognitivi,5.0,biologia,4.0
@@ -2005,9 +1934,7 @@ first_year_031,noia,1.0,malinconia,2.0,grigio,3.0,calma,5.0
 first_year_032,noia,2.0,sbadiglio,3.0,sonno,3.0,telefono,2.0
 first_year_037,noia,4.0,leopardi,3.0,tempo,4.0,,
 first_year_044,noia,1.0,nulla,1.0,assenza di,1.0,mancanza,1.0
-first_year_046,noia,2.0,,,,,,
 first_year_048,noia,1.0,nulla,1.0,assenza di,1.0,mancanza,1.0
-first_year_049,noia,2.0,solitudine,1.0,camera,,vuoto,
 second_year_003,noia,3.0,accettare,4.0,trepidazione,3.0,serve,3.0
 second_year_004,noia,2.0,rarità,3.0,sartre,4.0,grigio,3.0
 second_year_005,noia,1.0,eternità,1.0,duratura,4.0,fuga,2.0
@@ -2037,7 +1964,6 @@ second_year_059,noia,2.0,sbadiglio,3.0,inattività,2.0,pensieri,2.0
 second_year_064,noia,,questionario,2.0,matematica,2.0,attesa,2.0
 second_year_065,noia,2.0,sbadiglio,1.0,sonno,1.0,stanchezza,1.0
 second_year_066,noia,3.0,sensazione,3.0,nulla,3.0,volontà,3.0
-second_year_068,noia,1.0,monotonia,1.0,abitudine,1.0,0,
 second_year_069,noia,2.0,pigrezza,2.0,neutro,3.0,tristezza,1.0
 second_year_070,noia,2.0,flemma,2.0,fisica,1.0,formule,1.0
 third_year_004,noia,2.0,sbuffare,2.0,lezione,2.0,riunione,2.0
@@ -2071,11 +1997,11 @@ first_year_002,numeri,4.0,cellulare,5.0,giorni,5.0,matematica,5.0
 first_year_003,numeri,3.0,matematica,3.0,calcolo,3.0,voti,1.0
 first_year_004,numeri,2.0,ansia,1.0,utilità,3.0,psicologia,5.0
 first_year_006,numeri,2.0,matematica,1.0,calcoli,1.0,operazioni,3.0
-first_year_007,numeri,3.0,,5.0,,5.0,,5.0
+first_year_007,numeri,3.0,4,5.0,16,5.0,30,5.0
 first_year_008,numeri,4.0,contare,4.0,asilo,3.0,spesa,3.0
 first_year_009,numeri,2.0,infiniti,3.0,primi,5.0,lettere,5.0
 first_year_011,numeri,3.0,matematica,3.0,operatori,3.0,scuola,3.0
-first_year_012,numeri,3.0,,3.0,,3.0,,3.0
+first_year_012,numeri,3.0,1,3.0,2,3.0,3,3.0
 first_year_013,numeri,2.0,paura,1.0,scuola,2.0,materia,3.0
 first_year_014,numeri,2.0,ansia,1.0,infinito,2.0,,
 first_year_015,numeri,4.0,calcoli,5.0,logica,5.0,spese,2.0
@@ -2087,15 +2013,13 @@ first_year_026,numeri,3.0,uno,3.0,tabella,3.0,calcolo,3.0
 first_year_027,numeri,,,,,,,
 first_year_028,numeri,3.0,calcolo,3.0,matematica,2.0,attenzione,3.0
 first_year_029,numeri,3.0,operazione,1.0,scuola,3.0,,
-first_year_030,numeri,3.0,infiniti,2.0,,5.0,positivi,4.0
+first_year_030,numeri,3.0,infiniti,2.0,14,5.0,positivi,4.0
 first_year_031,numeri,3.0,matematica,3.0,fisica,3.0,scienze,3.0
 first_year_032,numeri,3.0,operazioni,2.0,matematica,2.0,equazione,2.0
 first_year_035,numeri,,matematica,,problemi,,operazioni,
 first_year_037,numeri,3.0,,,matematica,2.0,uno,3.0
 first_year_044,numeri,2.0,complessi,1.0,correlati,3.0,infiniti,1.0
-first_year_046,numeri,3.0,matematica,2.0,scuola,3.0,noia,2.0
 first_year_048,numeri,2.0,complessi,1.0,correlati,3.0,infiniti,1.0
-first_year_049,numeri,3.0,matematica,,probabilità,,anni,
 second_year_003,numeri,3.0,ansia,2.0,curiosità,5.0,sfida,4.0
 second_year_004,numeri,3.0,precisione,5.0,quantificare,4.0,linguaggio,3.0
 second_year_005,numeri,4.0,interssanti,5.0,eterni,1.0,stimolanti,4.0
@@ -2123,9 +2047,8 @@ second_year_053,numeri,2.0,infinito,2.0,matematica,2.0,calcoli,1.0
 second_year_056,numeri,5.0,pari,3.0,dispari,3.0,due,3.0
 second_year_059,numeri,3.0,cifre,3.0,somme,5.0,moltiplicazioni,4.0
 second_year_064,numeri,,matematica,3.0,espressioni,3.0,calcoli,3.0
-second_year_065,numeri,3.0,matematica,3.0,equazione,4.0,,5.0
+second_year_065,numeri,3.0,matematica,3.0,equazione,4.0,1,5.0
 second_year_066,numeri,3.0,matematica,3.0,calcolo,3.0,operazione,3.0
-second_year_068,numeri,3.0,matematica,2.0,calcoli,2.0,0,
 second_year_069,numeri,3.0,matematica,2.0,addizioni,3.0,moltiplicazioni,3.0
 second_year_070,numeri,3.0,uno,3.0,due,3.0,tre,3.0
 third_year_004,numeri,4.0,contare,4.0,calcoli,3.0,tabelline,5.0
@@ -2176,9 +2099,7 @@ first_year_032,personalità,4.0,disturbo,1.0,fascino,5.0,umore,3.0
 first_year_035,personalità,3.0,bipolare,,nevrotica,,sicura,
 first_year_037,personalità,4.0,multipla,3.0,soggettiva,,,
 first_year_044,personalità,5.0,complessità,5.0,sfaccettature,5.0,unicità,5.0
-first_year_046,personalità,3.0,socievole,4.0,,,,
 first_year_048,personalità,5.0,complessità,5.0,sfaccettature,5.0,unicità,5.0
-first_year_049,personalità,3.0,sè,,azioni,,,
 second_year_003,personalità,4.0,energica,5.0,accogliente,4.0,diversa,3.0
 second_year_004,personalità,2.0,vaghezza,5.0,ego,2.0,fuffa,1.0
 second_year_005,personalità,4.0,unicità,1.0,varietà,1.0,affascinante,5.0
@@ -2208,8 +2129,7 @@ second_year_059,personalità,3.0,gentilezza,5.0,persona,3.0,amabilità,5.0
 second_year_064,personalità,,sensazioni,2.0,apparenza,2.0,personale,2.0
 second_year_065,personalità,5.0,gioia,5.0,rabbia,1.0,doppia,2.0
 second_year_066,personalità,3.0,emozione,3.0,carattere,3.0,individuo,3.0
-second_year_068,personalità,4.0,carattere,3.0,0,,0,
-second_year_069,personalità,4.0,emozioni,4.0,sentimenti,4.0,0,
+second_year_069,personalità,4.0,emozioni,4.0,sentimenti,4.0,,
 second_year_070,personalità,3.0,multipla,3.0,psicologia,4.0,comportamento,3.0
 third_year_004,personalità,5.0,carattere,5.0,individuo,5.0,unicità,5.0
 third_year_008,personalità,3.0,eccentrica,3.0,difficile,2.0,propria,3.0
@@ -2259,9 +2179,7 @@ first_year_032,professore,3.0,passione,5.0,insegnante,3.0,maestro,4.0
 first_year_035,professore,,personale,,diploma,,serio,
 first_year_037,professore,3.0,,,,,università,4.0
 first_year_044,professore,5.0,insegnante,5.0,conoscenza,5.0,istruzione,5.0
-first_year_046,professore,3.0,cattedra,3.0,esami,2.0,,
 first_year_048,professore,5.0,insegnante,5.0,conoscenza,5.0,istruzione,5.0
-first_year_049,professore,4.0,stimolo,3.0,pretese,,alleato,
 second_year_003,professore,4.0,gentile,5.0,disponibile,4.0,delicato,3.0
 second_year_004,professore,3.0,insegnante,3.0,educatore,1.0,stella,4.0
 second_year_005,professore,3.0,severo,2.0,inutile,4.0,colloquio,5.0
@@ -2291,7 +2209,6 @@ second_year_059,professore,3.0,liceo,3.0,ragazzi,2.0,matematica,1.0
 second_year_064,professore,,insegnamento,4.0,lezione,2.0,aiuta,4.0
 second_year_065,professore,4.0,università,3.0,liceo,4.0,filosofia,5.0
 second_year_066,professore,3.0,insegnante,3.0,scuola,3.0,verifica,2.0
-second_year_068,professore,4.0,insegnamento,4.0,università,4.0,0,
 second_year_069,professore,4.0,guida,4.0,aiuto,5.0,professionalità,5.0
 second_year_070,professore,3.0,uomo,3.0,scuola,3.0,insegnante,3.0
 third_year_004,professore,4.0,ruolo importante,5.0,università,5.0,dedizione,5.0
@@ -2337,7 +2254,6 @@ first_year_032,psicologia,5.0,passione,5.0,encefalo,3.0,terapia,5.0
 first_year_035,psicologia,,mente,,cognizione,,generale,
 first_year_044,psicologia,5.0,scienza,2.0,biologia,3.0,mente,4.0
 first_year_048,psicologia,5.0,scienza,2.0,biologia,3.0,mente,4.0
-first_year_049,psicologia,4.0,mente,,sindromi,,comprensione,
 second_year_003,psicologia,5.0,salvezza,5.0,pace,5.0,equilibrio,5.0
 second_year_004,psicologia,4.0,mente,3.0,rappresentazioni,3.0,fodor,4.0
 second_year_005,psicologia,4.0,scienza,2.0,sottovalutata,3.0,passatempo,4.0
@@ -2367,7 +2283,6 @@ second_year_059,psicologia,4.0,passione,5.0,cognitiva,3.0,neuroscienze,5.0
 second_year_064,psicologia,,scienza,3.0,disciplina,3.0,aiuto,4.0
 second_year_065,psicologia,4.0,cognitiva,4.0,università,4.0,dinamica,1.0
 second_year_066,psicologia,4.0,ricerca,3.0,mente,3.0,pensiero,3.0
-second_year_068,psicologia,5.0,mente,5.0,benessere,5.0,0,
 second_year_069,psicologia,5.0,mente,5.0,cervello,5.0,pensieri,4.0
 second_year_070,psicologia,4.0,materia,3.0,facoltà,3.0,mente,4.0
 third_year_004,psicologia,5.0,comprensione,5.0,cervello,5.0,inconscio,5.0
@@ -2418,9 +2333,7 @@ first_year_032,relazione,3.0,sentimentale,4.0,matematica,2.0,correlazione,3.0
 first_year_035,relazione,2.0,personale,4.0,amicizia,4.0,unilaterale,2.0
 first_year_037,relazione,,,,collegamento,3.0,amore,5.0
 first_year_044,relazione,5.0,amicizia,5.0,possibilità,5.0,importante,5.0
-first_year_046,relazione,4.0,amorosa,3.0,complicata,2.0,partner,3.0
 first_year_048,relazione,5.0,amicizia,5.0,possibilità,5.0,importante,5.0
-first_year_049,relazione,5.0,sociale,3.0,coppia,4.0,cose in comune,
 second_year_003,relazione,5.0,dubbi,3.0,matrimonio,3.0,autostima,5.0
 second_year_004,relazione,3.0,variabili,3.0,canal,4.0,amicizia,4.0
 second_year_005,relazione,4.0,piacevole,5.0,appagante,5.0,persone,4.0
@@ -2450,7 +2363,6 @@ second_year_059,relazione,5.0,cuore,5.0,persone,4.0,amore,5.0
 second_year_064,relazione,,amore,4.0,condivisione,4.0,sostegno,4.0
 second_year_065,relazione,4.0,coppia,5.0,amicizia,5.0,sociale,4.0
 second_year_066,relazione,3.0,sentimento,3.0,rapporto,4.0,unione,4.0
-second_year_068,relazione,4.0,amici,4.0,parlare,4.0,compagni,4.0
 second_year_069,relazione,5.0,amore,5.0,contatto,5.0,lezione,5.0
 second_year_070,relazione,3.0,tossica,1.0,amorosa,4.0,amicizia,4.0
 third_year_004,relazione,5.0,amichevole,5.0,amorosa,5.0,causale,5.0
@@ -2501,9 +2413,7 @@ first_year_032,scienza,4.0,microscopio,3.0,biologia,3.0,chimica,2.0
 first_year_035,scienza,3.0,cellule,3.0,verde,3.0,scoperte,4.0
 first_year_037,scienza,4.0,microscopio,3.0,sviluppo,4.0,tecnologia,4.0
 first_year_044,scienza,2.0,difficoltà,2.0,impegno,4.0,confusione,1.0
-first_year_046,scienza,2.0,biologia,3.0,chimica,1.0,,
 first_year_048,scienza,2.0,difficoltà,2.0,impegno,4.0,confusione,1.0
-first_year_049,scienza,4.0,teorie,,metodi,,,
 second_year_003,scienza,4.0,futuro,4.0,salvezza,5.0,serenità,5.0
 second_year_004,scienza,5.0,paolorossi,5.0,conquista,5.0,progresso,5.0
 second_year_005,scienza,2.0,tirannia,1.0,controllo,1.0,spiegazione,5.0
@@ -2533,7 +2443,6 @@ second_year_059,scienza,4.0,terra,3.0,fisica,1.0,universo,5.0
 second_year_064,scienza,,metodo,2.0,certezza,4.0,teoria,2.0
 second_year_065,scienza,4.0,naturale,4.0,umanistica,5.0,forte,3.0
 second_year_066,scienza,4.0,ricerca,4.0,sviluppo,3.0,futuro,3.0
-second_year_068,scienza,5.0,ricerca,5.0,0,,0,
 second_year_069,scienza,4.0,ricerca,4.0,scoperte,4.0,innovazione,5.0
 second_year_070,scienza,3.0,perfetta,4.0,matematica,2.0,fisica,2.0
 third_year_004,scienza,5.0,verità,5.0,certezze,5.0,fonte di sapere,5.0
@@ -2584,9 +2493,7 @@ first_year_032,scoperta,5.0,progresso,4.0,scienza,4.0,benessere,5.0
 first_year_035,scoperta,4.0,conoscenza,5.0,traguardo,4.0,fatica,2.0
 first_year_037,scoperta,4.0,nuovo,4.0,,,,
 first_year_044,scoperta,5.0,novità,5.0,curiosità,5.0,divertimento,5.0
-first_year_046,scoperta,5.0,emozionante,,,,,
 first_year_048,scoperta,5.0,novità,5.0,curiosità,5.0,divertimento,5.0
-first_year_049,scoperta,3.0,novità,,valore aggiunto,,conoscenza,
 second_year_003,scoperta,5.0,affascinante,4.0,paura,2.0,origini,4.0
 second_year_004,scoperta,5.0,esplorazione,4.0,ottimismo,3.0,capacità,5.0
 second_year_005,scoperta,4.0,obiettivo,4.0,sorpresa,5.0,traguardo,5.0
@@ -2616,7 +2523,6 @@ second_year_059,scoperta,3.0,fossile,3.0,scienza,5.0,novità,4.0
 second_year_064,scoperta,,curiosità,4.0,studio,2.0,teoria,2.0
 second_year_065,scoperta,4.0,serendipità,5.0,novità,4.0,avanzamento,4.0
 second_year_066,scoperta,4.0,nuovo,4.0,ricerca,3.0,lavoro,3.0
-second_year_068,scoperta,4.0,curiosità,4.0,0,,0,
 second_year_069,scoperta,4.0,ricerca,4.0,innovazione,5.0,interesse,5.0
 second_year_070,scoperta,3.0,eureka,3.0,sorpresa,3.0,scientifica,3.0
 third_year_004,scoperta,5.0,innovativa,5.0,spiacevole,5.0,interessante,5.0
@@ -2667,9 +2573,7 @@ first_year_032,scuola,4.0,salvezza,5.0,istruzione,4.0,educazione,5.0
 first_year_035,scuola,2.0,migliorabile,5.0,lunga,,stressante,
 first_year_037,scuola,3.0,imparare,4.0,banchi,3.0,compagni,4.0
 first_year_044,scuola,5.0,opportunità,5.0,esperienza,5.0,cultura,5.0
-first_year_046,scuola,3.0,innovazione,4.0,brutta,1.0,,
 first_year_048,scuola,5.0,opportunità,5.0,esperienza,5.0,cultura,5.0
-first_year_049,scuola,5.0,elementari,,amici,,studio,
 second_year_003,scuola,4.0,sfida,4.0,ansia,2.0,impotenza,1.0
 second_year_004,scuola,3.0,ansia,1.0,formazione,3.0,riformabile,3.0
 second_year_005,scuola,1.0,deludente,3.0,ricca,1.0,migliorabile,5.0
@@ -2699,7 +2603,6 @@ second_year_059,scuola,4.0,classe,2.0,compagni,4.0,aula,2.0
 second_year_064,scuola,,ansia,1.0,insegnamenti,4.0,lezioni,3.0
 second_year_065,scuola,4.0,superiore,4.0,lezioni,3.0,compagni,5.0
 second_year_066,scuola,3.0,materie,3.0,studio,2.0,stress,1.0
-second_year_068,scuola,3.0,maturità,4.0,0,,0,
 second_year_069,scuola,4.0,impegno,4.0,studio,4.0,lezioni,3.0
 second_year_070,scuola,3.0,superiore,4.0,elementare,2.0,cultura,4.0
 third_year_004,scuola,5.0,amici,5.0,conoscenze,5.0,cultura,5.0
@@ -2750,9 +2653,7 @@ first_year_032,sfida,4.0,felicità,5.0,forza,4.0,coraggio,5.0
 first_year_035,sfida,2.0,lavoro,3.0,difficoltà,2.0,traguardo,4.0
 first_year_037,sfida,4.0,,,soluzione,4.0,novità,4.0
 first_year_044,sfida,4.0,motivazione,5.0,competitività,3.0,difficoltà,2.0
-first_year_046,sfida,4.0,avventura,4.0,innovativa,4.0,difficile,2.0
 first_year_048,sfida,4.0,motivazione,5.0,competitività,3.0,difficoltà,2.0
-first_year_049,sfida,2.0,gara,,tensione,,competitività,
 second_year_003,sfida,3.0,intrigante,5.0,percorso,4.0,crescita,5.0
 second_year_004,sfida,3.0,competizione,1.0,lotta,1.0,fallimento,2.0
 second_year_005,sfida,5.0,intrigante,4.0,vittoria,3.0,lotta,4.0
@@ -2782,7 +2683,6 @@ second_year_059,sfida,4.0,accettare,3.0,sconfitta,2.0,vittoria,4.0
 second_year_064,sfida,,difficile,2.0,affrontare,3.0,superare,4.0
 second_year_065,sfida,4.0,competizione,2.0,vincitore,5.0,perdente,2.0
 second_year_066,sfida,3.0,prova,2.0,difficoltà,4.0,tenacia,4.0
-second_year_068,sfida,4.0,obiettivo,5.0,scopo,5.0,0,
 second_year_069,sfida,4.0,prova,3.0,dimostrazione,4.0,impegno,5.0
 second_year_070,sfida,3.0,battaglia,2.0,combattimento,2.0,duello,2.0
 third_year_004,sfida,5.0,difficile,4.0,soddisfazione,5.0,competitiva,4.0
@@ -2833,9 +2733,7 @@ first_year_032,statistica,2.0,media,2.0,moda,2.0,mediana,2.0
 first_year_035,statistica,1.0,matematica,1.0,numeri,1.0,dati,1.0
 first_year_037,statistica,3.0,dati,3.0,numeri,3.0,matematica,3.0
 first_year_044,statistica,2.0,matematica,3.0,numeri,2.0,percentuali,2.0
-first_year_046,statistica,1.0,noiosa,2.0,statico,2.0,,
 first_year_048,statistica,2.0,matematica,3.0,numeri,2.0,percentuali,2.0
-first_year_049,statistica,4.0,probabilità,3.0,dadi,,studi,
 second_year_003,statistica,3.0,interessante,5.0,avvicente,5.0,sfida,4.0
 second_year_004,statistica,4.0,canal,4.0,psicometria,4.0,lucidità,5.0
 second_year_005,statistica,3.0,vaga,5.0,numeri,2.0,dati,5.0
@@ -2865,8 +2763,7 @@ second_year_059,statistica,1.0,numeri,3.0,matematica,1.0,difficoltà,1.0
 second_year_064,statistica,,numeri,2.0,grafici,2.0,tabelle,2.0
 second_year_065,statistica,3.0,descrittiva,2.0,inferenziale,2.0,media,3.0
 second_year_066,statistica,3.0,matematica,3.0,correlazioni,3.0,ricerca,4.0
-second_year_068,statistica,4.0,analisi,4.0,dati,4.0,0,
-second_year_069,statistica,2.0,variabili,3.0,0,,0,
+second_year_069,statistica,2.0,variabili,3.0,,,,
 second_year_070,statistica,3.0,numeri,3.0,percentuali,1.0,descrittiva,3.0
 third_year_004,statistica,3.0,informatica,2.0,formule,3.0,probabilità,4.0
 third_year_008,statistica,1.0,difficile,1.0,noiosa,1.0,fallimento,1.0
@@ -2916,9 +2813,7 @@ first_year_032,stress,2.0,sudore,2.0,pensiero,3.0,respiro,3.0
 first_year_035,stress,2.0,scuola,1.0,ansia,1.0,trauma,1.0
 first_year_037,stress,3.0,vita,4.0,lavoro,4.0,ansia,2.0
 first_year_044,stress,1.0,blocco,1.0,muro,1.0,difficoltà,1.0
-first_year_046,stress,2.0,,,,,,
 first_year_048,stress,1.0,blocco,1.0,muro,1.0,difficoltà,1.0
-first_year_049,stress,1.0,ulcera,1.0,tachicardia,,affaticamento,
 second_year_003,stress,2.0,logorante,1.0,bloccante,1.0,autostima,5.0
 second_year_004,stress,1.0,ansia,1.0,ellis,4.0,contenere,3.0
 second_year_005,stress,1.0,evitabile,3.0,irritante,1.0,necessario,3.0
@@ -2948,7 +2843,6 @@ second_year_059,stress,1.0,ansia,1.0,camminata,3.0,film,4.0
 second_year_064,stress,,ansia,1.0,frustrazione,1.0,organizzazione,4.0
 second_year_065,stress,2.0,università,3.0,studio,2.0,squilibrio,1.0
 second_year_066,stress,1.0,ansia,3.0,pensieri,2.0,irascibilità,2.0
-second_year_068,stress,1.0,ansia,1.0,agitazione,1.0,0,
 second_year_069,stress,1.0,ansia,1.0,panico,1.0,paura,1.0
 second_year_070,stress,2.0,mentale,2.0,confusione,1.0,fisico,2.0
 third_year_004,stress,3.0,esami,3.0,angoscia,1.0,energie negative,1.0
@@ -3002,7 +2896,6 @@ second_year_059,studente,4.0,libro,3.0,scuola,3.0,giovani,4.0
 second_year_064,studente,,studio,,esami,,ansia,
 second_year_065,studente,2.0,università,3.0,compagni,4.0,studio,3.0
 second_year_066,studente,3.0,persona,3.0,scuola,3.0,studio,3.0
-second_year_068,studente,4.0,università,4.0,libri,3.0,0,
 second_year_069,studente,4.0,impegno,5.0,motivazione,5.0,studio,4.0
 second_year_070,studente,3.0,universitario,3.0,liceale,3.0,modello,3.0
 third_year_004,studente,5.0,mettersi alla prova,5.0,amici,5.0,imparare,5.0
@@ -3053,9 +2946,7 @@ first_year_032,tecnologia,2.0,telefono,1.0,computer,3.0,danno,1.0
 first_year_035,tecnologia,3.0,novità,3.0,semplificativa,1.0,innovazioni,3.0
 first_year_037,tecnologia,4.0,telefono,4.0,computer,4.0,cavo,3.0
 first_year_044,tecnologia,4.0,algoritmi,3.0,futuro,5.0,scienza,3.0
-first_year_046,tecnologia,4.0,innovazione,4.0,computer,4.0,difficile,2.0
 first_year_048,tecnologia,4.0,algoritmi,3.0,futuro,5.0,scienza,3.0
-first_year_049,tecnologia,3.0,computer,,ai,,cellulare,
 second_year_003,tecnologia,2.0,ansia,2.0,difficoltà,3.0,schifo,2.0
 second_year_004,tecnologia,4.0,scienza,5.0,progresso,5.0,futuro,2.0
 second_year_005,tecnologia,2.0,computer,5.0,futuro,4.0,problemi,1.0
@@ -3085,7 +2976,6 @@ second_year_059,tecnologia,2.0,telefono,3.0,computer,4.0,robot,2.0
 second_year_064,tecnologia,,computer,4.0,progresso,3.0,elettricità,1.0
 second_year_065,tecnologia,4.0,telefono,2.0,progresso,5.0,computer,3.0
 second_year_066,tecnologia,3.0,computer,3.0,scienza,4.0,sviluppo,4.0
-second_year_068,tecnologia,4.0,telefono,4.0,computer,4.0,intelligenza artificiale,2.0
 second_year_069,tecnologia,4.0,computer,4.0,tastiera,3.0,hacker,2.0
 second_year_070,tecnologia,3.0,internet,3.0,cellulare,3.0,computer,3.0
 third_year_004,tecnologia,5.0,computer,5.0,avanzamento,5.0,innovazione,5.0
@@ -3136,9 +3026,7 @@ first_year_032,terapia,3.0,psicologo,4.0,utilità,5.0,sollievo,4.0
 first_year_035,terapia,,curativa,,palliativa,,medica,
 first_year_037,terapia,4.0,gruppo,4.0,problemi,3.0,,
 first_year_044,terapia,5.0,importante,5.0,benessere,5.0,aiuto,5.0
-first_year_046,terapia,3.0,,,,,,
 first_year_048,terapia,5.0,importante,5.0,benessere,5.0,aiuto,5.0
-first_year_049,terapia,3.0,problema,2.0,disagio,,metodo,
 second_year_003,terapia,4.0,sicura,5.0,autostima,5.0,ansia,2.0
 second_year_004,terapia,4.0,feretti,3.0,medicina,5.0,tentativo,4.0
 second_year_005,terapia,1.0,vacqua,3.0,aiuto,3.0,stereotipo,1.0
@@ -3168,7 +3056,6 @@ second_year_059,terapia,4.0,salute,5.0,benessere,5.0,psicologo,4.0
 second_year_064,terapia,,aiuto,4.0,psicologia,4.0,seduta,3.0
 second_year_065,terapia,4.0,colloquio,4.0,cura,5.0,benessere,5.0
 second_year_066,terapia,3.0,aiuto,4.0,supporto,2.0,bisogno,2.0
-second_year_068,terapia,5.0,psicologia,5.0,terapeuta,5.0,aiuto,5.0
 second_year_069,terapia,5.0,aiuto,5.0,riabilitazione,5.0,benessere,5.0
 second_year_070,terapia,4.0,benessere,4.0,cura,4.0,percorso,3.0
 third_year_004,terapia,5.0,utile,5.0,necessaria,5.0,benessere,5.0
@@ -3219,9 +3106,7 @@ first_year_032,università,5.0,libri,5.0,laurea,5.0,esame,3.0
 first_year_035,università,4.0,novità,4.0,indipendenza,4.0,studio,3.0
 first_year_037,università,4.0,corsi,4.0,,,,
 first_year_044,università,5.0,opportunità,5.0,occasione,5.0,possibilità,5.0
-first_year_046,università,4.0,passione,4.0,studio,3.0,,
 first_year_048,università,5.0,opportunità,5.0,occasione,5.0,possibilità,5.0
-first_year_049,università,3.0,studio,2.0,esami,,lontananza,
 second_year_003,università,3.0,impegnativa,3.0,soddisfacente,5.0,autostima,5.0
 second_year_004,università,3.0,studio,5.0,studiare,5.0,pscicologia,4.0
 second_year_005,università,4.0,hobby,4.0,esami,3.0,percorso,2.0
@@ -3251,7 +3136,6 @@ second_year_059,università,4.0,studio,3.0,psicologia,4.0,amicizie,5.0
 second_year_064,università,,esami,2.0,lezioni,2.0,conoscenza,4.0
 second_year_065,università,3.0,corsi,3.0,tirocinio,3.0,lezioni,3.0
 second_year_066,università,3.0,scuola,3.0,futuro,3.0,lavoro,3.0
-second_year_068,università,4.0,obiettivi,5.0,lavoro,4.0,0,
 second_year_069,università,4.0,scuola,4.0,impegno,5.0,soddisfazione,5.0
 second_year_070,università,4.0,studio,3.0,esami,2.0,laurea,4.0
 third_year_004,università,5.0,apprendimento,5.0,crescita,5.0,conoscenza,5.0
@@ -3280,11 +3164,11 @@ first_year_002,voto,3.0,verifica,1.0,insufficienza,1.0,prova,2.0
 first_year_003,voto,1.0,restrizione,1.0,numero,3.0,ansia,1.0
 first_year_004,voto,2.0,ansia,1.0,malessere,1.0,ingiusto,1.0
 first_year_006,voto,1.0,inutile,1.0,umiliante,1.0,test,3.0
-first_year_007,voto,1.0,,5.0,,,,
+first_year_007,voto,1.0,9,5.0,,,,
 first_year_008,voto,2.0,ansia,1.0,delusione,1.0,aspettative,1.0
 first_year_009,voto,5.0,ansia,1.0,generico,3.0,banalizzazione,1.0
 first_year_011,voto,2.0,numero,3.0,insufficienza,2.0,materia,
-first_year_012,voto,4.0,,5.0,inutile,2.0,ignoranza,1.0
+first_year_012,voto,4.0,30,5.0,inutile,2.0,ignoranza,1.0
 first_year_013,voto,1.0,stress,1.0,scuola,1.0,numero,1.0
 first_year_014,voto,3.0,giudizio,3.0,aspettative,1.0,,
 first_year_015,voto,3.0,dieci,5.0,relativo,2.0,ingiusto,1.0
@@ -3302,9 +3186,7 @@ first_year_032,voto,2.0,soddisfazione,5.0,negativo,1.0,risultato,4.0
 first_year_035,voto,2.0,successo,2.0,giudizio,2.0,ansia,1.0
 first_year_037,voto,3.0,numero,3.0,dieci,3.0,scuola,3.0
 first_year_044,voto,2.0,soddisfazione,5.0,delusione,1.0,riconoscimento,5.0
-first_year_046,voto,2.0,ansia,2.0,esame,2.0,,
 first_year_048,voto,2.0,soddisfazione,5.0,delusione,1.0,riconoscimento,5.0
-first_year_049,voto,4.0,prestazione,2.0,giudizio,,numero,
 second_year_003,voto,3.0,classificazione,3.0,insicurezza,2.0,ansia,2.0
 second_year_004,voto,1.0,giudizio,1.0,prestazione,2.0,ansia,1.0
 second_year_005,voto,1.0,giudizio,2.0,grandezza,3.0,superficialità,3.0
@@ -3334,19 +3216,18 @@ second_year_059,voto,2.0,numero,2.0,ansia,1.0,aspettativa,2.0
 second_year_064,voto,,numero,2.0,importante,4.0,soddisfazione,5.0
 second_year_065,voto,4.0,esame,2.0,maturità,4.0,sufficienza,3.0
 second_year_066,voto,3.0,numero,2.0,giudizio,3.0,scuola,3.0
-second_year_068,voto,2.0,numero,1.0,0,,0,
 second_year_069,voto,3.0,ansia,1.0,soddisfazione,5.0,delusione,1.0
 second_year_070,voto,3.0,positivo,3.0,negativo,2.0,idoneo,4.0
 third_year_004,voto,3.0,classifica,2.0,media,3.0,ansia,1.0
 third_year_008,voto,2.0,elettorale,3.0,scolastico,2.0,complicato,3.0
-third_year_011,voto,3.0,,5.0,giudizio,2.0,,
+third_year_011,voto,3.0,10,5.0,giudizio,2.0,,
 third_year_013,voto,2.0,basso,1.0,pesante,2.0,psicologia,3.0
 third_year_014,voto,1.0,liceo,1.0,professofessa,3.0,autorità,1.0
 third_year_015,voto,1.0,numero,2.0,televoto,3.0,scuola,1.0
 third_year_019,voto,1.0,esame,1.0,media,1.0,sufficiente,4.0
 third_year_021,voto,4.0,politica,1.0,corruzione,1.0,opportunità,4.0
 third_year_028,voto,2.0,numero,2.0,indispensabile,5.0,dispensabile,1.0
-third_year_030,voto,1.0,errore,1.0,descrizione,3.0,,1.0
+third_year_030,voto,1.0,errore,1.0,descrizione,3.0,falso,1.0
 third_year_031,voto,3.0,rigido,2.0,numero,2.0,giudizio,2.0
 third_year_032,voto,3.0,passare,3.0,fallimento,1.0,successo,4.0
 third_year_033,voto,3.0,alto,3.0,basso,3.0,esame,2.0
@@ -3359,7 +3240,6 @@ third_year_046,voto,3.0,valutazione,3.0,eccellenza,5.0,competenza,5.0
 third_year_048,voto,1.0,ansia,2.0,definizione,4.0,numero,4.0
 third_year_051,voto,1.0,media,1.0,importanza,1.0,fastidio,1.0
 third_year_052,voto,1.0,alto,5.0,classifica,1.0,discriminazione,1.0
-interfacce_001,scienza,3.0,lontana,2.0,,,,
 interfacce_007,scienza,4.0,tyecnologuia,3.0,materia,3.0,innovazione,4.0
 interfacce_009,scienza,3.0,laboratorio,3.0,natura,4.0,scuola,3.0
 interfacce_010,scienza,4.0,studio,4.0,ricerca,4.0,scoperte,5.0
@@ -3369,7 +3249,6 @@ interfacce_016,scienza,4.0,innovazione,5.0,materia,3.0,oggettività,4.0
 interfacce_019,scienza,4.0,verde,3.0,natura,4.0,spazio,5.0
 interfacce_020,scienza,4.0,progresso,5.0,,,,
 interfacce_023,scienza,4.0,ricerca,4.0,numeri,4.0,fisica,2.0
-interfacce_001,statistica,3.0,matematica,3.0,difficile,3.0,,
 interfacce_007,statistica,3.0,calcoli,2.0,conti,2.0,fromule,3.0
 interfacce_009,statistica,2.0,numeri,3.0,probabilità,4.0,economia,2.0
 interfacce_010,statistica,3.0,matematica,3.0,numeri,3.0,analisi,3.0
@@ -3379,7 +3258,6 @@ interfacce_016,statistica,2.0,dati,3.0,ricerca,4.0,materia,3.0
 interfacce_019,statistica,2.0,numeri,3.0,grafici,4.0,conti,3.0
 interfacce_020,statistica,2.0,numeri,3.0,matematica,2.0,calcoli,1.0
 interfacce_023,statistica,3.0,numeri,4.0,confronto,4.0,ricerca,4.0
-interfacce_001,ipotesi,3.0,dubbio,3.0,incertezza,2.0,,
 interfacce_007,ipotesi,2.0,idea,4.0,probabilita,4.0,,
 interfacce_009,ipotesi,3.0,scienza,3.0,spiegazioni,4.0,brainstorming,3.0
 interfacce_010,ipotesi,4.0,idea,5.0,tesi,4.0,pensiero,5.0
@@ -3389,7 +3267,6 @@ interfacce_016,ipotesi,3.0,scienziato,3.0,scoperta,5.0,esperimento,4.0
 interfacce_019,ipotesi,3.0,idee,4.0,pensare,5.0,soluzioni,5.0
 interfacce_020,ipotesi,3.0,idea,4.0,incerto,2.0,,
 interfacce_023,ipotesi,4.0,pensiero,4.0,lettura,4.0,ricerca,4.0
-interfacce_001,ansia,2.0,agitazione,2.0,battiti,2.0,,
 interfacce_007,ansia,2.0,tachicardia,2.0,paura,3.0,futuro,2.0
 interfacce_009,ansia,1.0,tremare,2.0,paura,1.0,incertezza,1.0
 interfacce_010,ansia,2.0,battito,1.0,mutismo,1.0,reazione,2.0
@@ -3399,7 +3276,6 @@ interfacce_016,ansia,1.0,università,2.0,futuro,3.0,,
 interfacce_019,ansia,2.0,morte,1.0,paura,2.0,cuore,2.0
 interfacce_020,ansia,1.0,stress,1.0,sforzo,2.0,malessere,1.0
 interfacce_023,ansia,1.0,stress,1.0,cuore,3.0,,
-interfacce_001,benessere,5.0,fisico,4.0,mentale,4.0,economico,4.0
 interfacce_007,benessere,5.0,felicita,5.0,attivita,4.0,tranquillita,5.0
 interfacce_009,benessere,4.0,yoga,5.0,doccia,5.0,candela,5.0
 interfacce_010,benessere,5.0,fisiologico,5.0,mentale,5.0,calma,5.0
@@ -3409,7 +3285,6 @@ interfacce_016,benessere,4.0,fisico,4.0,mente,4.0,,
 interfacce_019,benessere,4.0,bianco,4.0,pace,4.0,consapevolezza,5.0
 interfacce_020,benessere,5.0,calma,5.0,tranquillità,5.0,salute,5.0
 interfacce_023,benessere,5.0,felictà,5.0,sorellina,5.0,casa,4.0
-interfacce_001,equazione,2.0,lunga,3.0,,,,
 interfacce_007,equazione,1.0,matematica,2.0,prof,2.0,esercizio,2.0
 interfacce_009,equazione,2.0,difficile,1.0,regola,3.0,matematica,3.0
 interfacce_010,equazione,3.0,matematica,3.0,uguale,4.0,retta,4.0
@@ -3419,7 +3294,6 @@ interfacce_016,equazione,3.0,matematica,3.0,calcolo,3.0,,
 interfacce_019,equazione,3.0,matematica,3.0,x,3.0,ragionamento,4.0
 interfacce_020,equazione,2.0,numeri,2.0,incognita,2.0,matematica,2.0
 interfacce_023,equazione,4.0,numeri,4.0,lettere,2.0,calcoli,3.0
-interfacce_001,fisica,3.0,difficile,2.0,,,,
 interfacce_007,fisica,2.0,formule,4.0,voto,4.0,calcolo,2.0
 interfacce_009,fisica,3.0,interessante,4.0,difficile,1.0,sfida,2.0
 interfacce_010,fisica,2.0,matematica,3.0,scuola,3.0,leggi,3.0
@@ -3429,7 +3303,6 @@ interfacce_016,fisica,3.0,calcoli,3.0,gravità,3.0,,
 interfacce_019,fisica,5.0,relatività,4.0,stupore,5.0,interessante,5.0
 interfacce_020,fisica,1.0,scienza,4.0,ansia,1.0,,
 interfacce_023,fisica,3.0,numeri,4.0,calcoli ,4.0,gravità,4.0
-interfacce_001,innovazione,5.0,cambiamento,4.0,miglioramento,5.0,,
 interfacce_007,innovazione,5.0,invenzione,5.0,futuro,3.0,lavoro,3.0
 interfacce_009,innovazione,4.0,tecnologia,4.0,scienza,3.0,università,2.0
 interfacce_010,innovazione,5.0,moderno,4.0,ricerca,5.0,nuovo,4.0
@@ -3439,7 +3312,6 @@ interfacce_016,innovazione,4.0,tecnologia,4.0,intelligenza artificiale,4.0,,
 interfacce_019,innovazione,5.0,progresso,5.0,tecnologia,5.0,futuro,4.0
 interfacce_020,innovazione,5.0,progresso,5.0,tecnologia,5.0,,
 interfacce_023,innovazione,5.0,cambiamento,5.0,ricerca,5.0,futuro,5.0
-interfacce_001,panico,2.0,sbagliare,2.0,disagio,1.0,,
 interfacce_007,panico,4.0,paura,4.0,respiro,2.0,tachicardia,2.0
 interfacce_009,panico,1.0,ansia,1.0,estremi,2.0,paura,1.0
 interfacce_010,panico,1.0,battito,1.0,sudore,2.0,sbiancare,1.0
@@ -3449,7 +3321,6 @@ interfacce_016,panico,1.0,angoscia,1.0,,,,
 interfacce_019,panico,2.0,ansia,2.0,tachicardia,1.0,concentrazione,4.0
 interfacce_020,panico,1.0,ansia,1.0,tremare,1.0,,
 interfacce_023,panico,1.0,ansia,2.0,stress,2.0,sbaglio,1.0
-interfacce_001,meditazione,4.0,rilassamento,5.0,respiro,5.0,,
 interfacce_007,meditazione,4.0,rilassamento,4.0,pace,5.0,tranquillita,5.0
 interfacce_009,meditazione,3.0,rilassare,4.0,yoga,5.0,montagne,4.0
 interfacce_010,meditazione,5.0,relax,5.0,respiro,5.0,buio,4.0
@@ -3459,7 +3330,6 @@ interfacce_016,meditazione,4.0,rilassamento,4.0,silenzio,4.0,pace,4.0
 interfacce_019,meditazione,4.0,respirazione,4.0,serenità ,4.0,tranquillità,5.0
 interfacce_020,meditazione,5.0,yoga,5.0,silenzio,3.0,mente,4.0
 interfacce_023,meditazione,5.0,calma,5.0,yoga,5.0,disconessione,4.0
-interfacce_001,matematica,3.0,logica,3.0,concentrazione,4.0,,
 interfacce_007,matematica,2.0,esercizio,2.0,difficile,2.0,verifica,1.0
 interfacce_009,matematica,3.0,calcolo,2.0,algebra,2.0,geometria,2.0
 interfacce_010,matematica,3.0,algebra,2.0,tabelline,3.0,numeri,3.0
@@ -3469,7 +3339,6 @@ interfacce_016,matematica,3.0,materia,3.0,numeri,3.0,formule,3.0
 interfacce_019,matematica,3.0,interessante,3.0,complessa,2.0,articolata,2.0
 interfacce_020,matematica,2.0,numeri,2.0,lavagna,3.0,calcoli,2.0
 interfacce_023,matematica,2.0,numeri,4.0,calcoli,4.0,calcolatrice ,5.0
-interfacce_001,analisi,3.0,lunga,3.0,,,,
 interfacce_007,analisi,1.0,matematica,1.0,problema,1.0,risouzione,2.0
 interfacce_009,analisi,2.0,difficile,2.0,sfida,2.0,paura,1.0
 interfacce_010,analisi,3.0,matematica,3.0,dati,4.0,ricerca,4.0
@@ -3479,7 +3348,6 @@ interfacce_016,analisi,3.0,esperimento,4.0,matematica,3.0,,
 interfacce_019,analisi,3.0,psicologo,4.0,carta ,3.0,penna,3.0
 interfacce_020,analisi,3.0,matematica,2.0,calcoli,2.0,dati,4.0
 interfacce_023,analisi,4.0,laboratorio,4.0,sangue ,4.0,molecole,4.0
-interfacce_001,scoperta,5.0,positiva,5.0,bella,5.0,,
 interfacce_007,scoperta,4.0,idea,5.0,soldi,5.0,,
 interfacce_009,scoperta,4.0,nuovo,5.0,felicità,5.0,scienza,3.0
 interfacce_010,scoperta,5.0,nuovo,5.0,eccitazione,5.0,allegria,5.0
@@ -3489,7 +3357,6 @@ interfacce_016,scoperta,4.0,innovazione,5.0,scienziato,3.0,,
 interfacce_019,scoperta,4.0,america,3.0,scienza,4.0,spazio,5.0
 interfacce_020,scoperta,4.0,scienza,4.0,nuovo,5.0,,
 interfacce_023,scoperta,4.0,curiosità ,4.0,nuovo,4.0,avventura,5.0
-interfacce_001,scienziata,4.0,matta,4.0,,,,
 interfacce_007,scienziata,4.0,camice,3.0,ricerca,4.0,scoperta,5.0
 interfacce_009,scienziata,4.0,forte,4.0,intelligente,4.0,migliore,4.0
 interfacce_010,scienziata,4.0,studiare,3.0,osservare,4.0,ricerca,5.0
@@ -3499,7 +3366,6 @@ interfacce_016,scienziata,3.0,innovazione,5.0,sperimentatrice,3.0,,
 interfacce_019,scienziata,4.0,camice,3.0,ricerca,4.0,dedizione,4.0
 interfacce_020,scienziata,3.0,biologia,2.0,fisica,1.0,scienza,4.0
 interfacce_023,scienziata,5.0,calcoli,4.0,diversi,4.0,einstein ,3.0
-interfacce_001,docente,4.0,severo,3.0,,,,
 interfacce_007,docente,4.0,scrutino,2.0,pagella,2.0,lezione,2.0
 interfacce_009,docente,4.0,inteligente,4.0,esperto,4.0,dottato,4.0
 interfacce_010,docente,3.0,compiti,2.0,cattedra,2.0,lavagna,2.0
@@ -3509,7 +3375,6 @@ interfacce_016,docente,3.0,modello,4.0,insegnamento,4.0,conoscenza,5.0
 interfacce_019,docente,4.0,scuola,4.0,rapporto,4.0,intelligente,5.0
 interfacce_020,docente,3.0,università,4.0,scuola,4.0,esame,2.0
 interfacce_023,docente,5.0,serio,4.0,inteligente ,4.0,,
-interfacce_001,programmazione,4.0,informatica,4.0,,,,
 interfacce_007,programmazione,4.0,orario,3.0,impegni,4.0,agenda,4.0
 interfacce_009,programmazione,4.0,computer,4.0,tecle,3.0,codici,4.0
 interfacce_010,programmazione,3.0,codice,3.0,informatica,3.0,funzioni,2.0
@@ -3519,7 +3384,6 @@ interfacce_016,programmazione,2.0,informatica,2.0,computer,4.0,codici,2.0
 interfacce_019,programmazione,4.0,computer,3.0,codice,4.0,stringa,3.0
 interfacce_020,programmazione,2.0,informatica,2.0,computer,4.0,codice,1.0
 interfacce_023,programmazione,4.0,informatica ,4.0,linguaggi,4.0,numeri,4.0
-interfacce_001,laboratorio,3.0,prove,3.0,esperimenti,2.0,,
 interfacce_007,laboratorio,5.0,scienza,3.0,provetta,3.0,liquido,3.0
 interfacce_009,laboratorio,3.0,test,3.0,scienza,4.0,studenti,4.0
 interfacce_010,laboratorio,4.0,ricerca,5.0,studio,5.0,osservazione,4.0
@@ -3529,7 +3393,6 @@ interfacce_016,laboratorio,3.0,esperimenti,4.0,ricercatori,3.0,partecipanti,3.0
 interfacce_019,laboratorio,4.0,topo,2.0,scienza,4.0,esperimento,4.0
 interfacce_020,laboratorio,4.0,scienza,3.0,esperimento,4.0,,
 interfacce_023,laboratorio,2.0,ricerca,4.0,chimica ,2.0,fisica,3.0
-interfacce_001,conoscenza,5.0,cultura,5.0,aiuto,4.0,vita,5.0
 interfacce_007,conoscenza,5.0,studio,2.0,libro,2.0,maestra,1.0
 interfacce_009,conoscenza,4.0,importante,4.0,intelligenza,4.0,saggio,4.0
 interfacce_010,conoscenza,5.0,vita,4.0,mente,5.0,sapere,5.0
@@ -3539,7 +3402,6 @@ interfacce_016,conoscenza,4.0,cultura,5.0,potere,5.0,futuro,4.0
 interfacce_019,conoscenza,4.0,cervello,4.0,mente,4.0,libri,3.0
 interfacce_020,conoscenza,5.0,sapere,5.0,cultura,5.0,università,4.0
 interfacce_023,conoscenza,5.0,scuola ,4.0,casa,4.0,vita,5.0
-interfacce_001,fallimento,1.0,caduta,2.0,,,,
 interfacce_007,fallimento,1.0,prove,2.0,scala,5.0,errori,3.0
 interfacce_009,fallimento,1.0,tristeza,1.0,insufficienza,1.0,vergogna,1.0
 interfacce_010,fallimento,1.0,brutto,2.0,deludente,1.0,triste,2.0
@@ -3549,7 +3411,6 @@ interfacce_016,fallimento,1.0,paura,1.0,,,,
 interfacce_019,fallimento,3.0,tristezza,3.0,difficile,2.0,pianto,4.0
 interfacce_020,fallimento,1.0,paura,1.0,ansia ,1.0,,
 interfacce_023,fallimento,2.0,rialzarzi ,4.0,non scoragiarsi ,4.0,lacrime,1.0
-interfacce_001,voto,3.0,giudizio,3.0,numero,3.0,,
 interfacce_007,voto,2.0,negativo,2.0,,,,
 interfacce_009,voto,2.0,ansia,1.0,scuola,3.0,numero,3.0
 interfacce_010,voto,2.0,numero,1.0,scala,2.0,rappresentazione,3.0
@@ -3559,7 +3420,6 @@ interfacce_016,voto,2.0,esame,2.0,verifica,2.0,paura,1.0
 interfacce_019,voto,3.0,dieci,4.0,numeri,3.0,ansia,2.0
 interfacce_020,voto,4.0,esame,2.0,media,3.0,studio,2.0
 interfacce_023,voto,4.0,bello ,4.0,superato,3.0,nullo,2.0
-interfacce_001,numeri,3.0,quantità,4.0,,,,
 interfacce_007,numeri,2.0,tabelline,1.0,difficolta,2.0,verifica,3.0
 interfacce_009,numeri,3.0,matematica,3.0,somma,3.0,esame,2.0
 interfacce_010,numeri,3.0,dati,4.0,frequenza,3.0,matematica,3.0
@@ -3569,7 +3429,6 @@ interfacce_016,numeri,3.0,matematica,3.0,informatica,3.0,,
 interfacce_019,numeri,4.0,infinito,4.0,strani,2.0,complicati,3.0
 interfacce_020,numeri,2.0,calcolo,2.0,matematica,2.0,,
 interfacce_023,numeri,3.0,matematica,3.0,scienze ,3.0,informatica,4.0
-interfacce_001,logica,3.0,impegno,5.0,,,,
 interfacce_007,logica,4.0,numeri,2.0,calcoli,2.0,,
 interfacce_009,logica,4.0,raggionare,4.0,pensare,4.0,conettare,3.0
 interfacce_010,logica,4.0,matematica,3.0,cervello,4.0,numeri,3.0
@@ -3579,7 +3438,6 @@ interfacce_016,logica,3.0,problemi,2.0,ragionamento,3.0,,
 interfacce_019,logica,4.0,filo,3.0,cervello ,4.0,ragionamento,4.0
 interfacce_020,logica,4.0,mente,5.0,intelligenza,5.0,,
 interfacce_023,logica,4.0,cervello,4.0,economia ,4.0,seguenza,5.0
-interfacce_001,ricerca,4.0,scientifica,3.0,,,,
 interfacce_007,ricerca,4.0,scienza,3.0,creativo,5.0,studio,4.0
 interfacce_009,ricerca,4.0,lettura,4.0,programmazione,4.0,accademia,3.0
 interfacce_010,ricerca,4.0,studio,4.0,laboratorio,3.0,analisi,3.0
@@ -3589,7 +3447,6 @@ interfacce_016,ricerca,4.0,dati,3.0,partecipanti,3.0,università,4.0
 interfacce_019,ricerca,4.0,tempo,3.0,dedizione,5.0,pigrizia,2.0
 interfacce_020,ricerca,3.0,scienza,4.0,esperimento,3.0,,
 interfacce_023,ricerca,4.0,calcoli,4.0,analisi,4.0,numeri ,3.0
-interfacce_001,imbarazzo,2.0,disagio,1.0,ansia,2.0,,
 interfacce_007,imbarazzo,4.0,io,3.0,amici,5.0,,
 interfacce_009,imbarazzo,2.0,vergogna,1.0,pubblico,3.0,insicurezza,2.0
 interfacce_010,imbarazzo,2.0,sudore,2.0,mutismo,1.0,battito,1.0
@@ -3599,7 +3456,6 @@ interfacce_016,imbarazzo,1.0,conversazione,4.0,,,,
 interfacce_019,imbarazzo,2.0,rosso,3.0,caldo,2.0,spiacevole,2.0
 interfacce_020,imbarazzo,1.0,rossore,1.0,ansia,1.0,disagio,1.0
 interfacce_023,imbarazzo,3.0,rosso,2.0,timidezza ,2.0,ansia,1.0
-interfacce_001,compagni,5.0,carini,5.0,scuola,5.0,,
 interfacce_007,compagni,,amici,,antipatici,,divertimento,
 interfacce_009,compagni,4.0,amicizia,5.0,scambio,4.0,felicità,5.0
 interfacce_010,compagni,4.0,divertenti,5.0,colleghi,3.0,studiosi,3.0
@@ -3609,7 +3465,6 @@ interfacce_016,compagni,5.0,liceo,5.0,università,4.0,amici,5.0
 interfacce_019,compagni,3.0,amici,4.0,,,,
 interfacce_020,compagni,4.0,amici,5.0,scuola,4.0,,
 interfacce_023,compagni,4.0,scuola,4.0,amore,4.0,viaggio,5.0
-interfacce_001,problema,2.0,soluzione,4.0,,,,
 interfacce_007,problema,2.0,scomodità,2.0,casino,2.0,soluzione,4.0
 interfacce_009,problema,1.0,soluzione,4.0,ansia,1.0,,
 interfacce_010,problema,2.0,soluzione,5.0,difficoltà,2.0,blocco,1.0
@@ -3619,7 +3474,6 @@ interfacce_016,problema,2.0,matematica,3.0,compito,3.0,problem soving,4.0
 interfacce_019,problema,2.0,matematica,3.0,difficile ,2.0,conti,3.0
 interfacce_020,problema,2.0,soluzione,4.0,,,,
 interfacce_023,problema,2.0,attuale ,2.0,passato,2.0,,
-interfacce_001,informatica,4.0,papà,5.0,esame,3.0,,
 interfacce_007,informatica,4.0,programmazione,4.0,attenzione,2.0,esercizi,2.0
 interfacce_009,informatica,4.0,computer,4.0,tecnologia,4.0,lavoro,2.0
 interfacce_010,informatica,3.0,programmazione,3.0,codice,2.0,sistemi,3.0
@@ -3629,7 +3483,6 @@ interfacce_016,informatica,2.0,computer,3.0,esame,2.0,,
 interfacce_019,informatica,3.0,interessante,4.0,utile,4.0,complicata,2.0
 interfacce_020,informatica,2.0,codici,1.0,linguaggio,4.0,computer,3.0
 interfacce_023,informatica,3.0,numeri ,3.0,programmi,4.0,internet,4.0
-interfacce_001,sfida,4.0,impossibile,1.0,,,,
 interfacce_007,sfida,4.0,steps,4.0,passi,4.0,vincere,5.0
 interfacce_009,sfida,2.0,difficoltà,1.0,test,2.0,ostacollo,2.0
 interfacce_010,sfida,4.0,eccitazione,4.0,adrenalina,4.0,competizione,4.0
@@ -3639,7 +3492,6 @@ interfacce_016,sfida,3.0,competizione,4.0,,,,
 interfacce_019,sfida,3.0,paura,4.0,felicità,5.0,,
 interfacce_020,sfida,4.0,due,3.0,migliore,4.0,vincere,5.0
 interfacce_023,sfida,4.0,avventura,5.0,superare paure,5.0,uscire dalla comfort zone,4.0
-interfacce_001,paura,2.0,futuro,3.0,,,,
 interfacce_007,paura,3.0,tristezza,1.0,rassegnazione,1.0,,
 interfacce_009,paura,1.0,ansia,1.0,incubo,1.0,,
 interfacce_010,paura,2.0,ansia,1.0,timore,2.0,blocco,1.0
@@ -3649,7 +3501,6 @@ interfacce_016,paura,1.0,fallimento,1.0,,,,
 interfacce_019,paura,3.0,morte,1.0,brutta,2.0,fastidiopsa,1.0
 interfacce_020,paura,1.0,ansia,1.0,cavallette,1.0,trauma,1.0
 interfacce_023,paura,2.0,sbaglaire,3.0,autostima,1.0,futuro,4.0
-interfacce_001,genitori,5.0,mamma,5.0,papà,5.0,casa,5.0
 interfacce_007,genitori,4.0,mamma,4.0,papa,3.0,elisa,4.0
 interfacce_009,genitori,5.0,amore,5.0,mancanza,2.0,infanzia,4.0
 interfacce_010,genitori,2.0,due,3.0,persone,3.0,,
@@ -3659,7 +3510,6 @@ interfacce_016,genitori,5.0,mamma,5.0,papà,5.0,sorella,5.0
 interfacce_019,genitori,4.0,amore,5.0,felicità,4.0,sicurezza,4.0
 interfacce_020,genitori,5.0,madre,5.0,padre,5.0,famiglia,5.0
 interfacce_023,genitori,3.0,mamma,4.0,papà,4.0,amore,5.0
-interfacce_001,dati,3.0,statistica,3.0,numeri,3.0,percentuale,3.0
 interfacce_007,dati,4.0,numeri,3.0,informazioni,4.0,,
 interfacce_009,dati,3.0,data science,3.0,economia,2.0,sistemi,3.0
 interfacce_010,dati,3.0,analisi,3.0,formule,4.0,studio,5.0
@@ -3669,7 +3519,6 @@ interfacce_016,dati,3.0,matematica,3.0,ricerca,4.0,informatica,3.0
 interfacce_019,dati,3.0,numeri,3.0,computer,3.0,calcoli,4.0
 interfacce_020,dati,2.0,numeri,3.0,statistica,2.0,,
 interfacce_023,dati,3.0,numeri,3.0,raccolta,3.0,ricerca,4.0
-interfacce_001,esperimento,4.0,prova,3.0,ipotesi,3.0,teoria,4.0
 interfacce_007,esperimento,4.0,numeri,3.0,dati,4.0, ipotesi,2.0
 interfacce_009,esperimento,3.0,laboratorio,3.0,calcoli,2.0,test,3.0
 interfacce_010,esperimento,4.0,ricerca,5.0,tesi,3.0,risultato,5.0
@@ -3679,7 +3528,6 @@ interfacce_016,esperimento,4.0,partecipante,3.0,ricercatore,3.0,psicologia,4.0
 interfacce_019,esperimento,4.0,risultati,3.0,interessante,3.0,pratica,3.0
 interfacce_020,esperimento,3.0,psicologia,4.0,eeg,1.0,scienza,4.0
 interfacce_023,esperimento,5.0,numeri,5.0,calcoli,5.0,scienza,5.0
-interfacce_001,stress,2.0,agitazione,2.0,nervoso,2.0,,
 interfacce_007,stress,2.0,ansia,1.0,pensieri,2.0,agitazione,2.0
 interfacce_009,stress,1.0,ansia,1.0,paura,1.0,overthinking,1.0
 interfacce_010,stress,2.0,sudore,2.0,stanchezza,1.0,sbuffare,2.0
@@ -3689,7 +3537,6 @@ interfacce_016,stress,1.0,università,3.0,futuro,3.0,,
 interfacce_019,stress,2.0,rosso,3.0,collo,2.0,pieno,2.0
 interfacce_020,stress,1.0,ansia,1.0,lavoro,4.0,studio,4.0
 interfacce_023,stress,2.0,paura,1.0,fallimento,2.0,lacrime,1.0
-interfacce_001,counselling,,,,,,,
 interfacce_007,counselling,3.0,economia,1.0,consigli ,4.0,datore di lavoro,4.0
 interfacce_009,counselling,4.0,aiuto,4.0,benessere,4.0,psicologo,5.0
 interfacce_010,counselling,,,,,,,
@@ -3699,7 +3546,6 @@ interfacce_016,counselling,4.0,aiuto,4.0,,,,
 interfacce_019,counselling,,,,,,,
 interfacce_020,counselling,,,,,,,
 interfacce_023,counselling,,,,,,,
-interfacce_001,regole,4.0,seguire,4.0,trasgredire,2.0,,
 interfacce_007,regole,4.0,rispetto,4.0,punizione,3.0,,
 interfacce_009,regole,3.0,chiuse,2.0,importanti,4.0,serie,3.0
 interfacce_010,regole,3.0,leggi,2.0,rigidità,2.0,norme,3.0
@@ -3709,7 +3555,6 @@ interfacce_016,regole,4.0,civiltà,4.0,necessità,4.0,,
 interfacce_019,regole,3.0,necessarie,3.0,faastidiose,2.0,infrangere,2.0
 interfacce_020,regole,4.0,legge,3.0,rispettare,3.0,carta,3.0
 interfacce_023,regole,4.0,staticità,3.0,uggualianza ,2.0,no diversità,1.0
-interfacce_001,scienziato,4.0,laboratorio,3.0,esperimenti,3.0,fumo,2.0
 interfacce_007,scienziato,4.0,camice,3.0,idee,5.0,scoperte,5.0
 interfacce_009,scienziato,3.0,intelligente,4.0,sforzo,4.0,lavoro,2.0
 interfacce_010,scienziato,4.0,ricerca,5.0,studio,5.0,analisi,3.0
@@ -3719,7 +3564,6 @@ interfacce_016,scienziato,3.0,esperimenti,3.0,ipotesi,3.0,,
 interfacce_019,scienziato,4.0,esperimenti,3.0,camice,3.0,testa,4.0
 interfacce_020,scienziato,3.0,scienza,4.0,esperimenti,3.0,progresso,5.0
 interfacce_023,scienziato,4.0,studio,4.0,numeri,4.0,calcoli,3.0
-interfacce_001,scuola,4.0,studio,4.0,compito,3.0,prof,4.0
 interfacce_007,scuola,2.0,verifiche,1.0,ansia,1.0,prof,3.0
 interfacce_009,scuola,3.0,amici,5.0,infanzia,4.0,professori,4.0
 interfacce_010,scuola,2.0,materie,3.0,compagni,4.0,compiti,2.0
@@ -3729,7 +3573,6 @@ interfacce_016,scuola,4.0,professori,3.0,compagni di classe,3.0,libri,3.0
 interfacce_019,scuola,4.0,lunga,1.0,utile,4.0,impegnativa,3.0
 interfacce_020,scuola,4.0,banco,3.0,voto,3.0,professore,2.0
 interfacce_023,scuola,5.0,istruzione ,5.0,maturità,5.0,crescita,4.0
-interfacce_001,creatività,5.0,sorpresa,5.0,soluzione,5.0,,
 interfacce_007,creatività,5.0,idee,5.0,novita,5.0,ricerca,4.0
 interfacce_009,creatività,4.0,arte,4.0,colorare,4.0,pensare,4.0
 interfacce_010,creatività,5.0,arte,4.0,cervello,4.0,fantasia,5.0
@@ -3739,7 +3582,6 @@ interfacce_016,creatività,4.0,arte,4.0,problem solving,5.0,,
 interfacce_019,creatività,5.0,colori,3.0,arte,4.0,mondo,4.0
 interfacce_020,creatività,5.0,arte,5.0,matita,3.0,scrittura,3.0
 interfacce_023,creatività,5.0,immaginazione,4.0,unicità,4.0,fantasy,3.0
-interfacce_001,arte,5.0,creativa,5.0,bella,5.0,internazionale,5.0
 interfacce_007,arte,5.0,disegno,4.0,dipinto,5.0,quadro,5.0
 interfacce_009,arte,5.0,libri,5.0,cinema,5.0,pitture,5.0
 interfacce_010,arte,4.0,fantasia,5.0,colori,5.0,apertura,5.0
@@ -3749,7 +3591,6 @@ interfacce_016,arte,4.0,soggettività,4.0,dipinto,4.0,musica,4.0
 interfacce_019,arte,4.0,colori,3.0,pennello,3.0,creatività,5.0
 interfacce_020,arte,5.0,cultura,5.0,colore,5.0,pittore,4.0
 interfacce_023,arte,5.0,colori,4.0,sculture,4.0,identità,4.0
-interfacce_001,esame,3.0,difficile,2.0,ansia,1.0,,
 interfacce_007,esame,4.0,studio,4.0,amici,5.0,appunti,3.0
 interfacce_009,esame,1.0,ansia,1.0,voto,1.0,scuola,3.0
 interfacce_010,esame,2.0,ansia,1.0,voto,3.0,scrivere,2.0
@@ -3759,7 +3600,6 @@ interfacce_016,esame,2.0,voto,2.0,studio,3.0,,
 interfacce_019,esame,2.0,ansia,1.0,difficile ,2.0,soddisfazione,4.0
 interfacce_020,esame,2.0,studio,3.0,voto,3.0,ansia,1.0
 interfacce_023,esame,4.0,superamento,5.0,studio,3.0,domani,5.0
-interfacce_001,futuro,4.0,incerto,2.0,paura,2.0,,
 interfacce_007,futuro,4.0,lavoro,3.0,figli,5.0,compagna,2.0
 interfacce_009,futuro,4.0,incerto,2.0,positivo,4.0,tecnologia,4.0
 interfacce_010,futuro,3.0,incerto,2.0,migliore,5.0,radioso(si spera),4.0
@@ -3769,7 +3609,6 @@ interfacce_016,futuro,4.0,lavoro,4.0,amore,5.0,serenità,4.0
 interfacce_019,futuro,5.0,luce,4.0,insicurezza,3.0,speranza,4.0
 interfacce_020,futuro,4.0,lavoro,4.0,sogno,5.0,,
 interfacce_023,futuro,4.0,studio,4.0,pianificazione,5.0,azioni,4.0
-interfacce_001,vita,5.0,bella,5.0,opportunità,5.0,,
 interfacce_007,vita,4.0,felice,5.0,scopi,5.0,futuro,4.0
 interfacce_009,vita,4.0,bella,5.0,difficile,2.0,sfide,2.0
 interfacce_010,vita,3.0,tempo,2.0,respiro,5.0,,

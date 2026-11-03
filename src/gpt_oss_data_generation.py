@@ -22,9 +22,10 @@ Workflow (the second step can run on a different machine, with only the manifest
     # 3. (re)build the CSVs from the raw responses; `generate` already does this at the end
     python src/gpt_oss_data_generation.py collect --out rassereno/data/gpt_oss_2026
 
-The data folder (--out) holds what the run produces: personas.csv, raw/ (one JSON per persona) and
-generation_report.csv. The answers, in the formatted-CSV schema used for the humans
-(associations_valence_gpt_oss.csv, mas_it_gpt_oss.csv), go to out/formatting/<same folder name>.
+The data folder (--out) holds what the run produces: personas.csv, one JSON per persona
+(gpt_oss_<id>.json, with the prompts and every attempt) and generation_report.csv. The answers, in
+the formatted-CSV schema used for the humans (associations_valence_gpt_oss.csv, mas_it_gpt_oss.csv),
+go to out/formatting/<same folder name>.
 """
 
 import argparse
@@ -473,8 +474,8 @@ def generate(args):
     from openai import OpenAI  # only needed here, so `personas` and `collect` run without it
 
     out_dir = Path(args.out)
-    raw_dir = out_dir / "raw"
-    raw_dir.mkdir(parents=True, exist_ok=True)
+    # the raw responses are saved next to personas.csv, one JSON per persona
+    raw_dir = out_dir
     personas = read_personas(out_dir)
     if args.limit:
         personas = personas[: args.limit]
@@ -509,7 +510,7 @@ def generate(args):
 def collect(out_dir):
     out_dir = Path(out_dir)
     assoc_rows, mas_rows, report = [], [], []
-    for path in sorted((out_dir / "raw").glob("*.json")):
+    for path in sorted(out_dir.glob("gpt_oss_*.json")):
         record = json.loads(path.read_text(encoding="utf-8"))
         persona = record["persona"]
         pid = persona["persona_id"]
@@ -587,7 +588,7 @@ def main():
     g.add_argument("--limit", type=int, default=None, help="only the first N personas (tests)")
     g.add_argument("--redo-invalid", action="store_true", help="re-simulate invalid personas")
 
-    c = sub.add_parser("collect", help="rebuild the CSVs from <out>/raw")
+    c = sub.add_parser("collect", help="rebuild the CSVs from the JSONs in <out>")
     c.add_argument("--out", required=True)
 
     args = parser.parse_args()

@@ -1,5 +1,4 @@
 participant_id,cue_word,valence_cue_word,association_1,valence_association_1,association_2,valence_association_2,association_3,valence_association_3
-interfacce_001,scienza,3,lontana,2,,,,
 interfacce_002,scienza,4,studio,4,esperimenti,3,laboratorio,2
 interfacce_003,scienza,4,chimica,1,einstein,3,,
 interfacce_004,scienza,4,esperimenti,4,conoscienza,4,verde,3
@@ -24,7 +23,6 @@ interfacce_022,scienza,4,scoperte,4,ricerche,4,psicologia,3
 interfacce_023,scienza,4,ricerca,4,numeri,4,fisica,2
 fisica_003,scienza,5,scoperte,4,magia,4,rigoroso,4
 fisica_005,scienza,5,conoscenza,4,ricerca,4,scoperta,4
-liceo_sci_001,scienza,3,,,,,,
 liceo_sci_002,scienza,5,biologia,5,seppia,5,chimica,1
 liceo_sci_003,scienza,3,interessante,4,complessa,2,ingegnosa,4
 liceo_sci_004,scienza,3,esperimenti,4,osservazione,3,natura,5
@@ -75,7 +73,6 @@ liceo_sci_026,scienza,3,chimica,3,studio,2,animali,4
 liceo_sci_027,scienza,4,interesse,5,curiosita',5,utilita',4
 liceo_sci_028,scienza,4,chimica,3,metodo,4,studio,2
 liceo_sci_029,scienza,3,,,,,,
-liceo_sci_030,scienza,3,astronomia,4,della terra,4,chimica,4
 liceo_sci_031,scienza,4,tecnologia,4,,,,
 liceo_sci_032,scienza,4,progresso,3,,,,
 liceo_sci_033,scienza,5,interessante,5,tutto,5,bella,5
@@ -94,7 +91,6 @@ liceo_063,scienza,4,metodo,4,epistemologia,4,ricerca,4
 liceo_064,scienza,4,pesante,4,importante,4,spazio,4
 fisica_017,scienza,4,vita,5,ricerca ,5,progresso,5
 fisica_018,scienza,4,scoperta,5,chimica,2,verde,2
-fisica_020,scienza,3,merendine,2,chimica,4,fisica,4
 fisica_021,scienza,4,barbara,3,scula elementare,3,james watson,4
 fisica_022,scienza,2,strumento,2,matematica,2,rigidità,1
 fisica_stem_005_1,scienza,5,invenzioni,4,natura,4,creatività ,5
@@ -137,7 +133,6 @@ high_school_south_005,scienza,4,studio,3,natura,4,fenomeni,3
 high_school_south_006,scienza,4,vitale ,3,quotidiana ,3,ricerca ,5
 high_school_south_008,scienza,5,ipotesi,5,conoscienza,5,bello,5
 high_school_south_009,scienza,4,esperimento,4,teoria,5,progresso,5
-high_school_south_011,scienza,4,chimica,5,eistein,1,fisica,3
 high_school_south_012,scienza,4,biologia,5,scuola ,3,utile,4
 high_school_south_015,scienza,5,ricerca ,5,scoperte,5,metodo,5
 high_school_south_016,scienza,5,innovazione ,5,strumento,5,fede,3
@@ -166,7 +161,6 @@ high_school_south_045,scienza,4,cupidatat dolor labo,3,lorem corrupti labo,1,und
 high_school_south_046,scienza,4,esatta,4,incompleta,2,chimica,4
 high_school_south_047,scienza,4,studio,4,metodo,4,verifica,3
 high_school_south_048,scienza,2,studio ,2,laboratorio ,2,scienziati ,2
-interfacce_001,statistica,3,matematica,3,difficile,3,,
 interfacce_002,statistica,3,numeri,3,percentuali,4,probabilita,4
 interfacce_003,statistica,2,numeri,4, calcolo,4,,
 interfacce_004,statistica,3,matematica ,3,numeri,3,istat,3
@@ -191,7 +185,6 @@ interfacce_022,statistica,3,popolazione,4,economica,1,,
 interfacce_023,statistica,3,numeri,4,confronto,4,ricerca,4
 fisica_003,statistica,3,dati,3,numero,3,media,3
 fisica_005,statistica,3,probabilità ,3,evento,3,casualità ,3
-liceo_sci_001,statistica,3,matematica,3,,,,
 liceo_sci_002,statistica,3,probabilità,4,evento contrario,4,estrazione,4
 liceo_sci_003,statistica,3,difficile,2,materia,3,complessa da comprendere,2
 liceo_sci_004,statistica,3,numeri,3,tabelle,3,calcolatrice,3
@@ -242,7 +235,6 @@ liceo_sci_026,statistica,3,matematica,2,economia,4,valutazione,4
 liceo_sci_027,statistica,4,matematica,4,probabilita',4,utilita',4
 liceo_sci_028,statistica,3,percentuale,3,calcolo,3,probabilità,3
 liceo_sci_029,statistica,3,,,,,,
-liceo_sci_030,statistica,3,,,,,,
 liceo_sci_031,statistica,4,matematica,3,scienza,4,economia,5
 liceo_sci_032,statistica,2,dati,3,indagini,4,,
 liceo_sci_033,statistica,4,brutta,2,utile,5,difficile,3
@@ -261,7 +253,6 @@ liceo_063,statistica,4,popolazione ,4,parametri,4,inferenza,4
 liceo_064,statistica,4,noia,3,seria,4,tabella,4
 fisica_017,statistica,5,necessaria ,5,utile ,5,noiosa,2
 fisica_018,statistica,4,laboratorio 1,4,gaussiana,4,birra,5
-fisica_020,statistica,3,matematica,3,quantistica,5,,
 fisica_021,statistica,4,compagno di classe,2,matematica,3,precisione,4
 fisica_022,statistica,2,verità,5,accuratezza,3,sintesi,4
 fisica_stem_005_1,statistica,4,linguaggio,4,lettura,5,numeri,4
@@ -304,7 +295,6 @@ high_school_south_005,statistica,3,numeri,4,percentuali,3,diagrammi,3
 high_school_south_006,statistica,3,dati,3,studi ,5,tabella,
 high_school_south_008,statistica,4,matematica,5,numeri ,5,dati,5
 high_school_south_009,statistica,4,dati,4,campione ,3,media,3
-high_school_south_011,statistica,1,noia,1,sonno,5,soldi,5
 high_school_south_012,statistica,4,matematica,3,dati,4,analisi,4
 high_school_south_015,statistica,3,probabilità ,3,calcoli,4,programma,3
 high_school_south_016,statistica,4,matematica ,5,gaussiana,5,istogrammk,4
@@ -333,7 +323,6 @@ high_school_south_045,statistica,3,sed cupidatat deseru,1,voluptas soluta sunt,2
 high_school_south_046,statistica,5,grafici,3,numeri,4,probabilità,4
 high_school_south_047,statistica,3,fenomeno,3,probabilità ,3,percentuali ,3
 high_school_south_048,statistica,3,numeri ,2,percentuale ,4,dati ,3
-interfacce_001,ipotesi,3,dubbio,3,incertezza,2,,
 interfacce_002,ipotesi,3,domanda,4,quesito,3,pensare,4
 interfacce_003,ipotesi,3,tesi,3,scienza,4,,
 interfacce_004,ipotesi,3,scienza ,4,esperimento,4,idea,5
@@ -358,7 +347,6 @@ interfacce_022,ipotesi,4,teoria,2,pensiero,5,fatti,4
 interfacce_023,ipotesi,4,pensiero,4,lettura,4,ricerca,4
 fisica_003,ipotesi,3,induttiva,3,idea,4,falsa,2
 fisica_005,ipotesi,3,tesi,3,dimostrazione,3,teorema,3
-liceo_sci_001,ipotesi,3,idee,3,,,,
 liceo_sci_002,ipotesi,4,domanda,4,dimostrazione,4,triangolo,3
 liceo_sci_003,ipotesi,3,domanda,3,matematica,2,pensiero,3
 liceo_sci_004,ipotesi,3,conclusioni,4,ragionamenti,4,tentativi,2
@@ -409,7 +397,6 @@ liceo_sci_026,ipotesi,3,scienze,4,,,,
 liceo_sci_027,ipotesi,4,dati,4,problema,5,idea,5
 liceo_sci_028,ipotesi,3,tesi,3,dimostrazione,4,disegno,4
 liceo_sci_029,ipotesi,3,,,,,,
-liceo_sci_030,ipotesi,3,,,,,,
 liceo_sci_031,ipotesi,3,intelligenza,4,nuovo,5,,
 liceo_sci_032,ipotesi,3,teorema,3,scoperta,4,dimostrazione,3
 liceo_sci_033,ipotesi,5,utili,5,importanti,5,naturali,4
@@ -428,7 +415,6 @@ liceo_063,ipotesi,4,premessa,4,logica,3,tesi,4
 liceo_064,ipotesi,4,calma,5,ragionevole,5,seria,5
 fisica_017,ipotesi,5,possibilità ,5,progetto ,5,,
 fisica_018,ipotesi,3,tesi,3,verifica,2,dimostrazione,4
-fisica_020,ipotesi,3,antitesi,3,teorema,3,,
 fisica_021,ipotesi,3,esperimento,4,problema,3,me da piccolo,4
 fisica_022,ipotesi,3,interesse,5,detection,1,fallibilità,4
 fisica_stem_005_1,ipotesi,3,idea,5,creatività,5,teoremi,3
@@ -471,7 +457,6 @@ high_school_south_005,ipotesi,3,tesi,4,metodo scientifico,3,,
 high_school_south_006,ipotesi,4,logica,3,argomentazioni ,5,sostegno,5
 high_school_south_008,ipotesi,5,dato,5,idea,5,teoria ,5
 high_school_south_009,ipotesi,4,intuizione,5,rompicapo,4,teoria,5
-high_school_south_011,ipotesi,1,idea,1,genialitá,1,,
 high_school_south_012,ipotesi,4,tesi,4,postulato ,4,teorema,5
 high_school_south_015,ipotesi,4,tesi,4,geometria ,4,teoremi ,4
 high_school_south_016,ipotesi,3,tesi,3,geometria,2,galileo,4
@@ -500,7 +485,6 @@ high_school_south_045,ipotesi,5,maxime laboriosam m,5,non ipsum aspernatu,3,quae
 high_school_south_046,ipotesi,3,confermata,3,falsa,2,brillante,4
 high_school_south_047,ipotesi,4,tesi,4,esperimento ,4,dimostrazione ,4
 high_school_south_048,ipotesi,2,tesi ,2,pensiero ,4,matematica,2
-interfacce_001,ansia,2,agitazione,2,battiti,2,,
 interfacce_002,ansia,1,stress,1,paura,1,tempo,3
 interfacce_003,ansia,2,cuore,4,,,,
 interfacce_004,ansia,2,affanno,2,freddo,2,pensieroso,2
@@ -525,7 +509,6 @@ interfacce_022,ansia,2,pressione,2,preoccupazione,2,economica,1
 interfacce_023,ansia,1,stress,1,cuore,3,,
 fisica_003,ansia,1,preoccupazioni,2,futuro,3,lavoro,3
 fisica_005,ansia,2,paura,2,panico,2,agitazione,2
-liceo_sci_001,ansia,1,matematica,3,fisica ,2,voti,1
 liceo_sci_002,ansia,2,respirare,4,è normale fallire,4,,
 liceo_sci_003,ansia,1,agitazione,2,stato d'animo,4,incontollabile,2
 liceo_sci_004,ansia,2,preoccupazione,2,problemi,2,irrisolvibile,2
@@ -576,7 +559,6 @@ liceo_sci_026,ansia,1,verifica,2,interrogazione,1,pressione,1
 liceo_sci_027,ansia,2,interrogazione,2,perdita,1,,
 liceo_sci_028,ansia,2,lavoro,3,prestanzione,4,scuola,3
 liceo_sci_029,ansia,3,,,,,,
-liceo_sci_030,ansia,2,prestazione,2,esame,2,incidente,2
 liceo_sci_031,ansia,4,panico,4,da solo,5,testa,5
 liceo_sci_032,ansia,2,persone,3,giudizio,1,dimostrare,2
 liceo_sci_033,ansia,1,terribile,1,male,1,sofferenza,1
@@ -595,7 +577,6 @@ liceo_063,ansia,2,futuro ,3,aspettative,2,,
 liceo_064,ansia,3,paura,3,sempre,3,scuola,3
 fisica_017,ansia,5,esami,5,vita,5,futuro,5
 fisica_018,ansia,1,stress,1,unghie,1,esame,3
-fisica_020,ansia,1,prestazione,3,esame,1,,
 fisica_021,ansia,1,io,1,tanta,1,infermabile,1
 fisica_022,ansia,4,dolore,4,preoccupazione,4,sfida,5
 fisica_stem_005_1,ansia,1,mostro,1,perdita,1,dolore,1
@@ -638,7 +619,6 @@ high_school_south_005,ansia,1,stress,1,interrogazione,3,verifiche,3
 high_school_south_006,ansia,4,presente,3,pesante,3,,
 high_school_south_008,ansia,2,prestazione,3,lavoro,4,futuro,5
 high_school_south_009,ansia,1,fallimento,2,esitazione,1,dubbio,1
-high_school_south_011,ansia,1,sarah,1,paura,1,,
 high_school_south_012,ansia,1,stress,1,scuola ,3,frustrazione,1
 high_school_south_015,ansia,2,scuola,3,premiazioni ,5,competizioni ,5
 high_school_south_016,ansia,1,paura,1,affanno,1,,
@@ -667,7 +647,6 @@ high_school_south_045,ansia,3,quisquam qui pariatu,4,consequatur molestia,2,et n
 high_school_south_046,ansia,2,scuola,3,sociale,3,verifiche,2
 high_school_south_047,ansia,2,preoccupazione,2,turbamento,2,incertezza ,2
 high_school_south_048,ansia,2,pressione ,4,problema ,4,prova ,3
-interfacce_001,benessere,5,fisico,4,mentale,4,economico,4
 interfacce_002,benessere,5,soldi,5,salute,5,felicita,5
 interfacce_003,benessere,5,sauna,4,,,,
 interfacce_004,benessere,5,mentale,5,salute,5,sano,5
@@ -692,7 +671,6 @@ interfacce_022,benessere,5,economico,4,ricchezza,4,tempo,5
 interfacce_023,benessere,5,felictà,5,sorellina,5,casa,4
 fisica_003,benessere,5,calma,5,tempo,4,presenza,5
 fisica_005,benessere,4,tranquillità ,5,pace,5,serenità ,5
-liceo_sci_001,benessere,4,libertà,4,natura,4,,
 liceo_sci_002,benessere,5,sport,5,dopamina,5,serotonina,5
 liceo_sci_003,benessere,5,tranquillità,5,felicità,5,pace,5
 liceo_sci_004,benessere,5,relax,5,pace,5,tranquillità,5
@@ -743,7 +721,6 @@ liceo_sci_026,benessere,4,amici,5,tranquillità,4,famiglia,5
 liceo_sci_027,benessere,4,amici,5,esperienze,5,relax,4
 liceo_sci_028,benessere,5,sport,4,relax,5,salute,5
 liceo_sci_029,benessere,3,,,,,,
-liceo_sci_030,benessere,4,fisico,5,mentale,5,,
 liceo_sci_031,benessere,4,serenità,5,equilibrio,5,divertimento,5
 liceo_sci_032,benessere,5,calma,5,tranquillità,5,libertà,5
 liceo_sci_033,benessere,5,famiglia,5,amici,5,salute,5
@@ -762,7 +739,6 @@ liceo_063,benessere,4,realizzazione ,4,misura,4,felicità ,4
 liceo_064,benessere,4,fisico,4,sala,3,soldi,3
 fisica_017,benessere,5,speranza,3,mentale ,5,fisico,5
 fisica_018,benessere,5,mentale,4,rottura,2,malattia,1
-fisica_020,benessere,3,relax,4,casa,3,mare,2
 fisica_021,benessere,3,,,,,,
 fisica_022,benessere,4,libertà,5,solidità,4,uguaglianza,5
 fisica_stem_005_1,benessere,5,riposo,5,relazioni,5,passioni,5
@@ -805,7 +781,6 @@ high_school_south_005,benessere,5,serenità,5,,,,
 high_school_south_006,benessere,4,fondamentale ,3,serenità ,4,,
 high_school_south_008,benessere,5,vita,4,sport,5,amici,5
 high_school_south_009,benessere,4,diritto,4,salute,5,opportunità ,5
-high_school_south_011,benessere,5,spa,5,relax,5,make up,1
 high_school_south_012,benessere,5,natura,5,mentale,5,fisico,5
 high_school_south_015,benessere,5,fisico,5,mentale,4,alimentare ,5
 high_school_south_016,benessere,5,salute,5,sempre ,5,,
@@ -834,7 +809,6 @@ high_school_south_045,benessere,4,omnis mollit dicta d,1,necessitatibus ad do,4,
 high_school_south_046,benessere,4,spa,4,skin care,4,sauna,4
 high_school_south_047,benessere,4,relax,4,spensieratezza ,4,lusso,3
 high_school_south_048,benessere,5,salute ,5,allenamento ,5,alimentazione ,5
-interfacce_001,equazione,2,lunga,3,,,,
 interfacce_002,equazione,3,matematica,3,numeri,3,equivale,3
 interfacce_003,equazione,4,numeri,4,lettere,3,calcolo,3
 interfacce_004,equazione,2,matematica ,2,x ,3,y,3
@@ -859,7 +833,6 @@ interfacce_022,equazione,3,complessa,2,lacuna,2,matematica,2
 interfacce_023,equazione,4,numeri,4,lettere,2,calcoli,3
 fisica_003,equazione,3,calcoli,3,matematica,3,soluzione,4
 fisica_005,equazione,3,variabile,3,soluzione,3,incognita,4
-liceo_sci_001,equazione,3,divertenti ,5,,,,
 liceo_sci_002,equazione,3,razionale,3,schrodinger,4,gauss,2
 liceo_sci_003,equazione,3,matematica,2,calcoli,3,soluzione,3
 liceo_sci_004,equazione,3,matematica,3,calcoli,3,incognita x,2
@@ -910,7 +883,6 @@ liceo_sci_026,equazione,,matematica,,x,,grafico,
 liceo_sci_027,equazione,4,utile,4,difficile,4,bellina,5
 liceo_sci_028,equazione,3,risultato,4,matematica,3,risolvere,4
 liceo_sci_029,equazione,3,matematica,4,logica,3,numeri ,4
-liceo_sci_030,equazione,3,,,,,,
 liceo_sci_031,equazione,3,primo grado,4,analisi,5,matematica,3
 liceo_sci_032,equazione,2,matematica,4,carta,4,passato,4
 liceo_sci_033,equazione,3,normale,3,,,,
@@ -929,7 +901,6 @@ liceo_063,equazione,4,differenziale,4,spazio,4,fisica,4
 liceo_064,equazione,4,bella,4,lunga,4,pulita,4
 fisica_017,equazione,5,matematica,5, legge,5,quotidianità,5
 fisica_018,equazione,4,x,4,risoluzione,5,differenziale,1
-fisica_020,equazione,3,,,,,,
 fisica_021,equazione,3,facile,4,x,3,'=,3
 fisica_022,equazione,4,uguale,3,massimo,2,satirico,2
 fisica_stem_005_1,equazione,3,soluzione,5,sfida,4,rappresentazione,4
@@ -972,7 +943,6 @@ high_school_south_005,equazione,3,calcolo,4,errore,2,risultato,3
 high_school_south_006,equazione,4,matematica ,5,precisione ,5,rigore ,5
 high_school_south_008,equazione,5,divertente,5,metodo,3,cervello,5
 high_school_south_009,equazione,4,elegante,5,soddusfacente,4,affidabile,5
-high_school_south_011,equazione,,noia,,matematica,,fisica,
 high_school_south_012,equazione,4,differenziale,2,lettera,4,uguale,5
 high_school_south_015,equazione,5,primo grado,5,secondo grado,5,terzo grado,5
 high_school_south_016,equazione,3,uguale,3,x,3,,
@@ -1001,7 +971,6 @@ high_school_south_045,equazione,5,architecto rerum sin,1,animi nihil est nos,3,f
 high_school_south_046,equazione,4,matematica,5,x,3,uscita,4
 high_school_south_047,equazione,4,matematica,4,risoluzione,4,numeri,4
 high_school_south_048,equazione,2,matematica ,2,uguale ,3,risultato ,4
-interfacce_001,fisica,3,difficile,2,,,,
 interfacce_002,fisica,1,quantistica,1,moto ,3,forze,3
 interfacce_003,fisica,2,volume,3,massa,3,gravità,3
 interfacce_004,fisica,3,matematica ,3,scuola,3,fuoco,3
@@ -1026,7 +995,6 @@ interfacce_022,fisica,3,superiori,4,studi,4,interessante,4
 interfacce_023,fisica,3,numeri,4,calcoli ,4,gravità,4
 fisica_003,fisica,5,scoperta,5,mondo,5,universo,5
 fisica_005,fisica,5,curiosità ,5,conoscenza,5,ricerca,4
-liceo_sci_001,fisica,3,difficile,2,ansiosa ,1,,
 liceo_sci_002,fisica,4,campo elettrico,3,gatto,5,mele,5
 liceo_sci_003,fisica,2,difficile da capire,1,non fa per me,1,interessante,4
 liceo_sci_004,fisica,3,calcoli,3,formule,3,caos,2
@@ -1077,7 +1045,6 @@ liceo_sci_026,fisica,,debito,,difficoltà,,educazione,
 liceo_sci_027,fisica,4,interesse,4,curiosita',4,difficolta',5
 liceo_sci_028,fisica,3,studio,2,esercizi,3,risoluzione,4
 liceo_sci_029,fisica,2,scuola,3,formule,2,difficile,3
-liceo_sci_030,fisica,3,,,,,,
 liceo_sci_031,fisica,3,mondo,4,esperimento,4,,
 liceo_sci_032,fisica,2,problemi,2,brutta,2,scienza,3
 liceo_sci_033,fisica,4,dimostrazioni,3,,,,
@@ -1096,7 +1063,6 @@ liceo_063,fisica,4,campo,4,conservazione,4,modello,3
 liceo_064,fisica,4,bella,4,vita,4,pesante,4
 fisica_017,fisica,5,ovunque ,4,natura ,5,curiosità,5
 fisica_018,fisica,4,elettrodinamica,3,orale,2,meccanica,5
-fisica_020,fisica,3,,,,,,
 fisica_021,fisica,5,oss,5,aula università,3,lim,3
 fisica_022,fisica,4,amore,5,vita,5,società,2
 fisica_stem_005_1,fisica,4,equazioni ,4,natura,3,problemi ,3
@@ -1139,7 +1105,6 @@ high_school_south_005,fisica,4,numeri,4,meccanismi,4,fluidi,4
 high_school_south_006,fisica,4,problemi,4,olimpiadi ,4,astrazione ,
 high_school_south_008,fisica,4,numeri,4,formule ,3,memoria,5
 high_school_south_009,fisica,5,prevedibile,5,sottile,5,intrigante,4
-high_school_south_011,fisica,,il prof,,noia,,ultima ora,
 high_school_south_012,fisica,3,scuola,4,materia,5,formule,4
 high_school_south_015,fisica,4,natura,4,campionati,3,questionario,3
 high_school_south_016,fisica,5,pendolo ,4,meccanica,4,elettromagnetismo ,5
@@ -1168,7 +1133,6 @@ high_school_south_045,fisica,3,fuga aut in minim s,4,non dicta sunt minus,5,anim
 high_school_south_046,fisica,2,ignoranza,1,leggi,3,gravità,3
 high_school_south_047,fisica,4,materia,4,movimento ,4,studio,4
 high_school_south_048,fisica,2,problemi ,4,studio ,2,mondo ,5
-interfacce_001,innovazione,5,cambiamento,4,miglioramento,5,,
 interfacce_002,innovazione,4,novità ,4,inventare,4,creare,4
 interfacce_003,innovazione,4,novità,4,nuovo,4,scoperta,4
 interfacce_004,innovazione,5,tecnologia,4,sperimentazione,5,creatività,5
@@ -1193,7 +1157,6 @@ interfacce_022,innovazione,4,tecnologica,4,futuro,3,angoscia,2
 interfacce_023,innovazione,5,cambiamento,5,ricerca,5,futuro,5
 fisica_003,innovazione,4,energia,4,ambiente,5,tecnologie,3
 fisica_005,innovazione,4,scoperta,4,progresso,4,ricerca,4
-liceo_sci_001,innovazione,4,futuro,4,,,,
 liceo_sci_002,innovazione,3,tentativi falliti,4,scoperte,4,condivisione,4
 liceo_sci_003,innovazione,4,creatività,4,inventiva,4,scienza,3
 liceo_sci_004,innovazione,3,imprevedibile,2,cambiamenti,3,novità,3
@@ -1244,7 +1207,6 @@ liceo_sci_026,innovazione,3,novità,4,scoperta,4,peggiorare,2
 liceo_sci_027,innovazione,4,scientifica,4,progresso,4,curiosita',5
 liceo_sci_028,innovazione,4,scienza,4,informatica,3,futuro,4
 liceo_sci_029,innovazione,4,tecnologica,4,pc,5,futuro,4
-liceo_sci_030,innovazione,5,,,,,,
 liceo_sci_031,innovazione,3,scienza,3,tecnologia,4,,
 liceo_sci_032,innovazione,4,progresso,3,scienza,3,,
 liceo_sci_033,innovazione,5,fondamentale,5,,,,
@@ -1263,7 +1225,6 @@ liceo_063,innovazione,4,interessante,4,ponderare,3,perché ,3
 liceo_064,innovazione,3,tecnologica,3,noia,3,vestito,2
 fisica_017,innovazione,5,scienza ,5,arte ,5,vita ,3
 fisica_018,innovazione,2,scienze,3,invenzione,4,ricerca,2
-fisica_020,innovazione,3,,,,,,
 fisica_021,innovazione,4,,,,,,
 fisica_022,innovazione,5,nuova,5,cambiamento,5,analisi,3
 fisica_stem_005_1,innovazione,3,genialità ,5,creatività,5,tecnica,5
@@ -1306,7 +1267,6 @@ high_school_south_005,innovazione,4,cambiamento,3,novità,3,,
 high_school_south_006,innovazione,4,giusto,3,sviluppo,4,fondamentale ,
 high_school_south_008,innovazione,5,immaginazione ,5,studio ,3,applicazione,3
 high_school_south_009,innovazione,4,scoperta,4,tecnologia,4,algoritmo,5
-high_school_south_011,innovazione,,lampada,,nuovo,,,
 high_school_south_012,innovazione,5,avanguardia,5,utile ,5,fondamentale ,5
 high_school_south_015,innovazione,4,cure,4,vaccini,5,tecnologia ,5
 high_school_south_016,innovazione,4,scoperta,4,scienza,4,,
@@ -1335,7 +1295,6 @@ high_school_south_045,innovazione,3,veniam iste id amet,4,accusantium vel dict,5
 high_school_south_046,innovazione,4,intelligenza artificiale ,4,novità,4,costruttiva,4
 high_school_south_047,innovazione,4,futuro,3,novità ,4,scoperta,4
 high_school_south_048,innovazione,4,nuovo ,4,futuro ,4,scoperta ,4
-interfacce_001,panico,2,sbagliare,2,disagio,1,,
 interfacce_002,panico,1,paura,1,agitazione,1,grida,1
 interfacce_003,panico,2,ansia,2,preoccupazione,2,,
 interfacce_004,panico,2,paura,4,ansia,3,affanno,3
@@ -1360,7 +1319,6 @@ interfacce_022,panico,3,palcoscena,2,situazione,3,paura,2
 interfacce_023,panico,1,ansia,2,stress,2,sbaglio,1
 fisica_003,panico,1,crisi,2,battito,2,tremore,1
 fisica_005,panico,2,paura,1,ansia,2,stress,2
-liceo_sci_001,panico,1,verifiche a sorpresa,1,no aiuto ,1,,
 liceo_sci_002,panico,2,respirare,4,iperventilazione,1,alcalosi,1
 liceo_sci_003,panico,1,pura intensa,1,ansia intensa,1,perdita del controllo,1
 liceo_sci_004,panico,1,ansia,1,stomaco serrato,1,tremore,1
@@ -1411,7 +1369,6 @@ liceo_sci_026,panico,2,matematica,2,studio,2,sorpresa,4
 liceo_sci_027,panico,2,interrogazione a sorpresa,1,,,,
 liceo_sci_028,panico,1,incertezza,2,errori,2,ansia,1
 liceo_sci_029,panico,2,attacco,2,solo,3,persone,4
-liceo_sci_030,panico,2,,,,,,
 liceo_sci_031,panico,4,aiuto,3,ansia,4,sigaretta,1
 liceo_sci_032,panico,2,attacco,1,ansia,1,respiro,2
 liceo_sci_033,panico,1,brutto,1,,,,
@@ -1430,7 +1387,6 @@ liceo_063,panico,2,angoscia,2,improvviso,3,confusione ,3
 liceo_064,panico,2,scuola,3,strada,3,lontano,2
 fisica_017,panico,5,spesso,2,esami,5,futuro,5
 fisica_018,panico,1,urlo,2,paura,2,imbarazzo,2
-fisica_020,panico,3,,,,,,
 fisica_021,panico,2,forte,1,subuito,1,veloce,1
 fisica_022,panico,1,paura,1,tremore,4,inuguaglianza,2
 fisica_stem_005_1,panico,1,vergogna,1,ansia ,1,paura,1
@@ -1473,7 +1429,6 @@ high_school_south_005,panico,2,agitazione,1,blocco,1,svenimento,1
 high_school_south_006,panico,4,,,,,,
 high_school_south_008,panico,2,compiti,2,verifiche,3,studio,3
 high_school_south_009,panico,2,caos,3,disastro,1,terrore,1
-high_school_south_011,panico,,sarah ,,la prof,,,
 high_school_south_012,panico,1,allarme,1,rosso,2,scappare,1
 high_school_south_015,panico,2,terrore,2,ansia,2,agitazione ,2
 high_school_south_016,panico,1,paura,2,agitazione ,1,adrenalina,3
@@ -1502,7 +1457,6 @@ high_school_south_045,panico,5,optio et culpa vel,5,dicta exercitation t,3,volup
 high_school_south_046,panico,2,attacco,2,calmare,4,respirare,3
 high_school_south_047,panico,2,terrore,2,respiro,3,attacco,2
 high_school_south_048,panico,2,paura ,2,controllo ,4,aiuto ,4
-interfacce_001,meditazione,4,rilassamento,5,respiro,5,,
 interfacce_002,meditazione,3,zen,3,yoga,3,solo,4
 interfacce_003,meditazione,4,yoga,4,calma,4,,
 interfacce_004,meditazione,5,yoga,3,calma,5,mente,5
@@ -1527,7 +1481,6 @@ interfacce_022,meditazione,5,relax,5,calma,5,quiete,5
 interfacce_023,meditazione,5,calma,5,yoga,5,disconessione,4
 fisica_003,meditazione,5,calma,5,libertà,5,pulizia,4
 fisica_005,meditazione,4,pace,5,silenzio,5,connessione,4
-liceo_sci_001,meditazione,4,aiuto,5,importante,4,,
 liceo_sci_002,meditazione,4,calma,4,serenità,4,,
 liceo_sci_003,meditazione,4,calma,4,relax,5,tempo per se stessi,5
 liceo_sci_004,meditazione,3,noia,2,passeggiata,5,inutile,3
@@ -1578,7 +1531,6 @@ liceo_sci_026,meditazione,4,calma,4,maestro,3,pace,4
 liceo_sci_027,meditazione,1,inutile,2,,,,
 liceo_sci_028,meditazione,4,calma,4,energia,5,riposo,4
 liceo_sci_029,meditazione,3,relax,4,musica,4,olii,3
-liceo_sci_030,meditazione,4,,,,,,
 liceo_sci_031,meditazione,2,utile,5,,,,
 liceo_sci_032,meditazione,4,respiro,4,silenzio,4,pace,5
 liceo_sci_033,meditazione,3,stress,1,,,,
@@ -1597,7 +1549,6 @@ liceo_063,meditazione,4,silenzio ,4,interiorità ,4,calma,4
 liceo_064,meditazione,3,yoga,3,silenzio,4,noia,4
 fisica_017,meditazione,5,servirebbe,3,lenta ,4,noiosa,4
 fisica_018,meditazione,3,cuffie,3,vento,4,silenzio,5
-fisica_020,meditazione,3,,,,,,
 fisica_021,meditazione,3,,,,,,
 fisica_022,meditazione,4,profonda,5,inutile,3,strad,3
 fisica_stem_005_1,meditazione,3,rilassamento ,5,riposo,5,cura,5
@@ -1640,7 +1591,6 @@ high_school_south_005,chatgpt,1,ai,3,,,,
 high_school_south_006,chatgpt,4,progresso ,5,innovazione ,4,involuzione ,2
 high_school_south_008,chatgpt,4,aiuto,4,robot,4,calcolatore ,5
 high_school_south_009,chatgpt,3,pigrizia,1,utile,4,veloce,4
-high_school_south_011,chatgpt,,ai,,aiuto,,,
 high_school_south_012,chatgpt,2,ai,3,aiuto,4,mai,2
 high_school_south_015,chatgpt,5,utile,5,necessario,5,veloce ,5
 high_school_south_016,chatgpt,5,strumento ,5,ai,5,,
@@ -1669,7 +1619,6 @@ high_school_south_045,chatgpt,5,labore reprehenderit,2,harum perferendis ex,1,en
 high_school_south_046,chatgpt,4,intelligenza artificiale,4,scuola,3,amico,4
 high_school_south_047,chatgpt,3,ai,3,utile ,4,efficace,4
 high_school_south_048,chatgpt,3,ai,4,openai ,4,scuola ,2
-interfacce_001,matematica,3,logica,3,concentrazione,4,,
 interfacce_002,matematica,3,numeri,3,addizioni,3,sottrazioni,3
 interfacce_003,matematica,4,numeri,4,calcoli,4,problemi,4
 interfacce_004,matematica,1,numeri,3,difficile,2,pitagora,2
@@ -1694,7 +1643,6 @@ interfacce_022,matematica,2,pesante,2,complessa,2,formule,2
 interfacce_023,matematica,2,numeri,4,calcoli,4,calcolatrice ,5
 fisica_003,matematica,4,strumento,3,natura,5,linguaggio,3
 fisica_005,matematica,4,dati,3,analisi,3,statistica,3
-liceo_sci_001,matematica,3,difficile,1,bella ma,3,,
 liceo_sci_002,matematica,3,trigonometria,3,algebra,3,x,
 liceo_sci_003,matematica,2,calcoli,2,professione,4,ansia,1
 liceo_sci_004,matematica,3,algebra,3,calcoli,3,precisione,3
@@ -1745,7 +1693,6 @@ liceo_sci_026,matematica,2,ansia,2,debito,2,odio,3
 liceo_sci_027,matematica,4,interesse,4,difficolta',4,fondamentale,4
 liceo_sci_028,matematica,3,esercizi,3,scuola,3,calcolo,3
 liceo_sci_029,matematica,3,scuola,3,numeri,4,letttere,3
-liceo_sci_030,matematica,3,,,,,,
 liceo_sci_031,matematica,3,scuola,4,affascinante,4,difficile,
 liceo_sci_032,matematica,4,logica,3,problema,3,interpretazione,4
 liceo_sci_033,matematica,4,utile,5,,,,
@@ -1764,7 +1711,6 @@ liceo_063,matematica,5,ordine,4,definizione ,4,sorpresa,4
 liceo_064,matematica,4,scuola,4,ora,4,libr,4
 fisica_017,matematica,4,utile ,4,noiosa,2,strumento,4
 fisica_018,matematica,2,analisi,1,bocciatura,3,amarezza,2
-fisica_020,matematica,3,fisica,3,challenge,4,studio,
 fisica_021,matematica,4,professore universitario,4,analisi,4,geometria,3
 fisica_022,matematica,,pura,,applicata,,algebra,
 fisica_stem_005_1,matematica,4,alfabeto,3,difficile ,2,bella,4
@@ -1807,7 +1753,6 @@ high_school_south_005,matematica,4,riflettere,4,sfida,5,problemi,4
 high_school_south_006,matematica,5,conoscenza ,5,formule ,4,intelligenza ,5
 high_school_south_008,matematica,5,vita,4,numeri,5,compressione ,3
 high_school_south_009,matematica,5,pura,4,applicata,4,topologia,4
-high_school_south_011,matematica,2,clementina,1,sonno,5,,
 high_school_south_012,matematica,3,numeri,3,geometria,3,algebra,4
 high_school_south_015,matematica,5,equazioni,5,geometria analitica,5,sistemi di disequazioni,5
 high_school_south_016,matematica,5,analisi,5,integrali,5,derivate,5
@@ -1836,7 +1781,6 @@ high_school_south_045,matematica,2,dolores in omnis qui,5,quia aliquid ullamco,4
 high_school_south_046,matematica,5,numeri,4,equazioni,4,geometria,4
 high_school_south_047,matematica,4,incognita,4,numeri,4,calcoli,3
 high_school_south_048,matematica,2,espressioni ,2,professore ,2,scuola ,1
-interfacce_001,analisi,3,lunga,3,,,,
 interfacce_002,analisi,2,esame,2,igegneria,1,difficile,2
 interfacce_003,analisi,4,matematica,4,numeri,4,,
 interfacce_004,analisi,3,dati,3,statistica,3,1,3
@@ -1861,7 +1805,6 @@ interfacce_022,analisi,3,tecnica,3,sangue,4,medico,2
 interfacce_023,analisi,4,laboratorio,4,sangue ,4,molecole,4
 fisica_003,analisi,3,matematica,3,psicologica,4,introspettiva,4
 fisica_005,analisi,3,dati,3,matematica,3,computer ,4
-liceo_sci_001,analisi,3,sangue,3,,,,
 liceo_sci_002,analisi,2,matetmatica,3,forze,3,risoluzione,3
 liceo_sci_003,analisi,3,matematica,2,introspettiva,4,stati d'animo,4
 liceo_sci_004,analisi,3,osservazione,3,attenzione,3,precisione,3
@@ -1912,7 +1855,6 @@ liceo_sci_026,analisi,3,del sangue,3,,,,
 liceo_sci_027,analisi,4,scientifica,3,esperimento,5,utile,4
 liceo_sci_028,analisi,3,matematica,3,studio,2,problemi,3
 liceo_sci_029,analisi,3,mate,2,fisica,3,università,4
-liceo_sci_030,analisi,1,,,,,,
 liceo_sci_031,analisi,4,lavoro,4,difficile,3,matematica,3
 liceo_sci_032,analisi,4,funzioni,4,studi,4,processo,4
 liceo_sci_033,analisi,3,utile,3,,,,
@@ -1931,7 +1873,6 @@ liceo_063,analisi,4,variazione,4,r,4,fisica ,4
 liceo_064,analisi,3,sangue,2,esame,3,urine,2
 fisica_017,analisi,4,laboratorio ,5,quotidiane ,3,,
 fisica_018,analisi,2,bocciatura,4,rabbia,2,rassegnazione,1
-fisica_020,analisi,3,1,3,matematica,3,curiosita,5
 fisica_021,analisi,4,matematica,4,professore universitario,4,materia,3
 fisica_022,analisi,,profonda,,noiosa,,faticosa,
 fisica_stem_005_1,analisi,2,vergogna,1,stanchezza ,2,autostima ,1
@@ -1974,7 +1915,6 @@ high_school_south_005,analisi,3,riflessione,3,tempo,2,capire,3
 high_school_south_006,analisi,4,matematica ,5,interpretazione ,4,,
 high_school_south_008,analisi,4,necessaria ,5,complessa,4,fomdamentale,3
 high_school_south_009,analisi,5,utile ,4,funzione,4,riassuntiva,4
-high_school_south_011,analisi,3,sangue,3,,,,
 high_school_south_012,analisi,3,dati,4,seminario,4,matematica ,3
 high_school_south_015,analisi,5,grammaticale,5,logica,5,del periodo,5
 high_school_south_016,analisi,5,matematica ,5,intuizione ,5,deduzione,5
@@ -2003,7 +1943,6 @@ high_school_south_045,analisi,1,consequatur consequa,3,ducimus laborum co,5,labo
 high_school_south_046,analisi,4,interessante,3,calcoli,4,numeri,4
 high_school_south_047,analisi,3,studio ,4,condizioni,4,osservazione,4
 high_school_south_048,analisi,4,matematica ,2,problema ,4,dati ,4
-interfacce_001,scoperta,5,positiva,5,bella,5,,
 interfacce_002,scoperta,3,nuovo,3,trovato,3,innovativo,4
 interfacce_003,scoperta,4,america,3,novità,3,,
 interfacce_004,scoperta,4,scienza,5,progresso,5,conoscienza,4
@@ -2028,7 +1967,6 @@ interfacce_022,scoperta,4,scientifica,4,tecnologica,4,teoria,3
 interfacce_023,scoperta,4,curiosità ,4,nuovo,4,avventura,5
 fisica_003,scoperta,5,stupore,5,importanza,4,natura,5
 fisica_005,scoperta,4,collaborazione,5,progresso,4,ricerca,4
-liceo_sci_001,scoperta,4,innovazioni,4,importante,4,cambiamento,4
 liceo_sci_002,scoperta,4,condivisione,4,radiazioni,3,innovazione,4
 liceo_sci_003,scoperta,4,conoscenza,4,studio,3,ricerche,3
 liceo_sci_004,scoperta,3,sorpresa,4,shock,3,scientifica,3
@@ -2079,7 +2017,6 @@ liceo_sci_026,scoperta,4,scientifica,4,sorpresa,4,stupore,4
 liceo_sci_027,scoperta,4,scientifica,4,cambiamento,5,rivoluzionaria,5
 liceo_sci_028,scoperta,4,interesse,4,ultile,4,progresso,4
 liceo_sci_029,scoperta,4,scientifica,3,mondo,4,rivoluzione,5
-liceo_sci_030,scoperta,4,,,,,,
 liceo_sci_031,scoperta,3,scienza,5,futuro,4,innovazione,3
 liceo_sci_032,scoperta,5,avventura,5,esperienza,5,,
 liceo_sci_033,scoperta,4,fisica,4,,,,
@@ -2098,7 +2035,6 @@ liceo_063,scoperta,4,fascino,4,esaltazione ,3,indagine ,4
 liceo_064,scoperta,3,america,2,faccia,3,alla,4
 fisica_017,scoperta,5,scientifica ,5,invenzione ,5,meraviglia,5
 fisica_018,scoperta,2,articolo,2,pubblicazione,3,ricerca,1
-fisica_020,scoperta,4,scientifica,4,sorpresa,4,casualita,3
 fisica_021,scoperta,4,einstein,3,svolta,5,,
 fisica_022,scoperta,,entusiasmo,,vita,,miracolo,
 fisica_stem_005_1,scoperta,4,genialità ,5,immaginazione,5,fortuna ,4
@@ -2141,7 +2077,6 @@ high_school_south_005,scoperta,4,novità,3,scienza,4,,
 high_school_south_006,scoperta,4,scientifica,4,ispirazione,4,curiosità ,
 high_school_south_008,scoperta,4,america,5,energia nucleare ,5,dinamite ,5
 high_school_south_009,scoperta,4,progresso,5,,,,
-high_school_south_011,scoperta,3,nuovo,3,idea,3,,
 high_school_south_012,scoperta,5,scientifica,5,sensazionale,5,rivoluzionaria,5
 high_school_south_015,scoperta,5,america,5,penicillina ,5,struttura del dna,5
 high_school_south_016,scoperta,5,innovazione ,4,scienza ,4,,
@@ -2170,7 +2105,6 @@ high_school_south_045,scoperta,1,nisi veniam ullam d,5,qui aut nihil dolori,2,et
 high_school_south_046,scoperta,4,scientifica,4,utile,3,banale,1
 high_school_south_047,scoperta,4,scalpore,3,notizia,4,ricerca,4
 high_school_south_048,scoperta,4,scientifica ,2,nuova,4,specie ,4
-interfacce_001,scienziata,4,matta,4,,,,
 interfacce_002,scienziata,3,donna,3,scienza,4,laboratorio,3
 interfacce_003,scienziata,4,donna,4,,,,
 interfacce_004,scienziata,4,donna,5,scienza,5,esperimento,4
@@ -2195,7 +2129,6 @@ interfacce_022,scienziata,4,esperimenti,4,gruppo,4,scoperte,4
 interfacce_023,scienziata,5,calcoli,4,diversi,4,einstein ,3
 fisica_003,scienziata,5,curiosità,5,saggezza,5,lavoro rubato (dai colleghi uomini),2
 fisica_005,scienziata,5,ricerca,4,laboratorio,4,dati,3
-liceo_sci_001,scienziata,3,lavoro,3,,,,
 liceo_sci_002,scienziata,5,marie curie,5,sottovalutate,5,incredibili,5
 liceo_sci_003,scienziata,3,professionista,4,professione,4,natura,5
 liceo_sci_004,scienziata,3,esperimenti,3,camice,3,laboratorio,3
@@ -2246,7 +2179,6 @@ liceo_sci_026,scienziata,3,camice,3,studiosa,3,,
 liceo_sci_027,scienziata,4,intelligente,5,studio,4,esperimenti,5
 liceo_sci_028,scienziata,4,esperimenti,4,conoscenza,4,innovazione,4
 liceo_sci_029,scienziata,3,lavoro,3,laboratorio,3,,
-liceo_sci_030,scienziata,4,,,,,,
 liceo_sci_031,scienziata,4,chimica,3,camice,4,esperimento,4
 liceo_sci_032,scienziata,4,laboratorio,4,ricerca,4,,
 liceo_sci_033,scienziata,5,scienziato,5,,,,
@@ -2265,7 +2197,6 @@ liceo_063,scienziata,4,ricercatrice,4,empirismo ,4,dati,4
 liceo_064,scienziata,3,donna,4,curie,,laboratorio,4
 fisica_017,scienziata,4,singolarità ,3,isolata,2,modello,4
 fisica_018,scienziata,3,ricerca,3,laboratorio,4,nobel,5
-fisica_020,scienziata,5,donna,4,curie,3,chimica,4
 fisica_021,scienziata,4,marie curie,5,camice,3,laboratorio,3
 fisica_022,scienziata,,bella,,debole,,onesta,
 fisica_stem_005_1,scienziata,5,stereotipi ,1,genialità ,5,equilibrio ,5
@@ -2308,7 +2239,6 @@ high_school_south_005,scienziata,4,innovativa,4,creativa,5,,
 high_school_south_006,scienziata,4,rigore ,4,precisione ,5,marie curie,
 high_school_south_008,scienziata,4,franklin,4,montalcini,4,curie,4
 high_school_south_009,scienziata,5,rara,4,,,,
-high_school_south_011,scienziata,3,caputo,1,,,,
 high_school_south_012,scienziata,5,curie,5,donna,5,scienza,5
 high_school_south_015,scienziata,5,levi montalcini,5,hack,5,franklin,5
 high_school_south_016,scienziata,3,ricercatrice,3,camice bianco,3,occhiali protezione ,3
@@ -2337,7 +2267,6 @@ high_school_south_045,scienziata,5,adipisicing reprehen,2,sed et error reprehe,5
 high_school_south_046,scienziata,4,competente,4,specialista,4,brava,4
 high_school_south_047,scienziata,4,laboratorio ,4,microscopio,4,nobel,4
 high_school_south_048,scienziata,2,esperimenti,2,donna ,3,camice ,3
-interfacce_001,docente,4,severo,3,,,,
 interfacce_002,docente,3,prof,3,insegnante,3,spiegare,3
 interfacce_003,docente,3,professore,3,persona,3,scuola,2
 interfacce_004,docente,3,mestra,3,professore,3,insegnante,3
@@ -2362,7 +2291,6 @@ interfacce_022,docente,3,università,2,studi,2,,
 interfacce_023,docente,5,serio,4,inteligente ,4,,
 fisica_003,docente,3,guida,3,mentore,4,valutazione,2
 fisica_005,docente,3,condivisione,4,conoscenza,4,,
-liceo_sci_001,docente,3,varietà ,4,aperti,4,chiusi,1
 liceo_sci_002,docente,3,comprensivo,5,tranquillo,5,sclerato,3
 liceo_sci_003,docente,3,autorità,2,adulto,3,lavoro,4
 liceo_sci_004,docente,3,adulto,3,voti,3,rapporto,3
@@ -2413,7 +2341,6 @@ liceo_sci_026,docente,3,rispetto,5,varietà,4,,
 liceo_sci_027,docente,4,lavoro,3,rapporto,3,rispetto,4
 liceo_sci_028,docente,4,professore,3,valutazione,3,competenza,3
 liceo_sci_029,docente,3,capo,1,insegnante,3,,
-liceo_sci_030,docente,3,,,,,,
 liceo_sci_031,docente,3,insegnante,3,aiuto,5,professore,3
 liceo_sci_032,docente,3,guida,4,giudice,2,persona,3
 liceo_sci_033,docente,1,non umani,3,,,,
@@ -2432,7 +2359,6 @@ liceo_063,docente,4,guida,4,umano ,4,esperienza ,4
 liceo_064,docente,4,insegnante,4,maestro,3,scuola,4
 fisica_017,docente,5,umano,5,presente ,4,tramite ,5
 fisica_018,docente,4,insegnare,5,interessante,4,persona,5
-fisica_020,docente,3,ansia,1,occhi azzurri,3,,
 fisica_021,docente,3,cattivo,1,lontano,2,migliore di me,2
 fisica_022,docente,,noioso,,sistema,,casa,
 fisica_stem_005_1,docente,4,insegna,4,vergogna,1,intelligenza ,5
@@ -2475,7 +2401,6 @@ high_school_south_005,docente,3,aiuto,4,,,,
 high_school_south_006,docente,4,lavoro ,4,formazione ,5,trasmissione conoscenze,
 high_school_south_008,docente,5,persona,4,laurea,4,gentile,4
 high_school_south_009,docente,3,lavoro,3,apprendimento,4,,
-high_school_south_011,docente,5,mac,5,clementina,1,caputo,1
 high_school_south_012,docente,3,insegnante,3,guida,4,aiuto,4
 high_school_south_015,docente,5,esigente,5,sottopagato ,5,insoddisfatto ,5
 high_school_south_016,docente,3,professore,3,,,,
@@ -2504,7 +2429,6 @@ high_school_south_045,docente,3,tempor facilis numqu,3,porro voluptatum ea ,4,ip
 high_school_south_046,docente,1,voti,2,scuola,3,verifiche,2
 high_school_south_047,docente,3,ruolo,4,esempio,4,stimolo,4
 high_school_south_048,docente,2,materia ,2,scuola ,1,professore ,2
-interfacce_001,programmazione,4,informatica,4,,,,
 interfacce_002,programmazione,4,java,3,html,4,c++,4
 interfacce_003,programmazione,4,informatica,3,ordine,4,,
 interfacce_004,programmazione,4,computer,3,numeri,3,informatica,4
@@ -2529,7 +2453,6 @@ interfacce_022,programmazione,4,passione,5,svago,5,futuro,3
 interfacce_023,programmazione,4,informatica ,4,linguaggi,4,numeri,4
 fisica_003,programmazione,4,organizzazione,5,creazione,4,setting,3
 fisica_005,programmazione,2,informatica,3,linguaggio,3,codice,2
-liceo_sci_001,programmazione,3,informatica,3,,,,
 liceo_sci_002,programmazione,3,noiosa,2,irritante,1,bug,2
 liceo_sci_003,programmazione,3,informatica,2,tempo,4,ordine,4
 liceo_sci_004,programmazione,2,inesistente,4,noia,3,inutile,3
@@ -2580,7 +2503,6 @@ liceo_sci_026,programmazione,3,difficoltà,2,informatica,3,piani,3
 liceo_sci_027,programmazione,3,basilare,3,informatica,4,matematica,4
 liceo_sci_028,programmazione,3,informatica,3,linguaggio,4,problemi,2
 liceo_sci_029,programmazione,4,pc,4,informatica,4,chat gpt,5
-liceo_sci_030,programmazione,3,arduino,3,c+,3,c,3
 liceo_sci_031,programmazione,3,organizzazine,3,fondamentale,4,,3
 liceo_sci_032,programmazione,2,orrore,1,noia,2,incomprensione,2
 liceo_sci_033,programmazione,3,futuro,3,,,,
@@ -2599,7 +2521,6 @@ liceo_063,programmazione,4,strumento ,4,organizzazione ,4,informatica,3
 liceo_064,programmazione,2,scupla,2,carte,2,risultati,2
 fisica_017,programmazione,5,organizzare,5,dead line ,5,ansia ,5
 fisica_018,programmazione,3,c,2,informatici,4,ingegneria,3
-fisica_020,programmazione,3,ubuntu,3,c++,3,passatempo,4
 fisica_021,programmazione,4,informatica,4,non so farla,3,altri invece si,2
 fisica_022,programmazione,2,futuro,2,mania,1,sensazione,3
 fisica_stem_005_1,programmazione,3,codice ,3,pensiero,4,astrazione,5
@@ -2642,7 +2563,6 @@ high_school_south_005,programmazione,3,interrogazione ,3,verifica,3,giornata,4
 high_school_south_006,programmazione,4,importante,3,strumento ,4,,
 high_school_south_008,programmazione,4,simboli,4,codici,3,lettere,
 high_school_south_009,programmazione,4,divertente,4,,,,
-high_school_south_011,programmazione,1,giorno,1,organizzazione ,1,,
 high_school_south_012,programmazione,2,python,2,computer,3,scuola,4
 high_school_south_015,programmazione,2,computer ,4,file,4,sistemi,4
 high_school_south_016,programmazione,5,interessante,5,utilissima,5,computer,5
@@ -2671,7 +2591,6 @@ high_school_south_045,programmazione,5,autem dolor autem oc,2,fugiat sunt dolore
 high_school_south_046,programmazione,3,computer,4,python,2,difficile,2
 high_school_south_047,programmazione,3,computer,3,programma,3,codici,3
 high_school_south_048,programmazione,3,codice ,3,informatica ,3,problema ,4
-interfacce_001,laboratorio,3,prove,3,esperimenti,2,,
 interfacce_002,laboratorio,3,studiare,3,esperimento,3,prove,3
 interfacce_003,laboratorio,4,chimica,1,scienza,4,provette,3
 interfacce_004,laboratorio,3,provetta,3,scienziato,3,camice,3
@@ -2696,7 +2615,6 @@ interfacce_022,laboratorio,4,tecnico,4,esperimenti,4,scoperte,4
 interfacce_023,laboratorio,2,ricerca,4,chimica ,2,fisica,3
 fisica_003,laboratorio,4,attività,4,manualità,5,pratica,4
 fisica_005,laboratorio,4,dati,3,misure,3,gruppo,4
-liceo_sci_001,laboratorio,4,divertente,5,istruttivo,5,,
 liceo_sci_002,laboratorio,3,chimica,1,biologia,5,fisica,5
 liceo_sci_003,laboratorio,3,pratica,3,esperimento,3,chimica,3
 liceo_sci_004,laboratorio,4,scienze,3,esperimenti,4,relazione,2
@@ -2747,7 +2665,6 @@ liceo_sci_026,laboratorio,4,provette,3,batteri,3,camice,3
 liceo_sci_027,laboratorio,3,esperimento,4,scienza,3,fisica,4
 liceo_sci_028,laboratorio,4,esperimenti,4,scienze,4,scoperte,4
 liceo_sci_029,laboratorio,3,scienze,3,scuola,3,camice,3
-liceo_sci_030,laboratorio,3,computer,5,tecnico,3,,
 liceo_sci_031,laboratorio,3,scienza ,3,innovazione,4,,3
 liceo_sci_032,laboratorio,3,scienze,4,esperimenti,4,,
 liceo_sci_033,laboratorio,4,interessante,5,,,,
@@ -2766,7 +2683,6 @@ liceo_063,laboratorio,4,scoperta,4,lavoro ,3,investimenti,3
 liceo_064,laboratorio,4,scuola,4,bello,4,tempo,2
 fisica_017,laboratorio,4,divertente,5,interattivo,5,pratico,5
 fisica_018,laboratorio,5,chimica,2,pericolo,3,elettronica,4
-fisica_020,laboratorio,4,fisica,4,cannone,3,compagni,3
 fisica_021,laboratorio,4,scienziato,4,camice,3,esperimento,4
 fisica_022,laboratorio,2,chiuso,1,buio,1,freddo,1
 fisica_stem_005_1,laboratorio,3,prova,4,esperimento ,4,gioco ,5
@@ -2809,7 +2725,6 @@ high_school_south_005,laboratorio,4,collaborazione,4,imparare,4,,
 high_school_south_006,laboratorio,4,formativo,4,scientifico ,4,creativo ,
 high_school_south_008,laboratorio,5,lavoro,5,passione ,5,ampolla,
 high_school_south_009,laboratorio,3,esperienza ,4,,,,
-high_school_south_011,laboratorio,5,chimica analitica,5,conversazioni,3,esperimento ,5
 high_school_south_012,laboratorio,4,analisi,4,chimica,4,fisica,3
 high_school_south_015,laboratorio,4,scientifico ,5,analisi,5,fisica,5
 high_school_south_016,laboratorio,5,esperimenti ,4,microscopi,4,liquidii,3
@@ -2838,7 +2753,6 @@ high_school_south_045,laboratorio,4,quam voluptate sed q,1,irure cum rerum cum ,
 high_school_south_046,laboratorio,4,scuola,3,attrezzatura,4,pipetta,3
 high_school_south_047,laboratorio,4,scienza ,4,relazione,4,strumenti,4
 high_school_south_048,laboratorio,2,scienze ,2,analisi ,3,banchi ,3
-interfacce_001,conoscenza,5,cultura,5,aiuto,4,vita,5
 interfacce_002,conoscenza,4,sapere,4,libri,4,studio,3
 interfacce_003,conoscenza,4,sapere,4,,,,
 interfacce_004,conoscenza,5,informazioni,3,mente,4,progresso,5
@@ -2863,7 +2777,6 @@ interfacce_022,conoscenza,3,tecnica,4,necessaria,2,dovuta,2
 interfacce_023,conoscenza,5,scuola ,4,casa,4,vita,5
 fisica_003,conoscenza,4,novità,4,competenza,3,meraviglia,5
 fisica_005,conoscenza,4,ricerca,4,curiosità ,5,approfondire,5
-liceo_sci_001,conoscenza,4,,,,,,
 liceo_sci_002,conoscenza,3,sensibile,5,kant,3,platone,3
 liceo_sci_003,conoscenza,4,competenza,4,insegnamento,4,lezione,4
 liceo_sci_004,conoscenza,4,sapere,4,soddisfazione,4,difficile,2
@@ -2914,7 +2827,6 @@ liceo_sci_026,conoscenza,4,arma,2,cultura,5,,
 liceo_sci_027,conoscenza,4,ampia,3,soddisfacente,3,interesse,4
 liceo_sci_028,conoscenza,4,utile,4,miglioramento,4,approfondimento,4
 liceo_sci_029,conoscenza,4,testa,3,scuola,4,idee,5
-liceo_sci_030,conoscenza,5,studio,4,libri,3,,
 liceo_sci_031,conoscenza,4,scienza,4,,4,,4
 liceo_sci_032,conoscenza,4,storia,4,libri ,4,biblioteca,5
 liceo_sci_033,conoscenza,5,fondamentale,4,studio,4,libri,3
@@ -2933,7 +2845,6 @@ liceo_063,conoscenza,4,oggettiva,3,ambizione ,3,ricerca,4
 liceo_064,conoscenza,4,piacere,4,enigma,3,immediata,3
 fisica_017,conoscenza,5,cultura,5,indipendenza ,5,libertà,4
 fisica_018,conoscenza,4,studio,2,intelligenza,2,mentalità,4
-fisica_020,conoscenza,5,polivalente,5,versatilità,5,futuro,1
 fisica_021,conoscenza,3,tanta,4,importante,4,voglia di averne di più,5
 fisica_022,conoscenza,4,stupida,3,banale,2,inutile,2
 fisica_stem_005_1,conoscenza,5,stanchezza ,2,tentativi,2,disciplina,2
@@ -2976,7 +2887,6 @@ high_school_south_005,conoscenza,4,utile,5,buona,5,crescita,5
 high_school_south_006,conoscenza,4,vitale,5,curiosità ,4,,
 high_school_south_008,conoscenza,4,sapere,4,fonti ,3,internet,
 high_school_south_009,conoscenza,4,salvezza,5,necessità ,3,universale,4
-high_school_south_011,conoscenza,1,amici,5,,,,
 high_school_south_012,conoscenza,4,ampia,4,vita,3,utile ,4
 high_school_south_015,conoscenza,5,reminiscenza,5,definizione,5,verità ,5
 high_school_south_016,conoscenza,5,ampia,5,poliedrica ,5,cervello,5
@@ -3005,7 +2915,6 @@ high_school_south_045,conoscenza,3,tenetur unde perspic,1,cupiditate sit conse,2
 high_school_south_046,conoscenza,4,approfondita,3,regole,3,cultura,4
 high_school_south_047,conoscenza,4,studio,4,cultura,4,crescita,4
 high_school_south_048,conoscenza,4,cervello ,4,cultura ,4,intelligenza ,4
-interfacce_001,fallimento,1,caduta,2,,,,
 interfacce_002,fallimento,1,perdere,1,non farcela,1,demoralizzante,2
 interfacce_003,fallimento,1,vergogna,2,delusione,2,,
 interfacce_004,fallimento,2,discesa,2,fallito,2,male,2
@@ -3030,7 +2939,6 @@ interfacce_022,fallimento,1,impossibile,1,inconcepibile,1,pressione,1
 interfacce_023,fallimento,2,rialzarzi ,4,non scoragiarsi ,4,lacrime,1
 fisica_003,fallimento,2,insegnamento,4,tristezza,2,rialzarsi,4
 fisica_005,fallimento,1,delusione,1,paura,2,,
-liceo_sci_001,fallimento,1,delusione,1,,,,
 liceo_sci_002,fallimento,4,normale,3,punto di partenza,4,riprovare,5
 liceo_sci_003,fallimento,1,delusione,1,umiliazione,1,tristezza,2
 liceo_sci_004,fallimento,2,tanti,2,succede,2,prevedibile,3
@@ -3081,7 +2989,6 @@ liceo_sci_026,fallimento,2,accettazione,2,sconforto,2,paura di deludere,1
 liceo_sci_027,fallimento,2,banca,4,personale,5,colpa,2
 liceo_sci_028,fallimento,2,paura,2,problemi,2,ansia,2
 liceo_sci_029,fallimento,1,lavoro ,3,persona,3,sport,5
-liceo_sci_030,fallimento,2,successo,4,perdita,1,,
 liceo_sci_031,fallimento,3,ripartire,4,,4,,4
 liceo_sci_032,fallimento,2,morte,2,delusione,2,disperazione,2
 liceo_sci_033,fallimento,3,normale,3,brutto,3,futuro,5
@@ -3100,7 +3007,6 @@ liceo_063,fallimento,4,opportunità ,4,naturale,4,insoddisfazione ,2
 liceo_064,fallimento,2,soldi,2,società,3,dolore,2
 fisica_017,fallimento,5,possibile ,4,delusione ,5,paura,5
 fisica_018,fallimento,1,bocciatura,1,imbarazzo,3,impegno,3
-fisica_020,fallimento,1,vita,1,università,2,famiglia,3
 fisica_021,fallimento,1,io,1,certo,1,irreversibile,1
 fisica_022,fallimento,2,scienza,2,nazione,2,paura,2
 fisica_stem_005_1,fallimento,1,buco,1,tristezza,1,vergogna,1
@@ -3143,7 +3049,6 @@ high_school_south_005,fallimento,2,depressione,1,riprovare,4,,
 high_school_south_006,fallimento,4,occasione ,5,formativo ,4,inevitabile ,4
 high_school_south_008,fallimento,2,sconfitta ,3,possibilita ,4,cadere,
 high_school_south_009,fallimento,2,depressione,1,determinazione,5,,
-high_school_south_011,fallimento,1,paura,1,futuro,3,tristezza,
 high_school_south_012,fallimento,1,rabbia,1,frustrazione ,1,delusione,1
 high_school_south_015,fallimento,1,triste,1,inevitabile ,1,ripartenza,4
 high_school_south_016,fallimento,2,costante,2,determinazione ,5,,
@@ -3172,7 +3077,6 @@ high_school_south_045,fallimento,4,nulla exercitationem,2,vero quis sed et nam,5
 high_school_south_046,fallimento,1,verifica,2,test,2,ammissione,2
 high_school_south_047,fallimento,2,sconfitta,2,delusione,2,insoddisfazione ,2
 high_school_south_048,fallimento,4,tentativo ,4,inizio ,4,provare ,4
-interfacce_001,voto,3,giudizio,3,numero,3,,
 interfacce_002,voto,3,esame,2,positivo ,5,negativo,1
 interfacce_003,voto,2,numero,4,giudizio,2,,
 interfacce_004,voto,3,valutazione,3,numero,3,fronte,3
@@ -3197,7 +3101,6 @@ interfacce_022,voto,2,ottimo,3,laurea,2,studi,2
 interfacce_023,voto,4,bello ,4,superato,3,nullo,2
 fisica_003,voto,3,valutazione,3,insegnamento,4,ansia,1
 fisica_005,voto,1,pressione,1,comparazione,1,aspettative,1
-liceo_sci_001,voto,2,ansia,1,delusioni,1,,
 liceo_sci_002,voto,3,importante fino a un certo punto,4,è un numero,5,non definisce chi sei,5
 liceo_sci_003,voto,2,paura,2,aspettativa,2,delusione,1
 liceo_sci_004,voto,3,risultato,3,dimostrazione,3,imprevedibile,3
@@ -3248,7 +3151,6 @@ liceo_sci_026,voto,3,non sempre giusto,3,rosso,2,soddisfazione,4
 liceo_sci_027,voto,3,scuola,3,obiettivo,4,poco utile,2
 liceo_sci_028,voto,2,scuola,2,risultati,3,studio,2
 liceo_sci_029,voto,2,scuola,3,persone,4,genitori,5
-liceo_sci_030,voto,3,sufficiente,3,insufficiente,3,positivo,3
 liceo_sci_031,voto,2,scuola,4,bocciatura,2,,4
 liceo_sci_032,voto,4,ansia,2,,,,
 liceo_sci_033,voto,1,inutile,3,spreggevole,3,stupido,4
@@ -3267,7 +3169,6 @@ liceo_063,voto,3,numero,2,prestazione ,3,graduatoria,3
 liceo_064,voto,3,alto,3,elezioni,3,sufficiente,4
 fisica_017,voto,5,esame ,5,ansia,5,aspettative,5
 fisica_018,voto,2,alto,4,meritato,3,insoddisfatto,1
-fisica_020,voto,1,insufficienza,1,pigrizia,1,fallimento,1
 fisica_021,voto,3,basso,2,9,2,giudizio,1
 fisica_022,voto,1,alto,1,faticoso,1,leggero,4
 fisica_stem_005_1,voto,2,validazione,3,autostima ,2,invidia,1
@@ -3310,7 +3211,6 @@ high_school_south_005,voto,2,giudizio,1,ansia,1,,
 high_school_south_006,voto,4,importante ,3,non fondamentale ,3,obiettivo,5
 high_school_south_008,voto,3,soddisfazione ,4,emozioni,5,giudizio ,
 high_school_south_009,voto,2,inutile ,1,ansia,1,,
-high_school_south_011,voto,5,dieci e lode,5,verifica,1,libri,1
 high_school_south_012,voto,1,10,2,test,1,ansia,1
 high_school_south_015,voto,5,eccellente,5,alto,5,lode,5
 high_school_south_016,voto,3,numero,3,sbagliato,2,alto,5
@@ -3339,7 +3239,6 @@ high_school_south_045,voto,4,voluptatem temporibu,3,dolor sit consequat,3,in in 
 high_school_south_046,voto,2,10,5,massimo,4,minimo,3
 high_school_south_047,voto,3,scala,4,verifica,4,risultato,4
 high_school_south_048,voto,2, buono ,4,risultato ,4,valutazione ,3
-interfacce_001,numeri,3,quantità,4,,,,
 interfacce_002,numeri,3,matematica,3,algebra,3,funzioni,3
 interfacce_003,numeri,4,contare,4,tabelline,4,,
 interfacce_004,numeri,2,rosso,3,verde,3,blu,3
@@ -3364,7 +3263,6 @@ interfacce_022,numeri,4,binari,4,programmazione,4,operazioni,4
 interfacce_023,numeri,3,matematica,3,scienze ,3,informatica,4
 fisica_003,numeri,3,conti,3,matematica,4,lettere,3
 fisica_005,numeri,3,analisi,3,dati,3,matematica,4
-liceo_sci_001,numeri,3,matematica,3,calcolo,3,naturali,3
 liceo_sci_002,numeri,4,razionali,3,irrazionali,3,immaginari,3
 liceo_sci_003,numeri,3,tanti,3,composizioni infinite,3,calcoli,3
 liceo_sci_004,numeri,3,calcoli,3,somma,3,limiti,2
@@ -3415,7 +3313,6 @@ liceo_sci_026,numeri,3,matematica,2,astro,4,,
 liceo_sci_027,numeri,3,matematica,4,algebra,4,voti,2
 liceo_sci_028,numeri,3,matematica,3,dati,3,operazioni,3
 liceo_sci_029,numeri,3,molti,2,matematica,3,scuola,3
-liceo_sci_030,numeri,3,infiniti,3,matematica,3,statistica,3
 liceo_sci_031,numeri,4,matmeatica,3,logica,4,scuola,3
 liceo_sci_032,numeri,3,calcoli,3,,,,
 liceo_sci_033,numeri,3,nulla,3,nulla,3,nulla,3
@@ -3434,7 +3331,6 @@ liceo_063,numeri,3,primi,3,successione,3,insiemistica,3
 liceo_064,numeri,4,tanti,5,avere,4,tabelline,4
 fisica_017,numeri,4,strumenti ,4,matematica ,4,fisica,4
 fisica_018,numeri,3,uno,2,analisi,3,dati,3
-fisica_020,numeri,3,algebra,3,insiemi numerici,3,,
 fisica_021,numeri,3,1,3,2,3,3,3
 fisica_022,numeri,,bellezza,,geometria,,limite,
 fisica_stem_005_1,numeri,4,alfabeto,4,universo,5,scienze,5
@@ -3477,7 +3373,6 @@ high_school_south_005,numeri,4,matematica,4,fisica,4,calcoli,5
 high_school_south_006,numeri,3,precisione ,4,rigore ,4,limite errore ,3
 high_school_south_008,numeri,4,belli,4,utili,4,argomenti ,5
 high_school_south_009,numeri,5,primi,5,codici,5,rapprssentazione,4
-high_school_south_011,numeri,3,1,3,2,,3,
 high_school_south_012,numeri,3,matematica ,3,tabelline,4,vita,5
 high_school_south_015,numeri,4,primi,4,pari,4,dispari,4
 high_school_south_016,numeri,5,matematica ,5,operazioni ,3,,
@@ -3506,7 +3401,6 @@ high_school_south_045,numeri,4,enim et dolorem quia,1,molestiae ut vel mag,3,cul
 high_school_south_046,numeri,4,matematica,5,ordine,4,scuola,3
 high_school_south_047,numeri,4,matematica,4,conteggio,4,misura,4
 high_school_south_048,numeri,2,matematica ,2,interi ,3,dati ,4
-interfacce_001,logica,3,impegno,5,,,,
 interfacce_002,logica,3,ragionamento,4,problemsolving,5,adattarsi,4
 interfacce_003,logica,4,numeri,4,ragionamento,4,,
 interfacce_004,logica,2,matematica,1,numeri,1,pensare,5
@@ -3531,7 +3425,6 @@ interfacce_022,logica,3,esercizi,2,matematica,1,,
 interfacce_023,logica,4,cervello,4,economia ,4,seguenza,5
 fisica_003,logica,4,pensiero,4,razionalità,4,matematica,3
 fisica_005,logica,4,,,,,,
-liceo_sci_001,logica,3,innata,3,non scontata,3,,
 liceo_sci_002,logica,3,razionale,4,ragione,4,intelletto,3
 liceo_sci_003,logica,3,mentalità,3,ragionamento,3,non per tutti,2
 liceo_sci_004,logica,4,matematica,3,cervello,4,ragionamento,4
@@ -3582,7 +3475,6 @@ liceo_sci_026,logica,4,tolc,3,pregio,5,sviluppo,4
 liceo_sci_027,logica,4,intelligenza,4,buona,3,valutabile,3
 liceo_sci_028,logica,4,problemi,2,abilità,4,esami,2
 liceo_sci_029,logica,3,calcolo,4,matematica,3,testa,3
-liceo_sci_030,logica,4,cervello,4,ragionamento,5,numeri,3
 liceo_sci_031,logica,3,pensare,3,cervello,3,testa,
 liceo_sci_032,logica,3,numeri,3,libri,5,ansia,1
 liceo_sci_033,logica,5,interessante,3,preoccupante,3,sensata,3
@@ -3601,7 +3493,6 @@ liceo_063,logica,3,aristotele,3,sistema,3,assiomi,3
 liceo_064,logica,3,sempre,3,pedanteria,3,lentezza,4
 fisica_017,logica,5,sopravvivenza ,3,approccio,5,fisica ,5
 fisica_018,logica,5,programmazione,3,matematica,2,problem solving,5
-fisica_020,logica,5,,,,,,
 fisica_021,logica,4,filosofia,4,bravo,4,matematica,4
 fisica_022,logica,,ansia,,stress,,rifiuto,
 fisica_stem_005_1,logica,5,intelligenza ,5,utilità,5,spigliatezza,4
@@ -3644,7 +3535,6 @@ high_school_south_005,logica,5,giochi,5,calcoli,4,,
 high_school_south_006,logica,4,matematica ,4,mente ,3,,
 high_school_south_008,logica,2,irrisolvibile ,2,difficile ,3,interessante,4
 high_school_south_009,logica,5,fondamento,3,linguaggio,4,verità ,4
-high_school_south_011,logica,1,matematica,1,,,,
 high_school_south_012,logica,4,aiuto,4,comprendere,4,ragionare,4
 high_school_south_015,logica,4,campionato ,4,problemi ,4,analisi ,4
 high_school_south_016,logica,5,matematica ,5,booleana,5,,
@@ -3673,7 +3563,6 @@ high_school_south_045,logica,1,dolor est id perspi,3,exercitationem aliqu,2,ipsu
 high_school_south_046,logica,4,numeri,4,matematica,5,programma,3
 high_school_south_047,logica,4,ragionamento,4,soluzione,4,intuito,4
 high_school_south_048,logica,5,ragionamento ,5,velocità ,5,cervello ,4
-interfacce_001,ricerca,4,scientifica,3,,,,
 interfacce_002,ricerca,3,studio,3,ricercatore,3,scienza,4
 interfacce_003,ricerca,4,scientifica,4,scienza,4,esperimento,4
 interfacce_004,ricerca,5,psicologia,5,studio,4,persone,5
@@ -3698,7 +3587,6 @@ interfacce_022,ricerca,4,scientifica,4,teoria,5,scoperte,5
 interfacce_023,ricerca,4,calcoli,4,analisi,4,numeri ,3
 fisica_003,ricerca,4,brillante,4,divertimento,5,curiosità,5
 fisica_005,ricerca,4,scoperta,4,collaborazione,5,curiosità ,5
-liceo_sci_001,ricerca,4,novità,4,divertimento,4,,
 liceo_sci_002,ricerca,4,innovativa,4,biomedicina,4,finanziata,3
 liceo_sci_003,ricerca,3,scientifica,3,studio,3,scuola,2
 liceo_sci_004,ricerca,3,google,3,chat gpt,4,esposizione,2
@@ -3749,7 +3637,6 @@ liceo_sci_026,ricerca,3,scientifica,3,compito,4,,
 liceo_sci_027,ricerca,4,scientifica,4,dati,4,risultati,4
 liceo_sci_028,ricerca,4,progresso,5,scienza,4,sperimentazione,4
 liceo_sci_029,ricerca,3,esperimenti,4,soluzioni,4,domande,2
-liceo_sci_030,ricerca,4,scientifica,5,libro,3,computer,4
 liceo_sci_031,ricerca,3,cercare,4,lavoro,4,info,3
 liceo_sci_032,ricerca,4,scienze,4,camice,3,progresso,3
 liceo_sci_033,ricerca,5,chat gpt,5,wikipedia,5,libri,5
@@ -3768,7 +3655,6 @@ liceo_063,ricerca,4,impegno,4,fatica,3,progresso,4
 liceo_064,ricerca,3,importante,3,scuola,4,casa,3
 fisica_017,ricerca,5,sottopagata,5,impegnativa ,5,creativa ,5
 fisica_018,ricerca,2,scientifica,4,laboratorio,5,complessa,2
-fisica_020,ricerca,4,futuro,1,obiettivo,3,,
 fisica_021,ricerca,5,scienziati ,5,laboratorio,3,ricercatori,5
 fisica_022,ricerca,,fatica,,impegno,,solidità,
 fisica_stem_005_1,ricerca,5,scoperta,4,studio,4,passione,5
@@ -3811,7 +3697,6 @@ high_school_south_005,ricerca,3,innovazione,4,,,,
 high_school_south_006,ricerca,4,precisione ,4,studio fonti,4,pubblicazione ,5
 high_school_south_008,ricerca,5,utile,5,strumenti,5,scienza,5
 high_school_south_009,ricerca,4,scienza,4,fondi,5,paper,4
-high_school_south_011,ricerca,3,scientifica,3,,,,
 high_school_south_012,ricerca,4,approfondita,4,argomento,4,finire,4
 high_school_south_015,ricerca,4,scientifica,5,verità ,5,felicità ,5
 high_school_south_016,ricerca,4,dati,4,,,,
@@ -3840,7 +3725,6 @@ high_school_south_045,ricerca,2,ut quia consectetur,1,odio culpa minim qu,4,in u
 high_school_south_046,ricerca,4,scienza,4,utile,4,innovazione,4
 high_school_south_047,ricerca,4,tentativi,4,curiosità ,4,impegno,4
 high_school_south_048,ricerca,2,scienziati ,2,recupero ,4,obiettivo ,5
-interfacce_001,imbarazzo,2,disagio,1,ansia,2,,
 interfacce_002,imbarazzo,1,figuracce,1,cadere,1,inciampare,1
 interfacce_003,imbarazzo,2,vergogna,2,ansia,2,,
 interfacce_004,imbarazzo,1,rosso,3,taciturno,2,tremolio,2
@@ -3865,7 +3749,6 @@ interfacce_022,imbarazzo,2,scelte,2,inconcepibile,2,personale,3
 interfacce_023,imbarazzo,3,rosso,2,timidezza ,2,ansia,1
 fisica_003,imbarazzo,1,rossore,2,vergogna,1,nascondiglio,2
 fisica_005,imbarazzo,1,agitazione,2,,,,
-liceo_sci_001,imbarazzo,1,interrogazioni,1,voto verifica ,1,bocciatura,1
 liceo_sci_002,imbarazzo,2,figure di merda,2,viso rosso,3,,
 liceo_sci_003,imbarazzo,2,timidezza,3,sbaglio,2,pubblico,3
 liceo_sci_004,imbarazzo,2,rosso,2,vergogna,2,paura,2
@@ -3916,7 +3799,6 @@ liceo_sci_026,imbarazzo,2,brutta figura,1,domande personali,2,,
 liceo_sci_027,imbarazzo,1,circonstanziale,3,interrogazione,2,famiglia,5
 liceo_sci_028,imbarazzo,1,vergogna,1,ansia,1,giudizio,2
 liceo_sci_029,imbarazzo,1,persone,3,sconosciuti,2,soli,1
-liceo_sci_030,imbarazzo,2,figuraccia,2,,,,
 liceo_sci_031,imbarazzo,3,pubblico,3,figuraccia,2,fallimento,3
 liceo_sci_032,imbarazzo,2,persone,3,ansia,2,,
 liceo_sci_033,imbarazzo,2,test,2,domande,3,situazioni,2
@@ -3935,7 +3817,6 @@ liceo_063,imbarazzo,3,vergogna ,2,pentimento ,2,superfluo ,3
 liceo_064,imbarazzo,2,tanto,2,rosso,2,cadere,2
 fisica_017,imbarazzo,4,constante,3,figuraccia,5,presentazione,5
 fisica_018,imbarazzo,2,silenzio,1,sbagliare,2,fuori luogo,1
-fisica_020,imbarazzo,2,,,,,,
 fisica_021,imbarazzo,1,io,1,classe,1,genitori,1
 fisica_022,imbarazzo,,disillusione,,paura,,ansia,
 fisica_stem_005_1,imbarazzo,1,sopravvalutarsi,1,autostima,1,vergogna ,1
@@ -3978,7 +3859,6 @@ high_school_south_005,imbarazzo,2,parlare,2,amicizie,4,,
 high_school_south_006,imbarazzo,3,scetticismo ,4,,,,
 high_school_south_008,imbarazzo,3,cose nuove,4,primo volta ,4,conoscere ,5
 high_school_south_009,imbarazzo,1,panico,2,disgusto,1,vergogna,1
-high_school_south_011,imbarazzo,1,crowd,1,,,,
 high_school_south_012,imbarazzo,1,rossore,1,guance,3,vergogna ,4
 high_school_south_015,imbarazzo,1,sconosciuti,2,pubblico ,2,cerimonie ,4
 high_school_south_016,imbarazzo,2,vergogna,1,amore ,5,,
@@ -4007,7 +3887,6 @@ high_school_south_045,imbarazzo,2,nisi fugiat ex et i,1,tempora ab deserunt ,5,a
 high_school_south_046,imbarazzo,2,arrossire,3,piangere,4,ansia,2
 high_school_south_047,imbarazzo,2,disagio,2,silenzio,3,vergogna,2
 high_school_south_048,imbarazzo,2,rossore ,2,pubblico ,4,ragazze ,3
-interfacce_001,compagni,5,carini,5,scuola,5,,
 interfacce_002,compagni,5,amici,5,ridere,5,parlare,5
 interfacce_003,compagni,4,amici,4,studenti,4,,
 interfacce_004,compagni,5,amici,5,scuola,4,banco,5
@@ -4032,7 +3911,6 @@ interfacce_022,compagni,3,gioco,4,scuola,3,conoscenze,4
 interfacce_023,compagni,4,scuola,4,amore,4,viaggio,5
 fisica_003,compagni,4,amici,5,viaggio,5,team,3
 fisica_005,compagni,4,gruppo,3,,,,
-liceo_sci_001,compagni,3,classe,3,lavoro,3,,
 liceo_sci_002,compagni,5,simpatici,5,sopportabili,5,meglio di altri individui,5
 liceo_sci_003,compagni,3,simpatici,3,non veri amici,2,pochi,3
 liceo_sci_004,compagni,4,amici,4,chat,4,ridere,4
@@ -4083,7 +3961,6 @@ liceo_sci_026,compagni,5,amici,5,aiuto,4,migliori,5
 liceo_sci_027,compagni,4,amici,5,percorso,5,famiglia,5
 liceo_sci_028,compagni,4,amici,5,studio,2,scuola,3
 liceo_sci_029,compagni,5,scuola,3,classe,4,amici,5
-liceo_sci_030,compagni,4,classe,3,unione,5,,
 liceo_sci_031,compagni,4,simpatici,4,compagniaa,4,gioco ,4
 liceo_sci_032,compagni,4,amici,4,incomprensione,1,muro,1
 liceo_sci_033,compagni,5,amore,5,tranquillità,5,divertimento,5
@@ -4102,7 +3979,6 @@ liceo_063,compagni,4,interazione,4,divertente ,4,scambio ,4
 liceo_064,compagni,3,classe,3,antipatici,2,estranei,2
 fisica_017,compagni,5,supporto,5,amici ,5,relazioni,5
 fisica_018,compagni,4,cena,5,chiacchierare,4,studio,2
-fisica_020,compagni,3,,,,,,
 fisica_021,compagni,3,intelligenti,3,alessio,4,simpatici,3
 fisica_022,compagni,,maschi,,diversi,,bravi,
 fisica_stem_005_1,compagni,3,confronto ,4,crescita,5,invidia,1
@@ -4145,7 +4021,6 @@ high_school_south_005,compagni,2,particolari,1,,,,
 high_school_south_006,compagni,5,amici,5,vitali ,5,compagnia ,5
 high_school_south_008,compagni,4,amici,5,uscite,5,festa ,5
 high_school_south_009,compagni,3,amici,5,aiutanti,4,simoatici,
-high_school_south_011,compagni,1,sarah,1,,,,
 high_school_south_012,compagni,2,scuola,3,classe ,2,sempre,2
 high_school_south_015,compagni,3,scuola,3,vita,4,esperienze ,4
 high_school_south_016,compagni,4,amici,4,informatori,5,,
@@ -4174,7 +4049,6 @@ high_school_south_045,compagni,1,ad nulla totam rerum,3,occaecat eiusmod acc,5,e
 high_school_south_046,compagni,3,scuola,3,classe,3,banco,3
 high_school_south_047,compagni,4,amici,4,squadra,4,aiuto,4
 high_school_south_048,compagni,4,scolastici ,2,avventura ,5,amici ,5
-interfacce_001,problema,2,soluzione,4,,,,
 interfacce_002,problema,2,risolvere,4,quesito,3,domanda,3
 interfacce_003,problema,4,matematica,4,difficoltà,2,ansia,2
 interfacce_004,problema,3,matematica,2,soluzione,5,analisi,3
@@ -4199,7 +4073,6 @@ interfacce_022,problema,1,da risolvere,1,molti,1,economici,1
 interfacce_023,problema,2,attuale ,2,passato,2,,
 fisica_003,problema,2,risolvere,4,ragionamento,4,idee,4
 fisica_005,problema,3,soluzione,4,,,,
-liceo_sci_001,problema,3,affrontare,4,vie,4,,
 liceo_sci_002,problema,3,soluzione,4,piano b,4,saltare,4
 liceo_sci_003,problema,2,soluzione,3,dati,3,procedimento,3
 liceo_sci_004,problema,3,soluzione,4,procedimento,3,calcoli,3
@@ -4250,7 +4123,6 @@ liceo_sci_026,problema,3,matematica,2,fisica,2,difficoltà,2
 liceo_sci_027,problema,4,soluzione,5,applicazione,5,ragionamento,5
 liceo_sci_028,problema,2,dati,3,risoluzione,4,metodo,4
 liceo_sci_029,problema,2,risoluzuone,4,difficoltà,2,amici,5
-liceo_sci_030,problema,2,matematica,3,fisica,2,mentale,1
 liceo_sci_031,problema,3,soluzione,5,pensare,4,focus,4
 liceo_sci_032,problema,3,risoluzione,4,ragionamento,4,,
 liceo_sci_033,problema,3,risoluzione,5,,,,
@@ -4269,7 +4141,6 @@ liceo_063,problema,4,creatività ,4,opportunità ,4,difficile ,3
 liceo_064,problema,3,difficile,4,quaderno,4,scritto,4
 fisica_017,problema,5,soluzione ,3,dati,4,studio,4
 fisica_018,problema,2,sbaglio,2,difficoltà,4,soluzione,5
-fisica_020,problema,3,matematica,3,fisica,3,soluzioni,4
 fisica_021,problema,3, matematica,3,famiglia,1,irrisolvibile,1
 fisica_022,problema,3,risolto,4,inutile,3,classico,1
 fisica_stem_005_1,problema,3,stanchezza,3,pigrizia,1,sfida,3
@@ -4312,7 +4183,6 @@ high_school_south_005,problema,3,matematica,4,fisica,4,riflettere,3
 high_school_south_006,problema,4,occasione ,3,autocontrollo ,4,gestione ,3
 high_school_south_008,problema,4,risoluzione ,4,dati,4,numeri,4
 high_school_south_009,problema,5,gioco,5,metodo,4,soluzione,4
-high_school_south_011,problema,3,soluzione,4,pensieri,1,,
 high_school_south_012,problema,2,matematica,3,dati,3,risolvo,4
 high_school_south_015,problema,3,logica,4,geometria ,4,statistica,3
 high_school_south_016,problema,4,soluzioni,4,ingegno,5,,
@@ -4341,7 +4211,6 @@ high_school_south_045,problema,1,non aliqua in nulla,1,pariatur excepturi ,1,tem
 high_school_south_046,problema,3,difficile,2,facile,4,risolto,4
 high_school_south_047,problema,4,risoluzione,4,procedimento ,4,dati,4
 high_school_south_048,problema,4,matematica ,2,risoluzione ,4,difficile ,2
-interfacce_001,informatica,4,papà,5,esame,3,,
 interfacce_002,informatica,4,programmazione,4,pc,5,programmatore,2
 interfacce_003,informatica,4,calcolo,4,codice,4,c++,3
 interfacce_004,informatica,3,programmazione,4,programmatore,3,computer,3
@@ -4366,7 +4235,6 @@ interfacce_022,informatica,4,studio,2,futuro,1,passione,4
 interfacce_023,informatica,3,numeri ,3,programmi,4,internet,4
 fisica_003,informatica,4,computer,3,programmazione,4,computazione,3
 fisica_005,informatica,3,programmazione,2,codice,2,analisi dati ,3
-liceo_sci_001,informatica,3,programmazione,3,giochi,5,,
 liceo_sci_002,informatica,3,palloso,2,phyton,4,giocare,5
 liceo_sci_003,informatica,2,non intuitiva,2,per pochi,2,non mi piace,1
 liceo_sci_004,informatica,3,computer,3,giochi,4,lezioni,3
@@ -4417,7 +4285,6 @@ liceo_sci_026,informatica,3,computer,4,aula,4,presentazione,4
 liceo_sci_027,informatica,4,utile,4,interesse,4,difficile,4
 liceo_sci_028,informatica,4,tecnologia,4,logica,4,problemi,2
 liceo_sci_029,informatica,4,pc,5,fututuro,5,chat gpt,4
-liceo_sci_030,informatica,3,computer,5,mouse,5,c,3
 liceo_sci_031,informatica,4,nuovo,4,ia,5,futuro,4
 liceo_sci_032,informatica,2,ansia,2,futuro,3,,
 liceo_sci_033,informatica,4,futuro,5,,,,
@@ -4436,7 +4303,6 @@ liceo_063,informatica,3,computer,3,calcolo,3,sintassi,3
 liceo_064,informatica,3,aula,3,asettica,3,,
 fisica_017,informatica,3,ovunque,5,specialistica,3,semplificare,3
 fisica_018,informatica,3,programmazione,2,interessante,4,tempistica,2
-fisica_020,informatica,3,curiosita,4,passatempo,5,divertimento,5
 fisica_021,informatica,3,alessandro,5,itt,3,buonarrotti,3
 fisica_022,informatica,2,tecnica,1,associativa,3,desiderabile,4
 fisica_stem_005_1,informatica,2,logica,2,difficoltà,1,razionalità ,2
@@ -4479,7 +4345,6 @@ high_school_south_005,informatica,3,computer,3,,,,
 high_school_south_006,informatica,4,algoritmo,4,esperienza ,5,linguaggio ,5
 high_school_south_008,informatica,3,c++,4,computer,5,programmazione ,3
 high_school_south_009,informatica,4,innovazione,4,semplicità ,4,computazione,4
-high_school_south_011,informatica,2,pc,4,walkman,5,musica,5
 high_school_south_012,informatica,2,stancante,1,progetto,3,computer,2
 high_school_south_015,informatica,3,programmazione ,2,computer,4,phyton,5
 high_school_south_016,informatica,5,programmazione ,5,arduino ,5,computer ,5
@@ -4508,7 +4373,6 @@ high_school_south_045,informatica,3,inventore eos error ,1,accusantium maiores ,
 high_school_south_046,informatica,4,computer,4,programmare,2,scuola,3
 high_school_south_047,informatica,4,elettronica,4,computer,4,software,4
 high_school_south_048,informatica,3,codice ,2,numeri ,2,verde ,4
-interfacce_001,sfida,4,impossibile,1,,,,
 interfacce_002,sfida,2,difficile,2,facile,4,vincere,5
 interfacce_003,sfida,3,prova,2,,,,
 interfacce_004,sfida,4,gioco,3,prova,3,evoluzione,5
@@ -4533,7 +4397,6 @@ interfacce_022,sfida,2,competenze,2,ignoranza,2,evitare,1
 interfacce_023,sfida,4,avventura,5,superare paure,5,uscire dalla comfort zone,4
 fisica_003,sfida,2,aggressività,2,dimostrare,2,competizione,2
 fisica_005,sfida,3,problema,2,intraprendenza,4,collaborazione,5
-liceo_sci_001,sfida,2,difficile ,1,,,,
 liceo_sci_002,sfida,5,ragionare,4,possibilità,4,soluzione,4
 liceo_sci_003,sfida,3,mettersi in gioco,4,difficile,2,superare i propri limiti,5
 liceo_sci_004,sfida,3,impegno,3,competitività,4,vincere,4
@@ -4584,7 +4447,6 @@ liceo_sci_026,sfida,3,vincere,5,competitività,3,migliorare,4
 liceo_sci_027,sfida,5,eccitazione,5,soluzione,4,partecipazione,4
 liceo_sci_028,sfida,3,difficoltà,2,confronto,4,paura,2
 liceo_sci_029,sfida,5,personale,3,obbiettivi,4,,
-liceo_sci_030,sfida,4,ardua,4,difficile,3,,
 liceo_sci_031,sfida,4,gara,5,concentrazione,5,vincere,5
 liceo_sci_032,sfida,3,prova,2,determinazione,4,,
 liceo_sci_033,sfida,4,competizione,3,,,,
@@ -4603,7 +4465,6 @@ liceo_063,sfida,4,problema,4,cooperazione ,4,soluzione ,4
 liceo_064,sfida,2,pesante,2,battaglia,2,moda,3
 fisica_017,sfida,5,quotidiana,5,stimolante ,3,ansia ,5
 fisica_018,sfida,4,gara,2,impertinenza,1,competizione,3
-fisica_020,sfida,4,motivazione,5,gioco,4,sorpresa,4
 fisica_021,sfida,3,difficile,1,provare,4,,
 fisica_022,sfida,5,impossibile,4,divertente,5,esilerante,5
 fisica_stem_005_1,sfida,5,stimolo,5,coraggio,5,autostima,5
@@ -4646,7 +4507,6 @@ high_school_south_005,sfida,4,buttarsi,4,provare,4,vincere,5
 high_school_south_006,sfida,4,decisione ,4,determinazione ,5,accesa ,4
 high_school_south_008,sfida,5,vita,4,sport,5,scuola,3
 high_school_south_009,sfida,3,difficoltà ,2,imparare,4,fallimenti,2
-high_school_south_011,sfida,3,adrenalina,5,sport,5,,
 high_school_south_012,sfida,3,accettare,4,competizione,2,gara,3
 high_school_south_015,sfida,4,mentale,4,fisica,4,rivale ,4
 high_school_south_016,sfida,5,competizione ,4,eccitante ,5,,
@@ -4675,7 +4535,6 @@ high_school_south_045,sfida,4,culpa quas porro qu,3,rerum delectus quo ,1,autem 
 high_school_south_046,sfida,4,costruttiva,4,difficile,2,vincere,5
 high_school_south_047,sfida,4,gara,4,stimolo,4,competizione,4
 high_school_south_048,sfida,5,competizione ,5,superare ,5,persone ,3
-interfacce_001,paura,2,futuro,3,,,,
 interfacce_002,paura,1,spavento,1,urlo,1,cadere,1
 interfacce_003,paura,2,ansia,2,emozione,4,,
 interfacce_004,paura,4,ansia,2,terrore,2,scappare,3
@@ -4700,7 +4559,6 @@ interfacce_022,paura,3,altezza,3,paranoia,2,fallire,1
 interfacce_023,paura,2,sbaglaire,3,autostima,1,futuro,4
 fisica_003,paura,2,stress,1,ignoto,3,cuore,4
 fisica_005,paura,1,futuro,2,ansia ,2,,
-liceo_sci_001,paura,2,voti,2,giudizio,2,possibilità,5
 liceo_sci_002,paura,2,controllo,4,perchè,4,irrazionale,2
 liceo_sci_003,paura,2,timore,2,emozione,4,forte,3
 liceo_sci_004,paura,2,tremare,2,blu,2,sconforto,2
@@ -4751,7 +4609,6 @@ liceo_sci_026,paura,2,solitudine,2,futuro,3,emozione,4
 liceo_sci_027,paura,2,interrogazione,1,ragazze,5,,
 liceo_sci_028,paura,2,fallimento,1,esame,2,dolore,2
 liceo_sci_029,paura,2,test,2,vitra,3,,
-liceo_sci_030,paura,2,cieca,3,horror,1,,
 liceo_sci_031,paura,2,molto,2,me,3,futuro,5
 liceo_sci_032,paura,2,,,,,,
 liceo_sci_033,paura,3,ansia,1,,,,
@@ -4770,7 +4627,6 @@ liceo_063,paura,2,tristezza ,3,morte,3,,
 liceo_064,paura,3,buio,3,solitudine,3,ansia,3
 fisica_017,paura,5,notte,2,società,5,futuro,5
 fisica_018,paura,2,spavento,4,fallimento,3,buio,1
-fisica_020,paura,1,futuro,2,fallimento,1,universita,2
 fisica_021,paura,2,io,2,tanta,1,ragni,3
 fisica_022,paura,3,sentimento,4,valore,4,colore,5
 fisica_stem_005_1,paura,1,ansia ,1,ignoto ,1,morte,1
@@ -4813,7 +4669,6 @@ high_school_south_005,paura,2,incubi,1,,,,
 high_school_south_006,paura,4,ansia,5,forte ,4,,
 high_school_south_008,paura,2,futuro,5,lavoro ,4,cosè nuove,5
 high_school_south_009,paura,2,ansia,2,dubbio,2,incerto,
-high_school_south_011,paura,1,sarah,1,,,,
 high_school_south_012,paura,2,blu,4,mostro,1,buio,1
 high_school_south_015,paura,2,povertà ,1,fuoco,2,fame,2
 high_school_south_016,paura,1,spaventato,1,preoccupato,2,stasi,1
@@ -4842,7 +4697,6 @@ high_school_south_045,paura,3,maiores non et ea il,2,ullam est eos tempor,1,nihi
 high_school_south_046,paura,2,emozione,3,serpenti,1,solitudine,1
 high_school_south_047,paura,4,trauma,4,buio,4,fuga,4
 high_school_south_048,paura,2,blocco ,2,buio ,3,superare ,4
-interfacce_001,genitori,5,mamma,5,papà,5,casa,5
 interfacce_002,genitori,4,mamma,4,papà,4,parenti,3
 interfacce_003,genitori,5,mamma,5,papà,5,,
 interfacce_004,genitori,5,amore,5,figlio,5,casa,5
@@ -4867,7 +4721,6 @@ interfacce_022,genitori,4,pressione,2,aspettative,2,dovere,3
 interfacce_023,genitori,3,mamma,4,papà,4,amore,5
 fisica_003,genitori,4,amore,5,casa,4,focolare,4
 fisica_005,genitori,3,,,,,,
-liceo_sci_001,genitori,4,supporto,5,disponibili,5,,
 liceo_sci_002,genitori,3,peso,2,aspettative,2,amore,5
 liceo_sci_003,genitori,3,guide,3,autorità,2,rapporto,4
 liceo_sci_004,genitori,5,mamma,5,passaggi,4,cibo,4
@@ -4918,7 +4771,6 @@ liceo_sci_026,genitori,5,aiuto,5,parlare,5,sostenere,5
 liceo_sci_027,genitori,5,amore,5,allegria,5,rispetto,5
 liceo_sci_028,genitori,4,famiglia,4,conforto,4,confronto,4
 liceo_sci_029,genitori,5,famiglia,5,amore,5,,
-liceo_sci_030,genitori,4,premurosi,5,gentili,5,duri,4
 liceo_sci_031,genitori,5,mamma,5,papa,5,amore,5
 liceo_sci_032,genitori,3,amore,4,,,,
 liceo_sci_033,genitori,5,amore,5,,,,
@@ -4937,7 +4789,6 @@ liceo_063,genitori,4,accoglienza ,4,sostegno ,4,fondamento,4
 liceo_064,genitori,3,miei,4,vecchi,4,presenti,4
 fisica_017,genitori,5,supporto,5,ansia ,2,guidizio,5
 fisica_018,genitori,4,affetto,5,impegno,2,gratuità,5
-fisica_020,genitori,3,delusione,1,paura,1,bugie,1
 fisica_021,genitori,1,mamma,1,papa,1,giudizio,1
 fisica_022,genitori,4,sani,4,saggi,5,noiosi,3
 fisica_stem_005_1,genitori,4,amore ,4,aspettative ,2,sicurezza,5
@@ -4980,7 +4831,6 @@ high_school_south_005,genitori,4,famiglia,5,presenza,5,,
 high_school_south_006,genitori,4,giudizio ,5,lieve ,5,,
 high_school_south_008,genitori,4,famiglia,4,discutere ,2,chiarire,4
 high_school_south_009,genitori,4,sostegno,4,casa,4,aiuto,4
-high_school_south_011,genitori,4,papa,5,,,,
 high_school_south_012,genitori,3,mamma,5,sola,5,sempre,5
 high_school_south_015,genitori,5,presenti,5,disponibili,5,comprensivi,5
 high_school_south_016,genitori,4,papà ,4,mamma,4,,
@@ -5009,7 +4859,6 @@ high_school_south_045,genitori,1,perspiciatis quis e,1,similique minus qui ,5,si
 high_school_south_046,genitori,4,grandi,3,amore,5,famiglia,5
 high_school_south_047,genitori,4,mentori ,4,presenti ,4,insegnamento ,4
 high_school_south_048,genitori,5,mamma ,5,papà ,5,educazione ,5
-interfacce_001,dati,3,statistica,3,numeri,3,percentuale,3
 interfacce_002,dati,3,database,3,numeri,3,contatti,4
 interfacce_003,dati,3,numeri,4,tabella,3,grafico,3
 interfacce_004,dati,3,numeri,3,informazioni,3,statistica,3
@@ -5034,7 +4883,6 @@ interfacce_022,dati,3,documenti,2,aggiornamento,2,curriculum,2
 interfacce_023,dati,3,numeri,3,raccolta,3,ricerca,4
 fisica_003,dati,3,blocco,2,ordine,4,conti,3
 fisica_005,dati,3,analisi,2,laboratorio,4,relazione,4
-liceo_sci_001,dati,3,analizzare,3,raccolta,3,,
 liceo_sci_002,dati,3,utili ,3,input,3,output,3
 liceo_sci_003,dati,3,problema,3,numeri,3,informazioni,3
 liceo_sci_004,dati,3,incognite,3,classificazione,2,procedimento,3
@@ -5085,7 +4933,6 @@ liceo_sci_026,dati,3,molti,3,problema,2,ricerca,3
 liceo_sci_027,dati,4,anagrafici,3,ipotesi,4,sperimentali,4
 liceo_sci_028,dati,3,grafico,4,problema,2,calcoli,2
 liceo_sci_029,dati,4,matematica,3,statistica,3,analisi,3
-liceo_sci_030,dati,3,utili,4,,,,
 liceo_sci_031,dati,,analisi,,matematica,,informazioni,
 liceo_sci_032,dati,3,ricerca,4,modello,3,,
 liceo_sci_033,dati,5,statistiche,3,importanti,3,fondsmentaòli,3
@@ -5104,7 +4951,6 @@ liceo_063,dati,3,raccolta,3,analisi ,3,errore ,2
 liceo_064,dati,3,ordine,4,tabella,4,analisi,4
 fisica_017,dati,3,laboratorio,4,statistica,4,analisi,4
 fisica_018,dati,4,matlab,4,oscilloscopio,5,misure,4
-fisica_020,dati,3,,,,,,
 fisica_021,dati,3,,,,,,
 fisica_022,dati,2,analisi,2,studio,1,fatica,1
 fisica_stem_005_1,dati,5,informazioni,5,lettura,5,interpretazione,5
@@ -5147,7 +4993,6 @@ high_school_south_005,dati,4,problema,4,calcoli,4,soluzione,5
 high_school_south_006,dati,3,sperimentali ,3,scuola ,3,informatica,4
 high_school_south_008,dati,4,utili,5,inultili,4,essenziali ,5
 high_school_south_009,dati,4,necessità ,4,estrapolazione,4,predizione,4
-high_school_south_011,dati,1,numeri,1,matrix,5,calcoli,1
 high_school_south_012,dati,4,analisi,4,seminario,3,professore,3
 high_school_south_015,dati,5,sensibili,5,certi,5,statistici,5
 high_school_south_016,dati,3,statistica ,4,raccolta ,3,,
@@ -5176,7 +5021,6 @@ high_school_south_045,dati,5,blanditiis nihil eu ,1,debitis dolorem dist,5,magna
 high_school_south_046,dati,3,problema,3,ordine,4,colonna,3
 high_school_south_047,dati,3,problema,3,informazioni,4,partenza,4
 high_school_south_048,dati,4,numeri ,2,analisi ,3,prove ,2
-interfacce_001,esperimento,4,prova,3,ipotesi,3,teoria,4
 interfacce_002,esperimento,3,prove,3,ricerca,3,sperimentatore,3
 interfacce_003,esperimento,4,provette,3,scienza,4,dati,3
 interfacce_004,esperimento,4,ricercatore ,3,dati,3,risultati,3
@@ -5201,7 +5045,6 @@ interfacce_022,esperimento,3,fallito,3,vista,4,topi,3
 interfacce_023,esperimento,5,numeri,5,calcoli,5,scienza,5
 fisica_003,esperimento,4,pragmatismo,4,divertimento,5,affascinante,5
 fisica_005,esperimento,4,laboratorio,4,analisi,2,misure,3
-liceo_sci_001,esperimento,4,prova,3,pratico,4,,
 liceo_sci_002,esperimento,4,può fallire,4,galileo galieli,3,natura,3
 liceo_sci_003,esperimento,3,scientifico,3,prova,3,procedimento,3
 liceo_sci_004,esperimento,4,test,3,risultato,3,prova,3
@@ -5252,7 +5095,6 @@ liceo_sci_026,esperimento,4,fallimento,1,scoperta,2,test,2
 liceo_sci_027,esperimento,4,scientifico,4,fisico,4,sociale,4
 liceo_sci_028,esperimento,4,laboratorio,4,scienze,4,verifica,2
 liceo_sci_029,esperimento,4,laboratorio,3,scienze,4,fisica,3
-liceo_sci_030,esperimento,3,inutile,2,utile,4,scientifico,
 liceo_sci_031,esperimento,,scienza,,innovazione,,analisi,
 liceo_sci_032,esperimento,4,scoperta,4,metodo,3,,
 liceo_sci_033,esperimento,5,importante,4,dimostrazione,5,fisica,5
@@ -5271,7 +5113,6 @@ liceo_063,esperimento,4,laboratorio,4,apparato,3,teoria ,3
 liceo_064,esperimento,4,difficile,2,bello,4,rischioso,3
 fisica_017,esperimento,5,apprendimento,5,divertente ,5,scuola,3
 fisica_018,esperimento,4,chimica,3,meccanica,4,laboratorio,5
-fisica_020,esperimento,3,,,,,,
 fisica_021,esperimento,4,scienziato,4,curiosità,4,esiti,4
 fisica_022,esperimento,1,lungo,3,noioso,3,stancante,1
 fisica_stem_005_1,esperimento,4,prova ,2,sbaglio,1,verifica,3
@@ -5314,7 +5155,6 @@ high_school_south_005,esperimento,4,laboratorio,3,testare,4,,
 high_school_south_006,esperimento,4,sociale ,3,lavorativo,4,fisico,5
 high_school_south_008,esperimento,4,affascinante ,4,newton,5,galilei ,5
 high_school_south_009,esperimento,4,verifica,2,verdetto,4,realtà ,4
-high_school_south_011,esperimento,4,chimica,5,laboratorio,5,biologia,5
 high_school_south_012,esperimento,4,laboratorio,5,provette ,4,camice ,4
 high_school_south_015,esperimento,5,sociale,5,scientifico ,5,fisica,5
 high_school_south_016,esperimento,4,galileo,4,chimica,3,,
@@ -5343,7 +5183,6 @@ high_school_south_045,esperimento,4,nisi est laudantium,1,adipisicing earum la,1
 high_school_south_046,esperimento,4,laboratorio,4,chimica,4,fisica,2
 high_school_south_047,esperimento,4,prova,4,scienza,4,metodo,4
 high_school_south_048,esperimento,2,scienziato ,2,scienze ,2,risultato ,4
-interfacce_001,stress,2,agitazione,2,nervoso,2,,
 interfacce_002,stress,1,esami,2,lavoro,3,traffico,1
 interfacce_003,stress,2,ansia,2,situazione,3,,
 interfacce_004,stress,2,ansia,2,pensieroso,2,agitato,2
@@ -5368,7 +5207,6 @@ interfacce_022,stress,1,studi,2,lavoro,2,futuro,1
 interfacce_023,stress,2,paura,1,fallimento,2,lacrime,1
 fisica_003,stress,1,lavoro,3,studio,4,vita,3
 fisica_005,stress,2,ansia,2,agitazione,2,,
-liceo_sci_001,stress,1,interrogazione,1,verifiche,1,,
 liceo_sci_002,stress,2,capelli,2,troppe cose da fare ,1,,
 liceo_sci_003,stress,2,scuola,2,troppo lavoro,2,deteriorante,1
 liceo_sci_004,stress,1,scuola,2,impegni,3,sopraffatto,2
@@ -5419,7 +5257,6 @@ liceo_sci_026,stress,2,difficoltà,2,correre,5,pressione,2
 liceo_sci_027,stress,3,interrogazione,2,deadline,4,,
 liceo_sci_028,stress,1,studio,2,lavoro,3,scuola,3
 liceo_sci_029,stress,3,lavoro,2,scuola,3,ansia,2
-liceo_sci_030,stress,4,scuola,2,lavoro,3,bambini,4
 liceo_sci_031,stress,,scuola,,lavoro,,ansia,
 liceo_sci_032,stress,1,nervoso,1,procastinazione,2,,
 liceo_sci_033,stress,1,terribile,1,ansiogeno,1,strano,1
@@ -5438,7 +5275,6 @@ liceo_063,stress,2,distruttivo ,2,sonno,3,improduttivo ,2
 liceo_064,stress,3,sempre,2,sotto,2,tirare,3
 fisica_017,stress,5,sempre ,5,domande ,5,vita ,3
 fisica_018,stress,2,esami,3,sessione,2,solitudine,3
-fisica_020,stress,3,,,,,,
 fisica_021,stress,1,ansia,1,forte,1,io,1
 fisica_022,stress,1,scuola,2,studio,2,paura,3
 fisica_stem_005_1,stress,1,claustrofobia,1,adrenalina,5,performance ,3
@@ -5481,7 +5317,6 @@ high_school_south_005,stress,1,ansia,1,turbamento,1,quotidiano,1
 high_school_south_006,stress,3,spesso presente,4,non un eccesso ,4,gestione ,5
 high_school_south_008,stress,2,elevato,2,scuola ,3,interrogazioni ,2
 high_school_south_009,stress,2,pericolo,2,inaspettato,2,problema,1
-high_school_south_011,stress,1,sarah,1,chimica,5,,
 high_school_south_012,stress,1,ansia,1,scuola,2,inverno,2
 high_school_south_015,stress,1,pensieri ,2,impegni ,2,scuola ,3
 high_school_south_016,stress,1,stamchezza,1,sonno,1,perdita energica,1
@@ -5510,7 +5345,6 @@ high_school_south_045,stress,1,vel nisi vero perspi,3,itaque esse odio es,1,expl
 high_school_south_046,stress,2,dormire,5,ansia,2,capelli,4
 high_school_south_047,stress,2,scuola ,3,agitazione,2,nocivo,2
 high_school_south_048,stress,1,ansia ,1,paura ,2,lavoro ,4
-interfacce_001,counselling,,,,,,,
 interfacce_002,counselling,3,,,,,,
 interfacce_003,counselling,3,,,,,,
 interfacce_004,counselling,,,,,,,
@@ -5535,7 +5369,6 @@ interfacce_022,counselling,3,terapia,3,problemi,2,economia,1
 interfacce_023,counselling,,,,,,,
 fisica_003,intelligenza_artificiale,3,connessioni neurali,4,machine learning,3,ingiusto,1
 fisica_005,intelligenza_artificiale,3,bias,3,dati,3,reti neurali,4
-liceo_sci_001,intelligenza_artificiale,4,aiuto,4,,,,
 liceo_sci_002,intelligenza_artificiale,3,cautela,5,utile,5,non vale per copiare,2
 liceo_sci_003,intelligenza_artificiale,3,utile,4,sostituto,3,completa,3
 liceo_sci_004,intelligenza_artificiale,4,chat gpt,4,utilissima,4,dannosa,2
@@ -5586,7 +5419,6 @@ liceo_sci_026,intelligenza_artificiale,4,utile,4,facile,4,velocità,5
 liceo_sci_027,intelligenza_artificiale,4,scienza,4,pensiero,5,utilizzo,4
 liceo_sci_028,intelligenza_artificiale,4,risposte,5,innovazione,5,strumento,4
 liceo_sci_029,intelligenza_artificiale,4,chat gpt,4,testi,4,futuro,4
-liceo_sci_030,intelligenza_artificiale,4,chat gpt,5,utile,5,innovativa,4
 liceo_sci_031,intelligenza_artificiale,,chat gpt,,prompt,,veo 3,
 liceo_sci_032,intelligenza_artificiale,1,ansia,1,controllo,1,,
 liceo_sci_033,intelligenza_artificiale,5,bellissima,5,utile,5,futuro,5
@@ -5605,7 +5437,6 @@ liceo_063,intelligenza_artificiale,3,computer ,3,matematica ,4,applicazioni ,4
 liceo_064,intelligenza_artificiale,2,chissà,3,estranea,3,strana,2
 fisica_017,intelligenza_artificiale,4,strumento ,4,semplificazione ,4,velocità,4
 fisica_018,intelligenza_artificiale,3,chat gpt,3,sciocca,2,analisi 2,2
-fisica_020,intelligenza_artificiale,5,aiuto,5,gemini,3,studio,2
 fisica_021,intelligenza_artificiale,4,utile,4,interessante,4,non paurosa,3
 fisica_022,intelligenza_artificiale,1,stupidità,2,paura,3,rimpianto,2
 fisica_stem_005_1,intelligenza_artificiale,1,inganno,1,solitudine,3,vuoto,3
@@ -5648,7 +5479,6 @@ high_school_south_005,intelligenza_artificiale,3,meta ai,4,gemini,2,,
 high_school_south_006,intelligenza_artificiale,4,futuro ,3,innovazione ,5,scetticismo ,2
 high_school_south_008,intelligenza_artificiale,4,robot ,4,auto,4,copiatore ,2
 high_school_south_009,intelligenza_artificiale,3,infiacchimento,1,ricerca,4,utile,4
-high_school_south_011,intelligenza_artificiale,4,chatgpt,5,grok,5,io,5
 high_school_south_012,intelligenza_artificiale,2,ai,2,rivoluzione,4,tecnologia,4
 high_school_south_015,intelligenza_artificiale,5,ipad,5,gemini,5,chatgpt ,5
 high_school_south_016,intelligenza_artificiale,5,strumento ,5,gemini,5,claude,5
@@ -5677,7 +5507,6 @@ high_school_south_045,intelligenza_artificiale,1,sit aliquip nostrum,4,consequun
 high_school_south_046,intelligenza_artificiale,4,utile,4,compiti,2,attenzione,3
 high_school_south_047,intelligenza_artificiale,3,futuro ,3,innovazione,4,affascinante ,4
 high_school_south_048,intelligenza_artificiale,4,aiuto ,4,comando ,4,dipendenza ,1
-interfacce_001,regole,4,seguire,4,trasgredire,2,,
 interfacce_002,regole,3,rispettare,3,regolamento,3,seguire,3
 interfacce_003,regole,4,limiti,2,,,,
 interfacce_004,regole,4,leggi,4,teorema,3,civiltà,4
@@ -5702,7 +5531,6 @@ interfacce_022,regole,3,stadali,2,sociali,3,galateo,4
 interfacce_023,regole,4,staticità,3,uggualianza ,2,no diversità,1
 fisica_003,regole,3,imposizione,2,società,4,rompere,3
 fisica_005,regole,3,,,,,,
-liceo_sci_001,regole,3,seguire,3,,,,
 liceo_sci_002,regole,3,possono essere infrante,4,troppe,3,,
 liceo_sci_003,regole,3,necessarie,4,utili,4,restrittive,2
 liceo_sci_004,regole,3,severe,2,restrittive,2,sensate,4
@@ -5753,7 +5581,6 @@ liceo_sci_026,regole,4,giuste,4,infrazione,3,ordine,4
 liceo_sci_027,regole,4,scolastiche,2,legge,4,sociali,4
 liceo_sci_028,regole,3,punizioni,2,limiti,2,convivenza,4
 liceo_sci_029,regole,4,rispetto,5,leggi,3,persone,4
-liceo_sci_030,regole,4,severe,2,rispettare,4,,
 liceo_sci_031,regole,,seguire,,società,,scuola,
 liceo_sci_032,regole,2,società ,2,,,,
 liceo_sci_033,regole,4,giuste,3,importanti,5,obbligo,4
@@ -5772,7 +5599,6 @@ liceo_063,regole,3,noia ,2,limite,3,protocollo ,4
 liceo_064,regole,3,comportamento ,4,stress,3,matematica,4
 fisica_017,regole,5,matematica,5,sociali,5,,
 fisica_018,regole,2,leggi,1,divieti,2,imposizioni,1
-fisica_020,regole,3,,,,,,
 fisica_021,regole,3,stupide,2,banali,2,idiote,2
 fisica_022,regole,1,rigide,1,inutili,2,limitanti,1
 fisica_stem_005_1,regole,3,scatola,3,procedure,3,gabbie ,2
@@ -5815,7 +5641,6 @@ high_school_south_005,regole,3,rispetto,3,ascoltare,3,,
 high_school_south_006,regole,3,fondamentali,4,disciplina ,4,ordine,
 high_school_south_008,regole,4,noia,2,stress,2,utili,4
 high_school_south_009,regole,3,status,3,coesistenza,4,infrante ,4
-high_school_south_011,regole,1,noia,1,,,,
 high_school_south_012,regole,5,rispetto,5,giuste,5,tante,5
 high_school_south_015,regole,4,galateo ,4,leggi,5,codice,4
 high_school_south_016,regole,4,aggirare,4,scappatoie,4,analisi ,5
@@ -5844,7 +5669,6 @@ high_school_south_045,regole,5,placeat ad ullam vo,1,eaque eu incidunt i,5,dolor
 high_school_south_046,regole,3,gioco,4,fisica,2,infrangere,2
 high_school_south_047,regole,4,istruzioni,4,rispetto,4,necessarie,4
 high_school_south_048,regole,4,scuola ,2,organizzazione ,4,severe ,4
-interfacce_001,scienziato,4,laboratorio,3,esperimenti,3,fumo,2
 interfacce_002,scienziato,3,ricercatore,3,scienza,4,sperimentatore,3
 interfacce_003,scienziato,4,einstein,3,camice,2,,
 interfacce_004,scienziato,4,scienza,4,esperimenti,3,conoscienza,4
@@ -5869,7 +5693,6 @@ interfacce_022,scienziato,3,virus,2,ricerca,4,studi,3
 interfacce_023,scienziato,4,studio,4,numeri,4,calcoli,3
 fisica_003,scienziato,5,intelligenza,4,curiosità,4,coraggio,5
 fisica_005,scienziato,5,ricerca,4,dati,4,laboratorio,4
-liceo_sci_001,scienziato,3,lavoro,3,,,,
 liceo_sci_002,scienziato,3,sperimentatore,4,ricercatore,4,scienziato pazzo,3
 liceo_sci_003,scienziato,3,professione,3,lavoro,4,chimica,3
 liceo_sci_004,scienziato,3,pazzo,4,esperimenti,3,camice,3
@@ -5920,7 +5743,6 @@ liceo_sci_026,scienziato,3,camice,3,lavoro,2,,
 liceo_sci_027,scienziato,4,intelligente,5,curioso,5,acuto,5
 liceo_sci_028,scienziato,4,intelligente,4,innovativo,4,esperimenti,4
 liceo_sci_029,scienziato,3,laboratorio,3,medicina,4,scuola,3
-liceo_sci_030,scienziato,3,intelligente,3,studio,3,sceinza,4
 liceo_sci_031,scienziato,4,einstein,4,pazzo,5,esperimento,3
 liceo_sci_032,scienziato,4,laboratorio,4,ricerca,4,,
 liceo_sci_033,scienziato,5,utile,5,importante,5,futuro,5
@@ -5939,7 +5761,6 @@ liceo_063,scienziato,4,persona,4,metodo,4,fenomeni,3
 liceo_064,scienziato,3,uomo,3,strano,2,pedante,3
 fisica_017,scienziato,4,ricerca,4,dedizione ,4,impegno,4
 fisica_018,scienziato,2,laboratorio,4,esperimenti,3,astronauta,5
-fisica_020,scienziato,3,,,,,,
 fisica_021,scienziato,4,laboratorio,4,camice,4,esperimento,4
 fisica_022,scienziato,,uomo,,sincero,,triste,
 fisica_stem_005_1,scienziato,4,genio,5,appassionato,5,determinato,5
@@ -5982,7 +5803,6 @@ high_school_south_005,scienziato,4,innovativo,4,creativo,5,,
 high_school_south_006,scienziato,4,lavoro,3,laboratorio ,3,ricercatore ,4
 high_school_south_008,scienziato,5,genio,4,innovatore ,5,incompreso,
 high_school_south_009,scienziato,4,dottore,5,studio,4,nerd,5
-high_school_south_011,scienziato,2,mac (persona),5,eistein,1,,
 high_school_south_012,scienziato,5,scoperta,5,occhiali ,3,studio,4
 high_school_south_015,scienziato,5,einstein ,5,galilei,5,mendel,5
 high_school_south_016,scienziato,3,camice ,3,occhiali protettivi ,3,composti,3
@@ -6011,7 +5831,6 @@ high_school_south_045,scienziato,5,aut aliquam esse fu,1,ullam libero exercit,4,
 high_school_south_046,scienziato,4,bravo,4,scoperta,4,laboratorio,4
 high_school_south_047,scienziato,4,laboratorio,4,curiosità ,4,scoperte,4
 high_school_south_048,scienziato,2,laboratorio ,3,esperimenti ,4,ricerca ,4
-interfacce_001,scuola,4,studio,4,compito,3,prof,4
 interfacce_002,scuola,4,lezioni,3,prof,3,compagni,5
 interfacce_003,scuola,2,ansia,2,interrogazione,1,verifica,2
 interfacce_004,scuola,3,banco,3,struttura ,3,amici,5
@@ -6036,7 +5855,6 @@ interfacce_022,scuola,2,laurea,2,competenze,3,futuro,2
 interfacce_023,scuola,5,istruzione ,5,maturità,5,crescita,4
 fisica_003,scuola,3,routine,3,amici,4,studio,3
 fisica_005,scuola,4,imparare,4,,,,
-liceo_sci_001,scuola,3,luogo,3,ansia,1,pressione,1
 liceo_sci_002,scuola,3,amici,4,compiti,1,legami,5
 liceo_sci_003,scuola,2,disinteresse,2,apatia,1,noia,1
 liceo_sci_004,scuola,3,libri,2,studio,2,zaino,3
@@ -6087,7 +5905,6 @@ liceo_sci_026,scuola,3,tempo,4,studio,3,timore,2
 liceo_sci_027,scuola,4,amici,5,nozioni,4,voto,3
 liceo_sci_028,scuola,2,studio,2,voti,3,professori,3
 liceo_sci_029,scuola,3,voti,2,lezioni,4,insegnanti,3
-liceo_sci_030,scuola,4,noia,2,studio,3,obbligo,2
 liceo_sci_031,scuola,4,dovere,4,opportunità,3,gratitudine,5
 liceo_sci_032,scuola,4,aule,4,casa,4,noia,2
 liceo_sci_033,scuola,3,stress,1,rabbia,1,mafia,1
@@ -6106,7 +5923,6 @@ liceo_063,scuola,4,caldo,2,sovraccarico ,2,relazioni,4
 liceo_064,scuola,4,mia,5,sempre,4,serale,3
 fisica_017,scuola,4,formazione,4,relazioni,4,amici,5
 fisica_018,scuola,5,superiori,5,corridoi,5,compagni,5
-fisica_020,scuola,3,,,,,,
 fisica_021,scuola,3,liceo,1,galilei,1,professori,1
 fisica_022,scuola,,impegno,,fatica,,concentrazione,
 fisica_stem_005_1,scuola,3,studio,3,contatto ,4,ricordi,5
@@ -6149,7 +5965,6 @@ high_school_south_005,scuola,3,compiti,3,impegno,4,imparare,4
 high_school_south_006,scuola,5,importante ,5,non un ossessione ,4,esperienza ,
 high_school_south_008,scuola,2,ansia,2,imparare,4,studio,
 high_school_south_009,scuola,4,socialità ,4,noia,1,basi,3
-high_school_south_011,scuola,4,la mia,4,amici,4,,
 high_school_south_012,scuola,4,liceo,3,pesante,1,interessante,4
 high_school_south_015,scuola,5,liceo,5,libri,5,compagni,3
 high_school_south_016,scuola,3,professori,3,aula,3,,
@@ -6178,7 +5993,6 @@ high_school_south_045,scuola,2,quibusdam ad eveniet,4,saepe eos eos assume,2,lab
 high_school_south_046,scuola,3,stress,2,verifiche,2,pullman,1
 high_school_south_047,scuola,3,classi,3,compagni,4,materie,4
 high_school_south_048,scuola,1,inutile ,3,giovani ,4,professore ,2
-interfacce_001,creatività,5,sorpresa,5,soluzione,5,,
 interfacce_002,creatività,3,nuovo,4,pensiero,4,arte,4
 interfacce_003,creatività,4,arte,4,disegno,4,,
 interfacce_004,creatività,5,fantasia,5,apertura,4,musica,5
@@ -6203,7 +6017,6 @@ interfacce_022,creatività,4,arte,5,espressione,5,disegno,5
 interfacce_023,creatività,5,immaginazione,4,unicità,4,fantasy,3
 fisica_003,creatività,5,mezzo,4,scopo,4,tempo libero,2
 fisica_005,creatività,4,immaginazione,5,fantasia,4,,
-liceo_sci_001,creatività,4,bella,4,divertente,4,,
 liceo_sci_002,creatività,5,diegnare,5,più modi,5,,
 liceo_sci_003,creatività,5,colori,4,arte,5,sport,5
 liceo_sci_004,creatività,4,dipende,3,colori,4,movimento,4
@@ -6254,7 +6067,6 @@ liceo_sci_026,creatività,4,complicata,3,,,,
 liceo_sci_027,creatività,5,per pochi,4,intelligenza,4,fondamentale,4
 liceo_sci_028,creatività,4,fantasia,4,innovazione,4,arte,3
 liceo_sci_029,creatività,5,mente,5,progetti,5,,
-liceo_sci_030,creatività,4,,,,,,
 liceo_sci_031,creatività,4,arte,4,lavoro,4,persona,4
 liceo_sci_032,creatività,5,arte,5,espressione,5,sentimenti,5
 liceo_sci_033,creatività,5,utile,5,,,,
@@ -6273,7 +6085,6 @@ liceo_063,creatività,4,arte,4,problem solving ,4,,
 liceo_064,creatività,4,mia,4,moda,3,idea,
 fisica_017,creatività,5,bellissima ,3,fondamentale ,4,arte ,4
 fisica_018,creatività,5,colori,3,pittura,2,musica,5
-fisica_020,creatività,5,scarsa,2,informatica,3,app,3
 fisica_021,creatività,3,non la ho,1,altri la hanno,1,incapacità,1
 fisica_022,creatività,,ali,,volare,,amore,
 fisica_stem_005_1,creatività,5,creare ,5,immaginare,5,plasmare,5
@@ -6316,7 +6127,6 @@ high_school_south_005,creatività,5,inventare,5,progettare,4,,
 high_school_south_006,creatività,4,inventiva ,4,mente aperta,5,passione,5
 high_school_south_008,creatività,4,immaginazione ,5,risolvere,4,giochi di carte,
 high_school_south_009,creatività,5,immaginazione,4,visualizzazione,4,,
-high_school_south_011,creatività,3,idea,1,novita,1,,
 high_school_south_012,creatività,4,arte,4,pittura,4,foglie,4
 high_school_south_015,creatività,5,arte,5,poesia,5,musica,5
 high_school_south_016,creatività,4,pittura,4,lampadina,4,ingegno,5
@@ -6345,7 +6155,6 @@ high_school_south_045,creatività,3,dignissimos iste nis,3,dolores dolorem quae,
 high_school_south_046,creatività,3,colori,4,dipingere,2,poca,2
 high_school_south_047,creatività,4,arte,4,immaginazione ,4,idea,4
 high_school_south_048,creatività,5,immaginazione ,5,pensiero ,4,oggetto ,3
-interfacce_001,arte,5,creativa,5,bella,5,internazionale,5
 interfacce_002,arte,4,musica,5,disegno,3,sculture,3
 interfacce_003,arte,4,disegno,3,scultura,3,quadro,4
 interfacce_004,arte,5,picasso,5,quadro,5,musica,5
@@ -6370,7 +6179,6 @@ interfacce_022,arte,5,impressionista,5,dalì,5,musei,3
 interfacce_023,arte,5,colori,4,sculture,4,identità,4
 fisica_003,arte,5,anima,5,creatività,5,espressione,5
 fisica_005,arte,4,espressione,4,colori,4,musica,5
-liceo_sci_001,arte,3,unica ,4,,,,
 liceo_sci_002,arte,3,michelangelo,3,david,3,guernica,3
 liceo_sci_003,arte,5,espressione,5,creatività,5,anticonformista,3
 liceo_sci_004,arte,4,colori,4,schizzi,4,pittura,4
@@ -6421,7 +6229,6 @@ liceo_sci_026,arte,5,statua,4,quadro,4,significato,4
 liceo_sci_027,arte,5,bellezza,5,interesse,4,generazioni,4
 liceo_sci_028,arte,3,immaginazione,4,libera,4,storia,4
 liceo_sci_029,arte,3,,,,,,
-liceo_sci_030,arte,4,dipinto,3,opera,3,pennello,3
 liceo_sci_031,arte,3,creatività,3,persona,4,,
 liceo_sci_032,arte,5,bellezza,5,liberazione,5,pace,5
 liceo_sci_033,arte,4,interessante,5,noiosa,1,particolare,3
@@ -6440,7 +6247,6 @@ liceo_063,arte,4,musica ,4,genio,4,soggetto ,4
 liceo_064,arte,3,bella,4,disegno,4,musica,3
 fisica_017,arte,5,passione,4,dipinti,4,creatività,5
 fisica_018,arte,1,storia,2,bocciatura,1,studio,2
-fisica_020,arte,5,gioconda,3,musica,4,curiosita,5
 fisica_021,arte,4,prof di arte,4,materia,4,facile,5
 fisica_022,arte,,libertà,,parola,,amore,
 fisica_stem_005_1,arte,4,creatività,5,fantasia,5,rifugio,4
@@ -6483,7 +6289,6 @@ high_school_south_005,arte,5,disegno,5,creatività,5,musica,5
 high_school_south_006,arte,4,disegno ,4,architettura ,5,pittura,5
 high_school_south_008,arte,1,noia,1,inutile,1,superflua,
 high_school_south_009,arte,5,perfezione,4,simmetria,4,apprezzamento,4
-high_school_south_011,arte,1,quadro,1,storia,4,colori,3
 high_school_south_012,arte,4,materia,4,parigi ,5,colori,5
 high_school_south_015,arte,5,romana,5,manierismo,3,gotica,5
 high_school_south_016,arte,4,musica,5,pittura,3,scultura,5
@@ -6512,7 +6317,6 @@ high_school_south_045,arte,5,omnis odio qui quae ,4,sunt eos voluptatem,5,magnam
 high_school_south_046,arte,5,colori,4,architettura,5,musica,5
 high_school_south_047,arte,4,pittura,4,museo,4,colori,4
 high_school_south_048,arte,4,storia ,4,quadri ,2,sculture ,3
-interfacce_001,esame,3,difficile,2,ansia,1,,
 interfacce_002,esame,2,difficile,1,facile,5,soddisfazione,5
 interfacce_003,esame,2,prova,2,università,4,verifica,2
 interfacce_004,esame,3,test,3,prova,3,verifica,3
@@ -6537,7 +6341,6 @@ interfacce_022,esame,2,rifare,1,passare,5,fallire,1
 interfacce_023,esame,4,superamento,5,studio,3,domani,5
 fisica_003,esame,2,ansia,1,preparazione,3,memoria,3
 fisica_005,esame,1,ansia,2,studio,3,pressione,1
-liceo_sci_001,esame,3,ansia,1,pressione,1,studio,1
 liceo_sci_002,esame,3,voto,2,studio,4,soddisfazione,3
 liceo_sci_003,esame,1,competenze,3,orale,2,studio,3
 liceo_sci_004,esame,2,test,3,voto,3,bocciatura,1
@@ -6588,7 +6391,6 @@ liceo_sci_026,esame,2,tempo,3,ansia,1,paura,2
 liceo_sci_027,esame,3,ansia,2,consapevolezza,5,obiettivi,4
 liceo_sci_028,esame,2,università,4,studio,2,patente,5
 liceo_sci_029,esame,3,test,2,lunghi,3,,
-liceo_sci_030,esame,3,matematica,4,maturità,3,difficile,2
 liceo_sci_031,esame,5,studio,4,sveglia,5,fare,
 liceo_sci_032,esame,2,ansia,2,studio,4,,
 liceo_sci_033,esame,2,ansia,1,,,,
@@ -6607,7 +6409,6 @@ liceo_063,esame,2,noia ,3,studio,3,facile ,3
 liceo_064,esame,2,guida,3,aula,3,mattina,4
 fisica_017,esame,5,sangue ,3,stress,5,giudizio,5
 fisica_018,esame,2,valutazione,4,studio,2,fatica,3
-fisica_020,esame,2,fallimento,1,voto,2,paura,1
 fisica_021,esame,3,maturità,1,zencher,1,difficile,1
 fisica_022,esame,,duro,,difficile,,entusiasmante,
 fisica_stem_005_1,esame,2,fatica ,2,ansia,2,blocco,1
@@ -6650,7 +6451,6 @@ high_school_south_005,esame,2,ansia,1,studiare,3,tempo,2
 high_school_south_006,esame,4,stato,3,studio,4,,3
 high_school_south_008,esame,4,ansia ,3,memoria ,4,prestazione,
 high_school_south_009,esame,2,pressione,1,verifica,2,aspettative,2
-high_school_south_011,esame,,verifica,,voto,,,
 high_school_south_012,esame,2,scuola,4,terrore ,1,voto,1
 high_school_south_015,esame,4,patente ,4,oculistico,4,30 e lode,5
 high_school_south_016,esame,3,verifica,3,università ,4,difficile,
@@ -6679,7 +6479,6 @@ high_school_south_045,esame,3,debitis in autem rer,5,velit dolores sequi,4,sit v
 high_school_south_046,esame,2,ansia,2,preparazione,4,superamento,4
 high_school_south_047,esame,3,ansia,2,valutazione ,3,prova,3
 high_school_south_048,esame,2,studio ,2,passo ,4,ansia ,1
-interfacce_001,futuro,4,incerto,2,paura,2,,
 interfacce_002,futuro,3,famiglia,3,casa,3,lavoro,3
 interfacce_003,futuro,4,paura,2,incertezza,2,opportunità,4
 interfacce_004,futuro,4,avanti,3,prossimo,3,pensieroso,2
@@ -6704,7 +6503,6 @@ interfacce_022,futuro,2,incerto,2,stabilità,5,benessere,5
 interfacce_023,futuro,4,studio,4,pianificazione,5,azioni,4
 fisica_003,futuro,2,preoccupazione,2,incertezza,1,disastro,1
 fisica_005,futuro,2,aspettative,1,sconosciuto,2,paura,2
-liceo_sci_001,futuro,3,importante,4,lontano,4,,
 liceo_sci_002,futuro,3,anteriore,3,prossimo,3,incerto,3
 liceo_sci_003,futuro,3,incerto,2,felice,4,viaggio,5
 liceo_sci_004,futuro,4,imprevedibile,3,da costruire,4,c'è tempo,3
@@ -6755,7 +6553,6 @@ liceo_sci_026,futuro,3,insicurezza,2,timore,2,speranza,4
 liceo_sci_027,futuro,3,incertezza,2,interesse,4,difficolta',4
 liceo_sci_028,futuro,4,università,4,lavoro,4,studio,2
 liceo_sci_029,futuro,5,informatica,4,università,3,famiglia,5
-liceo_sci_030,futuro,2,tecnologia,3,informatica,3,computer,4
 liceo_sci_031,futuro,4,lavoro,4,,,,
 liceo_sci_032,futuro,3,scienza,3,verde,4,,
 liceo_sci_033,futuro,5,spaventoso,4,,,,
@@ -6774,7 +6571,6 @@ liceo_063,futuro,4,incertezza ,3,speranza,4,tempo,3
 liceo_064,futuro,3,radioso,3,tempo,3,mio,3
 fisica_017,futuro,5,incerto,5,stipendio,5,vicino,3
 fisica_018,futuro,2,lavoro,3,pensione,4,fatica,4
-fisica_020,futuro,2,incerto,1,paura,1,fallimento,1
 fisica_021,futuro,2,incerto,2,lontano,1,irraggiungibile,1
 fisica_022,futuro,,incerto,,pauroso,,inidente,
 fisica_stem_005_1,futuro,2,incertezza,1,ansia ,1,sfide ,3
@@ -6817,7 +6613,6 @@ high_school_south_005,futuro,3,incerto,2,costruire,4,,
 high_school_south_006,futuro,3,opportunità ,4,realizzazione ,4,preoccupazione,4
 high_school_south_008,futuro,5,università ,4,creare ,5,aiutare ,
 high_school_south_009,futuro,4,dubbio,2,pericolo,1,,
-high_school_south_011,futuro,,paura,,lavoro,,soldi,
 high_school_south_012,futuro,3,incerto ,2,medicina,5,vita,5
 high_school_south_015,futuro,4,medicina,4,roma ,5,felicità ,5
 high_school_south_016,futuro,5,innovazione ,5,progresso ,5,robot,5
@@ -6846,7 +6641,6 @@ high_school_south_045,futuro,3,facilis quis nesciun,1,labore nulla illo ex,3,ali
 high_school_south_046,futuro,3,paura,2,lavoro,3,università,4
 high_school_south_047,futuro,3,incertezza ,2,imprevedibilità ,3,lontananza,2
 high_school_south_048,futuro,4,domani ,3,piani ,5,obiettivi ,5
-interfacce_001,vita,5,bella,5,opportunità,5,,
 interfacce_002,vita,4,vivere,4,piante,3,animali,5
 interfacce_003,vita,4,morte,1,,,,
 interfacce_004,vita,5,gioia ,5,problemi,2,figlio,5
@@ -6871,7 +6665,6 @@ interfacce_022,vita,3,instabile,2,stress,2,pressione,2
 interfacce_023,vita,4,ossigeno ,3,felicità,5,cambiamenti,4
 fisica_003,vita,3,amore,5,natura,4,creatività,5
 fisica_005,vita,4,percorso,4,cammino,4,viaggio,5
-liceo_sci_001,vita,3,una ,4,da vivere,4,felice,5
 liceo_sci_002,vita,5,libertà,5,scelta,5,futuro,5
 liceo_sci_003,vita,4,montagne russe,3,impegni,2,responsabilità,3
 liceo_sci_004,vita,4,lunga,3,tempo,3,salute,3
@@ -6922,7 +6715,6 @@ liceo_sci_026,vita,4,felicità,5,casuale,3,fine,2
 liceo_sci_027,vita,4,amici,5,famiglia,5,morte,2
 liceo_sci_028,vita,4,bella,5,impegno,3,fatica,2
 liceo_sci_029,vita,5,famiglia,4,amici,5,lavoro,3
-liceo_sci_030,vita,5,,,,,,
 liceo_sci_031,vita,5,mondo,5,natura,5,scienza,5
 liceo_sci_032,vita,3,libertà ,5,arte,5,avventura,5
 liceo_sci_033,vita,5,bella,5,,,,
@@ -6941,7 +6733,6 @@ liceo_063,vita,4,bello,4,felicità ,4,sfida ,3
 liceo_064,vita,4,vissuta,4,mia,4,nostra,4
 fisica_017,vita,5,breve ,5,incerta ,5,colorata ,5
 fisica_018,vita,4,rilassata,5,barca a vela,5,montagna,5
-fisica_020,vita,2,,,,,,
 fisica_021,vita,2,brutta,1,irrealizzabile,1,fallimento,1
 fisica_022,vita,,bella,,gioiosa,,saggia,
 fisica_stem_005_1,vita,3,viaggio,4,sfida ,4,tempo,5
@@ -6984,7 +6775,6 @@ high_school_south_005,vita,4,passioni,5,studio,3,uscire,4
 high_school_south_006,vita,3,complessa ,3,intensa,3,dinamica ,4
 high_school_south_008,vita,3,difficile ,4,bella,4,ardua,
 high_school_south_009,vita,5,maestra,4,imprevedibile,3,dura,2
-high_school_south_011,vita,,sport,,scuola,,amici,
 high_school_south_012,vita,5,piante,5,animali,5,persone,5
 high_school_south_015,vita,4,bella,4,intensa,4,breve,2
 high_school_south_016,vita,4,bella,4,albero,4,cuore,5
