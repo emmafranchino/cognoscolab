@@ -1,0 +1,49 @@
+Number of participants for Rassereno article:
+Experts 2019: 59
+High school students 2019: 159
+High school students 2025: 93
+Physics students 2025: 23
+Teachers 2025: 24
+All psychology students: 311 (2025 psy students: 22)
+Number of participants for Rassereno article:
+Experts 2019: 59
+High school students 2019: 159
+High school students 2025: 93
+Physics students 2025: 23
+Teachers 2025: 24
+All psychology students: 310 (2025 psy students: 22)
+Number of participants for Rassereno article:
+Experts 2019: 59
+High school students 2019: 159
+High school students 2025: 93
+Physics students 2025: 23
+Teachers 2025: 24
+All psychology students: 310 (2025 psy students: 22)
+all_psychology_students total: 309
+all_psychology_students high anxiety: 146
+all_psychology_students low anxiety: 148
+psychology_exam_anx_paper total: 183
+psychology_exam_anx_paper high anxiety: 89
+psychology_exam_anx_paper low anxiety: 89
+high_school_2025 total: 93
+high_school_2025 high anxiety: 40
+high_school_2025 low anxiety: 46
+physics_2025 total: 23
+physics_2025 high anxiety: 10
+physics_2025 low anxiety: 11
+psychology_gpt_oss total: 183
+psychology_gpt_oss high anxiety: 83
+psychology_gpt_oss low anxiety: 88
+high_school_gpt_oss total: 93
+high_school_gpt_oss high anxiety: 43
+high_school_gpt_oss low anxiety: 44
+physics_gpt_oss total: 23
+physics_gpt_oss high anxiety: 9
+physics_gpt_oss low anxiety: 11
+Number of participants for Rassereno article:
+Experts 2019: 59
+High school students 2019: 159
+High school students 2025: 93
+Physics students 2025: 23
+Teachers 2025: 24
+All psychology students: 309 (2025 psy students: 22)

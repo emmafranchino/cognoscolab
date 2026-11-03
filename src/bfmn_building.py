@@ -378,6 +378,50 @@ def draw_frame(emo, fmnt_keyword, custom_valences, folder_path, plot_dir, keywor
     plt.close(fig)
 
 
+def build_bfmn_graph(df):
+    """Undirected network of the cue-association links of `df` (output of pipeline_df_building).
+
+    Returns the graph, with each word's valence category as the node attribute "valence", and the
+    [positive, negative, neutral] word sets.
+    """
+    # initialize an empty undirected graph
+    G = nx.Graph()
+
+    # create a valence dictionary for all nodes (cue words + responses)
+    valence_dict = dict(zip(df["word"], df["valence_cat"]))
+
+    # create sets for negative, positive and neutral words
+    positive_words = set()
+    negative_words = set()
+    neutral_words = set()
+
+    # add all unique words as nodes with their valence category as a node attribute
+    for node, val in valence_dict.items():
+        G.add_node(node, valence=val)
+        if val == 1:
+            positive_words.add(node)
+        elif val == -1:
+            negative_words.add(node)
+        elif val == 0:
+            neutral_words.add(node)
+
+    # add undirected edges between cue words and their responses (for each row)
+    edges = [
+        (cue, word) for cue, word in zip(df["cue_word"], df["word"]) if cue != word
+    ]
+    G.add_edges_from(edges)
+
+    return G, [positive_words, negative_words, neutral_words]
+
+
+def frame_words(G, keyword):
+    """Words of the semantic frame of `keyword`: the keyword and its neighbours, i.e. the vertices of
+    EmoAtlas's extract_word_from_formamentis (empty if the keyword has no links)."""
+    if keyword not in G or G.degree(keyword) == 0:
+        return []
+    return sorted({keyword, *G.neighbors(keyword)})
+
+
 def build_multiple_fmnt(
     df,
     keywords,
@@ -407,34 +451,8 @@ def build_multiple_fmnt(
     elif language == "eng":
         emo = EmoScores(language="english", spacy_model="en_core_web_lg")
 
-    # initialize an empty undirected graph
-    G = nx.Graph()
-
-    # create a valence dictionary for all nodes (cue words + responses)
-    valence_dict = dict(zip(df["word"], df["valence_cat"]))
-
-    # create sets for negative, positive and neutral words
-    positive_words = set()
-    negative_words = set()
-    neutral_words = set()
-
-    # add all unique words as nodes with their valence category as a node attribute
-    for node, val in valence_dict.items():
-        G.add_node(node, valence=val)
-        if val == 1:
-            positive_words.add(node)
-        elif val == -1:
-            negative_words.add(node)
-        elif val == 0:
-            neutral_words.add(node)
-
-    custom_valences = [positive_words, negative_words, neutral_words]
-
-    # add undirected edges between cue words and their responses (for each row)
-    edges = [
-        (cue, word) for cue, word in zip(df["cue_word"], df["word"]) if cue != word
-    ]
-    G.add_edges_from(edges)
+    G, custom_valences = build_bfmn_graph(df)
+    positive_words, negative_words, neutral_words = custom_valences
 
     # create a Formamentis object from the graph
     fmn = emo.nxgraph_to_formamentis(G)

@@ -71,6 +71,13 @@ CUE_SYNONYMS = {"docente": "insegnante"}
 
 CUES_EXAM_ANX = ["voto", "esame", "ansia", "benessere"]
 
+# Brysbaert et al. (2014) concreteness norms, translated into Italian and lemmatised (the scores of
+# the word forms sharing a lemma are averaged), used by concreteness_analysis.py
+CONCRETENESS_NORMS = {
+    "ita": RESSERENO_ROOT / "out" / "analysis" / "concreteness_dataset_lemmatized_it.csv",
+    "eng": RESSERENO_ROOT / "out" / "analysis" / "concreteness_dataset_lemmatized_en.csv",
+}
+
 WORD_TO_CATEGORY = {
     "algoritmo": "STEM Disciplines",
     "analisi": "STEM Disciplines",
